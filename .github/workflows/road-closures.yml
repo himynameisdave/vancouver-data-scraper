@@ -1,0 +1,30 @@
+name: Scrape road closures data
+
+on:
+  push:
+  workflow_dispatch:
+  schedule:
+    # Run twice a day at 7am and 7pm Pacific Time
+    # Offset to slightly off the hour, so that not all of these scrapers are running at the same time.
+    - cron: '4 15 * * *'
+    - cron: '4 3 * * *'
+
+jobs:
+  scheduled:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v4
+
+    - name: Fetch latest data
+      run: |-
+        curl "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/road-ahead-current-road-closures/exports/json?lang=en&timezone=America%2FLos_Angeles" | jq . > ./data/road-closures.json
+
+    - name: Commit and push if it changed
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "🚘 Latest road closures data: ${timestamp}" || exit 0
+        git push
