@@ -1,5 +1,8 @@
 name: Scrape public art data
 
+permissions:
+  contents: write
+
 on:
   push:
   workflow_dispatch:

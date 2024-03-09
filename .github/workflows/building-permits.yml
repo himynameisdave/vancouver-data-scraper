@@ -1,5 +1,8 @@
 name: Scrape building permits data
 
+permissions:
+  contents: write
+
 on:
   push:
   workflow_dispatch:

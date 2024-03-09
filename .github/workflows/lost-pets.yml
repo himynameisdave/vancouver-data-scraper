@@ -1,5 +1,8 @@
 name: Scrape lost pets data
 
+permissions:
+  contents: write
+
 on:
   push:
   workflow_dispatch:
