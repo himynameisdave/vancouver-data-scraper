@@ -1,4 +1,4 @@
-name: Scrape road closures data
+name: 🚘 Road closures
 
 permissions:
   contents: write
@@ -15,6 +15,10 @@ on:
 jobs:
   scheduled:
     runs-on: ubuntu-latest
+    # This ensures that at most only one can be run at a time
+    concurrency:
+      group: scrape-vancouver-data
+      cancel-in-progress: false
     steps:
     - name: Check out this repo
       uses: actions/checkout@v4
@@ -28,7 +32,7 @@ jobs:
         git config user.name "Automated"
         git config user.email "actions@users.noreply.github.com"
         git add -A
-        git pull
         timestamp=$(date -u)
         git commit -m "🚘 Latest road closures data: ${timestamp}" || exit 0
+        git pull --rebase origin main
         git push
