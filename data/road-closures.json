@@ -200,22 +200,22 @@
     }
   },
   {
-    "project": "Worthington Dr from Falaise Av to Mons Dr",
+    "project": "Both sides of 1400 Block of Grant Street from Woodland Drive to West PL 1451 Gra",
     "street": null,
-    "location": "Worthington Dr from Falaise Av to Mons Dr",
-    "comp_date": "2024-03-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dd94b7b7-4ff0-4da3-83b9-eeefcb0ed751",
+    "location": "Both sides of 1400 Block of Grant Street from Woodland Drive to West PL 1451 Gra",
+    "comp_date": "2024-03-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96ba634c-11e5-457f-9316-40675cbb5007",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03052518938847,
-            49.25484453071189
+            -123.07348140506987,
+            49.271451574770225
           ],
           [
-            -123.02929864876026,
-            49.254039344400724
+            -123.07399102478271,
+            49.27145507492452
           ]
         ],
         "type": "LineString"
@@ -223,8 +223,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.02991191907437,
-      "lat": 49.25444193755631
+      "lon": -123.07373621492631,
+      "lat": 49.27145332484737
     }
   },
   {
@@ -305,6 +305,46 @@
     "geo_point_2d": {
       "lon": -123.13334553845034,
       "lat": 49.29081617314391
+    }
+  },
+  {
+    "project": "Fleming St from E 47th Av to E 49th Av",
+    "street": null,
+    "location": "Fleming St from E 47th Av to E 49th Av",
+    "comp_date": "2024-03-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2786f00c-d0c8-49a6-8dd9-a7fa5983ceee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0730900036271,
+              49.22715704728421
+            ],
+            [
+              -123.07314718698849,
+              49.22569143981221
+            ]
+          ],
+          [
+            [
+              -123.07314718698849,
+              49.22569143981221
+            ],
+            [
+              -123.07316341969482,
+              49.22525354903354
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07312703933673,
+      "lat": 49.226205310624806
     }
   },
   {
@@ -777,6 +817,34 @@
     "geo_point_2d": {
       "lon": -123.05167303733793,
       "lat": 49.23196926233783
+    }
+  },
+  {
+    "project": "W 45th Av from Columbia St to Manitoba St",
+    "street": null,
+    "location": "W 45th Av from Columbia St to Manitoba St",
+    "comp_date": "2024-03-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a860432c-38ea-4fc1-bf65-158fe21fa931",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10828530198637,
+            49.22954051677817
+          ],
+          [
+            -123.1109176723152,
+            49.22963145307918
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10960148715077,
+      "lat": 49.22958598492867
     }
   },
   {
