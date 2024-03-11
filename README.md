@@ -4,4 +4,6 @@ Very simple scrapers for various public Vancouver datasets. These make use of Gi
 
 Plans to eventually add something to tweet or post these changes out to the world is something I'd like to eventually add here.
 
+Makes use of Git LFS for larger files. Read more about that [here](https://docs.github.com/en/repositories/working-with-files/managing-large-files/installing-git-large-file-storage).
+
 This data is licensed under the [Open Government License - Vancouver](https://opendata.vancouver.ca/pages/licence/).
