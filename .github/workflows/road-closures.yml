@@ -25,7 +25,7 @@ jobs:
 
     - name: Fetch latest data
       run: |-
-        curl "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/road-ahead-current-road-closures/exports/json?lang=en&timezone=America%2FLos_Angeles" | jq . > ./data/road-closures.json
+        curl "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/road-ahead-current-road-closures/exports/json?lang=en&timezone=America%2FLos_Angeles" | jq 'sort_by(.comp_date)' > ./data/road-closures.json
 
     - name: Commit and push if it changed
       run: |-

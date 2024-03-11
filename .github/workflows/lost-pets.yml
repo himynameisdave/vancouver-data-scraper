@@ -25,7 +25,7 @@ jobs:
 
     - name: Fetch latest data
       run: |-
-        curl "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/animal-control-inventory-lost-and-found/exports/json?lang=en&timezone=America%2FLos_Angeles" | jq . > ./data/lost-pets.json
+        curl "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/animal-control-inventory-lost-and-found/exports/json?lang=en&timezone=America%2FLos_Angeles" | jq 'sort_by(.date)' > ./data/lost-pets.json
 
     - name: Commit and push if it changed
       run: |-
