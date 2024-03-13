@@ -1,5 +1,45 @@
 [
   {
+    "project": "E 56th Av from St. George St to Fraser St",
+    "street": null,
+    "location": "E 56th Av from St. George St to Fraser St",
+    "comp_date": "2024-03-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55cc7a4a-d810-4a21-8acc-38e329c28524",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09485500562349,
+              49.21919767494336
+            ],
+            [
+              -123.09159688705775,
+              49.2191423028373
+            ]
+          ],
+          [
+            [
+              -123.09159688705775,
+              49.2191423028373
+            ],
+            [
+              -123.09094610677987,
+              49.21913089829175
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09290055372469,
+      "lat": 49.21916443013063
+    }
+  },
+  {
     "project": "Wales St from E 41st Av from E 43rd Av",
     "street": null,
     "location": "Wales St from E 41st Av from E 43rd Av",
@@ -88,46 +128,6 @@
     }
   },
   {
-    "project": "E 56th Av from St. George St to Fraser St",
-    "street": null,
-    "location": "E 56th Av from St. George St to Fraser St",
-    "comp_date": "2024-03-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55cc7a4a-d810-4a21-8acc-38e329c28524",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09485500562349,
-              49.21919767494336
-            ],
-            [
-              -123.09159688705775,
-              49.2191423028373
-            ]
-          ],
-          [
-            [
-              -123.09159688705775,
-              49.2191423028373
-            ],
-            [
-              -123.09094610677987,
-              49.21913089829175
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09290055372469,
-      "lat": 49.21916443013063
-    }
-  },
-  {
     "project": "Fleming St from E 47th Av to E 49th Av",
     "street": null,
     "location": "Fleming St from E 47th Av to E 49th Av",
@@ -165,6 +165,46 @@
     "geo_point_2d": {
       "lon": -123.07312703933673,
       "lat": 49.226205310624806
+    }
+  },
+  {
+    "project": "Bidwell St from Robson St to Alberni St",
+    "street": null,
+    "location": "Bidwell St from Robson St to Alberni St",
+    "comp_date": "2024-03-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1be5b1a8-70e9-4961-891d-985d7fdb46ce",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13334550478977,
+              49.290816262614726
+            ],
+            [
+              -123.13387654160667,
+              49.2904643964082
+            ]
+          ],
+          [
+            [
+              -123.13281447344144,
+              49.29116785649603
+            ],
+            [
+              -123.13334550478977,
+              49.290816262614726
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13334553845034,
+      "lat": 49.29081617314391
     }
   },
   {
@@ -221,46 +261,6 @@
     "geo_point_2d": {
       "lon": -123.07789065793023,
       "lat": 49.21958186439359
-    }
-  },
-  {
-    "project": "Bidwell St from Robson St to Alberni St",
-    "street": null,
-    "location": "Bidwell St from Robson St to Alberni St",
-    "comp_date": "2024-03-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1be5b1a8-70e9-4961-891d-985d7fdb46ce",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13334550478977,
-              49.290816262614726
-            ],
-            [
-              -123.13387654160667,
-              49.2904643964082
-            ]
-          ],
-          [
-            [
-              -123.13281447344144,
-              49.29116785649603
-            ],
-            [
-              -123.13334550478977,
-              49.290816262614726
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13334553845034,
-      "lat": 49.29081617314391
     }
   },
   {
