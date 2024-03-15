@@ -1,61 +1,21 @@
 [
   {
-    "project": "Fleming St from E 47th Av to E 49th Av",
+    "project": "W 44th Av from Columbia St to Manitoba St",
     "street": null,
-    "location": "Fleming St from E 47th Av to E 49th Av",
-    "comp_date": "2024-03-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2786f00c-d0c8-49a6-8dd9-a7fa5983ceee",
+    "location": "W 44th Av from Columbia St to Manitoba St",
+    "comp_date": "2024-03-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4117c937-87cb-49e8-9b00-cc69ae9ed6f0",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.0730900036271,
-              49.22715704728421
-            ],
-            [
-              -123.07314718698849,
-              49.22569143981221
-            ]
+            -123.10824802774108,
+            49.23045348954966
           ],
           [
-            [
-              -123.07314718698849,
-              49.22569143981221
-            ],
-            [
-              -123.07316341969482,
-              49.22525354903354
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07312703933673,
-      "lat": 49.226205310624806
-    }
-  },
-  {
-    "project": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
-    "street": null,
-    "location": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
-    "comp_date": "2024-03-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a21b03d-3801-449b-856a-8666f39ff5c3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07855124969453,
-            49.21958887206
-          ],
-          [
-            -123.07723006616594,
-            49.21957485672718
+            -123.11087804288103,
+            49.23053832117745
           ]
         ],
         "type": "LineString"
@@ -63,27 +23,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07789065793023,
-      "lat": 49.21958186439359
+      "lon": -123.10956303531106,
+      "lat": 49.230495905363554
     }
   },
   {
-    "project": "Both Sides of 2000 Block of Quebec Street From E 4th Avenue to Laneway South of",
+    "project": "W 15th Av from Alberta St to Columbia St",
     "street": null,
-    "location": "Both Sides of 2000 Block of Quebec Street From E 4th Avenue to Laneway South of",
-    "comp_date": "2024-03-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1919d31d-5265-4944-bb3f-0bb056861e2c",
+    "location": "W 15th Av from Alberta St to Columbia St",
+    "comp_date": "2024-03-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a2e31bb1-50e9-463f-a572-a4c64650a986",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10279838474372,
-            49.26736417584502
+            -123.10967516517931,
+            49.2577310994246
           ],
           [
-            -123.10280696372791,
-            49.26689371384097
+            -123.11116790021103,
+            49.25775505730786
           ]
         ],
         "type": "LineString"
@@ -91,8 +51,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10280267423582,
-      "lat": 49.267128944842995
+      "lon": -123.11042153269517,
+      "lat": 49.25774307836623
+    }
+  },
+  {
+    "project": "3200 Block of Clive Avenue",
+    "street": null,
+    "location": "3200 Block of Clive Avenue",
+    "comp_date": "2024-03-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1c41ca8f-a38f-4fab-a868-8ad148392052",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0365321088404,
+            49.23958862083708
+          ],
+          [
+            -123.0359846506415,
+            49.239361362872074
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03625837974096,
+      "lat": 49.23947499185458
     }
   },
   {
@@ -176,6 +164,62 @@
     }
   },
   {
+    "project": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
+    "street": null,
+    "location": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
+    "comp_date": "2024-03-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a21b03d-3801-449b-856a-8666f39ff5c3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07855124969453,
+            49.21958887206
+          ],
+          [
+            -123.07723006616594,
+            49.21957485672718
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07789065793023,
+      "lat": 49.21958186439359
+    }
+  },
+  {
+    "project": "Both Sides of 2000 Block of Quebec Street From E 4th Avenue to Laneway South of",
+    "street": null,
+    "location": "Both Sides of 2000 Block of Quebec Street From E 4th Avenue to Laneway South of",
+    "comp_date": "2024-03-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1919d31d-5265-4944-bb3f-0bb056861e2c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279838474372,
+            49.26736417584502
+          ],
+          [
+            -123.10280696372791,
+            49.26689371384097
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10280267423582,
+      "lat": 49.267128944842995
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -241,6 +285,34 @@
     "geo_point_2d": {
       "lon": -123.10199029438347,
       "lat": 49.21846908964416
+    }
+  },
+  {
+    "project": "W 42nd Av from Macdonald St to Mackenzie St",
+    "street": null,
+    "location": "W 42nd Av from Macdonald St to Mackenzie St",
+    "comp_date": "2024-03-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a589a503-f898-45a8-b7e6-701cb9ea7e36",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16740524641641,
+            49.23376418330031
+          ],
+          [
+            -123.17031349677333,
+            49.23376961124251
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16885937159485,
+      "lat": 49.23376689727141
     }
   },
   {
