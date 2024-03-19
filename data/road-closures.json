@@ -1,33 +1,5 @@
 [
   {
-    "project": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
-    "street": null,
-    "location": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
-    "comp_date": "2024-03-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a21b03d-3801-449b-856a-8666f39ff5c3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07855124969453,
-            49.21958887206
-          ],
-          [
-            -123.07723006616594,
-            49.21957485672718
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07789065793023,
-      "lat": 49.21958186439359
-    }
-  },
-  {
     "project": "Bidwell St from Robson St to Alberni St",
     "street": null,
     "location": "Bidwell St from Robson St to Alberni St",
@@ -145,6 +117,34 @@
     "geo_point_2d": {
       "lon": -123.04420253920391,
       "lat": 49.22396811980036
+    }
+  },
+  {
+    "project": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
+    "street": null,
+    "location": "Both Sides of 1300 Block of E 55th Avenue From Knight Street to Culloden Street.",
+    "comp_date": "2024-03-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a21b03d-3801-449b-856a-8666f39ff5c3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07855124969453,
+            49.21958887206
+          ],
+          [
+            -123.07723006616594,
+            49.21957485672718
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07789065793023,
+      "lat": 49.21958186439359
     }
   },
   {
@@ -1790,22 +1790,22 @@
     }
   },
   {
-    "project": "E 57th Av",
+    "project": "W 3rd Av from Tolmie St to Sasamat St",
     "street": null,
-    "location": "E 57th Av",
+    "location": "W 3rd Av from Tolmie St to Sasamat St",
     "comp_date": "2024-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ddfa6edd-d4e5-442e-8305-6b2695ae4f44",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09b71a81-5ce2-40ac-859d-9ef649d8eada",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10620672695487,
-            49.21855843940247
+            -123.20912030957145,
+            49.27019636761497
           ],
           [
-            -123.09777386181206,
-            49.21837973988585
+            -123.21192412671613,
+            49.27023950037585
           ]
         ],
         "type": "LineString"
@@ -1813,8 +1813,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10199029438347,
-      "lat": 49.21846908964416
+      "lon": -123.21052221814378,
+      "lat": 49.27021793399541
     }
   },
   {
@@ -1846,22 +1846,22 @@
     }
   },
   {
-    "project": "W 3rd Av from Tolmie St to Sasamat St",
+    "project": "E 57th Av",
     "street": null,
-    "location": "W 3rd Av from Tolmie St to Sasamat St",
+    "location": "E 57th Av",
     "comp_date": "2024-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09b71a81-5ce2-40ac-859d-9ef649d8eada",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ddfa6edd-d4e5-442e-8305-6b2695ae4f44",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.20912030957145,
-            49.27019636761497
+            -123.10620672695487,
+            49.21855843940247
           ],
           [
-            -123.21192412671613,
-            49.27023950037585
+            -123.09777386181206,
+            49.21837973988585
           ]
         ],
         "type": "LineString"
@@ -1869,8 +1869,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.21052221814378,
-      "lat": 49.27021793399541
+      "lon": -123.10199029438347,
+      "lat": 49.21846908964416
     }
   },
   {
