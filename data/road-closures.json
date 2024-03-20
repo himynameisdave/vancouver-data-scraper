@@ -1,133 +1,5 @@
 [
   {
-    "project": "E 58th Av from Dumfries St to Argyle St",
-    "street": null,
-    "location": "E 58th Av from Dumfries St to Argyle St",
-    "comp_date": "2024-03-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/003a844c-fade-4f5d-9aa2-80f807b9387a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07405269585733,
-              49.21724860300972
-            ],
-            [
-              -123.073608014996,
-              49.21719884649164
-            ],
-            [
-              -123.07202666687952,
-              49.217189363824815
-            ]
-          ],
-          [
-            [
-              -123.07553146876798,
-              49.217257288495716
-            ],
-            [
-              -123.07405269585733,
-              49.21724860300972
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07377910797055,
-      "lat": 49.217222690503505
-    }
-  },
-  {
-    "project": "Worthington Dr from Falaise Av to Mons Dr",
-    "street": null,
-    "location": "Worthington Dr from Falaise Av to Mons Dr",
-    "comp_date": "2024-03-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c082652e-af68-455f-b019-2ee038c15ef9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03052518938847,
-            49.25484453071189
-          ],
-          [
-            -123.02929864876026,
-            49.254039344400724
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02991191907437,
-      "lat": 49.25444193755631
-    }
-  },
-  {
-    "project": "E 57th Av",
-    "street": null,
-    "location": "E 57th Av",
-    "comp_date": "2024-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ddfa6edd-d4e5-442e-8305-6b2695ae4f44",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10620672695487,
-            49.21855843940247
-          ],
-          [
-            -123.09777386181206,
-            49.21837973988585
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10199029438347,
-      "lat": 49.21846908964416
-    }
-  },
-  {
-    "project": "W 3rd Av from Tolmie St to Sasamat St",
-    "street": null,
-    "location": "W 3rd Av from Tolmie St to Sasamat St",
-    "comp_date": "2024-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09b71a81-5ce2-40ac-859d-9ef649d8eada",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.20912030957145,
-            49.27019636761497
-          ],
-          [
-            -123.21192412671613,
-            49.27023950037585
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21052221814378,
-      "lat": 49.27021793399541
-    }
-  },
-  {
     "project": "W 42nd Av from Macdonald St to Mackenzie St",
     "street": null,
     "location": "W 42nd Av from Macdonald St to Mackenzie St",
@@ -156,43 +28,31 @@
     }
   },
   {
-    "project": "Rupert St from E 19th Av to E 20th Av",
+    "project": "E 57th Av",
     "street": null,
-    "location": "Rupert St from E 19th Av to E 20th Av",
-    "comp_date": "2024-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/afc9c7f0-aba8-497a-bd83-3132a2691cac",
+    "location": "E 57th Av",
+    "comp_date": "2024-03-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ddfa6edd-d4e5-442e-8305-6b2695ae4f44",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.03381485535903,
-              49.25316400943291
-            ],
-            [
-              -123.03381336146947,
-              49.25274727927061
-            ]
+            -123.10620672695487,
+            49.21855843940247
           ],
           [
-            [
-              -123.03381336146947,
-              49.25274727927061
-            ],
-            [
-              -123.03381642741455,
-              49.25232708458316
-            ]
+            -123.09777386181206,
+            49.21837973988585
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03381450305902,
-      "lat": 49.252745544895525
+      "lon": -123.10199029438347,
+      "lat": 49.21846908964416
     }
   },
   {
@@ -396,6 +256,46 @@
     }
   },
   {
+    "project": "Rupert St from E 19th Av to E 20th Av",
+    "street": null,
+    "location": "Rupert St from E 19th Av to E 20th Av",
+    "comp_date": "2024-03-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/afc9c7f0-aba8-497a-bd83-3132a2691cac",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03381485535903,
+              49.25316400943291
+            ],
+            [
+              -123.03381336146947,
+              49.25274727927061
+            ]
+          ],
+          [
+            [
+              -123.03381336146947,
+              49.25274727927061
+            ],
+            [
+              -123.03381642741455,
+              49.25232708458316
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03381450305902,
+      "lat": 49.252745544895525
+    }
+  },
+  {
     "project": "Both sides of the street of 0 Block of Expo Blvd, from Qubec St to 25m West of Q",
     "street": null,
     "location": "Both sides of the street of 0 Block of Expo Blvd, from Qubec St to 25m West of Q",
@@ -421,6 +321,46 @@
     "geo_point_2d": {
       "lon": -123.10230696522156,
       "lat": 49.27763777827052
+    }
+  },
+  {
+    "project": "E 64th Av from Argyle St to Leaside St",
+    "street": null,
+    "location": "E 64th Av from Argyle St to Leaside St",
+    "comp_date": "2024-03-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a0f3324-0153-49f7-851b-9147327da2b6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07134666945237,
+              49.211511549887916
+            ],
+            [
+              -123.06914693966743,
+              49.21147832772547
+            ]
+          ],
+          [
+            [
+              -123.07134013906905,
+              49.211963630026105
+            ],
+            [
+              -123.07134666945237,
+              49.211511549887916
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07043375119784,
+      "lat": 49.21153630560326
     }
   },
   {
@@ -624,34 +564,6 @@
     }
   },
   {
-    "project": "L/E Garden Dr (E 5th Ave to L/N)",
-    "street": null,
-    "location": "L/E Garden Dr (E 5th Ave to L/N)",
-    "comp_date": "2024-04-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fce16aa1-f031-457e-ae91-ddf2181c4335",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05735573390818,
-            49.26589399658238
-          ],
-          [
-            -123.05735573390818,
-            49.266352566333126
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05735573390818,
-      "lat": 49.26612328145775
-    }
-  },
-  {
     "project": "8000-8200 Block of Manitoba St and 100-200 Block of SW Marine Dr",
     "street": null,
     "location": "8000-8200 Block of Manitoba St and 100-200 Block of SW Marine Dr",
@@ -689,6 +601,34 @@
     "geo_point_2d": {
       "lon": -123.10999282436403,
       "lat": 49.211725446560074
+    }
+  },
+  {
+    "project": "L/E Garden Dr (E 5th Ave to L/N)",
+    "street": null,
+    "location": "L/E Garden Dr (E 5th Ave to L/N)",
+    "comp_date": "2024-04-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fce16aa1-f031-457e-ae91-ddf2181c4335",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05735573390818,
+            49.26589399658238
+          ],
+          [
+            -123.05735573390818,
+            49.266352566333126
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05735573390818,
+      "lat": 49.26612328145775
     }
   },
   {
