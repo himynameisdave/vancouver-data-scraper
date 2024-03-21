@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 42nd Av from Macdonald St to Mackenzie St",
-    "street": null,
-    "location": "W 42nd Av from Macdonald St to Mackenzie St",
-    "comp_date": "2024-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a589a503-f898-45a8-b7e6-701cb9ea7e36",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16740524641641,
-            49.23376418330031
-          ],
-          [
-            -123.17031349677333,
-            49.23376961124251
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16885937159485,
-      "lat": 49.23376689727141
-    }
-  },
-  {
     "project": "E 57th Av",
     "street": null,
     "location": "E 57th Av",
@@ -521,6 +493,34 @@
     "geo_point_2d": {
       "lon": -123.03377027389159,
       "lat": 49.26288790355277
+    }
+  },
+  {
+    "project": "Both sides of the street of 6500 Block of Price Albert Street, from E 50th Ave t",
+    "street": null,
+    "location": "Both sides of the street of 6500 Block of Price Albert Street, from E 50th Ave t",
+    "comp_date": "2024-03-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65bf6c37-08c5-4048-84c2-4ce16d3f2e3e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08804679311143,
+            49.224501448568844
+          ],
+          [
+            -123.08803249371329,
+            49.22541234622608
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08803964341236,
+      "lat": 49.22495689739746
     }
   },
   {
