@@ -1,33 +1,5 @@
 [
   {
-    "project": "E 57th Av",
-    "street": null,
-    "location": "E 57th Av",
-    "comp_date": "2024-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ddfa6edd-d4e5-442e-8305-6b2695ae4f44",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10620672695487,
-            49.21855843940247
-          ],
-          [
-            -123.09777386181206,
-            49.21837973988585
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10199029438347,
-      "lat": 49.21846908964416
-    }
-  },
-  {
     "project": "Bidwell St, Burnaby St, Nelson St",
     "street": null,
     "location": "Bidwell St, Burnaby St, Nelson St",
@@ -225,46 +197,6 @@
     "geo_point_2d": {
       "lon": -123.13855057985549,
       "lat": 49.28846843089655
-    }
-  },
-  {
-    "project": "Rupert St from E 19th Av to E 20th Av",
-    "street": null,
-    "location": "Rupert St from E 19th Av to E 20th Av",
-    "comp_date": "2024-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/afc9c7f0-aba8-497a-bd83-3132a2691cac",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03381485535903,
-              49.25316400943291
-            ],
-            [
-              -123.03381336146947,
-              49.25274727927061
-            ]
-          ],
-          [
-            [
-              -123.03381336146947,
-              49.25274727927061
-            ],
-            [
-              -123.03381642741455,
-              49.25232708458316
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03381450305902,
-      "lat": 49.252745544895525
     }
   },
   {
@@ -496,6 +428,34 @@
     }
   },
   {
+    "project": "E 46th Av from Ontario St to Quebec St",
+    "street": null,
+    "location": "E 46th Av from Ontario St to Quebec St",
+    "comp_date": "2024-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aefdda10-e5b9-4717-8a04-12f406f40527",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10586316295759,
+            49.22855844642416
+          ],
+          [
+            -123.103702532612,
+            49.2285155468403
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1047828477848,
+      "lat": 49.22853699663223
+    }
+  },
+  {
     "project": "Both sides of the street of 6500 Block of Price Albert Street, from E 50th Ave t",
     "street": null,
     "location": "Both sides of the street of 6500 Block of Price Albert Street, from E 50th Ave t",
@@ -629,6 +589,46 @@
     "geo_point_2d": {
       "lon": -123.05735573390818,
       "lat": 49.26612328145775
+    }
+  },
+  {
+    "project": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
+    "street": null,
+    "location": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
+    "comp_date": "2024-04-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/905daa7c-2dbd-404f-ad9a-e3526cdacdfa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1149874004877,
+              49.25944603524147
+            ],
+            [
+              -123.1176696095026,
+              49.25948454629403
+            ]
+          ],
+          [
+            [
+              -123.11560514542796,
+              49.25946231630303
+            ],
+            [
+              -123.11560514542796,
+              49.25921222821415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1162668173314,
+      "lat": 49.259454373427175
     }
   },
   {
