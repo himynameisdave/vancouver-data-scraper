@@ -228,46 +228,6 @@
     }
   },
   {
-    "project": "E 64th Av from Argyle St to Leaside St",
-    "street": null,
-    "location": "E 64th Av from Argyle St to Leaside St",
-    "comp_date": "2024-03-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a0f3324-0153-49f7-851b-9147327da2b6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07134666945237,
-              49.211511549887916
-            ],
-            [
-              -123.06914693966743,
-              49.21147832772547
-            ]
-          ],
-          [
-            [
-              -123.07134013906905,
-              49.211963630026105
-            ],
-            [
-              -123.07134666945237,
-              49.211511549887916
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07043375119784,
-      "lat": 49.21153630560326
-    }
-  },
-  {
     "project": "Both sides of the street of 100 Block of Keefer St, from Laneway West of Main St",
     "street": null,
     "location": "Both sides of the street of 100 Block of Keefer St, from Laneway West of Main St",
@@ -325,6 +285,46 @@
     "geo_point_2d": {
       "lon": -123.1040424461147,
       "lat": 49.27945610137292
+    }
+  },
+  {
+    "project": "E 64th Av from Argyle St to Leaside St",
+    "street": null,
+    "location": "E 64th Av from Argyle St to Leaside St",
+    "comp_date": "2024-03-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a0f3324-0153-49f7-851b-9147327da2b6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07134666945237,
+              49.211511549887916
+            ],
+            [
+              -123.06914693966743,
+              49.21147832772547
+            ]
+          ],
+          [
+            [
+              -123.07134013906905,
+              49.211963630026105
+            ],
+            [
+              -123.07134666945237,
+              49.211511549887916
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07043375119784,
+      "lat": 49.21153630560326
     }
   },
   {
