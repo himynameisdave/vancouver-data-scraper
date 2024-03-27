@@ -1,21 +1,21 @@
 [
   {
-    "project": "E 46th Av from Ontario St to Quebec St",
+    "project": "Both sides of 3100-3200 Block of Waverley Avenue from West side of PL 3163 Waver",
     "street": null,
-    "location": "E 46th Av from Ontario St to Quebec St",
-    "comp_date": "2024-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aefdda10-e5b9-4717-8a04-12f406f40527",
+    "location": "Both sides of 3100-3200 Block of Waverley Avenue from West side of PL 3163 Waver",
+    "comp_date": "2024-03-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/20fcc3a8-1ddc-497a-b3cd-0acd43f0844a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10586316295759,
-            49.22855844642416
+            -123.03838466719193,
+            49.22696593917746
           ],
           [
-            -123.103702532612,
-            49.2285155468403
+            -123.03915177897021,
+            49.22696944248699
           ]
         ],
         "type": "LineString"
@@ -23,36 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1047828477848,
-      "lat": 49.22853699663223
-    }
-  },
-  {
-    "project": "Both sides of the street of 800 Block of W 18th Ave, from W PL 844 W 18th Ave to",
-    "street": null,
-    "location": "Both sides of the street of 800 Block of W 18th Ave, from W PL 844 W 18th Ave to",
-    "comp_date": "2024-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5e801e0d-7935-49aa-9343-6f7683b3c203",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12282951330157,
-            49.25525247677891
-          ],
-          [
-            -123.12332999943699,
-            49.25527581886877
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12307975636928,
-      "lat": 49.25526414782384
+      "lon": -123.03876822308106,
+      "lat": 49.226967690832225
     }
   },
   {
@@ -81,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.08803964341236,
       "lat": 49.22495689739746
+    }
+  },
+  {
+    "project": "500 Block of W 21st Avenue",
+    "street": null,
+    "location": "500 Block of W 21st Avenue",
+    "comp_date": "2024-03-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/41fa7e51-8523-4a34-b48e-146e12949871",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11741947580698,
+            49.25243496607439
+          ],
+          [
+            -123.1168991272581,
+            49.252431464570776
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11715930153255,
+      "lat": 49.25243321532258
     }
   },
   {
@@ -212,6 +212,34 @@
     }
   },
   {
+    "project": "L/E Garden Dr (E 5th Ave to L/N)",
+    "street": null,
+    "location": "L/E Garden Dr (E 5th Ave to L/N)",
+    "comp_date": "2024-04-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fce16aa1-f031-457e-ae91-ddf2181c4335",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05735573390818,
+            49.26589399658238
+          ],
+          [
+            -123.05735573390818,
+            49.266352566333126
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05735573390818,
+      "lat": 49.26612328145775
+    }
+  },
+  {
     "project": "Lanark St from E 41st Av to E 43rd Av",
     "street": null,
     "location": "Lanark St from E 41st Av to E 43rd Av",
@@ -252,33 +280,33 @@
     }
   },
   {
-    "project": "8000-8200 Block of Manitoba St and 100-200 Block of SW Marine Dr",
+    "project": "Inverness St from E 41st Av to E 43rd Av",
     "street": null,
-    "location": "8000-8200 Block of Manitoba St and 100-200 Block of SW Marine Dr",
-    "comp_date": "2024-04-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ed3fc9d3-65b1-4cad-bc5f-e600958f4ce9",
+    "location": "Inverness St from E 41st Av to E 43rd Av",
+    "comp_date": "2024-04-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bf3fa03-90ab-44b9-ad1f-6106e84e8929",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10995862129107,
-              49.21222045308673
+              -123.07982708854237,
+              49.232327659413414
             ],
             [
-              -123.11006332131946,
-              49.21056412972342
+              -123.07988062233261,
+              49.230856808181386
             ]
           ],
           [
             [
-              -123.11056926512975,
-              49.21204450747072
+              -123.07981210032003,
+              49.232752551597656
             ],
             [
-              -123.1093674075578,
-              49.21230552452761
+              -123.07982708854237,
+              49.232327659413414
             ]
           ]
         ],
@@ -287,36 +315,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10999282436403,
-      "lat": 49.211725446560074
-    }
-  },
-  {
-    "project": "L/E Garden Dr (E 5th Ave to L/N)",
-    "street": null,
-    "location": "L/E Garden Dr (E 5th Ave to L/N)",
-    "comp_date": "2024-04-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fce16aa1-f031-457e-ae91-ddf2181c4335",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05735573390818,
-            49.26589399658238
-          ],
-          [
-            -123.05735573390818,
-            49.266352566333126
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05735573390818,
-      "lat": 49.26612328145775
+      "lon": -123.07984617677144,
+      "lat": 49.23180467327583
     }
   },
   {
@@ -357,6 +357,34 @@
     "geo_point_2d": {
       "lon": -123.1162668173314,
       "lat": 49.259454373427175
+    }
+  },
+  {
+    "project": "1500 Block of Grant Street",
+    "street": null,
+    "location": "1500 Block of Grant Street",
+    "comp_date": "2024-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fee9b60-5c2d-4d15-8bfa-3ae084c6ac23",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07154772779563,
+            49.27142335954147
+          ],
+          [
+            -123.07274399301627,
+            49.27143035985381
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07214586040594,
+      "lat": 49.27142685969764
     }
   },
   {
