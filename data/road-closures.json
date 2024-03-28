@@ -1,21 +1,21 @@
 [
   {
-    "project": "Both sides of 3100-3200 Block of Waverley Avenue from West side of PL 3163 Waver",
+    "project": "500 Block of W 21st Avenue",
     "street": null,
-    "location": "Both sides of 3100-3200 Block of Waverley Avenue from West side of PL 3163 Waver",
-    "comp_date": "2024-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/20fcc3a8-1ddc-497a-b3cd-0acd43f0844a",
+    "location": "500 Block of W 21st Avenue",
+    "comp_date": "2024-03-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/41fa7e51-8523-4a34-b48e-146e12949871",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03838466719193,
-            49.22696593917746
+            -123.11741947580698,
+            49.25243496607439
           ],
           [
-            -123.03915177897021,
-            49.22696944248699
+            -123.1168991272581,
+            49.252431464570776
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03876822308106,
-      "lat": 49.226967690832225
+      "lon": -123.11715930153255,
+      "lat": 49.25243321532258
     }
   },
   {
@@ -53,34 +53,6 @@
     "geo_point_2d": {
       "lon": -123.08803964341236,
       "lat": 49.22495689739746
-    }
-  },
-  {
-    "project": "500 Block of W 21st Avenue",
-    "street": null,
-    "location": "500 Block of W 21st Avenue",
-    "comp_date": "2024-03-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/41fa7e51-8523-4a34-b48e-146e12949871",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11741947580698,
-            49.25243496607439
-          ],
-          [
-            -123.1168991272581,
-            49.252431464570776
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11715930153255,
-      "lat": 49.25243321532258
     }
   },
   {
@@ -172,6 +144,46 @@
     }
   },
   {
+    "project": "5000 Block Cypress Street",
+    "street": null,
+    "location": "5000 Block Cypress Street",
+    "comp_date": "2024-03-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ad4176c3-886d-4fb0-9173-f2ed7a074111",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14873534506503,
+            49.2406046877889
+          ],
+          [
+            -123.14872461622899,
+            49.240625701839605
+          ],
+          [
+            -123.14870315855688,
+            49.24090588832817
+          ],
+          [
+            -123.14876753157324,
+            49.24113704098451
+          ],
+          [
+            -123.14900356596654,
+            49.241459251973
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14879237816865,
+      "lat": 49.24105227106029
+    }
+  },
+  {
     "project": "Bidwell St from W Georgia St to Eihu Lane",
     "street": null,
     "location": "Bidwell St from W Georgia St to Eihu Lane",
@@ -212,34 +224,6 @@
     }
   },
   {
-    "project": "L/E Garden Dr (E 5th Ave to L/N)",
-    "street": null,
-    "location": "L/E Garden Dr (E 5th Ave to L/N)",
-    "comp_date": "2024-04-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fce16aa1-f031-457e-ae91-ddf2181c4335",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05735573390818,
-            49.26589399658238
-          ],
-          [
-            -123.05735573390818,
-            49.266352566333126
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05735573390818,
-      "lat": 49.26612328145775
-    }
-  },
-  {
     "project": "Lanark St from E 41st Av to E 43rd Av",
     "street": null,
     "location": "Lanark St from E 41st Av to E 43rd Av",
@@ -277,6 +261,34 @@
     "geo_point_2d": {
       "lon": -123.07570279135301,
       "lat": 49.23166635711609
+    }
+  },
+  {
+    "project": "L/E Garden Dr (E 5th Ave to L/N)",
+    "street": null,
+    "location": "L/E Garden Dr (E 5th Ave to L/N)",
+    "comp_date": "2024-04-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fce16aa1-f031-457e-ae91-ddf2181c4335",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05735573390818,
+            49.26589399658238
+          ],
+          [
+            -123.05735573390818,
+            49.266352566333126
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05735573390818,
+      "lat": 49.26612328145775
     }
   },
   {
