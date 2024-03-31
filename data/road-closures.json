@@ -1,45 +1,5 @@
 [
   {
-    "project": "5000 Block Cypress Street",
-    "street": null,
-    "location": "5000 Block Cypress Street",
-    "comp_date": "2024-03-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ad4176c3-886d-4fb0-9173-f2ed7a074111",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14873534506503,
-            49.2406046877889
-          ],
-          [
-            -123.14872461622899,
-            49.240625701839605
-          ],
-          [
-            -123.14870315855688,
-            49.24090588832817
-          ],
-          [
-            -123.14876753157324,
-            49.24113704098451
-          ],
-          [
-            -123.14900356596654,
-            49.241459251973
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14879237816865,
-      "lat": 49.24105227106029
-    }
-  },
-  {
     "project": "Bidwell St from W Georgia St to Eihu Lane",
     "street": null,
     "location": "Bidwell St from W Georgia St to Eihu Lane",
@@ -77,6 +37,46 @@
     "geo_point_2d": {
       "lon": -123.13276545236765,
       "lat": 49.29120035206297
+    }
+  },
+  {
+    "project": "5000 Block Cypress Street",
+    "street": null,
+    "location": "5000 Block Cypress Street",
+    "comp_date": "2024-03-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ad4176c3-886d-4fb0-9173-f2ed7a074111",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14873534506503,
+            49.2406046877889
+          ],
+          [
+            -123.14872461622899,
+            49.240625701839605
+          ],
+          [
+            -123.14870315855688,
+            49.24090588832817
+          ],
+          [
+            -123.14876753157324,
+            49.24113704098451
+          ],
+          [
+            -123.14900356596654,
+            49.241459251973
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14879237816865,
+      "lat": 49.24105227106029
     }
   },
   {
