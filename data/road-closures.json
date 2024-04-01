@@ -1,45 +1,5 @@
 [
   {
-    "project": "Bidwell St from W Georgia St to Eihu Lane",
-    "street": null,
-    "location": "Bidwell St from W Georgia St to Eihu Lane",
-    "comp_date": "2024-03-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de8d2670-c820-4081-b0a3-2560798cd649",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13218543017524,
-              49.29158448716095
-            ],
-            [
-              -123.13281447344144,
-              49.29116785649603
-            ]
-          ],
-          [
-            [
-              -123.13281447344144,
-              49.29116785649603
-            ],
-            [
-              -123.13334550478977,
-              49.290816262614726
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13276545236765,
-      "lat": 49.29120035206297
-    }
-  },
-  {
     "project": "5000 Block Cypress Street",
     "street": null,
     "location": "5000 Block Cypress Street",
@@ -77,6 +37,46 @@
     "geo_point_2d": {
       "lon": -123.14879237816865,
       "lat": 49.24105227106029
+    }
+  },
+  {
+    "project": "Bidwell St from W Georgia St to Eihu Lane",
+    "street": null,
+    "location": "Bidwell St from W Georgia St to Eihu Lane",
+    "comp_date": "2024-03-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de8d2670-c820-4081-b0a3-2560798cd649",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13218543017524,
+              49.29158448716095
+            ],
+            [
+              -123.13281447344144,
+              49.29116785649603
+            ]
+          ],
+          [
+            [
+              -123.13281447344144,
+              49.29116785649603
+            ],
+            [
+              -123.13334550478977,
+              49.290816262614726
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13276545236765,
+      "lat": 49.29120035206297
     }
   },
   {
