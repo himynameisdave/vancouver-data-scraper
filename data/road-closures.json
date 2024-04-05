@@ -1,30 +1,120 @@
 [
   {
-    "project": "1300 Block of E 167th Avenue",
+    "project": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
     "street": null,
-    "location": "1300 Block of E 167th Avenue",
-    "comp_date": "2024-04-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1c2d4fd-75c4-45e4-878a-9ace61b5cdff",
+    "location": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
+    "comp_date": "2024-04-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ec1f2e8-8d47-42f1-b152-26017bf44040",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07787528654588,
-            49.255345284385584
+            [
+              -123.12416846012154,
+              49.26513422693449
+            ],
+            [
+              -123.12414701069706,
+              49.26537693482132
+            ]
           ],
           [
-            -123.0759333672191,
-            49.25532077530028
+            [
+              -123.11474653889533,
+              49.26487276760423
+            ],
+            [
+              -123.11284469014069,
+              49.264830760132355
+            ]
+          ],
+          [
+            [
+              -123.11747760434882,
+              49.26501557441401
+            ],
+            [
+              -123.11782079514089,
+              49.265020241930785
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07690432688248,
-      "lat": 49.25533302984293
+      "lon": -123.11534126166377,
+      "lat": 49.26491420028258
+    }
+  },
+  {
+    "project": "Worthington Dr from Mons Dr to Normandy Dr",
+    "street": null,
+    "location": "Worthington Dr from Mons Dr to Normandy Dr",
+    "comp_date": "2024-04-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/245766dd-f461-4887-a672-5d337c407564",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.02929864876026,
+              49.254039344400724
+            ],
+            [
+              -123.02884629635693,
+              49.25374222018675
+            ]
+          ],
+          [
+            [
+              -123.02884629635693,
+              49.25374222018675
+            ],
+            [
+              -123.02716481097846,
+              49.252637609876615
+            ]
+          ],
+          [
+            [
+              -123.02716481097846,
+              49.252637609876615
+            ],
+            [
+              -123.02633366384472,
+              49.25209166639496
+            ],
+            [
+              -123.02627909234548,
+              49.25203176164368
+            ],
+            [
+              -123.02625336396821,
+              49.251945593261496
+            ]
+          ],
+          [
+            [
+              -123.02625336396821,
+              49.251945593261496
+            ],
+            [
+              -123.0262541035863,
+              49.25152640671388
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02759461258614,
+      "lat": 49.25288774585336
     }
   },
   {
@@ -78,33 +168,43 @@
     }
   },
   {
-    "project": "Inverness St from E 41st Av to E 43rd Av",
+    "project": "Chaldecott St from W 27th Av to W 29th Av",
     "street": null,
-    "location": "Inverness St from E 41st Av to E 43rd Av",
-    "comp_date": "2024-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bf3fa03-90ab-44b9-ad1f-6106e84e8929",
+    "location": "Chaldecott St from W 27th Av to W 29th Av",
+    "comp_date": "2024-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56b6687e-121c-4922-9913-0db8bd97b31e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.07982708854237,
-              49.232327659413414
+              -123.19226442101176,
+              49.24810388378981
             ],
             [
-              -123.07988062233261,
-              49.230856808181386
+              -123.19226645497025,
+              49.247665200728534
             ]
           ],
           [
             [
-              -123.07981210032003,
-              49.232752551597656
+              -123.19226645497025,
+              49.247665200728534
             ],
             [
-              -123.07982708854237,
-              49.232327659413414
+              -123.19227076256875,
+              49.24665142132281
+            ]
+          ],
+          [
+            [
+              -123.19227076256875,
+              49.24665142132281
+            ],
+            [
+              -123.19227240951471,
+              49.246208627970645
             ]
           ]
         ],
@@ -113,48 +213,122 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07984617677144,
-      "lat": 49.23180467327583
+      "lon": -123.19226857043397,
+      "lat": 49.24715625652841
     }
   },
   {
-    "project": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
+    "project": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
     "street": null,
-    "location": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
-    "comp_date": "2024-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ec1f2e8-8d47-42f1-b152-26017bf44040",
+    "location": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
+    "comp_date": "2024-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa0f3084-7ab0-4e64-8a30-7cd633255def",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1882727445685,
+            49.23644840149768
+          ],
+          [
+            -123.18963530674804,
+            49.23646241204483
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18895402565826,
+      "lat": 49.23645540677126
+    }
+  },
+  {
+    "project": "6300-6400 Block of St. Catherines Street",
+    "street": null,
+    "location": "6300-6400 Block of St. Catherines Street",
+    "comp_date": "2024-04-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/749641cc-254b-4fb2-a6ca-128b0d7fc4d3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08657436657433,
+            49.22724741278827
+          ],
+          [
+            -123.08663612248584,
+            49.2255650324594
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08660524453009,
+      "lat": 49.22640622262384
+    }
+  },
+  {
+    "project": "Elgin St from E 45th Av to E 49th Av",
+    "street": null,
+    "location": "Elgin St from E 45th Av to E 49th Av",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0eb3fb3b-b846-4142-9ed9-9708af962f8e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.12416846012154,
-              49.26513422693449
+              -123.08383902735264,
+              49.229080839977854
             ],
             [
-              -123.12414701069706,
-              49.26537693482132
+              -123.0838689420899,
+              49.22785542990317
             ]
           ],
           [
             [
-              -123.11474653889533,
-              49.26487276760423
+              -123.0838689420899,
+              49.22785542990317
             ],
             [
-              -123.11284469014069,
-              49.264830760132355
+              -123.08387803890382,
+              49.227460477334176
+            ],
+            [
+              -123.08384316625713,
+              49.22728970960526
             ]
           ],
           [
             [
-              -123.11747760434882,
-              49.26501557441401
+              -123.08384316625713,
+              49.22728970960526
             ],
             [
-              -123.11782079514089,
-              49.265020241930785
+              -123.08382464976259,
+              49.227199023811465
+            ],
+            [
+              -123.0838708806534,
+              49.22587663254302
+            ]
+          ],
+          [
+            [
+              -123.0838708806534,
+              49.22587663254302
+            ],
+            [
+              -123.08388803359641,
+              49.22539736136659
             ]
           ]
         ],
@@ -163,8 +337,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11534126166377,
-      "lat": 49.26491420028258
+      "lon": -123.0838569619807,
+      "lat": 49.22723907996143
+    }
+  },
+  {
+    "project": "2300 Block of E 5th Avenue",
+    "street": null,
+    "location": "2300 Block of E 5th Avenue",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0580308391566,
+            49.265903480595455
+          ],
+          [
+            -123.05668973464915,
+            49.265889478401306
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05736028690286,
+      "lat": 49.26589647949839
     }
   },
   {
