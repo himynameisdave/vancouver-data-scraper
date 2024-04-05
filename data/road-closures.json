@@ -28,96 +28,6 @@
     }
   },
   {
-    "project": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
-    "street": null,
-    "location": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
-    "comp_date": "2024-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ec1f2e8-8d47-42f1-b152-26017bf44040",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12416846012154,
-              49.26513422693449
-            ],
-            [
-              -123.12414701069706,
-              49.26537693482132
-            ]
-          ],
-          [
-            [
-              -123.11474653889533,
-              49.26487276760423
-            ],
-            [
-              -123.11284469014069,
-              49.264830760132355
-            ]
-          ],
-          [
-            [
-              -123.11747760434882,
-              49.26501557441401
-            ],
-            [
-              -123.11782079514089,
-              49.265020241930785
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11534126166377,
-      "lat": 49.26491420028258
-    }
-  },
-  {
-    "project": "Inverness St from E 41st Av to E 43rd Av",
-    "street": null,
-    "location": "Inverness St from E 41st Av to E 43rd Av",
-    "comp_date": "2024-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bf3fa03-90ab-44b9-ad1f-6106e84e8929",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07982708854237,
-              49.232327659413414
-            ],
-            [
-              -123.07988062233261,
-              49.230856808181386
-            ]
-          ],
-          [
-            [
-              -123.07981210032003,
-              49.232752551597656
-            ],
-            [
-              -123.07982708854237,
-              49.232327659413414
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07984617677144,
-      "lat": 49.23180467327583
-    }
-  },
-  {
     "project": "Inverness St from E 51st Av to E 53rd Av",
     "street": null,
     "location": "Inverness St from E 51st Av to E 53rd Av",
@@ -165,6 +75,96 @@
     "geo_point_2d": {
       "lon": -123.08016780878619,
       "lat": 49.22263782389362
+    }
+  },
+  {
+    "project": "Inverness St from E 41st Av to E 43rd Av",
+    "street": null,
+    "location": "Inverness St from E 41st Av to E 43rd Av",
+    "comp_date": "2024-04-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bf3fa03-90ab-44b9-ad1f-6106e84e8929",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07982708854237,
+              49.232327659413414
+            ],
+            [
+              -123.07988062233261,
+              49.230856808181386
+            ]
+          ],
+          [
+            [
+              -123.07981210032003,
+              49.232752551597656
+            ],
+            [
+              -123.07982708854237,
+              49.232327659413414
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07984617677144,
+      "lat": 49.23180467327583
+    }
+  },
+  {
+    "project": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
+    "street": null,
+    "location": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
+    "comp_date": "2024-04-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ec1f2e8-8d47-42f1-b152-26017bf44040",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12416846012154,
+              49.26513422693449
+            ],
+            [
+              -123.12414701069706,
+              49.26537693482132
+            ]
+          ],
+          [
+            [
+              -123.11474653889533,
+              49.26487276760423
+            ],
+            [
+              -123.11284469014069,
+              49.264830760132355
+            ]
+          ],
+          [
+            [
+              -123.11747760434882,
+              49.26501557441401
+            ],
+            [
+              -123.11782079514089,
+              49.265020241930785
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11534126166377,
+      "lat": 49.26491420028258
     }
   },
   {
