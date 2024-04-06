@@ -1,55 +1,5 @@
 [
   {
-    "project": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
-    "street": null,
-    "location": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
-    "comp_date": "2024-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ec1f2e8-8d47-42f1-b152-26017bf44040",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12416846012154,
-              49.26513422693449
-            ],
-            [
-              -123.12414701069706,
-              49.26537693482132
-            ]
-          ],
-          [
-            [
-              -123.11474653889533,
-              49.26487276760423
-            ],
-            [
-              -123.11284469014069,
-              49.264830760132355
-            ]
-          ],
-          [
-            [
-              -123.11747760434882,
-              49.26501557441401
-            ],
-            [
-              -123.11782079514089,
-              49.265020241930785
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11534126166377,
-      "lat": 49.26491420028258
-    }
-  },
-  {
     "project": "Worthington Dr from Mons Dr to Normandy Dr",
     "street": null,
     "location": "Worthington Dr from Mons Dr to Normandy Dr",
@@ -168,6 +118,84 @@
     }
   },
   {
+    "project": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
+    "street": null,
+    "location": "Both sides of the street of 600 Block of W 7th Ave, from Ash St to 20m W of Ash",
+    "comp_date": "2024-04-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ec1f2e8-8d47-42f1-b152-26017bf44040",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12416846012154,
+              49.26513422693449
+            ],
+            [
+              -123.12414701069706,
+              49.26537693482132
+            ]
+          ],
+          [
+            [
+              -123.11474653889533,
+              49.26487276760423
+            ],
+            [
+              -123.11284469014069,
+              49.264830760132355
+            ]
+          ],
+          [
+            [
+              -123.11747760434882,
+              49.26501557441401
+            ],
+            [
+              -123.11782079514089,
+              49.265020241930785
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11534126166377,
+      "lat": 49.26491420028258
+    }
+  },
+  {
+    "project": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
+    "street": null,
+    "location": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
+    "comp_date": "2024-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa0f3084-7ab0-4e64-8a30-7cd633255def",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1882727445685,
+            49.23644840149768
+          ],
+          [
+            -123.18963530674804,
+            49.23646241204483
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18895402565826,
+      "lat": 49.23645540677126
+    }
+  },
+  {
     "project": "Chaldecott St from W 27th Av to W 29th Av",
     "street": null,
     "location": "Chaldecott St from W 27th Av to W 29th Av",
@@ -218,34 +246,6 @@
     }
   },
   {
-    "project": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
-    "street": null,
-    "location": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
-    "comp_date": "2024-04-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa0f3084-7ab0-4e64-8a30-7cd633255def",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1882727445685,
-            49.23644840149768
-          ],
-          [
-            -123.18963530674804,
-            49.23646241204483
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18895402565826,
-      "lat": 49.23645540677126
-    }
-  },
-  {
     "project": "6300-6400 Block of St. Catherines Street",
     "street": null,
     "location": "6300-6400 Block of St. Catherines Street",
@@ -271,6 +271,34 @@
     "geo_point_2d": {
       "lon": -123.08660524453009,
       "lat": 49.22640622262384
+    }
+  },
+  {
+    "project": "2300 Block of E 5th Avenue",
+    "street": null,
+    "location": "2300 Block of E 5th Avenue",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0580308391566,
+            49.265903480595455
+          ],
+          [
+            -123.05668973464915,
+            49.265889478401306
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05736028690286,
+      "lat": 49.26589647949839
     }
   },
   {
@@ -339,34 +367,6 @@
     "geo_point_2d": {
       "lon": -123.0838569619807,
       "lat": 49.22723907996143
-    }
-  },
-  {
-    "project": "2300 Block of E 5th Avenue",
-    "street": null,
-    "location": "2300 Block of E 5th Avenue",
-    "comp_date": "2024-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0580308391566,
-            49.265903480595455
-          ],
-          [
-            -123.05668973464915,
-            49.265889478401306
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05736028690286,
-      "lat": 49.26589647949839
     }
   },
   {
