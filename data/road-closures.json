@@ -1,21 +1,21 @@
 [
   {
-    "project": "Both sides of 400 Block E 57th Avenue from Prince Edward Street to St. George St",
+    "project": "E 8th Av from Lillooet St and Windermere St",
     "street": null,
-    "location": "Both sides of 400 Block E 57th Avenue from Prince Edward Street to St. George St",
-    "comp_date": "2024-04-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb3a467-f927-491a-87cf-7e72a6978107",
+    "location": "E 8th Av from Lillooet St and Windermere St",
+    "comp_date": "2024-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b70ea1a2-94d8-4e5c-8bf2-635151d806bf",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.09774155021917,
-            49.218385188537894
+            -123.03904858412056,
+            49.26294037171195
           ],
           [
-            -123.09488886347323,
-            49.21832956727482
+            -123.03651973885655,
+            49.262931151008445
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,464 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0963152068462,
-      "lat": 49.21835737790636
+      "lon": -123.03778416148856,
+      "lat": 49.2629357613602
+    }
+  },
+  {
+    "project": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
+    "street": null,
+    "location": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
+    "comp_date": "2024-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa0f3084-7ab0-4e64-8a30-7cd633255def",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1882727445685,
+            49.23644840149768
+          ],
+          [
+            -123.18963530674804,
+            49.23646241204483
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18895402565826,
+      "lat": 49.23645540677126
+    }
+  },
+  {
+    "project": "Chaldecott St from W 27th Av to W 29th Av",
+    "street": null,
+    "location": "Chaldecott St from W 27th Av to W 29th Av",
+    "comp_date": "2024-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56b6687e-121c-4922-9913-0db8bd97b31e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.19226442101176,
+              49.24810388378981
+            ],
+            [
+              -123.19226645497025,
+              49.247665200728534
+            ]
+          ],
+          [
+            [
+              -123.19226645497025,
+              49.247665200728534
+            ],
+            [
+              -123.19227076256875,
+              49.24665142132281
+            ]
+          ],
+          [
+            [
+              -123.19227076256875,
+              49.24665142132281
+            ],
+            [
+              -123.19227240951471,
+              49.246208627970645
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19226857043397,
+      "lat": 49.24715625652841
+    }
+  },
+  {
+    "project": "E 52nd Av from Ontario St to Quebec St",
+    "street": null,
+    "location": "E 52nd Av from Ontario St to Quebec St",
+    "comp_date": "2024-04-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/50355894-e5f2-4f27-903c-eab235aebcc0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10606682682025,
+              49.22296449972063
+            ],
+            [
+              -123.1054317255645,
+              49.22295035585802
+            ]
+          ],
+          [
+            [
+              -123.1054317255645,
+              49.22295035585802
+            ],
+            [
+              -123.10454433135558,
+              49.222930581184755
+            ]
+          ],
+          [
+            [
+              -123.10454433135558,
+              49.222930581184755
+            ],
+            [
+              -123.10390914870698,
+              49.22291650098694
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10498798827662,
+      "lat": 49.22294047726395
+    }
+  },
+  {
+    "project": "6300-6400 Block of St. Catherines Street",
+    "street": null,
+    "location": "6300-6400 Block of St. Catherines Street",
+    "comp_date": "2024-04-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/749641cc-254b-4fb2-a6ca-128b0d7fc4d3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08657436657433,
+            49.22724741278827
+          ],
+          [
+            -123.08663612248584,
+            49.2255650324594
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08660524453009,
+      "lat": 49.22640622262384
+    }
+  },
+  {
+    "project": "Elgin St from E 45th Av to E 49th Av",
+    "street": null,
+    "location": "Elgin St from E 45th Av to E 49th Av",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0eb3fb3b-b846-4142-9ed9-9708af962f8e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08383902735264,
+              49.229080839977854
+            ],
+            [
+              -123.0838689420899,
+              49.22785542990317
+            ]
+          ],
+          [
+            [
+              -123.0838689420899,
+              49.22785542990317
+            ],
+            [
+              -123.08387803890382,
+              49.227460477334176
+            ],
+            [
+              -123.08384316625713,
+              49.22728970960526
+            ]
+          ],
+          [
+            [
+              -123.08384316625713,
+              49.22728970960526
+            ],
+            [
+              -123.08382464976259,
+              49.227199023811465
+            ],
+            [
+              -123.0838708806534,
+              49.22587663254302
+            ]
+          ],
+          [
+            [
+              -123.0838708806534,
+              49.22587663254302
+            ],
+            [
+              -123.08388803359641,
+              49.22539736136659
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0838569619807,
+      "lat": 49.22723907996143
+    }
+  },
+  {
+    "project": "2300 Block of E 5th Avenue",
+    "street": null,
+    "location": "2300 Block of E 5th Avenue",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0580308391566,
+            49.265903480595455
+          ],
+          [
+            -123.05668973464915,
+            49.265889478401306
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05736028690286,
+      "lat": 49.26589647949839
+    }
+  },
+  {
+    "project": "1500 Block of Grant Street",
+    "street": null,
+    "location": "1500 Block of Grant Street",
+    "comp_date": "2024-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fee9b60-5c2d-4d15-8bfa-3ae084c6ac23",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07154772779563,
+            49.27142335954147
+          ],
+          [
+            -123.07274399301627,
+            49.27143035985381
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07214586040594,
+      "lat": 49.27142685969764
+    }
+  },
+  {
+    "project": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
+    "street": null,
+    "location": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
+    "comp_date": "2024-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/386e4fa5-aac1-4681-b876-489f787210f5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10084392408518,
+              49.26641567582365
+            ],
+            [
+              -123.09881617406995,
+              49.26637717017985
+            ]
+          ],
+          [
+            [
+              -123.10001780370862,
+              49.266412175311785
+            ],
+            [
+              -123.10000171045452,
+              49.266853237846504
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09986216737042,
+      "lat": 49.266438652757614
+    }
+  },
+  {
+    "project": "1400 Block of Penticton Street",
+    "street": null,
+    "location": "1400 Block of Penticton Street",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b59c7f40-9aad-42dc-9764-b64dc69715a7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05204896361917,
+            49.272301649856786
+          ],
+          [
+            -123.05205432803723,
+            49.27198314026538
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0520516458282,
+      "lat": 49.27214239506108
+    }
+  },
+  {
+    "project": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
+    "street": null,
+    "location": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e35c6134-d9e1-451c-8c2f-88b2030d551a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07717933408543,
+              49.27856880530268
+            ],
+            [
+              -123.07670726529881,
+              49.27855830635332
+            ]
+          ],
+          [
+            [
+              -123.0683517124718,
+              49.2784465228232
+            ],
+            [
+              -123.06884135273414,
+              49.278454855863885
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07269387759285,
+      "lat": 49.27850609437877
+    }
+  },
+  {
+    "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "street": null,
+    "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "comp_date": "2024-04-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d6e26a8-9d5a-486a-a62e-e4aa92ddb415",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279821477266,
+            49.26645394580697
+          ],
+          [
+            -123.10162877164215,
+            49.26642944223798
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10221349320743,
+      "lat": 49.266441694022475
+    }
+  },
+  {
+    "project": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
+    "street": null,
+    "location": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
+    "comp_date": "2024-04-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/905daa7c-2dbd-404f-ad9a-e3526cdacdfa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1149874004877,
+              49.25944603524147
+            ],
+            [
+              -123.1176696095026,
+              49.25948454629403
+            ]
+          ],
+          [
+            [
+              -123.11560514542796,
+              49.25946231630303
+            ],
+            [
+              -123.11560514542796,
+              49.25921222821415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1162668173314,
+      "lat": 49.259454373427175
     }
   },
   {
@@ -324,6 +780,166 @@
     }
   },
   {
+    "project": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
+    "street": null,
+    "location": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
+    "comp_date": "2024-08-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03649805514345,
+              49.2651930108195
+            ],
+            [
+              -123.03650271110962,
+              49.26474089249274
+            ]
+          ],
+          [
+            [
+              -123.04156102693383,
+              49.264758793340434
+            ],
+            [
+              -123.03903086501592,
+              49.264749637061556
+            ]
+          ],
+          [
+            [
+              -123.036500262164,
+              49.26568812400441
+            ],
+            [
+              -123.03649805514345,
+              49.2651930108195
+            ]
+          ],
+          [
+            [
+              -123.0495436959967,
+              49.26477496525732
+            ],
+            [
+              -123.04431691465969,
+              49.26476997869088
+            ]
+          ],
+          [
+            [
+              -123.04429119263114,
+              49.264768150543745
+            ],
+            [
+              -123.04353110893598,
+              49.26476571385095
+            ]
+          ],
+          [
+            [
+              -123.04353110893598,
+              49.26476571385095
+            ],
+            [
+              -123.04156102693383,
+              49.264758793340434
+            ]
+          ],
+          [
+            [
+              -123.04431176951252,
+              49.262971581785706
+            ],
+            [
+              -123.03101786377984,
+              49.262920704157835
+            ]
+          ],
+          [
+            [
+              -123.03903404831173,
+              49.263857709963105
+            ],
+            [
+              -123.03903404831173,
+              49.262958373076145
+            ]
+          ],
+          [
+            [
+              -123.03651933222142,
+              49.26384249280778
+            ],
+            [
+              -123.03650239217212,
+              49.2647268594101
+            ]
+          ],
+          [
+            [
+              -123.03903086501592,
+              49.264749637061556
+            ],
+            [
+              -123.03650271110962,
+              49.26474089249274
+            ]
+          ],
+          [
+            [
+              -123.03298763729669,
+              49.263829458791946
+            ],
+            [
+              -123.03903404831173,
+              49.263857709963105
+            ]
+          ],
+          [
+            [
+              -123.0345217174447,
+              49.264733711479465
+            ],
+            [
+              -123.033762253404,
+              49.264731435217726
+            ]
+          ],
+          [
+            [
+              -123.03650271110962,
+              49.26474089249274
+            ],
+            [
+              -123.0345217174447,
+              49.264733711479465
+            ]
+          ],
+          [
+            [
+              -123.03648603460017,
+              49.262929592760685
+            ],
+            [
+              -123.0364741606871,
+              49.261929989700576
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03897035546358,
+      "lat": 49.263904089013906
+    }
+  },
+  {
     "project": "North Side of 3600 Block of Fellowes Street From North Boundary Road to Kootenay",
     "street": null,
     "location": "North Side of 3600 Block of Fellowes Street From North Boundary Road to Kootenay",
@@ -393,6 +1009,200 @@
     "geo_point_2d": {
       "lon": -123.02532494707073,
       "lat": 49.291188587919336
+    }
+  },
+  {
+    "project": "Various Locations",
+    "street": null,
+    "location": "Various Locations",
+    "comp_date": "2024-09-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d153dfcc-7c87-49f5-80fd-fe5ec9b07baf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03101921163568,
+              49.25474694682316
+            ],
+            [
+              -123.03063782458389,
+              49.254758261830005
+            ],
+            [
+              -123.02738744322222,
+              49.25686276807096
+            ]
+          ],
+          [
+            [
+              -123.02941062434542,
+              49.2556102914788
+            ],
+            [
+              -123.03044392285899,
+              49.256313042439416
+            ],
+            [
+              -123.03010527880835,
+              49.257282142270725
+            ],
+            [
+              -123.02786501816547,
+              49.25725380628839
+            ],
+            [
+              -123.02473038990155,
+              49.25517390076607
+            ],
+            [
+              -123.02460014218977,
+              49.25502654718653
+            ],
+            [
+              -123.02463487491295,
+              49.251512600744604
+            ]
+          ],
+          [
+            [
+              -123.02464983810387,
+              49.2535710006502
+            ],
+            [
+              -123.02610980905047,
+              49.25359944665212
+            ],
+            [
+              -123.0275915706082,
+              49.254538155518674
+            ],
+            [
+              -123.02567399682759,
+              49.25580396193598
+            ]
+          ],
+          [
+            [
+              -123.02660009780116,
+              49.25515684023881
+            ],
+            [
+              -123.02588100763344,
+              49.25462349180319
+            ]
+          ],
+          [
+            [
+              -123.02760246591374,
+              49.25454526688134
+            ],
+            [
+              -123.02841961383162,
+              49.25404035758535
+            ],
+            [
+              -123.02882274013774,
+              49.25429636857805
+            ],
+            [
+              -123.02931302888848,
+              49.25399768895747
+            ],
+            [
+              -123.03043524536234,
+              49.254822609226636
+            ]
+          ],
+          [
+            [
+              -123.02844140444267,
+              49.25620929757869
+            ],
+            [
+              -123.0288554260544,
+              49.25650085273716
+            ]
+          ],
+          [
+            [
+              -123.02779858141396,
+              49.25721906663446
+            ],
+            [
+              -123.02723202552423,
+              49.25758172512647
+            ],
+            [
+              -123.02551056724393,
+              49.25759594697382
+            ],
+            [
+              -123.02464983810377,
+              49.25699862585677
+            ],
+            [
+              -123.02467162871493,
+              49.25592485186192
+            ],
+            [
+              -123.02517281277119,
+              49.25552662510455
+            ]
+          ],
+          [
+            [
+              -123.02663278371779,
+              49.25647951949125
+            ],
+            [
+              -123.02622965741163,
+              49.25679240617342
+            ],
+            [
+              -123.02602264660577,
+              49.256799517211306
+            ],
+            [
+              -123.02581563579992,
+              49.25665729625854
+            ],
+            [
+              -123.02584832171664,
+              49.25652929705063
+            ],
+            [
+              -123.02627323863392,
+              49.25626618652532
+            ]
+          ],
+          [
+            [
+              -123.02925385060556,
+              49.2540098447478
+            ],
+            [
+              -123.02637748993466,
+              49.252125277359426
+            ],
+            [
+              -123.02623585096224,
+              49.25194748426924
+            ],
+            [
+              -123.02626853687896,
+              49.251506554642475
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02719311118969,
+      "lat": 49.25523695141732
     }
   },
   {
