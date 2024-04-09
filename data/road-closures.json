@@ -1,111 +1,5 @@
 [
   {
-    "project": "E 8th Av from Lillooet St and Windermere St",
-    "street": null,
-    "location": "E 8th Av from Lillooet St and Windermere St",
-    "comp_date": "2024-04-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b70ea1a2-94d8-4e5c-8bf2-635151d806bf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03904858412056,
-            49.26294037171195
-          ],
-          [
-            -123.03651973885655,
-            49.262931151008445
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03778416148856,
-      "lat": 49.2629357613602
-    }
-  },
-  {
-    "project": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
-    "street": null,
-    "location": "Both sides of 3800 Block W 39th Avenue from East of PL 3803 W 39th Avenue to Wes",
-    "comp_date": "2024-04-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa0f3084-7ab0-4e64-8a30-7cd633255def",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1882727445685,
-            49.23644840149768
-          ],
-          [
-            -123.18963530674804,
-            49.23646241204483
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18895402565826,
-      "lat": 49.23645540677126
-    }
-  },
-  {
-    "project": "Chaldecott St from W 27th Av to W 29th Av",
-    "street": null,
-    "location": "Chaldecott St from W 27th Av to W 29th Av",
-    "comp_date": "2024-04-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56b6687e-121c-4922-9913-0db8bd97b31e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.19226442101176,
-              49.24810388378981
-            ],
-            [
-              -123.19226645497025,
-              49.247665200728534
-            ]
-          ],
-          [
-            [
-              -123.19226645497025,
-              49.247665200728534
-            ],
-            [
-              -123.19227076256875,
-              49.24665142132281
-            ]
-          ],
-          [
-            [
-              -123.19227076256875,
-              49.24665142132281
-            ],
-            [
-              -123.19227240951471,
-              49.246208627970645
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19226857043397,
-      "lat": 49.24715625652841
-    }
-  },
-  {
     "project": "E 52nd Av from Ontario St to Quebec St",
     "street": null,
     "location": "E 52nd Av from Ontario St to Quebec St",
@@ -184,6 +78,34 @@
     }
   },
   {
+    "project": "2300 Block of E 5th Avenue",
+    "street": null,
+    "location": "2300 Block of E 5th Avenue",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0580308391566,
+            49.265903480595455
+          ],
+          [
+            -123.05668973464915,
+            49.265889478401306
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05736028690286,
+      "lat": 49.26589647949839
+    }
+  },
+  {
     "project": "Elgin St from E 45th Av to E 49th Av",
     "street": null,
     "location": "Elgin St from E 45th Av to E 49th Av",
@@ -252,62 +174,6 @@
     }
   },
   {
-    "project": "2300 Block of E 5th Avenue",
-    "street": null,
-    "location": "2300 Block of E 5th Avenue",
-    "comp_date": "2024-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0580308391566,
-            49.265903480595455
-          ],
-          [
-            -123.05668973464915,
-            49.265889478401306
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05736028690286,
-      "lat": 49.26589647949839
-    }
-  },
-  {
-    "project": "1500 Block of Grant Street",
-    "street": null,
-    "location": "1500 Block of Grant Street",
-    "comp_date": "2024-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fee9b60-5c2d-4d15-8bfa-3ae084c6ac23",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07154772779563,
-            49.27142335954147
-          ],
-          [
-            -123.07274399301627,
-            49.27143035985381
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07214586040594,
-      "lat": 49.27142685969764
-    }
-  },
-  {
     "project": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
     "street": null,
     "location": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
@@ -348,34 +214,6 @@
     }
   },
   {
-    "project": "1400 Block of Penticton Street",
-    "street": null,
-    "location": "1400 Block of Penticton Street",
-    "comp_date": "2024-04-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b59c7f40-9aad-42dc-9764-b64dc69715a7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05204896361917,
-            49.272301649856786
-          ],
-          [
-            -123.05205432803723,
-            49.27198314026538
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0520516458282,
-      "lat": 49.27214239506108
-    }
-  },
-  {
     "project": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
     "street": null,
     "location": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
@@ -413,6 +251,34 @@
     "geo_point_2d": {
       "lon": -123.07269387759285,
       "lat": 49.27850609437877
+    }
+  },
+  {
+    "project": "1400 Block of Penticton Street",
+    "street": null,
+    "location": "1400 Block of Penticton Street",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b59c7f40-9aad-42dc-9764-b64dc69715a7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05204896361917,
+            49.272301649856786
+          ],
+          [
+            -123.05205432803723,
+            49.27198314026538
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0520516458282,
+      "lat": 49.27214239506108
     }
   },
   {
@@ -709,6 +575,34 @@
     "geo_point_2d": {
       "lon": -123.11525587768392,
       "lat": 49.26764551427252
+    }
+  },
+  {
+    "project": "1500 Block of Grant Street",
+    "street": null,
+    "location": "1500 Block of Grant Street",
+    "comp_date": "2024-04-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fee9b60-5c2d-4d15-8bfa-3ae084c6ac23",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07154772779563,
+            49.27142335954147
+          ],
+          [
+            -123.07274399301627,
+            49.27143035985381
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07214586040594,
+      "lat": 49.27142685969764
     }
   },
   {
