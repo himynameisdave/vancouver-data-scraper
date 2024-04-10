@@ -1,83 +1,5 @@
 [
   {
-    "project": "E 52nd Av from Ontario St to Quebec St",
-    "street": null,
-    "location": "E 52nd Av from Ontario St to Quebec St",
-    "comp_date": "2024-04-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/50355894-e5f2-4f27-903c-eab235aebcc0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10606682682025,
-              49.22296449972063
-            ],
-            [
-              -123.1054317255645,
-              49.22295035585802
-            ]
-          ],
-          [
-            [
-              -123.1054317255645,
-              49.22295035585802
-            ],
-            [
-              -123.10454433135558,
-              49.222930581184755
-            ]
-          ],
-          [
-            [
-              -123.10454433135558,
-              49.222930581184755
-            ],
-            [
-              -123.10390914870698,
-              49.22291650098694
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10498798827662,
-      "lat": 49.22294047726395
-    }
-  },
-  {
-    "project": "6300-6400 Block of St. Catherines Street",
-    "street": null,
-    "location": "6300-6400 Block of St. Catherines Street",
-    "comp_date": "2024-04-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/749641cc-254b-4fb2-a6ca-128b0d7fc4d3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08657436657433,
-            49.22724741278827
-          ],
-          [
-            -123.08663612248584,
-            49.2255650324594
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08660524453009,
-      "lat": 49.22640622262384
-    }
-  },
-  {
     "project": "Elgin St from E 45th Av to E 49th Av",
     "street": null,
     "location": "Elgin St from E 45th Av to E 49th Av",
@@ -174,6 +96,62 @@
     }
   },
   {
+    "project": "5700-5900 Block of Highbury Street",
+    "street": null,
+    "location": "5700-5900 Block of Highbury Street",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eb39877a-aa2b-480c-9979-5d1c5026ad82",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18836917583798,
+            49.234794370682295
+          ],
+          [
+            -123.1884379583875,
+            49.23176269692536
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18840356711273,
+      "lat": 49.233278533803826
+    }
+  },
+  {
+    "project": "3300-3400 Block of W 34th Avenue",
+    "street": null,
+    "location": "3300-3400 Block of W 34th Avenue",
+    "comp_date": "2024-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3f38ade-8bc0-4a49-b42c-d485e058f09b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18198352372875,
+            49.241424401450104
+          ],
+          [
+            -123.17866831338635,
+            49.24140338773927
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18032591855753,
+      "lat": 49.241413894594686
+    }
+  },
+  {
     "project": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
     "street": null,
     "location": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
@@ -214,6 +192,74 @@
     }
   },
   {
+    "project": "Worthington Dr from Falaise Av to Normandy Dr",
+    "street": null,
+    "location": "Worthington Dr from Falaise Av to Normandy Dr",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2d36e7be-130a-4b3b-8c0a-a38df762fd49",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03052518938847,
+              49.25484453071189
+            ],
+            [
+              -123.02929864876026,
+              49.254039344400724
+            ]
+          ],
+          [
+            [
+              -123.02929864876026,
+              49.254039344400724
+            ],
+            [
+              -123.02884629635693,
+              49.25374222018675
+            ]
+          ],
+          [
+            [
+              -123.02884629635693,
+              49.25374222018675
+            ],
+            [
+              -123.02716481097846,
+              49.252637609876615
+            ]
+          ],
+          [
+            [
+              -123.02716481097846,
+              49.252637609876615
+            ],
+            [
+              -123.02633366384472,
+              49.25209166639496
+            ],
+            [
+              -123.02627909234548,
+              49.25203176164368
+            ],
+            [
+              -123.02625336396821,
+              49.251945593261496
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02835865711077,
+      "lat": 49.253420587704106
+    }
+  },
+  {
     "project": "1400 Block of Penticton Street",
     "street": null,
     "location": "1400 Block of Penticton Street",
@@ -239,6 +285,34 @@
     "geo_point_2d": {
       "lon": -123.0520516458282,
       "lat": 49.27214239506108
+    }
+  },
+  {
+    "project": "Both sides of 2400 Block Turner Street from Nanaimo Street to Kamloops Street.",
+    "street": null,
+    "location": "Both sides of 2400 Block Turner Street from Nanaimo Street to Kamloops Street.",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d3ac27c5-f269-4ec3-848f-af82c8a5aa0a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0565559653834,
+            49.279096410163675
+          ],
+          [
+            -123.05462477489266,
+            49.279096410163675
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05559037013802,
+      "lat": 49.279096410163675
     }
   },
   {
@@ -307,6 +381,56 @@
     "geo_point_2d": {
       "lon": -123.10221349320743,
       "lat": 49.266441694022475
+    }
+  },
+  {
+    "project": "Earles St from E 38th Av to E 41st Av",
+    "street": null,
+    "location": "Earles St from E 38th Av to E 41st Av",
+    "comp_date": "2024-04-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/54ea9d86-9944-4309-bcbc-25e67f3fd0cc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04885748544821,
+              49.235848774136116
+            ],
+            [
+              -123.04883622812271,
+              49.2347276152982
+            ]
+          ],
+          [
+            [
+              -123.04883622812271,
+              49.2347276152982
+            ],
+            [
+              -123.04876635450336,
+              49.234048404466506
+            ]
+          ],
+          [
+            [
+              -123.04876635450336,
+              49.234048404466506
+            ],
+            [
+              -123.04878999346354,
+              49.23279164985968
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04880849040114,
+      "lat": 49.234320289738044
     }
   },
   {
