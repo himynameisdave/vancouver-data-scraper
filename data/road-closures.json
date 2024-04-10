@@ -78,34 +78,6 @@
     }
   },
   {
-    "project": "2300 Block of E 5th Avenue",
-    "street": null,
-    "location": "2300 Block of E 5th Avenue",
-    "comp_date": "2024-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0580308391566,
-            49.265903480595455
-          ],
-          [
-            -123.05668973464915,
-            49.265889478401306
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05736028690286,
-      "lat": 49.26589647949839
-    }
-  },
-  {
     "project": "Elgin St from E 45th Av to E 49th Av",
     "street": null,
     "location": "Elgin St from E 45th Av to E 49th Av",
@@ -174,6 +146,34 @@
     }
   },
   {
+    "project": "2300 Block of E 5th Avenue",
+    "street": null,
+    "location": "2300 Block of E 5th Avenue",
+    "comp_date": "2024-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0580308391566,
+            49.265903480595455
+          ],
+          [
+            -123.05668973464915,
+            49.265889478401306
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05736028690286,
+      "lat": 49.26589647949839
+    }
+  },
+  {
     "project": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
     "street": null,
     "location": "200 Block of E 5th Ave and Lane West of 2000 Block of Scotia St",
@@ -214,6 +214,34 @@
     }
   },
   {
+    "project": "1400 Block of Penticton Street",
+    "street": null,
+    "location": "1400 Block of Penticton Street",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b59c7f40-9aad-42dc-9764-b64dc69715a7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05204896361917,
+            49.272301649856786
+          ],
+          [
+            -123.05205432803723,
+            49.27198314026538
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0520516458282,
+      "lat": 49.27214239506108
+    }
+  },
+  {
     "project": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
     "street": null,
     "location": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
@@ -251,34 +279,6 @@
     "geo_point_2d": {
       "lon": -123.07269387759285,
       "lat": 49.27850609437877
-    }
-  },
-  {
-    "project": "1400 Block of Penticton Street",
-    "street": null,
-    "location": "1400 Block of Penticton Street",
-    "comp_date": "2024-04-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b59c7f40-9aad-42dc-9764-b64dc69715a7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05204896361917,
-            49.272301649856786
-          ],
-          [
-            -123.05205432803723,
-            49.27198314026538
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0520516458282,
-      "lat": 49.27214239506108
     }
   },
   {
