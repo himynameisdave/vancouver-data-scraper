@@ -1,32 +1,32 @@
 [
   {
-    "project": "Prince Edward St from E 41st Av to E 43rd Av",
+    "project": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
     "street": null,
-    "location": "Prince Edward St from E 41st Av to E 43rd Av",
-    "comp_date": "2024-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/859d852b-b696-4687-9ed9-c9bb7f366a36",
+    "location": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e35c6134-d9e1-451c-8c2f-88b2030d551a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.09724618432578,
-              49.23257912988544
+              -123.07717933408543,
+              49.27856880530268
             ],
             [
-              -123.0973097983824,
-              49.23110484385663
+              -123.07670726529881,
+              49.27855830635332
             ]
           ],
           [
             [
-              -123.09722995299875,
-              49.23300143475336
+              -123.0683517124718,
+              49.2784465228232
             ],
             [
-              -123.09724618432578,
-              49.23257912988544
+              -123.06884135273414,
+              49.278454855863885
             ]
           ]
         ],
@@ -35,36 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09726910328479,
-      "lat": 49.23205310779714
-    }
-  },
-  {
-    "project": "3300-3400 Block of W 34th Avenue",
-    "street": null,
-    "location": "3300-3400 Block of W 34th Avenue",
-    "comp_date": "2024-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3f38ade-8bc0-4a49-b42c-d485e058f09b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18198352372875,
-            49.241424401450104
-          ],
-          [
-            -123.17866831338635,
-            49.24140338773927
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18032591855753,
-      "lat": 49.241413894594686
+      "lon": -123.07269387759285,
+      "lat": 49.27850609437877
     }
   },
   {
@@ -192,46 +164,6 @@
     }
   },
   {
-    "project": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
-    "street": null,
-    "location": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
-    "comp_date": "2024-04-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e35c6134-d9e1-451c-8c2f-88b2030d551a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07717933408543,
-              49.27856880530268
-            ],
-            [
-              -123.07670726529881,
-              49.27855830635332
-            ]
-          ],
-          [
-            [
-              -123.0683517124718,
-              49.2784465228232
-            ],
-            [
-              -123.06884135273414,
-              49.278454855863885
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07269387759285,
-      "lat": 49.27850609437877
-    }
-  },
-  {
     "project": "4400 Block of Ontario Street",
     "street": null,
     "location": "4400 Block of Ontario Street",
@@ -310,31 +242,43 @@
     }
   },
   {
-    "project": "1000 Block of E 15th Avenue",
+    "project": "Killarney St from E 49th Av to E 51st Av",
     "street": null,
-    "location": "1000 Block of E 15th Avenue",
-    "comp_date": "2024-04-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cc78c9ea-3998-42bf-a4d5-3c2679dbd6ec",
+    "location": "Killarney St from E 49th Av to E 51st Av",
+    "comp_date": "2024-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1766d6d9-fe62-4988-8594-504f7dbebcb7",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.08351734752179,
-            49.25693169950168
+            [
+              -123.04570187033758,
+              49.22474182308733
+            ],
+            [
+              -123.04572716454597,
+              49.22427659592452
+            ]
           ],
           [
-            -123.08179536933423,
-            49.25684767100202
+            [
+              -123.04572716454597,
+              49.22427659592452
+            ],
+            [
+              -123.0457858810476,
+              49.22319672685191
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08265635842801,
-      "lat": 49.25688968525184
+      "lon": -123.04574387502207,
+      "lat": 49.22396927493316
     }
   },
   {
