@@ -1,45 +1,5 @@
 [
   {
-    "project": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
-    "street": null,
-    "location": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
-    "comp_date": "2024-04-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e35c6134-d9e1-451c-8c2f-88b2030d551a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07717933408543,
-              49.27856880530268
-            ],
-            [
-              -123.07670726529881,
-              49.27855830635332
-            ]
-          ],
-          [
-            [
-              -123.0683517124718,
-              49.2784465228232
-            ],
-            [
-              -123.06884135273414,
-              49.278454855863885
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07269387759285,
-      "lat": 49.27850609437877
-    }
-  },
-  {
     "project": "Worthington Dr from Falaise Av to Normandy Dr",
     "street": null,
     "location": "Worthington Dr from Falaise Av to Normandy Dr",
@@ -161,6 +121,46 @@
     "geo_point_2d": {
       "lon": -123.05559037013802,
       "lat": 49.279096410163675
+    }
+  },
+  {
+    "project": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
+    "street": null,
+    "location": "1300-1400 Block of E Georgia St and 1700 Block of E Georgia St",
+    "comp_date": "2024-04-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e35c6134-d9e1-451c-8c2f-88b2030d551a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07717933408543,
+              49.27856880530268
+            ],
+            [
+              -123.07670726529881,
+              49.27855830635332
+            ]
+          ],
+          [
+            [
+              -123.0683517124718,
+              49.2784465228232
+            ],
+            [
+              -123.06884135273414,
+              49.278454855863885
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07269387759285,
+      "lat": 49.27850609437877
     }
   },
   {
