@@ -28,6 +28,34 @@
     }
   },
   {
+    "project": "Both sides of 800 Block Beatty St from Robson St to Smithe St.",
+    "street": null,
+    "location": "Both sides of 800 Block Beatty St from Robson St to Smithe St.",
+    "comp_date": "2024-04-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fe42417-ba04-4aaf-bdf9-5ebd779e3f00",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11397382556888,
+            49.277585618378055
+          ],
+          [
+            -123.11554467475189,
+            49.27656079367304
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11475925016038,
+      "lat": 49.27707320602555
+    }
+  },
+  {
     "project": "West 1st Ave",
     "street": null,
     "location": "West 1st Ave",
