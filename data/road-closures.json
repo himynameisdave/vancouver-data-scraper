@@ -78,6 +78,74 @@
     }
   },
   {
+    "project": "Killarney St from E 49th Av to E 51st Av",
+    "street": null,
+    "location": "Killarney St from E 49th Av to E 51st Av",
+    "comp_date": "2024-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1766d6d9-fe62-4988-8594-504f7dbebcb7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04570187033758,
+              49.22474182308733
+            ],
+            [
+              -123.04572716454597,
+              49.22427659592452
+            ]
+          ],
+          [
+            [
+              -123.04572716454597,
+              49.22427659592452
+            ],
+            [
+              -123.0457858810476,
+              49.22319672685191
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04574387502207,
+      "lat": 49.22396927493316
+    }
+  },
+  {
+    "project": "Oxford St from Kootenay St to N Boundary Rd",
+    "street": null,
+    "location": "Oxford St from Kootenay St to N Boundary Rd",
+    "comp_date": "2024-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a96bd43a-d797-47db-8b30-935664703290",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02570715573245,
+            49.28567665804667
+          ],
+          [
+            -123.02351952081429,
+            49.28567626044216
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02461333827335,
+      "lat": 49.285676459244414
+    }
+  },
+  {
     "project": "Worthington Dr from Falaise Av to Normandy Dr",
     "street": null,
     "location": "Worthington Dr from Falaise Av to Normandy Dr",
@@ -153,74 +221,6 @@
     "geo_point_2d": {
       "lon": -123.02820122951181,
       "lat": 49.25329459708239
-    }
-  },
-  {
-    "project": "Oxford St from Kootenay St to N Boundary Rd",
-    "street": null,
-    "location": "Oxford St from Kootenay St to N Boundary Rd",
-    "comp_date": "2024-04-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a96bd43a-d797-47db-8b30-935664703290",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02570715573245,
-            49.28567665804667
-          ],
-          [
-            -123.02351952081429,
-            49.28567626044216
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02461333827335,
-      "lat": 49.285676459244414
-    }
-  },
-  {
-    "project": "Killarney St from E 49th Av to E 51st Av",
-    "street": null,
-    "location": "Killarney St from E 49th Av to E 51st Av",
-    "comp_date": "2024-04-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1766d6d9-fe62-4988-8594-504f7dbebcb7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04570187033758,
-              49.22474182308733
-            ],
-            [
-              -123.04572716454597,
-              49.22427659592452
-            ]
-          ],
-          [
-            [
-              -123.04572716454597,
-              49.22427659592452
-            ],
-            [
-              -123.0457858810476,
-              49.22319672685191
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04574387502207,
-      "lat": 49.22396927493316
     }
   },
   {
@@ -428,6 +428,34 @@
     }
   },
   {
+    "project": "Seawall east of Cambie Bridge",
+    "street": null,
+    "location": "Seawall east of Cambie Bridge",
+    "comp_date": "2024-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11316538483014,
+            49.27126134967142
+          ],
+          [
+            -123.11142092724079,
+            49.27159429456859
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11229315603546,
+      "lat": 49.27142782212
+    }
+  },
+  {
     "project": "West 1st Ave",
     "street": null,
     "location": "West 1st Ave",
@@ -473,34 +501,6 @@
     "geo_point_2d": {
       "lon": -123.11261493402155,
       "lat": 49.26976313654901
-    }
-  },
-  {
-    "project": "Seawall east of Cambie Bridge",
-    "street": null,
-    "location": "Seawall east of Cambie Bridge",
-    "comp_date": "2024-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11316538483014,
-            49.27126134967142
-          ],
-          [
-            -123.11142092724079,
-            49.27159429456859
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11229315603546,
-      "lat": 49.27142782212
     }
   },
   {
