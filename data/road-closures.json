@@ -78,34 +78,6 @@
     }
   },
   {
-    "project": "Oxford St from Kootenay St to N Boundary Rd",
-    "street": null,
-    "location": "Oxford St from Kootenay St to N Boundary Rd",
-    "comp_date": "2024-04-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a96bd43a-d797-47db-8b30-935664703290",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02570715573245,
-            49.28567665804667
-          ],
-          [
-            -123.02351952081429,
-            49.28567626044216
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02461333827335,
-      "lat": 49.285676459244414
-    }
-  },
-  {
     "project": "Killarney St from E 49th Av to E 51st Av",
     "street": null,
     "location": "Killarney St from E 49th Av to E 51st Av",
@@ -171,6 +143,34 @@
     "geo_point_2d": {
       "lon": -123.03804841373021,
       "lat": 49.229285459165936
+    }
+  },
+  {
+    "project": "Oxford St from Kootenay St to N Boundary Rd",
+    "street": null,
+    "location": "Oxford St from Kootenay St to N Boundary Rd",
+    "comp_date": "2024-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a96bd43a-d797-47db-8b30-935664703290",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02570715573245,
+            49.28567665804667
+          ],
+          [
+            -123.02351952081429,
+            49.28567626044216
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02461333827335,
+      "lat": 49.285676459244414
     }
   },
   {
