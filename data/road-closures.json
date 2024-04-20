@@ -1,65 +1,5 @@
 [
   {
-    "project": "Both sides of the street of 3400 Block of E 3rd Ave, from W PL 341 E 3 Rd Ave to",
-    "street": null,
-    "location": "Both sides of the street of 3400 Block of E 3rd Ave, from W PL 341 E 3 Rd Ave to",
-    "comp_date": "2024-04-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8eda4cb2-26f2-4233-b424-212f2f0c36f6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03027625795578,
-            49.26754993911814
-          ],
-          [
-            -123.0295469775226,
-            49.267545271840646
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02991161773919,
-      "lat": 49.26754760547939
-    }
-  },
-  {
-    "project": "2000 Block of W 20th Avenue",
-    "street": null,
-    "location": "2000 Block of W 20th Avenue",
-    "comp_date": "2024-04-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3851f6e-bff3-4338-af99-ad6974976114",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15185391061573,
-            49.25344410687711
-          ],
-          [
-            -123.15139257066515,
-            49.25347211832428
-          ],
-          [
-            -123.15094195955065,
-            49.25343710401282
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15139780173251,
-      "lat": 49.25345638145729
-    }
-  },
-  {
     "project": "3200 Block of Clive Avenue",
     "street": null,
     "location": "3200 Block of Clive Avenue",
@@ -166,6 +106,66 @@
     }
   },
   {
+    "project": "Both sides of the street of 3400 Block of E 3rd Ave, from W PL 341 E 3 Rd Ave to",
+    "street": null,
+    "location": "Both sides of the street of 3400 Block of E 3rd Ave, from W PL 341 E 3 Rd Ave to",
+    "comp_date": "2024-04-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8eda4cb2-26f2-4233-b424-212f2f0c36f6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03027625795578,
+            49.26754993911814
+          ],
+          [
+            -123.0295469775226,
+            49.267545271840646
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02991161773919,
+      "lat": 49.26754760547939
+    }
+  },
+  {
+    "project": "2000 Block of W 20th Avenue",
+    "street": null,
+    "location": "2000 Block of W 20th Avenue",
+    "comp_date": "2024-04-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3851f6e-bff3-4338-af99-ad6974976114",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15185391061573,
+            49.25344410687711
+          ],
+          [
+            -123.15139257066515,
+            49.25347211832428
+          ],
+          [
+            -123.15094195955065,
+            49.25343710401282
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15139780173251,
+      "lat": 49.25345638145729
+    }
+  },
+  {
     "project": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
     "street": null,
     "location": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
@@ -206,34 +206,6 @@
     }
   },
   {
-    "project": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
-    "street": null,
-    "location": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
-    "comp_date": "2024-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/befcfb7d-24d2-41b0-9f92-e7c1791c5ece",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07783747162888,
-            49.25443514584518
-          ],
-          [
-            -123.07601427054591,
-            49.25440246642381
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0769258710874,
-      "lat": 49.254418806134495
-    }
-  },
-  {
     "project": "5000-5100 Block of Chambers Street",
     "street": null,
     "location": "5000-5100 Block of Chambers Street",
@@ -259,6 +231,34 @@
     "geo_point_2d": {
       "lon": -123.05300930514525,
       "lat": 49.23803452203789
+    }
+  },
+  {
+    "project": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
+    "street": null,
+    "location": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
+    "comp_date": "2024-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/befcfb7d-24d2-41b0-9f92-e7c1791c5ece",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07783747162888,
+            49.25443514584518
+          ],
+          [
+            -123.07601427054591,
+            49.25440246642381
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0769258710874,
+      "lat": 49.254418806134495
     }
   },
   {
@@ -375,34 +375,6 @@
     "geo_point_2d": {
       "lon": -123.15141616744421,
       "lat": 49.27300872201731
-    }
-  },
-  {
-    "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
-    "street": null,
-    "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
-    "comp_date": "2024-04-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d6e26a8-9d5a-486a-a62e-e4aa92ddb415",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10279821477266,
-            49.26645394580697
-          ],
-          [
-            -123.10162877164215,
-            49.26642944223798
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10221349320743,
-      "lat": 49.266441694022475
     }
   },
   {
@@ -1212,6 +1184,34 @@
     }
   },
   {
+    "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "street": null,
+    "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "comp_date": "2024-04-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d6e26a8-9d5a-486a-a62e-e4aa92ddb415",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279821477266,
+            49.26645394580697
+          ],
+          [
+            -123.10162877164215,
+            49.26642944223798
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10221349320743,
+      "lat": 49.266441694022475
+    }
+  },
+  {
     "project": "3300 Block of Prince Albert St and Lane East of 3300 Block of Prince Albert St",
     "street": null,
     "location": "3300 Block of Prince Albert St and Lane East of 3300 Block of Prince Albert St",
@@ -1292,34 +1292,6 @@
     }
   },
   {
-    "project": "Seawall east of Cambie Bridge",
-    "street": null,
-    "location": "Seawall east of Cambie Bridge",
-    "comp_date": "2024-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11316538483014,
-            49.27126134967142
-          ],
-          [
-            -123.11142092724079,
-            49.27159429456859
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11229315603546,
-      "lat": 49.27142782212
-    }
-  },
-  {
     "project": "West 1st Ave",
     "street": null,
     "location": "West 1st Ave",
@@ -1365,6 +1337,34 @@
     "geo_point_2d": {
       "lon": -123.11261493402155,
       "lat": 49.26976313654901
+    }
+  },
+  {
+    "project": "Seawall east of Cambie Bridge",
+    "street": null,
+    "location": "Seawall east of Cambie Bridge",
+    "comp_date": "2024-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11316538483014,
+            49.27126134967142
+          ],
+          [
+            -123.11142092724079,
+            49.27159429456859
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11229315603546,
+      "lat": 49.27142782212
     }
   },
   {
