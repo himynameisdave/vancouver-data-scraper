@@ -1,61 +1,5 @@
 [
   {
-    "project": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
-    "street": null,
-    "location": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
-    "comp_date": "2024-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/befcfb7d-24d2-41b0-9f92-e7c1791c5ece",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07783747162888,
-            49.25443514584518
-          ],
-          [
-            -123.07601427054591,
-            49.25440246642381
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0769258710874,
-      "lat": 49.254418806134495
-    }
-  },
-  {
-    "project": "5000-5100 Block of Chambers Street",
-    "street": null,
-    "location": "5000-5100 Block of Chambers Street",
-    "comp_date": "2024-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d5669cd-919d-40ca-83c0-6ee0899295fd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05300662293624,
-            49.23829195761073
-          ],
-          [
-            -123.05301198735428,
-            49.23777708646506
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05300930514525,
-      "lat": 49.23803452203789
-    }
-  },
-  {
     "project": "Spencer St from Kingsway to Euclid Av",
     "street": null,
     "location": "Spencer St from Kingsway to Euclid Av",
@@ -116,6 +60,34 @@
     }
   },
   {
+    "project": "Both sides of 1500 Block Maple St from Lane South of Cornwall Ave to Cornwall Av",
+    "street": null,
+    "location": "Both sides of 1500 Block Maple St from Lane South of Cornwall Ave to Cornwall Av",
+    "comp_date": "2024-04-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/722cda71-c4a5-4176-8aa1-62bf954d43c0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15020901064318,
+            49.272477151943605
+          ],
+          [
+            -123.15022510389726,
+            49.27206764069098
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15021705727023,
+      "lat": 49.27227239631729
+    }
+  },
+  {
     "project": "1500 Block of Grant Street",
     "street": null,
     "location": "1500 Block of Grant Street",
@@ -169,6 +141,34 @@
     "geo_point_2d": {
       "lon": -123.15141616744421,
       "lat": 49.27300872201731
+    }
+  },
+  {
+    "project": "E 8th Av from Lillooet St to Windermere St",
+    "street": null,
+    "location": "E 8th Av from Lillooet St to Windermere St",
+    "comp_date": "2024-04-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e70b99bd-0813-4aae-b404-43cbaf363801",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03904858412056,
+            49.26294037171195
+          ],
+          [
+            -123.03651973885655,
+            49.262931151008445
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03778416148856,
+      "lat": 49.2629357613602
     }
   },
   {
@@ -237,6 +237,62 @@
     "geo_point_2d": {
       "lon": -123.08721707178142,
       "lat": 49.25481997882307
+    }
+  },
+  {
+    "project": "Eton St from N Kamloops St to N Penticton St",
+    "street": null,
+    "location": "Eton St from N Kamloops St to N Penticton St",
+    "comp_date": "2024-04-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f36ecc60-f534-4c09-b0f8-74965f21de2b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05458908403466,
+            49.287730241461816
+          ],
+          [
+            -123.05196409393004,
+            49.28773043520397
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05327658898236,
+      "lat": 49.2877303383329
+    }
+  },
+  {
+    "project": "Moss St from Euclid Av to Vanness Av",
+    "street": null,
+    "location": "Moss St from Euclid Av to Vanness Av",
+    "comp_date": "2024-05-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cfa4b30c-aa41-42de-a304-4c845c6bc827",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04255201213645,
+            49.24265052068213
+          ],
+          [
+            -123.04435455727649,
+            49.240779507703024
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04345328470647,
+      "lat": 49.24171501419257
     }
   },
   {
