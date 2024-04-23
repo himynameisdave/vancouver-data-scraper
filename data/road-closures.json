@@ -1,33 +1,5 @@
 [
   {
-    "project": "5000-5100 Block of Chambers Street",
-    "street": null,
-    "location": "5000-5100 Block of Chambers Street",
-    "comp_date": "2024-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d5669cd-919d-40ca-83c0-6ee0899295fd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05300662293624,
-            49.23829195761073
-          ],
-          [
-            -123.05301198735428,
-            49.23777708646506
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05300930514525,
-      "lat": 49.23803452203789
-    }
-  },
-  {
     "project": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
     "street": null,
     "location": "Both sides of the street of 1300 Block of E 18th Ave, from W PL 1305 E 18th Ave",
@@ -53,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.0769258710874,
       "lat": 49.254418806134495
+    }
+  },
+  {
+    "project": "5000-5100 Block of Chambers Street",
+    "street": null,
+    "location": "5000-5100 Block of Chambers Street",
+    "comp_date": "2024-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d5669cd-919d-40ca-83c0-6ee0899295fd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05300662293624,
+            49.23829195761073
+          ],
+          [
+            -123.05301198735428,
+            49.23777708646506
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05300930514525,
+      "lat": 49.23803452203789
     }
   },
   {
@@ -340,6 +340,34 @@
     }
   },
   {
+    "project": "Seawall east of Cambie Bridge",
+    "street": null,
+    "location": "Seawall east of Cambie Bridge",
+    "comp_date": "2024-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11316538483014,
+            49.27126134967142
+          ],
+          [
+            -123.11142092724079,
+            49.27159429456859
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11229315603546,
+      "lat": 49.27142782212
+    }
+  },
+  {
     "project": "West 1st Ave",
     "street": null,
     "location": "West 1st Ave",
@@ -385,34 +413,6 @@
     "geo_point_2d": {
       "lon": -123.11261493402155,
       "lat": 49.26976313654901
-    }
-  },
-  {
-    "project": "Seawall east of Cambie Bridge",
-    "street": null,
-    "location": "Seawall east of Cambie Bridge",
-    "comp_date": "2024-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11316538483014,
-            49.27126134967142
-          ],
-          [
-            -123.11142092724079,
-            49.27159429456859
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11229315603546,
-      "lat": 49.27142782212
     }
   },
   {
