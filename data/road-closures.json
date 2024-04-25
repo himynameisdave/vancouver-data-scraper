@@ -1,33 +1,5 @@
 [
   {
-    "project": "1500 Block of Grant Street",
-    "street": null,
-    "location": "1500 Block of Grant Street",
-    "comp_date": "2024-04-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fee9b60-5c2d-4d15-8bfa-3ae084c6ac23",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07154772779563,
-            49.27142335954147
-          ],
-          [
-            -123.07274399301627,
-            49.27143035985381
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07214586040594,
-      "lat": 49.27142685969764
-    }
-  },
-  {
     "project": "Both sides of 1500 Block Maple St from Lane South of Cornwall Ave to Cornwall Av",
     "street": null,
     "location": "Both sides of 1500 Block Maple St from Lane South of Cornwall Ave to Cornwall Av",
@@ -56,34 +28,6 @@
     }
   },
   {
-    "project": "E 8th Av from Lillooet St to Windermere St",
-    "street": null,
-    "location": "E 8th Av from Lillooet St to Windermere St",
-    "comp_date": "2024-04-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e70b99bd-0813-4aae-b404-43cbaf363801",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03904858412056,
-            49.26294037171195
-          ],
-          [
-            -123.03651973885655,
-            49.262931151008445
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03778416148856,
-      "lat": 49.2629357613602
-    }
-  },
-  {
     "project": "1300-1400 Block Laburnum St",
     "street": null,
     "location": "1300-1400 Block Laburnum St",
@@ -109,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.15141616744421,
       "lat": 49.27300872201731
+    }
+  },
+  {
+    "project": "E 8th Av from Lillooet St to Windermere St",
+    "street": null,
+    "location": "E 8th Av from Lillooet St to Windermere St",
+    "comp_date": "2024-04-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e70b99bd-0813-4aae-b404-43cbaf363801",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03904858412056,
+            49.26294037171195
+          ],
+          [
+            -123.03651973885655,
+            49.262931151008445
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03778416148856,
+      "lat": 49.2629357613602
     }
   },
   {
@@ -152,6 +124,34 @@
     }
   },
   {
+    "project": "Lancaster St from E 51st Av to E 52nd Av",
+    "street": null,
+    "location": "Lancaster St from E 51st Av to E 52nd Av",
+    "comp_date": "2024-04-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/728c14af-0413-4354-bdf4-4c80cc558051",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04268692891247,
+            49.22318686733985
+          ],
+          [
+            -123.04276455949957,
+            49.22173346403804
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04272574420602,
+      "lat": 49.22246016568894
+    }
+  },
+  {
     "project": "Eton St from N Kamloops St to N Penticton St",
     "street": null,
     "location": "Eton St from N Kamloops St to N Penticton St",
@@ -180,6 +180,46 @@
     }
   },
   {
+    "project": "W 46th Av from Montgomery St to Oak St",
+    "street": null,
+    "location": "W 46th Av from Montgomery St to Oak St",
+    "comp_date": "2024-04-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/241850ab-7d26-4e3b-a7a5-f02a27f864b0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12904233353926,
+              49.22933570984003
+            ],
+            [
+              -123.13201622055851,
+              49.22943925828136
+            ]
+          ],
+          [
+            [
+              -123.1282474657232,
+              49.22930801706207
+            ],
+            [
+              -123.12904233353926,
+              49.22933570984003
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13013184291995,
+      "lat": 49.22937364401485
+    }
+  },
+  {
     "project": "Moss St from Euclid Av to Vanness Av",
     "street": null,
     "location": "Moss St from Euclid Av to Vanness Av",
@@ -205,6 +245,46 @@
     "geo_point_2d": {
       "lon": -123.04345328470647,
       "lat": 49.24171501419257
+    }
+  },
+  {
+    "project": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
+    "street": null,
+    "location": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
+    "comp_date": "2024-05-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1022d4ee-8d95-4c8b-8a62-c55b981f5f9e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08180533048214,
+              49.25295818268921
+            ],
+            [
+              -123.08177314397396,
+              49.2540436253274
+            ]
+          ],
+          [
+            [
+              -123.0822291195065,
+              49.253770516201115
+            ],
+            [
+              -123.08081827756465,
+              49.25311574842402
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08163286982516,
+      "lat": 49.253466884069674
     }
   },
   {
@@ -265,46 +345,6 @@
     "geo_point_2d": {
       "lon": -123.14330420377942,
       "lat": 49.25621375215693
-    }
-  },
-  {
-    "project": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
-    "street": null,
-    "location": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1022d4ee-8d95-4c8b-8a62-c55b981f5f9e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08180533048214,
-              49.25295818268921
-            ],
-            [
-              -123.08177314397396,
-              49.2540436253274
-            ]
-          ],
-          [
-            [
-              -123.0822291195065,
-              49.253770516201115
-            ],
-            [
-              -123.08081827756465,
-              49.25311574842402
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08163286982516,
-      "lat": 49.253466884069674
     }
   },
   {
@@ -381,6 +421,34 @@
     "geo_point_2d": {
       "lon": -123.11229315603546,
       "lat": 49.27142782212
+    }
+  },
+  {
+    "project": "5700-5800 Block of Wallace Street",
+    "street": null,
+    "location": "5700-5800 Block of Wallace Street",
+    "comp_date": "2024-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/196c0413-9c80-49ea-afd8-9d6e6e79201d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19094874586375,
+            49.23476652649626
+          ],
+          [
+            -123.19096483911785,
+            49.234332182774835
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1909567924908,
+      "lat": 49.23454935463555
     }
   },
   {
