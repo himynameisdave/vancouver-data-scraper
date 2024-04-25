@@ -1,62 +1,30 @@
 [
   {
-    "project": "Spencer St from Kingsway to Euclid Av",
+    "project": "1500 Block of Grant Street",
     "street": null,
-    "location": "Spencer St from Kingsway to Euclid Av",
-    "comp_date": "2024-04-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/abadd089-ac9a-47d5-8b93-8cfadba14c55",
+    "location": "1500 Block of Grant Street",
+    "comp_date": "2024-04-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fee9b60-5c2d-4d15-8bfa-3ae084c6ac23",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.03833599946908,
-              49.238337159542084
-            ],
-            [
-              -123.03867820473758,
-              49.23798722043489
-            ]
+            -123.07154772779563,
+            49.27142335954147
           ],
           [
-            [
-              -123.03867820473758,
-              49.23798722043489
-            ],
-            [
-              -123.03927990052138,
-              49.23737192257491
-            ]
-          ],
-          [
-            [
-              -123.03927990052138,
-              49.23737192257491
-            ],
-            [
-              -123.03989492290745,
-              49.23674298911425
-            ]
-          ],
-          [
-            [
-              -123.03989492290745,
-              49.23674298911425
-            ],
-            [
-              -123.04080472439024,
-              49.2358125538
-            ]
+            -123.07274399301627,
+            49.27143035985381
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0395703729343,
-      "lat": 49.23707486743206
+      "lon": -123.07214586040594,
+      "lat": 49.27142685969764
     }
   },
   {
@@ -88,62 +56,6 @@
     }
   },
   {
-    "project": "1500 Block of Grant Street",
-    "street": null,
-    "location": "1500 Block of Grant Street",
-    "comp_date": "2024-04-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fee9b60-5c2d-4d15-8bfa-3ae084c6ac23",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07154772779563,
-            49.27142335954147
-          ],
-          [
-            -123.07274399301627,
-            49.27143035985381
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07214586040594,
-      "lat": 49.27142685969764
-    }
-  },
-  {
-    "project": "1300-1400 Block Laburnum St",
-    "street": null,
-    "location": "1300-1400 Block Laburnum St",
-    "comp_date": "2024-04-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/677d1993-cdc1-4fe4-b276-c9a5774326bf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15142689628027,
-            49.27255021626223
-          ],
-          [
-            -123.15140543860817,
-            49.273467227772386
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15141616744421,
-      "lat": 49.27300872201731
-    }
-  },
-  {
     "project": "E 8th Av from Lillooet St to Windermere St",
     "street": null,
     "location": "E 8th Av from Lillooet St to Windermere St",
@@ -172,22 +84,22 @@
     }
   },
   {
-    "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "project": "1300-1400 Block Laburnum St",
     "street": null,
-    "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
-    "comp_date": "2024-04-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d6e26a8-9d5a-486a-a62e-e4aa92ddb415",
+    "location": "1300-1400 Block Laburnum St",
+    "comp_date": "2024-04-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/677d1993-cdc1-4fe4-b276-c9a5774326bf",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10279821477266,
-            49.26645394580697
+            -123.15142689628027,
+            49.27255021626223
           ],
           [
-            -123.10162877164215,
-            49.26642944223798
+            -123.15140543860817,
+            49.273467227772386
           ]
         ],
         "type": "LineString"
@@ -195,8 +107,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10221349320743,
-      "lat": 49.266441694022475
+      "lon": -123.15141616744421,
+      "lat": 49.27300872201731
     }
   },
   {
@@ -296,46 +208,6 @@
     }
   },
   {
-    "project": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
-    "street": null,
-    "location": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1022d4ee-8d95-4c8b-8a62-c55b981f5f9e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08180533048214,
-              49.25295818268921
-            ],
-            [
-              -123.08177314397396,
-              49.2540436253274
-            ]
-          ],
-          [
-            [
-              -123.0822291195065,
-              49.253770516201115
-            ],
-            [
-              -123.08081827756465,
-              49.25311574842402
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08163286982516,
-      "lat": 49.253466884069674
-    }
-  },
-  {
     "project": "1600-1700 Block of Ontario Street",
     "street": null,
     "location": "1600-1700 Block of Ontario Street",
@@ -396,31 +268,43 @@
     }
   },
   {
-    "project": "Seawall east of Cambie Bridge",
+    "project": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
     "street": null,
-    "location": "Seawall east of Cambie Bridge",
-    "comp_date": "2024-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
+    "location": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
+    "comp_date": "2024-05-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1022d4ee-8d95-4c8b-8a62-c55b981f5f9e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.11316538483014,
-            49.27126134967142
+            [
+              -123.08180533048214,
+              49.25295818268921
+            ],
+            [
+              -123.08177314397396,
+              49.2540436253274
+            ]
           ],
           [
-            -123.11142092724079,
-            49.27159429456859
+            [
+              -123.0822291195065,
+              49.253770516201115
+            ],
+            [
+              -123.08081827756465,
+              49.25311574842402
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11229315603546,
-      "lat": 49.27142782212
+      "lon": -123.08163286982516,
+      "lat": 49.253466884069674
     }
   },
   {
@@ -469,6 +353,102 @@
     "geo_point_2d": {
       "lon": -123.11261493402155,
       "lat": 49.26976313654901
+    }
+  },
+  {
+    "project": "Seawall east of Cambie Bridge",
+    "street": null,
+    "location": "Seawall east of Cambie Bridge",
+    "comp_date": "2024-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11316538483014,
+            49.27126134967142
+          ],
+          [
+            -123.11142092724079,
+            49.27159429456859
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11229315603546,
+      "lat": 49.27142782212
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "street": null,
+    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "comp_date": "2024-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1cb9fc1b-d1b1-4a4b-a651-765b8ee1d1f8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07620237019208,
+              49.2464371889414
+            ],
+            [
+              -123.07464829457679,
+              49.246417732558
+            ]
+          ],
+          [
+            [
+              -123.07555093575607,
+              49.24684577122193
+            ],
+            [
+              -123.07556796672172,
+              49.24596189509566
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07547396031882,
+      "lat": 49.24641889401279
+    }
+  },
+  {
+    "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "street": null,
+    "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "comp_date": "2024-05-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d6e26a8-9d5a-486a-a62e-e4aa92ddb415",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279821477266,
+            49.26645394580697
+          ],
+          [
+            -123.10162877164215,
+            49.26642944223798
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10221349320743,
+      "lat": 49.266441694022475
     }
   },
   {
