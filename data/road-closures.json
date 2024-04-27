@@ -1,33 +1,5 @@
 [
   {
-    "project": "1300-1400 Block Laburnum St",
-    "street": null,
-    "location": "1300-1400 Block Laburnum St",
-    "comp_date": "2024-04-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/677d1993-cdc1-4fe4-b276-c9a5774326bf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15142689628027,
-            49.27255021626223
-          ],
-          [
-            -123.15140543860817,
-            49.273467227772386
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15141616744421,
-      "lat": 49.27300872201731
-    }
-  },
-  {
     "project": "Windermere St from E 8th Av to E Broadway",
     "street": null,
     "location": "Windermere St from E 8th Av to E Broadway",
@@ -65,6 +37,34 @@
     "geo_point_2d": {
       "lon": -123.03652514259277,
       "lat": 49.26241864662242
+    }
+  },
+  {
+    "project": "1300-1400 Block Laburnum St",
+    "street": null,
+    "location": "1300-1400 Block Laburnum St",
+    "comp_date": "2024-04-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/677d1993-cdc1-4fe4-b276-c9a5774326bf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15142689628027,
+            49.27255021626223
+          ],
+          [
+            -123.15140543860817,
+            49.273467227772386
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15141616744421,
+      "lat": 49.27300872201731
     }
   },
   {
