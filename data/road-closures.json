@@ -140,34 +140,6 @@
     }
   },
   {
-    "project": "1600-1700 Block of Ontario Street",
-    "street": null,
-    "location": "1600-1700 Block of Ontario Street",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/190b9037-13f9-4e87-9200-581f96274e8d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10463491654873,
-            49.27090949893764
-          ],
-          [
-            -123.10463491654873,
-            49.269747421216294
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10463491654873,
-      "lat": 49.27032846007697
-    }
-  },
-  {
     "project": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
     "street": null,
     "location": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
@@ -205,6 +177,34 @@
     "geo_point_2d": {
       "lon": -123.08163286982516,
       "lat": 49.253466884069674
+    }
+  },
+  {
+    "project": "1600-1700 Block of Ontario Street",
+    "street": null,
+    "location": "1600-1700 Block of Ontario Street",
+    "comp_date": "2024-05-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/190b9037-13f9-4e87-9200-581f96274e8d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10463491654873,
+            49.27090949893764
+          ],
+          [
+            -123.10463491654873,
+            49.269747421216294
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10463491654873,
+      "lat": 49.27032846007697
     }
   },
   {
@@ -309,6 +309,56 @@
     "geo_point_2d": {
       "lon": -123.05828207770206,
       "lat": 49.255936717527646
+    }
+  },
+  {
+    "project": "E 30th Av from Fraser St to Prince Albert St",
+    "street": null,
+    "location": "E 30th Av from Fraser St to Prince Albert St",
+    "comp_date": "2024-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aa6205a3-444d-4799-a5b3-3b1fd9af9f00",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09028795093398,
+              49.24353957469967
+            ],
+            [
+              -123.08959819657622,
+              49.243532510710935
+            ]
+          ],
+          [
+            [
+              -123.08959819657622,
+              49.243532510710935
+            ],
+            [
+              -123.0888726514184,
+              49.24352501138483
+            ]
+          ],
+          [
+            [
+              -123.0888726514184,
+              49.24352501138483
+            ],
+            [
+              -123.08789702354672,
+              49.243514783580906
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08909248655863,
+      "lat": 49.24352724489852
     }
   },
   {
@@ -1007,6 +1057,64 @@
     "geo_point_2d": {
       "lon": -123.15114314223422,
       "lat": 49.264197330553955
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2025-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85a25d2e-e101-4776-9cba-6994c0c2fda4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08584351722882,
+              49.27039493621703
+            ],
+            [
+              -123.08568370453351,
+              49.27043808496785
+            ],
+            [
+              -123.08153408523782,
+              49.26974770042591
+            ]
+          ],
+          [
+            [
+              -123.08264726332243,
+              49.26979804129195
+            ],
+            [
+              -123.08160572541156,
+              49.2696398269685
+            ],
+            [
+              -123.08151204210739,
+              49.26965421010976
+            ]
+          ],
+          [
+            [
+              -123.0815069302515,
+              49.273233548280956
+            ],
+            [
+              -123.08139787254976,
+              49.269687531464484
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08261090928453,
+      "lat": 49.270585754052455
     }
   }
 ]
