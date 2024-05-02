@@ -1,45 +1,5 @@
 [
   {
-    "project": "W 46th Av from Montgomery St to Oak St",
-    "street": null,
-    "location": "W 46th Av from Montgomery St to Oak St",
-    "comp_date": "2024-04-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/241850ab-7d26-4e3b-a7a5-f02a27f864b0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12904233353926,
-              49.22933570984003
-            ],
-            [
-              -123.13201622055851,
-              49.22943925828136
-            ]
-          ],
-          [
-            [
-              -123.1282474657232,
-              49.22930801706207
-            ],
-            [
-              -123.12904233353926,
-              49.22933570984003
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13013184291995,
-      "lat": 49.22937364401485
-    }
-  },
-  {
     "project": "Both sides of 4600 Beatrice St from North side of PL 4625 Beatrice St to South s",
     "street": null,
     "location": "Both sides of 4600 Beatrice St from North side of PL 4625 Beatrice St to South s",
@@ -68,6 +28,34 @@
     }
   },
   {
+    "project": "6700-6800 Block of Dumfries Street",
+    "street": null,
+    "location": "6700-6800 Block of Dumfries Street",
+    "comp_date": "2024-05-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f990177c-811f-454a-bdce-72d6e8a10350",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07460581220961,
+            49.223330698838
+          ],
+          [
+            -123.07463263429976,
+            49.22288224017393
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07461922325469,
+      "lat": 49.223106469505964
+    }
+  },
+  {
     "project": "Moss St from Euclid Av to Vanness Av",
     "street": null,
     "location": "Moss St from Euclid Av to Vanness Av",
@@ -93,6 +81,90 @@
     "geo_point_2d": {
       "lon": -123.04345328470647,
       "lat": 49.24171501419257
+    }
+  },
+  {
+    "project": "Slocan St from E 34th Av to E 37th Av",
+    "street": null,
+    "location": "Slocan St from E 34th Av to E 37th Av",
+    "comp_date": "2024-05-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e81f66be-1565-4895-aac8-3cd3ac3ec7fd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05422864260355,
+            49.23889388610132
+          ],
+          [
+            -123.0542496317905,
+            49.237386759000486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.054239137197,
+      "lat": 49.238140322550905
+    }
+  },
+  {
+    "project": "Both sides of 2600 Block Napier St from Penticton St to Slocan St",
+    "street": null,
+    "location": "Both sides of 2600 Block Napier St from Penticton St to Slocan St",
+    "comp_date": "2024-05-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f92a5a1b-6fb9-4ec2-9b18-9586e64dcf97",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0520009657913,
+            49.27498220442027
+          ],
+          [
+            -123.04943677397307,
+            49.27498220442027
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0507188698822,
+      "lat": 49.27498220442027
+    }
+  },
+  {
+    "project": "1600-1700 Block of Ontario Street",
+    "street": null,
+    "location": "1600-1700 Block of Ontario Street",
+    "comp_date": "2024-05-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/190b9037-13f9-4e87-9200-581f96274e8d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10463491654873,
+            49.27090949893764
+          ],
+          [
+            -123.10463491654873,
+            49.269747421216294
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10463491654873,
+      "lat": 49.27032846007697
     }
   },
   {
@@ -133,66 +205,6 @@
     "geo_point_2d": {
       "lon": -123.08163286982516,
       "lat": 49.253466884069674
-    }
-  },
-  {
-    "project": "1600-1700 Block of Ontario Street",
-    "street": null,
-    "location": "1600-1700 Block of Ontario Street",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/190b9037-13f9-4e87-9200-581f96274e8d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10463491654873,
-            49.27090949893764
-          ],
-          [
-            -123.10463491654873,
-            49.269747421216294
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10463491654873,
-      "lat": 49.27032846007697
-    }
-  },
-  {
-    "project": "1600 Block of Cedar Crescent",
-    "street": null,
-    "location": "1600 Block of Cedar Crescent",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/989345d0-e035-41f3-8fff-1fa78662c46c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.143677800479,
-            49.25619048827295
-          ],
-          [
-            -123.1432325537825,
-            49.25621149569096
-          ],
-          [
-            -123.14293214637283,
-            49.256253510500215
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14330420377942,
-      "lat": 49.25621375215693
     }
   },
   {
@@ -269,6 +281,34 @@
     "geo_point_2d": {
       "lon": -123.11229315603546,
       "lat": 49.27142782212
+    }
+  },
+  {
+    "project": "Garden Dr from E 15th Av to E 17th Av",
+    "street": null,
+    "location": "Garden Dr from E 15th Av to E 17th Av",
+    "comp_date": "2024-05-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c9a7878f-da1e-4a48-9a22-fbcc12761b03",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05827825942298,
+            49.25676726131445
+          ],
+          [
+            -123.05828589598114,
+            49.25510617374084
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05828207770206,
+      "lat": 49.255936717527646
     }
   },
   {
@@ -393,6 +433,78 @@
     "geo_point_2d": {
       "lon": -123.10221349320743,
       "lat": 49.266441694022475
+    }
+  },
+  {
+    "project": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
+    "street": null,
+    "location": "500 Block of W 13th Ave and Lane West of 2900 Block of Cambie St",
+    "comp_date": "2024-05-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/905daa7c-2dbd-404f-ad9a-e3526cdacdfa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1149874004877,
+              49.25944603524147
+            ],
+            [
+              -123.1176696095026,
+              49.25948454629403
+            ]
+          ],
+          [
+            [
+              -123.11560514542796,
+              49.25946231630303
+            ],
+            [
+              -123.11560514542796,
+              49.25921222821415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1162668173314,
+      "lat": 49.259454373427175
+    }
+  },
+  {
+    "project": "1600 Block of Cedar Crescent",
+    "street": null,
+    "location": "1600 Block of Cedar Crescent",
+    "comp_date": "2024-05-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/989345d0-e035-41f3-8fff-1fa78662c46c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.143677800479,
+            49.25619048827295
+          ],
+          [
+            -123.1432325537825,
+            49.25621149569096
+          ],
+          [
+            -123.14293214637283,
+            49.256253510500215
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14330420377942,
+      "lat": 49.25621375215693
     }
   },
   {
