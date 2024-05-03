@@ -1,61 +1,5 @@
 [
   {
-    "project": "Both sides of 4600 Beatrice St from North side of PL 4625 Beatrice St to South s",
-    "street": null,
-    "location": "Both sides of 4600 Beatrice St from North side of PL 4625 Beatrice St to South s",
-    "comp_date": "2024-05-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1f42a1a2-94de-4d3d-af7e-25d1a4aabda0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06661918160295,
-            49.243112149709646
-          ],
-          [
-            -123.06661918160295,
-            49.24337831350982
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06661918160295,
-      "lat": 49.243245231609734
-    }
-  },
-  {
-    "project": "6700-6800 Block of Dumfries Street",
-    "street": null,
-    "location": "6700-6800 Block of Dumfries Street",
-    "comp_date": "2024-05-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f990177c-811f-454a-bdce-72d6e8a10350",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07460581220961,
-            49.223330698838
-          ],
-          [
-            -123.07463263429976,
-            49.22288224017393
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07461922325469,
-      "lat": 49.223106469505964
-    }
-  },
-  {
     "project": "Moss St from Euclid Av to Vanness Av",
     "street": null,
     "location": "Moss St from Euclid Av to Vanness Av",
@@ -140,6 +84,62 @@
     }
   },
   {
+    "project": "6700-6800 Block of Dumfries Street",
+    "street": null,
+    "location": "6700-6800 Block of Dumfries Street",
+    "comp_date": "2024-05-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f990177c-811f-454a-bdce-72d6e8a10350",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07460581220961,
+            49.223330698838
+          ],
+          [
+            -123.07463263429976,
+            49.22288224017393
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07461922325469,
+      "lat": 49.223106469505964
+    }
+  },
+  {
+    "project": "1600-1700 Block of Ontario Street",
+    "street": null,
+    "location": "1600-1700 Block of Ontario Street",
+    "comp_date": "2024-05-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/190b9037-13f9-4e87-9200-581f96274e8d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10463491654873,
+            49.27090949893764
+          ],
+          [
+            -123.10463491654873,
+            49.269747421216294
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10463491654873,
+      "lat": 49.27032846007697
+    }
+  },
+  {
     "project": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
     "street": null,
     "location": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
@@ -180,22 +180,22 @@
     }
   },
   {
-    "project": "1600-1700 Block of Ontario Street",
+    "project": "Seawall east of Cambie Bridge",
     "street": null,
-    "location": "1600-1700 Block of Ontario Street",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/190b9037-13f9-4e87-9200-581f96274e8d",
+    "location": "Seawall east of Cambie Bridge",
+    "comp_date": "2024-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10463491654873,
-            49.27090949893764
+            -123.11316538483014,
+            49.27126134967142
           ],
           [
-            -123.10463491654873,
-            49.269747421216294
+            -123.11142092724079,
+            49.27159429456859
           ]
         ],
         "type": "LineString"
@@ -203,8 +203,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10463491654873,
-      "lat": 49.27032846007697
+      "lon": -123.11229315603546,
+      "lat": 49.27142782212
     }
   },
   {
@@ -256,34 +256,6 @@
     }
   },
   {
-    "project": "Seawall east of Cambie Bridge",
-    "street": null,
-    "location": "Seawall east of Cambie Bridge",
-    "comp_date": "2024-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f2b8dd7-9ec1-49c4-a447-80f3406103d6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11316538483014,
-            49.27126134967142
-          ],
-          [
-            -123.11142092724079,
-            49.27159429456859
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11229315603546,
-      "lat": 49.27142782212
-    }
-  },
-  {
     "project": "Garden Dr from E 15th Av to E 17th Av",
     "street": null,
     "location": "Garden Dr from E 15th Av to E 17th Av",
@@ -309,6 +281,34 @@
     "geo_point_2d": {
       "lon": -123.05828207770206,
       "lat": 49.255936717527646
+    }
+  },
+  {
+    "project": "2800 Block of E 44th Avenue",
+    "street": null,
+    "location": "2800 Block of E 44th Avenue",
+    "comp_date": "2024-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8fd82028-a575-4dcf-bb60-a07a4b9849e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0460430253263,
+            49.230229650399
+          ],
+          [
+            -123.04749678261237,
+            49.23023665655501
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04676990396933,
+      "lat": 49.230233153477
     }
   },
   {
@@ -359,6 +359,50 @@
     "geo_point_2d": {
       "lon": -123.08909248655863,
       "lat": 49.24352724489852
+    }
+  },
+  {
+    "project": "E 32nd Av from Gladstone St to E 30th Av",
+    "street": null,
+    "location": "E 32nd Av from Gladstone St to E 30th Av",
+    "comp_date": "2024-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ace3b72f-b661-4462-908b-82d81875b25e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06283875226654,
+              49.24151082708386
+            ],
+            [
+              -123.062156824271,
+              49.24150727405603
+            ]
+          ],
+          [
+            [
+              -123.062156824271,
+              49.24150727405603
+            ],
+            [
+              -123.06014147178857,
+              49.241496754888374
+            ],
+            [
+              -123.06011475183571,
+              49.24152054321257
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06147228409033,
+      "lat": 49.24150385690127
     }
   },
   {
@@ -430,34 +474,6 @@
     }
   },
   {
-    "project": "B/S of 3200-3300 block of Fleming St",
-    "street": null,
-    "location": "B/S of 3200-3300 block of Fleming St",
-    "comp_date": "2024-05-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/349bfab9-c4ba-4d19-9b64-cab2fe1c358f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07097015023561,
-            49.254668833673634
-          ],
-          [
-            -123.0709540569815,
-            49.255095995917856
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07096210360857,
-      "lat": 49.254882414795745
-    }
-  },
-  {
     "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
     "street": null,
     "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
@@ -483,6 +499,34 @@
     "geo_point_2d": {
       "lon": -123.10221349320743,
       "lat": 49.266441694022475
+    }
+  },
+  {
+    "project": "B/S of 3200-3300 block of Fleming St",
+    "street": null,
+    "location": "B/S of 3200-3300 block of Fleming St",
+    "comp_date": "2024-05-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/349bfab9-c4ba-4d19-9b64-cab2fe1c358f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07097015023561,
+            49.254668833673634
+          ],
+          [
+            -123.0709540569815,
+            49.255095995917856
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07096210360857,
+      "lat": 49.254882414795745
     }
   },
   {
