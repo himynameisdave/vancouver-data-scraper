@@ -1,185 +1,5 @@
 [
   {
-    "project": "Moss St from Euclid Av to Vanness Av",
-    "street": null,
-    "location": "Moss St from Euclid Av to Vanness Av",
-    "comp_date": "2024-05-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cfa4b30c-aa41-42de-a304-4c845c6bc827",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04255201213645,
-            49.24265052068213
-          ],
-          [
-            -123.04435455727649,
-            49.240779507703024
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04345328470647,
-      "lat": 49.24171501419257
-    }
-  },
-  {
-    "project": "Slocan St from E 34th Av to E 37th Av",
-    "street": null,
-    "location": "Slocan St from E 34th Av to E 37th Av",
-    "comp_date": "2024-05-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e81f66be-1565-4895-aac8-3cd3ac3ec7fd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05422864260355,
-            49.23889388610132
-          ],
-          [
-            -123.0542496317905,
-            49.237386759000486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.054239137197,
-      "lat": 49.238140322550905
-    }
-  },
-  {
-    "project": "Both sides of 2600 Block Napier St from Penticton St to Slocan St",
-    "street": null,
-    "location": "Both sides of 2600 Block Napier St from Penticton St to Slocan St",
-    "comp_date": "2024-05-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f92a5a1b-6fb9-4ec2-9b18-9586e64dcf97",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0520009657913,
-            49.27498220442027
-          ],
-          [
-            -123.04943677397307,
-            49.27498220442027
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0507188698822,
-      "lat": 49.27498220442027
-    }
-  },
-  {
-    "project": "6700-6800 Block of Dumfries Street",
-    "street": null,
-    "location": "6700-6800 Block of Dumfries Street",
-    "comp_date": "2024-05-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f990177c-811f-454a-bdce-72d6e8a10350",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07460581220961,
-            49.223330698838
-          ],
-          [
-            -123.07463263429976,
-            49.22288224017393
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07461922325469,
-      "lat": 49.223106469505964
-    }
-  },
-  {
-    "project": "1600-1700 Block of Ontario Street",
-    "street": null,
-    "location": "1600-1700 Block of Ontario Street",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/190b9037-13f9-4e87-9200-581f96274e8d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10463491654873,
-            49.27090949893764
-          ],
-          [
-            -123.10463491654873,
-            49.269747421216294
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10463491654873,
-      "lat": 49.27032846007697
-    }
-  },
-  {
-    "project": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
-    "street": null,
-    "location": "Both Sides of 3400-3500 Block of Glen Drive From Kingsway to Lane South of E 18t",
-    "comp_date": "2024-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1022d4ee-8d95-4c8b-8a62-c55b981f5f9e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08180533048214,
-              49.25295818268921
-            ],
-            [
-              -123.08177314397396,
-              49.2540436253274
-            ]
-          ],
-          [
-            [
-              -123.0822291195065,
-              49.253770516201115
-            ],
-            [
-              -123.08081827756465,
-              49.25311574842402
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08163286982516,
-      "lat": 49.253466884069674
-    }
-  },
-  {
     "project": "Seawall east of Cambie Bridge",
     "street": null,
     "location": "Seawall east of Cambie Bridge",
@@ -284,6 +104,50 @@
     }
   },
   {
+    "project": "E 32nd Av from Gladstone St to E 30th Av",
+    "street": null,
+    "location": "E 32nd Av from Gladstone St to E 30th Av",
+    "comp_date": "2024-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ace3b72f-b661-4462-908b-82d81875b25e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06283875226654,
+              49.24151082708386
+            ],
+            [
+              -123.062156824271,
+              49.24150727405603
+            ]
+          ],
+          [
+            [
+              -123.062156824271,
+              49.24150727405603
+            ],
+            [
+              -123.06014147178857,
+              49.241496754888374
+            ],
+            [
+              -123.06011475183571,
+              49.24152054321257
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06147228409033,
+      "lat": 49.24150385690127
+    }
+  },
+  {
     "project": "2800 Block of E 44th Avenue",
     "street": null,
     "location": "2800 Block of E 44th Avenue",
@@ -362,50 +226,6 @@
     }
   },
   {
-    "project": "E 32nd Av from Gladstone St to E 30th Av",
-    "street": null,
-    "location": "E 32nd Av from Gladstone St to E 30th Av",
-    "comp_date": "2024-05-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ace3b72f-b661-4462-908b-82d81875b25e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06283875226654,
-              49.24151082708386
-            ],
-            [
-              -123.062156824271,
-              49.24150727405603
-            ]
-          ],
-          [
-            [
-              -123.062156824271,
-              49.24150727405603
-            ],
-            [
-              -123.06014147178857,
-              49.241496754888374
-            ],
-            [
-              -123.06011475183571,
-              49.24152054321257
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06147228409033,
-      "lat": 49.24150385690127
-    }
-  },
-  {
     "project": "5700-5800 Block of Wallace Street",
     "street": null,
     "location": "5700-5800 Block of Wallace Street",
@@ -431,46 +251,6 @@
     "geo_point_2d": {
       "lon": -123.1909567924908,
       "lat": 49.23454935463555
-    }
-  },
-  {
-    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "street": null,
-    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "comp_date": "2024-05-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1cb9fc1b-d1b1-4a4b-a651-765b8ee1d1f8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07620237019208,
-              49.2464371889414
-            ],
-            [
-              -123.07464829457679,
-              49.246417732558
-            ]
-          ],
-          [
-            [
-              -123.07555093575607,
-              49.24684577122193
-            ],
-            [
-              -123.07556796672172,
-              49.24596189509566
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07547396031882,
-      "lat": 49.24641889401279
     }
   },
   {
@@ -567,6 +347,46 @@
     "geo_point_2d": {
       "lon": -123.1162668173314,
       "lat": 49.259454373427175
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "street": null,
+    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "comp_date": "2024-05-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1cb9fc1b-d1b1-4a4b-a651-765b8ee1d1f8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07620237019208,
+              49.2464371889414
+            ],
+            [
+              -123.07464829457679,
+              49.246417732558
+            ]
+          ],
+          [
+            [
+              -123.07555093575607,
+              49.24684577122193
+            ],
+            [
+              -123.07556796672172,
+              49.24596189509566
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07547396031882,
+      "lat": 49.24641889401279
     }
   },
   {
