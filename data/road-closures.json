@@ -104,50 +104,6 @@
     }
   },
   {
-    "project": "E 32nd Av from Gladstone St to E 30th Av",
-    "street": null,
-    "location": "E 32nd Av from Gladstone St to E 30th Av",
-    "comp_date": "2024-05-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ace3b72f-b661-4462-908b-82d81875b25e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06283875226654,
-              49.24151082708386
-            ],
-            [
-              -123.062156824271,
-              49.24150727405603
-            ]
-          ],
-          [
-            [
-              -123.062156824271,
-              49.24150727405603
-            ],
-            [
-              -123.06014147178857,
-              49.241496754888374
-            ],
-            [
-              -123.06011475183571,
-              49.24152054321257
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06147228409033,
-      "lat": 49.24150385690127
-    }
-  },
-  {
     "project": "2800 Block of E 44th Avenue",
     "street": null,
     "location": "2800 Block of E 44th Avenue",
@@ -223,6 +179,50 @@
     "geo_point_2d": {
       "lon": -123.08909248655863,
       "lat": 49.24352724489852
+    }
+  },
+  {
+    "project": "E 32nd Av from Gladstone St to E 30th Av",
+    "street": null,
+    "location": "E 32nd Av from Gladstone St to E 30th Av",
+    "comp_date": "2024-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ace3b72f-b661-4462-908b-82d81875b25e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06283875226654,
+              49.24151082708386
+            ],
+            [
+              -123.062156824271,
+              49.24150727405603
+            ]
+          ],
+          [
+            [
+              -123.062156824271,
+              49.24150727405603
+            ],
+            [
+              -123.06014147178857,
+              49.241496754888374
+            ],
+            [
+              -123.06011475183571,
+              49.24152054321257
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06147228409033,
+      "lat": 49.24150385690127
     }
   },
   {
