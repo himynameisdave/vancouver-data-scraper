@@ -1,33 +1,5 @@
 [
   {
-    "project": "Garden Dr from E 15th Av to E 17th Av",
-    "street": null,
-    "location": "Garden Dr from E 15th Av to E 17th Av",
-    "comp_date": "2024-05-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c9a7878f-da1e-4a48-9a22-fbcc12761b03",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05827825942298,
-            49.25676726131445
-          ],
-          [
-            -123.05828589598114,
-            49.25510617374084
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05828207770206,
-      "lat": 49.255936717527646
-    }
-  },
-  {
     "project": "2800 Block of E 44th Avenue",
     "street": null,
     "location": "2800 Block of E 44th Avenue",
@@ -287,6 +259,34 @@
     "geo_point_2d": {
       "lon": -123.10221349320743,
       "lat": 49.266441694022475
+    }
+  },
+  {
+    "project": "W 26th Av from Hudson St to Cartier St",
+    "street": null,
+    "location": "W 26th Av from Hudson St to Cartier St",
+    "comp_date": "2024-05-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65ba94bb-3366-4eb6-989c-bcf07769a16d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13441138006483,
+            49.24826556212804
+          ],
+          [
+            -123.13674263102313,
+            49.248302414438484
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.135577005544,
+      "lat": 49.24828398828326
     }
   },
   {
