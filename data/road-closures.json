@@ -1,65 +1,21 @@
 [
   {
-    "project": "E 32nd Av from Gladstone St to E 30th Av",
+    "project": "1900 Block of E 6th Avenue",
     "street": null,
-    "location": "E 32nd Av from Gladstone St to E 30th Av",
-    "comp_date": "2024-05-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ace3b72f-b661-4462-908b-82d81875b25e",
+    "location": "1900 Block of E 6th Avenue",
+    "comp_date": "2024-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e8ae20be-9cab-4789-9015-19af003de3b3",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.06283875226654,
-              49.24151082708386
-            ],
-            [
-              -123.062156824271,
-              49.24150727405603
-            ]
+            -123.06575486174046,
+            49.265060507886346
           ],
           [
-            [
-              -123.062156824271,
-              49.24150727405603
-            ],
-            [
-              -123.06014147178857,
-              49.241496754888374
-            ],
-            [
-              -123.06011475183571,
-              49.24152054321257
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06147228409033,
-      "lat": 49.24150385690127
-    }
-  },
-  {
-    "project": "2800 Block of E 44th Avenue",
-    "street": null,
-    "location": "2800 Block of E 44th Avenue",
-    "comp_date": "2024-05-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8fd82028-a575-4dcf-bb60-a07a4b9849e2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0460430253263,
-            49.230229650399
-          ],
-          [
-            -123.04749678261237,
-            49.23023665655501
+            -123.06401142588078,
+            49.26502550179546
           ]
         ],
         "type": "LineString"
@@ -67,58 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.04676990396933,
-      "lat": 49.230233153477
-    }
-  },
-  {
-    "project": "E 30th Av from Fraser St to Prince Albert St",
-    "street": null,
-    "location": "E 30th Av from Fraser St to Prince Albert St",
-    "comp_date": "2024-05-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aa6205a3-444d-4799-a5b3-3b1fd9af9f00",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09028795093398,
-              49.24353957469967
-            ],
-            [
-              -123.08959819657622,
-              49.243532510710935
-            ]
-          ],
-          [
-            [
-              -123.08959819657622,
-              49.243532510710935
-            ],
-            [
-              -123.0888726514184,
-              49.24352501138483
-            ]
-          ],
-          [
-            [
-              -123.0888726514184,
-              49.24352501138483
-            ],
-            [
-              -123.08789702354672,
-              49.243514783580906
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08909248655863,
-      "lat": 49.24352724489852
+      "lon": -123.06488314381062,
+      "lat": 49.265043004840905
     }
   },
   {
@@ -150,34 +56,6 @@
     }
   },
   {
-    "project": "2300 Block of E 5th Avenue",
-    "street": null,
-    "location": "2300 Block of E 5th Avenue",
-    "comp_date": "2024-05-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0580308391566,
-            49.265903480595455
-          ],
-          [
-            -123.05668973464915,
-            49.265889478401306
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05736028690286,
-      "lat": 49.26589647949839
-    }
-  },
-  {
     "project": "Both Sides of 1100 Block of Harwood Street From West PL of 1100 to Thurlow Stree",
     "street": null,
     "location": "Both Sides of 1100 Block of Harwood Street From West PL of 1100 to Thurlow Stree",
@@ -206,22 +84,22 @@
     }
   },
   {
-    "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "project": "2300 Block of E 5th Avenue",
     "street": null,
-    "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
-    "comp_date": "2024-05-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d6e26a8-9d5a-486a-a62e-e4aa92ddb415",
+    "location": "2300 Block of E 5th Avenue",
+    "comp_date": "2024-05-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10279821477266,
-            49.26645394580697
+            -123.0580308391566,
+            49.265903480595455
           ],
           [
-            -123.10162877164215,
-            49.26642944223798
+            -123.05668973464915,
+            49.265889478401306
           ]
         ],
         "type": "LineString"
@@ -229,15 +107,55 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10221349320743,
-      "lat": 49.266441694022475
+      "lon": -123.05736028690286,
+      "lat": 49.26589647949839
+    }
+  },
+  {
+    "project": "Grant St from Nootka St to Renfrew St",
+    "street": null,
+    "location": "Grant St from Nootka St to Renfrew St",
+    "comp_date": "2024-05-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e60b7ba-ec6a-434e-8d80-878936670a48",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04420098864064,
+              49.27135878641883
+            ],
+            [
+              -123.04360994489754,
+              49.271357382865574
+            ]
+          ],
+          [
+            [
+              -123.04360994489754,
+              49.271357382865574
+            ],
+            [
+              -123.04146860881607,
+              49.27135581444145
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04283479931924,
+      "lat": 49.271356920089815
     }
   },
   {
     "project": "B/S of 3200-3300 block of Fleming St",
     "street": null,
     "location": "B/S of 3200-3300 block of Fleming St",
-    "comp_date": "2024-05-11",
+    "comp_date": "2024-05-14",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/349bfab9-c4ba-4d19-9b64-cab2fe1c358f",
     "geom": {
       "type": "Feature",
@@ -370,38 +288,6 @@
     }
   },
   {
-    "project": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
-    "street": null,
-    "location": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
-    "comp_date": "2024-05-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cdf99b08-f945-46a9-9cbf-46a17cec1097",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12361750646501,
-            49.24131087754844
-          ],
-          [
-            -123.12360141321093,
-            49.24180820057222
-          ],
-          [
-            -123.12414858384997,
-            49.24182921411082
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12374857964042,
-      "lat": 49.24169532130639
-    }
-  },
-  {
     "project": "1600 Block of Cedar Crescent",
     "street": null,
     "location": "1600 Block of Cedar Crescent",
@@ -434,6 +320,66 @@
     }
   },
   {
+    "project": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
+    "street": null,
+    "location": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
+    "comp_date": "2024-05-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cdf99b08-f945-46a9-9cbf-46a17cec1097",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12361750646501,
+            49.24131087754844
+          ],
+          [
+            -123.12360141321093,
+            49.24180820057222
+          ],
+          [
+            -123.12414858384997,
+            49.24182921411082
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12374857964042,
+      "lat": 49.24169532130639
+    }
+  },
+  {
+    "project": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "street": null,
+    "location": "Both sides of 100 Block East 5th Avenue from Quebec Street to Lane East of Quebe",
+    "comp_date": "2024-05-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d6e26a8-9d5a-486a-a62e-e4aa92ddb415",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279821477266,
+            49.26645394580697
+          ],
+          [
+            -123.10162877164215,
+            49.26642944223798
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10221349320743,
+      "lat": 49.266441694022475
+    }
+  },
+  {
     "project": "W 14th Ave from Alder St to Spruce St",
     "street": null,
     "location": "W 14th Ave from Alder St to Spruce St",
@@ -462,34 +408,6 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th Av and W 7th Av",
-    "street": null,
-    "location": "Bayswater St between W 6th Av and W 7th Av",
-    "comp_date": "2024-06-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/15f899b9-5045-4e38-a567-e8e242d22a02",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17114233363367,
-            49.26663809825061
-          ],
-          [
-            -123.17116378142141,
-            49.26587078369508
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17115305752753,
-      "lat": 49.266254440972844
-    }
-  },
-  {
     "project": "W 14th Av between Adler St and Spruce St",
     "street": null,
     "location": "W 14th Av between Adler St and Spruce St",
@@ -515,6 +433,34 @@
     "geo_point_2d": {
       "lon": -123.13035726816007,
       "lat": 49.25878071481969
+    }
+  },
+  {
+    "project": "Bayswater St between W 6th Av and W 7th Av",
+    "street": null,
+    "location": "Bayswater St between W 6th Av and W 7th Av",
+    "comp_date": "2024-06-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/15f899b9-5045-4e38-a567-e8e242d22a02",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17114233363367,
+            49.26663809825061
+          ],
+          [
+            -123.17116378142141,
+            49.26587078369508
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17115305752753,
+      "lat": 49.266254440972844
     }
   },
   {
@@ -603,6 +549,66 @@
     "geo_point_2d": {
       "lon": -123.06878304144053,
       "lat": 49.25033123961805
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-08-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/910c4715-f584-435f-8152-66b720cbaa0a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05812232224615,
+              49.2649960671647
+            ],
+            [
+              -123.05813064352644,
+              49.26454444981783
+            ]
+          ],
+          [
+            [
+              -123.05813064352644,
+              49.26454444981783
+            ],
+            [
+              -123.05813870254663,
+              49.2640920140031
+            ]
+          ],
+          [
+            [
+              -123.05813870254663,
+              49.2640920140031
+            ],
+            [
+              -123.05814727030167,
+              49.26363985674763
+            ]
+          ],
+          [
+            [
+              -123.05814727030167,
+              49.26363985674763
+            ],
+            [
+              -123.0581550962084,
+              49.26318813159912
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05813883145629,
+      "lat": 49.264092101534274
     }
   },
   {
