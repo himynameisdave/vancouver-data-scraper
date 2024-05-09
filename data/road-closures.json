@@ -28,22 +28,22 @@
     }
   },
   {
-    "project": "5700-5800 Block of Wallace Street",
+    "project": "2300 Block of E 5th Avenue",
     "street": null,
-    "location": "5700-5800 Block of Wallace Street",
-    "comp_date": "2024-05-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/196c0413-9c80-49ea-afd8-9d6e6e79201d",
+    "location": "2300 Block of E 5th Avenue",
+    "comp_date": "2024-05-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.19094874586375,
-            49.23476652649626
+            -123.0580308391566,
+            49.265903480595455
           ],
           [
-            -123.19096483911785,
-            49.234332182774835
+            -123.05668973464915,
+            49.265889478401306
           ]
         ],
         "type": "LineString"
@@ -51,8 +51,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1909567924908,
-      "lat": 49.23454935463555
+      "lon": -123.05736028690286,
+      "lat": 49.26589647949839
     }
   },
   {
@@ -84,22 +84,22 @@
     }
   },
   {
-    "project": "2300 Block of E 5th Avenue",
+    "project": "Both sides of 3300 Block E 44th Ave from Latta St to East side of PL 3376 E 44th",
     "street": null,
-    "location": "2300 Block of E 5th Avenue",
-    "comp_date": "2024-05-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2723b7e5-9eaa-4e8b-9466-682b4f0c09a6",
+    "location": "Both sides of 3300 Block E 44th Ave from Latta St to East side of PL 3376 E 44th",
+    "comp_date": "2024-05-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bdd5ce85-c015-46c1-befd-dda9b7454d9d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0580308391566,
-            49.265903480595455
+            -123.03452293775155,
+            49.230056115677456
           ],
           [
-            -123.05668973464915,
-            49.265889478401306
+            -123.03282241723612,
+            49.23004560640467
           ]
         ],
         "type": "LineString"
@@ -107,8 +107,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05736028690286,
-      "lat": 49.26589647949839
+      "lon": -123.03367267749383,
+      "lat": 49.230050861041065
     }
   },
   {
@@ -288,38 +288,6 @@
     }
   },
   {
-    "project": "1600 Block of Cedar Crescent",
-    "street": null,
-    "location": "1600 Block of Cedar Crescent",
-    "comp_date": "2024-05-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/989345d0-e035-41f3-8fff-1fa78662c46c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.143677800479,
-            49.25619048827295
-          ],
-          [
-            -123.1432325537825,
-            49.25621149569096
-          ],
-          [
-            -123.14293214637283,
-            49.256253510500215
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14330420377942,
-      "lat": 49.25621375215693
-    }
-  },
-  {
     "project": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
     "street": null,
     "location": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
@@ -349,6 +317,38 @@
     "geo_point_2d": {
       "lon": -123.12374857964042,
       "lat": 49.24169532130639
+    }
+  },
+  {
+    "project": "1600 Block of Cedar Crescent",
+    "street": null,
+    "location": "1600 Block of Cedar Crescent",
+    "comp_date": "2024-05-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/989345d0-e035-41f3-8fff-1fa78662c46c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.143677800479,
+            49.25619048827295
+          ],
+          [
+            -123.1432325537825,
+            49.25621149569096
+          ],
+          [
+            -123.14293214637283,
+            49.256253510500215
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14330420377942,
+      "lat": 49.25621375215693
     }
   },
   {
@@ -408,34 +408,6 @@
     }
   },
   {
-    "project": "W 14th Av between Adler St and Spruce St",
-    "street": null,
-    "location": "W 14th Av between Adler St and Spruce St",
-    "comp_date": "2024-06-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9709ff04-c33b-4c77-92f5-c9194ed840ce",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13150961732636,
-            49.2587965946295
-          ],
-          [
-            -123.12920491899382,
-            49.258764835009885
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13035726816007,
-      "lat": 49.25878071481969
-    }
-  },
-  {
     "project": "Bayswater St between W 6th Av and W 7th Av",
     "street": null,
     "location": "Bayswater St between W 6th Av and W 7th Av",
@@ -461,6 +433,34 @@
     "geo_point_2d": {
       "lon": -123.17115305752753,
       "lat": 49.266254440972844
+    }
+  },
+  {
+    "project": "W 14th Av between Adler St and Spruce St",
+    "street": null,
+    "location": "W 14th Av between Adler St and Spruce St",
+    "comp_date": "2024-06-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9709ff04-c33b-4c77-92f5-c9194ed840ce",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13150961732636,
+            49.2587965946295
+          ],
+          [
+            -123.12920491899382,
+            49.258764835009885
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13035726816007,
+      "lat": 49.25878071481969
     }
   },
   {
