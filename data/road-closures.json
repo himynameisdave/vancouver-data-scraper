@@ -56,34 +56,6 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th Av and W 7th Av",
-    "street": null,
-    "location": "Bayswater St between W 6th Av and W 7th Av",
-    "comp_date": "2024-06-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/15f899b9-5045-4e38-a567-e8e242d22a02",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17114233363367,
-            49.26663809825061
-          ],
-          [
-            -123.17116378142141,
-            49.26587078369508
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17115305752753,
-      "lat": 49.266254440972844
-    }
-  },
-  {
     "project": "W 14th Av between Adler St and Spruce St",
     "street": null,
     "location": "W 14th Av between Adler St and Spruce St",
@@ -109,6 +81,34 @@
     "geo_point_2d": {
       "lon": -123.13035726816007,
       "lat": 49.25878071481969
+    }
+  },
+  {
+    "project": "Bayswater St between W 6th Av and W 7th Av",
+    "street": null,
+    "location": "Bayswater St between W 6th Av and W 7th Av",
+    "comp_date": "2024-06-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/15f899b9-5045-4e38-a567-e8e242d22a02",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17114233363367,
+            49.26663809825061
+          ],
+          [
+            -123.17116378142141,
+            49.26587078369508
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17115305752753,
+      "lat": 49.266254440972844
     }
   },
   {
