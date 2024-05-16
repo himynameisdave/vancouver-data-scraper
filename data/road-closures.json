@@ -274,34 +274,6 @@
     }
   },
   {
-    "project": "Both sides of 9100 Block Hudson St from W 75th Ave to W 76th Ave.",
-    "street": null,
-    "location": "Both sides of 9100 Block Hudson St from W 75th Ave to W 76th Ave.",
-    "comp_date": "2024-05-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c8d746a0-7c70-4ffd-a55e-bb4e892a2689",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13495265589383,
-            49.202334183118296
-          ],
-          [
-            -123.13521551237729,
-            49.20139832435629
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13508408413556,
-      "lat": 49.20186625373729
-    }
-  },
-  {
     "project": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
     "street": null,
     "location": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
@@ -331,6 +303,34 @@
     "geo_point_2d": {
       "lon": -123.12374857964042,
       "lat": 49.24169532130639
+    }
+  },
+  {
+    "project": "Both sides of 9100 Block Hudson St from W 75th Ave to W 76th Ave.",
+    "street": null,
+    "location": "Both sides of 9100 Block Hudson St from W 75th Ave to W 76th Ave.",
+    "comp_date": "2024-05-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c8d746a0-7c70-4ffd-a55e-bb4e892a2689",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13495265589383,
+            49.202334183118296
+          ],
+          [
+            -123.13521551237729,
+            49.20139832435629
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13508408413556,
+      "lat": 49.20186625373729
     }
   },
   {
