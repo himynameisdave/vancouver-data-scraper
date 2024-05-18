@@ -182,6 +182,38 @@
     }
   },
   {
+    "project": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
+    "street": null,
+    "location": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
+    "comp_date": "2024-05-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cdf99b08-f945-46a9-9cbf-46a17cec1097",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12361750646501,
+            49.24131087754844
+          ],
+          [
+            -123.12360141321093,
+            49.24180820057222
+          ],
+          [
+            -123.12414858384997,
+            49.24182921411082
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12374857964042,
+      "lat": 49.24169532130639
+    }
+  },
+  {
     "project": "B/S of 3200-3300 block of Fleming St",
     "street": null,
     "location": "B/S of 3200-3300 block of Fleming St",
@@ -235,38 +267,6 @@
     "geo_point_2d": {
       "lon": -123.13508408413556,
       "lat": 49.20186625373729
-    }
-  },
-  {
-    "project": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
-    "street": null,
-    "location": "Both sides of 4800 Block Willow St from W 33rd Ave to Lane North of W 33rd Ave.",
-    "comp_date": "2024-05-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cdf99b08-f945-46a9-9cbf-46a17cec1097",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12361750646501,
-            49.24131087754844
-          ],
-          [
-            -123.12360141321093,
-            49.24180820057222
-          ],
-          [
-            -123.12414858384997,
-            49.24182921411082
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12374857964042,
-      "lat": 49.24169532130639
     }
   },
   {
