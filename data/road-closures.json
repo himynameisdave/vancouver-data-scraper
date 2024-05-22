@@ -1,73 +1,5 @@
 [
   {
-    "project": "W 37th Av rom Highbury St to Dunbar St",
-    "street": null,
-    "location": "W 37th Av rom Highbury St to Dunbar St",
-    "comp_date": "2024-05-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ab9e241-bbce-48f7-86df-a2e3524ea090",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18602500891416,
-              49.23858358503088
-            ],
-            [
-              -123.18821209125123,
-              49.238591277670025
-            ]
-          ],
-          [
-            [
-              -123.18530763058605,
-              49.238580861001395
-            ],
-            [
-              -123.18602500891416,
-              49.23858358503088
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18675986064214,
-      "lat": 49.238586144932945
-    }
-  },
-  {
-    "project": "W 15th Av from Blenheim St to Trutch st",
-    "street": null,
-    "location": "W 15th Av from Blenheim St to Trutch st",
-    "comp_date": "2024-05-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de56cc04-fa22-4019-9fb8-c0c2c58105fe",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17612261565993,
-            49.25878762154676
-          ],
-          [
-            -123.17805515370492,
-            49.258817573007036
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17708888468243,
-      "lat": 49.2588025972769
-    }
-  },
-  {
     "project": "8100-8200 Block of Ross Street",
     "street": null,
     "location": "8100-8200 Block of Ross Street",
@@ -97,6 +29,90 @@
     "geo_point_2d": {
       "lon": -123.08409669336834,
       "lat": 49.209953141050875
+    }
+  },
+  {
+    "project": "Both sides of the street of 2500 Block of E 5th Ave, from W PL 2504 E 5th Ave to",
+    "street": null,
+    "location": "Both sides of the street of 2500 Block of E 5th Ave, from W PL 2504 E 5th Ave to",
+    "comp_date": "2024-05-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1c6c3c08-a7d0-4ebd-9e78-cf36963b6329",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05463062789988,
+            49.2657285649062
+          ],
+          [
+            -123.0522139929571,
+            49.26572389745641
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342231042849,
+      "lat": 49.265726231181304
+    }
+  },
+  {
+    "project": "Both sides of the street of 2800 Block of E 3rd Ave from W PL 2815 E 3rd Ave to",
+    "street": null,
+    "location": "Both sides of the street of 2800 Block of E 3rd Ave from W PL 2815 E 3rd Ave to",
+    "comp_date": "2024-05-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/630da304-3861-4517-b3a4-c389d2875bd9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04678651338824,
+            49.267613511452254
+          ],
+          [
+            -123.04505626002964,
+            49.26759950974335
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04592138670894,
+      "lat": 49.2676065105978
+    }
+  },
+  {
+    "project": "West 12th Ave from Discovery St to Trimble St.",
+    "street": null,
+    "location": "West 12th Ave from Discovery St to Trimble St.",
+    "comp_date": "2024-05-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78dd85dc-8c8a-44d7-90d7-b985aee7cc09",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20310176000369,
+            49.26191349423567
+          ],
+          [
+            -123.2061420928972,
+            49.261959850291674
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.20462192645044,
+      "lat": 49.261936672263666
     }
   },
   {
@@ -212,6 +228,66 @@
     }
   },
   {
+    "project": "Both Sides of Lane East of 4700 Block of Granville Street From Minto Crescent to",
+    "street": null,
+    "location": "Both Sides of Lane East of 4700 Block of Granville Street From Minto Crescent to",
+    "comp_date": "2024-06-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b93bdc95-8cae-4452-adb7-1a6daf1e7669",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13834417818933,
+              49.24283569587723
+            ],
+            [
+              -123.1383388137713,
+              49.24345557860943
+            ]
+          ],
+          [
+            [
+              -123.1393151378527,
+              49.242825189323185
+            ],
+            [
+              -123.13915956972986,
+              49.24281468276689
+            ],
+            [
+              -123.13868750094325,
+              49.24282869150812
+            ],
+            [
+              -123.13837636469754,
+              49.24285670897859
+            ],
+            [
+              -123.13810814379605,
+              49.24288122425227
+            ],
+            [
+              -123.13781310080441,
+              49.242909241692956
+            ],
+            [
+              -123.13763607500941,
+              49.24292675258536
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13843902155202,
+      "lat": 49.24293399719917
+    }
+  },
+  {
     "project": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
     "street": null,
     "location": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
@@ -304,6 +380,34 @@
     }
   },
   {
+    "project": "Jackson Av from E Pender to Keefer St",
+    "street": null,
+    "location": "Jackson Av from E Pender to Keefer St",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09349192750233,
+            49.28027554492647
+          ],
+          [
+            -123.09353125756478,
+            49.279370525977896
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09351159253356,
+      "lat": 49.27982303545218
+    }
+  },
+  {
     "project": "E 22nd Ave from Welwyn St to Commercial St",
     "street": null,
     "location": "E 22nd Ave from Welwyn St to Commercial St",
@@ -329,6 +433,34 @@
     "geo_point_2d": {
       "lon": -123.06878304144053,
       "lat": 49.25033123961805
+    }
+  },
+  {
+    "project": "500 Jackson Av between E Pender and Keefer St",
+    "street": null,
+    "location": "500 Jackson Av between E Pender and Keefer St",
+    "comp_date": "2024-06-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8d2d80ac-80b6-4ce6-a9c9-f151a08137b2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09348575043538,
+            49.28023686436674
+          ],
+          [
+            -123.093517420773,
+            49.27941504191992
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09350158560419,
+      "lat": 49.27982595314333
     }
   },
   {
