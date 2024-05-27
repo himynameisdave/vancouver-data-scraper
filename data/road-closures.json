@@ -88,6 +88,46 @@
     }
   },
   {
+    "project": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
+    "street": null,
+    "location": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2cc11969-9655-457d-aac9-f402f2fd9d05",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11976407150695,
+              49.287930160569886
+            ],
+            [
+              -123.11934028248261,
+              49.28818908478698
+            ]
+          ],
+          [
+            [
+              -123.119769435925,
+              49.28795465345945
+            ],
+            [
+              -123.119050603909,
+              49.28775171200715
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11946679180316,
+      "lat": 49.28793562664148
+    }
+  },
+  {
     "project": "E 22nd Ave from Welwyn St to Commercial St",
     "street": null,
     "location": "E 22nd Ave from Welwyn St to Commercial St",
