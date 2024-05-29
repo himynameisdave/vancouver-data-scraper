@@ -28,6 +28,34 @@
     }
   },
   {
+    "project": "Both sides 500 Block E 51st Ave from St. George St to East side of PL 575 E 51st",
+    "street": null,
+    "location": "Both sides 500 Block E 51st Ave from St. George St to East side of PL 575 E 51st",
+    "comp_date": "2024-05-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ea5add7-550c-4c9d-9313-36a35e986221",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09410610703094,
+            49.223631278719154
+          ],
+          [
+            -123.09305468109709,
+            49.22362076807971
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09358039406402,
+      "lat": 49.22362602339943
+    }
+  },
+  {
     "project": "Wales St from E 38th Av to E 40th Av",
     "street": null,
     "location": "Wales St from E 38th Av to E 40th Av",
@@ -93,6 +121,46 @@
     "geo_point_2d": {
       "lon": -123.1303623057905,
       "lat": 49.25878266142185
+    }
+  },
+  {
+    "project": "Ontario St from E 39th Av to W 40th Av",
+    "street": null,
+    "location": "Ontario St from E 39th Av to W 40th Av",
+    "comp_date": "2024-05-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e0f09152-af87-45c8-baa8-21844f29b8d5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10556845185351,
+              49.235519739765465
+            ],
+            [
+              -123.10558686891999,
+              49.235060272515625
+            ]
+          ],
+          [
+            [
+              -123.10558686891999,
+              49.235060272515625
+            ],
+            [
+              -123.10560510866127,
+              49.23460799259436
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10558675239207,
+      "lat": 49.23506386505956
     }
   },
   {
