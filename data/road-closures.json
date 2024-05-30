@@ -1,33 +1,5 @@
 [
   {
-    "project": "Both Sides of 2700 Block of Napier Street From West PL of 2703 to East PL of 274",
-    "street": null,
-    "location": "Both Sides of 2700 Block of Napier Street From West PL of 2703 to East PL of 274",
-    "comp_date": "2024-05-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e8826b6-4400-4ecc-88d9-238cbc8d3541",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04941128079474,
-            49.27498758813164
-          ],
-          [
-            -123.04796825234472,
-            49.2749805883241
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04868976656974,
-      "lat": 49.27498408822787
-    }
-  },
-  {
     "project": "Both sides 500 Block E 51st Ave from St. George St to East side of PL 575 E 51st",
     "street": null,
     "location": "Both sides 500 Block E 51st Ave from St. George St to East side of PL 575 E 51st",
@@ -121,6 +93,34 @@
     "geo_point_2d": {
       "lon": -123.1303623057905,
       "lat": 49.25878266142185
+    }
+  },
+  {
+    "project": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
+    "street": null,
+    "location": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
+    "comp_date": "2024-05-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7812b925-0243-47c9-a9cd-c412d7e03acb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06984871558544,
+            49.258660833018496
+          ],
+          [
+            -123.06919958767467,
+            49.25865591644026
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06952415163003,
+      "lat": 49.25865837472938
     }
   },
   {
@@ -220,6 +220,78 @@
     }
   },
   {
+    "project": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
+    "street": null,
+    "location": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
+    "comp_date": "2024-06-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cbfbad17-c7ad-4005-9c47-f5b07ab29d1b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11681374345491,
+            49.28592368662052
+          ],
+          [
+            -123.11834645061147,
+            49.28692343782228
+          ],
+          [
+            -123.12042412031262,
+            49.28752883286219
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11855820012963,
+      "lat": 49.286858419459605
+    }
+  },
+  {
+    "project": "St. Margarets St from E 41st Av to E 45th Av",
+    "street": null,
+    "location": "St. Margarets St from E 41st Av to E 45th Av",
+    "comp_date": "2024-06-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f13992b-2026-464d-81bb-da730a9b00c1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05660135510469,
+              49.23284229221454
+            ],
+            [
+              -123.05656176337108,
+              49.23076903136837
+            ]
+          ],
+          [
+            [
+              -123.05656176337108,
+              49.23076903136837
+            ],
+            [
+              -123.05653561281306,
+              49.22939836486259
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05656847668277,
+      "lat": 49.23112032867745
+    }
+  },
+  {
     "project": "Both Sides of Lane East of 4700 Block of Granville Street From Minto Crescent to",
     "street": null,
     "location": "Both Sides of Lane East of 4700 Block of Granville Street From Minto Crescent to",
@@ -280,63 +352,43 @@
     }
   },
   {
-    "project": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
+    "project": "E 36th Av from Commercial Dr. to Victoria Dr.",
     "street": null,
-    "location": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
-    "comp_date": "2024-06-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cbfbad17-c7ad-4005-9c47-f5b07ab29d1b",
+    "location": "E 36th Av from Commercial Dr. to Victoria Dr.",
+    "comp_date": "2024-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/69360de4-117a-4396-b0c0-8376c19e1f54",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.11681374345491,
-            49.28592368662052
+            [
+              -123.06860471833639,
+              49.237547418376266
+            ],
+            [
+              -123.06610793001806,
+              49.237523570449554
+            ]
           ],
           [
-            -123.11834645061147,
-            49.28692343782228
-          ],
-          [
-            -123.12042412031262,
-            49.28752883286219
+            [
+              -123.06610793001806,
+              49.237523570449554
+            ],
+            [
+              -123.06541289219206,
+              49.23751693179295
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11855820012963,
-      "lat": 49.286858419459605
-    }
-  },
-  {
-    "project": "Jackson Av from E Pender to Keefer St",
-    "street": null,
-    "location": "Jackson Av from E Pender to Keefer St",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09349192750233,
-            49.28027554492647
-          ],
-          [
-            -123.09353125756478,
-            49.279370525977896
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09351159253356,
-      "lat": 49.27982303545218
+      "lon": -123.06700880526407,
+      "lat": 49.2375321751017
     }
   },
   {
@@ -437,6 +489,34 @@
     "geo_point_2d": {
       "lon": -123.06883493145439,
       "lat": 49.25033507033897
+    }
+  },
+  {
+    "project": "Jackson Av from E Pender to Keefer St",
+    "street": null,
+    "location": "Jackson Av from E Pender to Keefer St",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09349192750233,
+            49.28027554492647
+          ],
+          [
+            -123.09353125756478,
+            49.279370525977896
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09351159253356,
+      "lat": 49.27982303545218
     }
   },
   {
