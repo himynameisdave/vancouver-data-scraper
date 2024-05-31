@@ -1,73 +1,5 @@
 [
   {
-    "project": "Both sides 500 Block E 51st Ave from St. George St to East side of PL 575 E 51st",
-    "street": null,
-    "location": "Both sides 500 Block E 51st Ave from St. George St to East side of PL 575 E 51st",
-    "comp_date": "2024-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ea5add7-550c-4c9d-9313-36a35e986221",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09410610703094,
-            49.223631278719154
-          ],
-          [
-            -123.09305468109709,
-            49.22362076807971
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09358039406402,
-      "lat": 49.22362602339943
-    }
-  },
-  {
-    "project": "Wales St from E 38th Av to E 40th Av",
-    "street": null,
-    "location": "Wales St from E 38th Av to E 40th Av",
-    "comp_date": "2024-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/af1a12dd-8f7a-4aec-9b00-562e2acd6970",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0517427512061,
-              49.23586682171805
-            ],
-            [
-              -123.05171789295622,
-              49.2343589951972
-            ]
-          ],
-          [
-            [
-              -123.05171789295622,
-              49.2343589951972
-            ],
-            [
-              -123.05170805134092,
-              49.23385287281923
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05172596172302,
-      "lat": 49.23485983719983
-    }
-  },
-  {
     "project": "W 14th Ave from Alder St to Spruce St",
     "street": null,
     "location": "W 14th Ave from Alder St to Spruce St",
@@ -93,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.1303623057905,
       "lat": 49.25878266142185
+    }
+  },
+  {
+    "project": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
+    "street": null,
+    "location": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
+    "comp_date": "2024-05-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7812b925-0243-47c9-a9cd-c412d7e03acb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06984871558544,
+            49.258660833018496
+          ],
+          [
+            -123.06919958767467,
+            49.25865591644026
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06952415163003,
+      "lat": 49.25865837472938
     }
   },
   {
@@ -133,34 +93,6 @@
     "geo_point_2d": {
       "lon": -123.10558675239207,
       "lat": 49.23506386505956
-    }
-  },
-  {
-    "project": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
-    "street": null,
-    "location": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
-    "comp_date": "2024-05-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7812b925-0243-47c9-a9cd-c412d7e03acb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06984871558544,
-            49.258660833018496
-          ],
-          [
-            -123.06919958767467,
-            49.25865591644026
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06952415163003,
-      "lat": 49.25865837472938
     }
   },
   {
@@ -352,6 +284,46 @@
     }
   },
   {
+    "project": "W 10th Av from Macdonald St to Stephens St",
+    "street": null,
+    "location": "W 10th Av from Macdonald St to Stephens St",
+    "comp_date": "2024-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f23aa6ff-09bc-4f3d-9ecb-4e0471076986",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1662885836967,
+              49.26317871593403
+            ],
+            [
+              -123.16768916821013,
+              49.26320057399579
+            ]
+          ],
+          [
+            [
+              -123.16768916821013,
+              49.26320057399579
+            ],
+            [
+              -123.1682202706826,
+              49.26320886014693
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16725442717585,
+      "lat": 49.26319378892438
+    }
+  },
+  {
     "project": "E 36th Av from Commercial Dr. to Victoria Dr.",
     "street": null,
     "location": "E 36th Av from Commercial Dr. to Victoria Dr.",
@@ -389,34 +361,6 @@
     "geo_point_2d": {
       "lon": -123.06700880526407,
       "lat": 49.2375321751017
-    }
-  },
-  {
-    "project": "Jackson Av from E Pender to Keefer St",
-    "street": null,
-    "location": "Jackson Av from E Pender to Keefer St",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09349192750233,
-            49.28027554492647
-          ],
-          [
-            -123.09353125756478,
-            49.279370525977896
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09351159253356,
-      "lat": 49.27982303545218
     }
   },
   {
@@ -517,6 +461,34 @@
     "geo_point_2d": {
       "lon": -123.06883493145439,
       "lat": 49.25033507033897
+    }
+  },
+  {
+    "project": "Jackson Av from E Pender to Keefer St",
+    "street": null,
+    "location": "Jackson Av from E Pender to Keefer St",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09349192750233,
+            49.28027554492647
+          ],
+          [
+            -123.09353125756478,
+            49.279370525977896
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09351159253356,
+      "lat": 49.27982303545218
     }
   },
   {
