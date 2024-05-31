@@ -96,34 +96,6 @@
     }
   },
   {
-    "project": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
-    "street": null,
-    "location": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
-    "comp_date": "2024-05-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7812b925-0243-47c9-a9cd-c412d7e03acb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06984871558544,
-            49.258660833018496
-          ],
-          [
-            -123.06919958767467,
-            49.25865591644026
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06952415163003,
-      "lat": 49.25865837472938
-    }
-  },
-  {
     "project": "Ontario St from E 39th Av to W 40th Av",
     "street": null,
     "location": "Ontario St from E 39th Av to W 40th Av",
@@ -161,6 +133,34 @@
     "geo_point_2d": {
       "lon": -123.10558675239207,
       "lat": 49.23506386505956
+    }
+  },
+  {
+    "project": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
+    "street": null,
+    "location": "E 13th Av from Commercial Dr. to Laneway East of Commercial Dr.",
+    "comp_date": "2024-05-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7812b925-0243-47c9-a9cd-c412d7e03acb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06984871558544,
+            49.258660833018496
+          ],
+          [
+            -123.06919958767467,
+            49.25865591644026
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06952415163003,
+      "lat": 49.25865837472938
     }
   },
   {
@@ -392,6 +392,34 @@
     }
   },
   {
+    "project": "Jackson Av from E Pender to Keefer St",
+    "street": null,
+    "location": "Jackson Av from E Pender to Keefer St",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09349192750233,
+            49.28027554492647
+          ],
+          [
+            -123.09353125756478,
+            49.279370525977896
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09351159253356,
+      "lat": 49.27982303545218
+    }
+  },
+  {
     "project": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
     "street": null,
     "location": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
@@ -489,34 +517,6 @@
     "geo_point_2d": {
       "lon": -123.06883493145439,
       "lat": 49.25033507033897
-    }
-  },
-  {
-    "project": "Jackson Av from E Pender to Keefer St",
-    "street": null,
-    "location": "Jackson Av from E Pender to Keefer St",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09349192750233,
-            49.28027554492647
-          ],
-          [
-            -123.09353125756478,
-            49.279370525977896
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09351159253356,
-      "lat": 49.27982303545218
     }
   },
   {
