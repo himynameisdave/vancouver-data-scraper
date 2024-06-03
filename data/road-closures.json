@@ -1,37 +1,5 @@
 [
   {
-    "project": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
-    "street": null,
-    "location": "W Pender St and Burrard St Intersection.\r\nW Pender St - Thurlow St to Hornby St",
-    "comp_date": "2024-06-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cbfbad17-c7ad-4005-9c47-f5b07ab29d1b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11681374345491,
-            49.28592368662052
-          ],
-          [
-            -123.11834645061147,
-            49.28692343782228
-          ],
-          [
-            -123.12042412031262,
-            49.28752883286219
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11855820012963,
-      "lat": 49.286858419459605
-    }
-  },
-  {
     "project": "Intersection of Lillooet St and E 8th Av",
     "street": null,
     "location": "Intersection of Lillooet St and E 8th Av",
@@ -89,6 +57,46 @@
     "geo_point_2d": {
       "lon": -123.0390452317823,
       "lat": 49.262938914863
+    }
+  },
+  {
+    "project": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
+    "street": null,
+    "location": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2cc11969-9655-457d-aac9-f402f2fd9d05",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11976407150695,
+              49.287930160569886
+            ],
+            [
+              -123.11934028248261,
+              49.28818908478698
+            ]
+          ],
+          [
+            [
+              -123.119769435925,
+              49.28795465345945
+            ],
+            [
+              -123.119050603909,
+              49.28775171200715
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11946679180316,
+      "lat": 49.28793562664148
     }
   },
   {
