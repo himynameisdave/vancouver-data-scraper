@@ -1,45 +1,5 @@
 [
   {
-    "project": "E 36th Av from Commercial Dr. to Victoria Dr.",
-    "street": null,
-    "location": "E 36th Av from Commercial Dr. to Victoria Dr.",
-    "comp_date": "2024-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/69360de4-117a-4396-b0c0-8376c19e1f54",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06860471833639,
-              49.237547418376266
-            ],
-            [
-              -123.06610793001806,
-              49.237523570449554
-            ]
-          ],
-          [
-            [
-              -123.06610793001806,
-              49.237523570449554
-            ],
-            [
-              -123.06541289219206,
-              49.23751693179295
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06700880526407,
-      "lat": 49.2375321751017
-    }
-  },
-  {
     "project": "W 10th Av from Macdonald St to Stephens St",
     "street": null,
     "location": "W 10th Av from Macdonald St to Stephens St",
@@ -77,6 +37,46 @@
     "geo_point_2d": {
       "lon": -123.16725442717585,
       "lat": 49.26319378892438
+    }
+  },
+  {
+    "project": "E 36th Av from Commercial Dr. to Victoria Dr.",
+    "street": null,
+    "location": "E 36th Av from Commercial Dr. to Victoria Dr.",
+    "comp_date": "2024-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/69360de4-117a-4396-b0c0-8376c19e1f54",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06860471833639,
+              49.237547418376266
+            ],
+            [
+              -123.06610793001806,
+              49.237523570449554
+            ]
+          ],
+          [
+            [
+              -123.06610793001806,
+              49.237523570449554
+            ],
+            [
+              -123.06541289219206,
+              49.23751693179295
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06700880526407,
+      "lat": 49.2375321751017
     }
   },
   {
