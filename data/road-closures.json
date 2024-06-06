@@ -108,6 +108,74 @@
     }
   },
   {
+    "project": "2400 Block of Garden Dr and Lane North of 2200 Block of E Broadway",
+    "street": null,
+    "location": "2400 Block of Garden Dr and Lane North of 2200 Block of E Broadway",
+    "comp_date": "2024-06-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3ae0631c-693d-4a75-9e74-63e50293b1ec",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05815676108999,
+              49.263179834768465
+            ],
+            [
+              -123.05817285434408,
+              49.26224862880483
+            ]
+          ],
+          [
+            [
+              -123.05816748992595,
+              49.26274224016964
+            ],
+            [
+              -123.05929938213025,
+              49.26274224016964
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05847675728153,
+      "lat": 49.26272959718916
+    }
+  },
+  {
+    "project": "Both Sides of 3700-3800 Block of Fleming Street From South PL of 3825 to North P",
+    "street": null,
+    "location": "Both Sides of 3700-3800 Block of Fleming Street From South PL of 3825 to North P",
+    "comp_date": "2024-06-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1b8ccdb-f449-4d8d-8b34-205837b0ca29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07199938602001,
+            49.25156807418935
+          ],
+          [
+            -123.07201011485608,
+            49.25075920605633
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07200475043805,
+      "lat": 49.25116364012284
+    }
+  },
+  {
     "project": "Jackson Av from E Pender to Keefer St",
     "street": null,
     "location": "Jackson Av from E Pender to Keefer St",
@@ -289,6 +357,34 @@
     "geo_point_2d": {
       "lon": -123.09350158560419,
       "lat": 49.27982595314333
+    }
+  },
+  {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-06-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
     }
   },
   {
