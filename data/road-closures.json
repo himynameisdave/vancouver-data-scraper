@@ -1,101 +1,21 @@
 [
   {
-    "project": "W 10th Av from Macdonald St to Stephens St",
+    "project": "3100 Block of E 45th Avenue",
     "street": null,
-    "location": "W 10th Av from Macdonald St to Stephens St",
-    "comp_date": "2024-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f23aa6ff-09bc-4f3d-9ecb-4e0471076986",
+    "location": "3100 Block of E 45th Avenue",
+    "comp_date": "2024-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b48ba558-0441-4d84-84b1-edac02e83e81",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.1662885836967,
-              49.26317871593403
-            ],
-            [
-              -123.16768916821013,
-              49.26320057399579
-            ]
+            -123.03880366310457,
+            49.22929790439781
           ],
           [
-            [
-              -123.16768916821013,
-              49.26320057399579
-            ],
-            [
-              -123.1682202706826,
-              49.26320886014693
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16725442717585,
-      "lat": 49.26319378892438
-    }
-  },
-  {
-    "project": "E 36th Av from Commercial Dr. to Victoria Dr.",
-    "street": null,
-    "location": "E 36th Av from Commercial Dr. to Victoria Dr.",
-    "comp_date": "2024-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/69360de4-117a-4396-b0c0-8376c19e1f54",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06860471833639,
-              49.237547418376266
-            ],
-            [
-              -123.06610793001806,
-              49.237523570449554
-            ]
-          ],
-          [
-            [
-              -123.06610793001806,
-              49.237523570449554
-            ],
-            [
-              -123.06541289219206,
-              49.23751693179295
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06700880526407,
-      "lat": 49.2375321751017
-    }
-  },
-  {
-    "project": "5700-5800 Block of Lanark Street",
-    "street": null,
-    "location": "5700-5800 Block of Lanark Street",
-    "comp_date": "2024-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ab4765b0-03ea-45cc-b77a-7f2378335904",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07568707475072,
-            49.23228399369182
-          ],
-          [
-            -123.07570598317295,
-            49.23131011556967
+            -123.0374571941791,
+            49.22929790439781
           ]
         ],
         "type": "LineString"
@@ -103,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07569652896183,
-      "lat": 49.231797054630746
+      "lon": -123.03813042864182,
+      "lat": 49.22929790439781
     }
   },
   {
@@ -173,6 +93,62 @@
     "geo_point_2d": {
       "lon": -123.07200475043805,
       "lat": 49.25116364012284
+    }
+  },
+  {
+    "project": "Both sides of the street of 700 Block of Beatty St, from S PL of 773 Beatty St t",
+    "street": null,
+    "location": "Both sides of the street of 700 Block of Beatty St, from S PL of 773 Beatty St t",
+    "comp_date": "2024-06-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d1c25394-9458-4aa5-88d4-b32f1e72f0e4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.112700249428,
+            49.278424355600805
+          ],
+          [
+            -123.11342952986118,
+            49.27795773217636
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1130648896446,
+      "lat": 49.27819104388858
+    }
+  },
+  {
+    "project": "E 50th Av from Kerr St to McKinnon St",
+    "street": null,
+    "location": "E 50th Av from Kerr St to McKinnon St",
+    "comp_date": "2024-06-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e2ae1c9-a1a9-4f63-8076-77c1116d53dd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04110138912824,
+            49.22386682433154
+          ],
+          [
+            -123.03889124889996,
+            49.22384229961963
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03999631901411,
+      "lat": 49.223854561975585
     }
   },
   {
