@@ -112,6 +112,62 @@
     }
   },
   {
+    "project": "Henry St from E 31st Av to E 33rd Av",
+    "street": null,
+    "location": "Henry St from E 31st Av to E 33rd Av",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07bff84b-bd34-4f06-9252-af246f395941",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07763525250753,
+            49.2425239087832
+          ],
+          [
+            -123.07770243865858,
+            49.24022200108726
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07766884558303,
+      "lat": 49.24137295493523
+    }
+  },
+  {
+    "project": "both sides of 500 Block E 51st Ave from St Georges St to 60m East",
+    "street": null,
+    "location": "both sides of 500 Block E 51st Ave from St Georges St to 60m East",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a7ed1db-9729-4467-87a9-dae828e2639b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09410207000953,
+            49.2236275493691
+          ],
+          [
+            -123.09316329685431,
+            49.223610031634166
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09363268343192,
+      "lat": 49.22361879050163
+    }
+  },
+  {
     "project": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
     "street": null,
     "location": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
@@ -296,6 +352,90 @@
     }
   },
   {
+    "project": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
+    "street": null,
+    "location": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
+    "comp_date": "2024-06-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4c3ab7ee-f6c9-420c-824a-c84f952b5f94",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14843603571161,
+            49.255806461611115
+          ],
+          [
+            -123.14844676454769,
+            49.25552285838609
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14844140012966,
+      "lat": 49.2556646599986
+    }
+  },
+  {
+    "project": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
+    "street": null,
+    "location": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
+    "comp_date": "2024-06-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09c8bb5e-d88e-4ed7-91e4-1c908ee63f0a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11093537728536,
+            49.26387379673304
+          ],
+          [
+            -123.11092679797387,
+            49.26419305907035
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11093108762961,
+      "lat": 49.2640334279017
+    }
+  },
+  {
+    "project": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
+    "street": null,
+    "location": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
+    "comp_date": "2024-06-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d11334c0-cfbe-468d-b518-ce7955ec6add",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15154990302844,
+            49.250687817548936
+          ],
+          [
+            -123.15175375091358,
+            49.25032014530288
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.151651826971,
+      "lat": 49.25050398142591
+    }
+  },
+  {
     "project": "3200 Block of E 27th Avenue",
     "street": null,
     "location": "3200 Block of E 27th Avenue",
@@ -361,6 +501,34 @@
     "geo_point_2d": {
       "lon": -123.12777296424126,
       "lat": 49.224015539351605
+    }
+  },
+  {
+    "project": "W 35th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 35th Av from Wallace St to Highbury St",
+    "comp_date": "2024-07-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02401754-b2a7-4a41-9811-5c07a13a87e7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19096125746995,
+            49.24049758408509
+          ],
+          [
+            -123.18819321776658,
+            49.24049758408509
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18957723761825,
+      "lat": 49.24049758408509
     }
   },
   {
