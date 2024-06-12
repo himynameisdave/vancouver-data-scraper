@@ -1,21 +1,21 @@
 [
   {
-    "project": "Gothard St from E 29th Av to Norquay St",
+    "project": "Heather St from W 66th Av to W 67th Av",
     "street": null,
-    "location": "Gothard St from E 29th Av to Norquay St",
-    "comp_date": "2024-06-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9efa867c-7903-48e4-beae-86ec16adc48b",
+    "location": "Heather St from W 66th Av to W 67th Av",
+    "comp_date": "2024-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4f73de29-a92c-48ae-9c3e-0bec16e8da0b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.05107927094105,
-            49.24462882381482
+            -123.12412049598274,
+            49.2113602652106
           ],
           [
-            -123.0527568210573,
-            49.242911010657195
+            -123.12414731807289,
+            49.210638350235115
           ]
         ],
         "type": "LineString"
@@ -23,27 +23,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05191804599917,
-      "lat": 49.24376991723601
+      "lon": -123.12413390702783,
+      "lat": 49.21099930772286
     }
   },
   {
-    "project": "E 50th Av from Kerr St to McKinnon St",
+    "project": "E 51st Av from Fraser St to St. Georges St",
     "street": null,
-    "location": "E 50th Av from Kerr St to McKinnon St",
-    "comp_date": "2024-06-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e2ae1c9-a1a9-4f63-8076-77c1116d53dd",
+    "location": "E 51st Av from Fraser St to St. Georges St",
+    "comp_date": "2024-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be1ca2d2-284f-4f4d-b036-bf774b53fe08",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.04110138912824,
-            49.22386682433154
+            -123.09415034977174,
+            49.22362404582259
           ],
           [
-            -123.03889124889996,
-            49.22384229961963
+            -123.09083219183505,
+            49.22358339911844
           ]
         ],
         "type": "LineString"
@@ -51,8 +51,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03999631901411,
-      "lat": 49.223854561975585
+      "lon": -123.09249127080341,
+      "lat": 49.223603722470514
     }
   },
   {
@@ -109,6 +109,34 @@
     "geo_point_2d": {
       "lon": -123.09351159253356,
       "lat": 49.27982303545218
+    }
+  },
+  {
+    "project": "Both sides of 900 Block E 63rd Ave from Lane West of Windsor St to Lane East of",
+    "street": null,
+    "location": "Both sides of 900 Block E 63rd Ave from Lane West of Windsor St to Lane East of",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c60bd93d-08d4-43ce-b599-a06d3c054bec",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08741716447435,
+            49.21294719957706
+          ],
+          [
+            -123.08636037412248,
+            49.21292967805621
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08688876929843,
+      "lat": 49.212938438816636
     }
   },
   {
@@ -205,6 +233,34 @@
     "geo_point_2d": {
       "lon": -123.11946679180316,
       "lat": 49.28793562664148
+    }
+  },
+  {
+    "project": "E 15th Av from Copley St to Laneway",
+    "street": null,
+    "location": "E 15th Av from Copley St to Laneway",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/32c89690-144e-41ea-b1a7-f5cc63f378d7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05501854725586,
+            49.256618835032555
+          ],
+          [
+            -123.05368280716642,
+            49.25661533382572
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05435067721115,
+      "lat": 49.25661708442914
     }
   },
   {
@@ -377,6 +433,34 @@
     "geo_point_2d": {
       "lon": -123.14844140012966,
       "lat": 49.2556646599986
+    }
+  },
+  {
+    "project": "W 1st Av from Tolmie St and Sasamat St",
+    "street": null,
+    "location": "W 1st Av from Tolmie St and Sasamat St",
+    "comp_date": "2024-06-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fcd48ca4-698c-43fa-bc79-ef4f183d2670",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.21184504403467,
+            49.27219524649104
+          ],
+          [
+            -123.20883024110192,
+            49.272132244621105
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.2103376425683,
+      "lat": 49.272163745556064
     }
   },
   {
