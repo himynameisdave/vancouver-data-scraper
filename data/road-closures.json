@@ -4,18 +4,18 @@
     "street": null,
     "location": "Heather St from W 66th Av to W 67th Av",
     "comp_date": "2024-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4f73de29-a92c-48ae-9c3e-0bec16e8da0b",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f5a8e5b-3064-4391-b023-cb1d0cfb2ee1",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.12412049598274,
-            49.2113602652106
+            -123.12412586040075,
+            49.2113637696265
           ],
           [
             -123.12414731807289,
-            49.210638350235115
+            49.210645359169035
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12413390702783,
-      "lat": 49.21099930772286
+      "lon": -123.12413658923684,
+      "lat": 49.21100456439777
     }
   },
   {
@@ -53,6 +53,66 @@
     "geo_point_2d": {
       "lon": -123.09249127080341,
       "lat": 49.223603722470514
+    }
+  },
+  {
+    "project": "Henry St from E 31st Av to E 33rd Av",
+    "street": null,
+    "location": "Henry St from E 31st Av to E 33rd Av",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07bff84b-bd34-4f06-9252-af246f395941",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07763525250753,
+            49.2425239087832
+          ],
+          [
+            -123.07770243865858,
+            49.24022200108726
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07766884558303,
+      "lat": 49.24137295493523
+    }
+  },
+  {
+    "project": "Matapan Crescent from Skeena St to Falaise Av.",
+    "street": null,
+    "location": "Matapan Crescent from Skeena St to Falaise Av.",
+    "comp_date": "2024-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9261ae34-2479-4294-92ff-27c6014897c7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02852546794942,
+            49.25725753943851
+          ],
+          [
+            -123.02789514883094,
+            49.25724878653426
+          ],
+          [
+            -123.02735934395567,
+            49.2569012925197
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02791688375082,
+      "lat": 49.25716352275581
     }
   },
   {
@@ -137,34 +197,6 @@
     "geo_point_2d": {
       "lon": -123.08688876929843,
       "lat": 49.212938438816636
-    }
-  },
-  {
-    "project": "Henry St from E 31st Av to E 33rd Av",
-    "street": null,
-    "location": "Henry St from E 31st Av to E 33rd Av",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07bff84b-bd34-4f06-9252-af246f395941",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07763525250753,
-            49.2425239087832
-          ],
-          [
-            -123.07770243865858,
-            49.24022200108726
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07766884558303,
-      "lat": 49.24137295493523
     }
   },
   {
@@ -408,6 +440,62 @@
     }
   },
   {
+    "project": "E 6th Av from Kaslo St to Renfrew St",
+    "street": null,
+    "location": "E 6th Av from Kaslo St to Renfrew St",
+    "comp_date": "2024-06-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/75126850-9e31-4c6b-a397-5e1abb62f1b1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04703220989815,
+            49.26477061877915
+          ],
+          [
+            -123.04429374216902,
+            49.26476720842285
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04566297603358,
+      "lat": 49.264768913600996
+    }
+  },
+  {
+    "project": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
+    "street": null,
+    "location": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
+    "comp_date": "2024-06-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09c8bb5e-d88e-4ed7-91e4-1c908ee63f0a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11093537728536,
+            49.26387379673304
+          ],
+          [
+            -123.11092679797387,
+            49.26419305907035
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11093108762961,
+      "lat": 49.2640334279017
+    }
+  },
+  {
     "project": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
     "street": null,
     "location": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
@@ -464,34 +552,6 @@
     }
   },
   {
-    "project": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
-    "street": null,
-    "location": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
-    "comp_date": "2024-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09c8bb5e-d88e-4ed7-91e4-1c908ee63f0a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11093537728536,
-            49.26387379673304
-          ],
-          [
-            -123.11092679797387,
-            49.26419305907035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11093108762961,
-      "lat": 49.2640334279017
-    }
-  },
-  {
     "project": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
     "street": null,
     "location": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
@@ -517,34 +577,6 @@
     "geo_point_2d": {
       "lon": -123.151651826971,
       "lat": 49.25050398142591
-    }
-  },
-  {
-    "project": "3200 Block of E 27th Avenue",
-    "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-06-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03665448697437,
-            49.24628547102543
-          ],
-          [
-            -123.03456236394275,
-            49.24627496520537
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
     }
   },
   {
@@ -588,6 +620,34 @@
     }
   },
   {
+    "project": "E 51st Av from Fraser St to St. George St",
+    "street": null,
+    "location": "E 51st Av from Fraser St to St. George St",
+    "comp_date": "2024-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76fdd25d-ad82-432a-87ce-4bf68a53f560",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09413999409922,
+            49.22363076611754
+          ],
+          [
+            -123.09083496867628,
+            49.22358220998683
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09248748138775,
+      "lat": 49.22360648805219
+    }
+  },
+  {
     "project": "W 35th Av from Wallace St to Highbury St",
     "street": null,
     "location": "W 35th Av from Wallace St to Highbury St",
@@ -613,6 +673,70 @@
     "geo_point_2d": {
       "lon": -123.18957723761825,
       "lat": 49.24049758408509
+    }
+  },
+  {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-07-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
+    }
+  },
+  {
+    "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
+    "street": null,
+    "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
+    "comp_date": "2024-08-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5351f95a-d2fc-459c-a4b6-89ccef154242",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14774564957074,
+            49.27445872806922
+          ],
+          [
+            -123.14628652786664,
+            49.274430728532906
+          ],
+          [
+            -123.14634017204692,
+            49.273538234984755
+          ],
+          [
+            -123.14776710724284,
+            49.27346473479642
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14686415347224,
+      "lat": 49.27397960655968
     }
   },
   {
@@ -685,6 +809,99 @@
     "geo_point_2d": {
       "lon": -123.02532494707073,
       "lat": 49.291188587919336
+    }
+  },
+  {
+    "project": "Car-light zone (local access only) on Water Street, from Maple Tree Square to Ca",
+    "street": null,
+    "location": "Car-light zone (local access only) on Water Street, from Maple Tree Square to Ca",
+    "comp_date": "2024-09-02",
+    "url_link": "https://vancouver.ca/streets-transportation/water-street-pedestrian-zone-pilot.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "geometries": [
+          {
+            "coordinates": [
+              -123.1107867501308,
+              49.284713091023264
+            ],
+            "type": "Point"
+          },
+          {
+            "coordinates": [
+              -123.10426078771764,
+              49.28348020595544
+            ],
+            "type": "Point"
+          },
+          {
+            "coordinates": [
+              [
+                -123.11079863712975,
+                49.284713091023264
+              ],
+              [
+                -123.10424890071872,
+                49.28348020595544
+              ],
+              [
+                -123.10426078771764,
+                49.2838989250956
+              ],
+              [
+                -123.10426582365625,
+                49.28306869125885
+              ],
+              [
+                -123.1042750627908,
+                49.28350262575486
+              ],
+              [
+                -123.10363756250607,
+                49.283267578376865
+              ],
+              [
+                -123.10425658452169,
+                49.28328565898417
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10425658452169,
+                49.28327963211581
+              ],
+              [
+                -123.10425658452169,
+                49.283394142488845
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10426582365625,
+                49.283406196196864
+              ],
+              [
+                -123.10426582365625,
+                49.283273605246706
+              ]
+            ],
+            "type": "LineString"
+          }
+        ],
+        "type": "GeometryCollection"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10641869273127,
+      "lat": 49.28387327954871
     }
   },
   {
@@ -955,6 +1172,72 @@
     "geo_point_2d": {
       "lon": -123.05845345725456,
       "lat": 49.26558362797153
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-11-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14857623067299,
+              49.209589355262864
+            ],
+            [
+              -123.14840041326133,
+              49.215769718021335
+            ],
+            [
+              -123.14848586678069,
+              49.21602648606017
+            ]
+          ],
+          [
+            [
+              -123.15127165151208,
+              49.21416997712936
+            ],
+            [
+              -123.15123747010432,
+              49.21404717057794
+            ],
+            [
+              -123.14961385323633,
+              49.21236134071407
+            ],
+            [
+              -123.14934040197434,
+              49.21214921235435
+            ],
+            [
+              -123.14855422959617,
+              49.21183660048095
+            ]
+          ],
+          [
+            [
+              -123.15444194332788,
+              49.21513916733218
+            ],
+            [
+              -123.14840637599511,
+              49.215082845061744
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14993267933147,
+      "lat": 49.213684491275586
     }
   },
   {
