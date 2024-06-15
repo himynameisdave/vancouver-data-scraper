@@ -1,333 +1,5 @@
 [
   {
-    "project": "Henry St from E 31st Av to E 33rd Av",
-    "street": null,
-    "location": "Henry St from E 31st Av to E 33rd Av",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07bff84b-bd34-4f06-9252-af246f395941",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07763525250753,
-            49.2425239087832
-          ],
-          [
-            -123.07770243865858,
-            49.24022200108726
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07766884558303,
-      "lat": 49.24137295493523
-    }
-  },
-  {
-    "project": "Matapan Crescent from Skeena St to Falaise Av.",
-    "street": null,
-    "location": "Matapan Crescent from Skeena St to Falaise Av.",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9261ae34-2479-4294-92ff-27c6014897c7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02852546794942,
-            49.25725753943851
-          ],
-          [
-            -123.02789514883094,
-            49.25724878653426
-          ],
-          [
-            -123.02735934395567,
-            49.2569012925197
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02791688375082,
-      "lat": 49.25716352275581
-    }
-  },
-  {
-    "project": "Both sides of the street of 4800 Block of Dumfries St, from North PL 4840 Dumfri",
-    "street": null,
-    "location": "Both sides of the street of 4800 Block of Dumfries St, from North PL 4840 Dumfri",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1dc54a89-ce08-4271-9954-6ead673f7566",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07365566598494,
-            49.240503052029965
-          ],
-          [
-            -123.0736199171623,
-            49.241236205169145
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07363779157363,
-      "lat": 49.240869628599555
-    }
-  },
-  {
-    "project": "Jackson Av from E Pender to Keefer St",
-    "street": null,
-    "location": "Jackson Av from E Pender to Keefer St",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b7629c-3627-4ac9-824e-2643577ebcc0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09349192750233,
-            49.28027554492647
-          ],
-          [
-            -123.09353125756478,
-            49.279370525977896
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09351159253356,
-      "lat": 49.27982303545218
-    }
-  },
-  {
-    "project": "Both sides of 900 Block E 63rd Ave from Lane West of Windsor St to Lane East of",
-    "street": null,
-    "location": "Both sides of 900 Block E 63rd Ave from Lane West of Windsor St to Lane East of",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c60bd93d-08d4-43ce-b599-a06d3c054bec",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08741716447435,
-            49.21294719957706
-          ],
-          [
-            -123.08636037412248,
-            49.21292967805621
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08688876929843,
-      "lat": 49.212938438816636
-    }
-  },
-  {
-    "project": "both sides of 500 Block E 51st Ave from St Georges St to 60m East",
-    "street": null,
-    "location": "both sides of 500 Block E 51st Ave from St Georges St to 60m East",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a7ed1db-9729-4467-87a9-dae828e2639b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09410207000953,
-            49.2236275493691
-          ],
-          [
-            -123.09316329685431,
-            49.223610031634166
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09363268343192,
-      "lat": 49.22361879050163
-    }
-  },
-  {
-    "project": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
-    "street": null,
-    "location": "East Side of 300 Block of Thurlow Street From W Hastings Street to 20m N of W Ha",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2cc11969-9655-457d-aac9-f402f2fd9d05",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11976407150695,
-              49.287930160569886
-            ],
-            [
-              -123.11934028248261,
-              49.28818908478698
-            ]
-          ],
-          [
-            [
-              -123.119769435925,
-              49.28795465345945
-            ],
-            [
-              -123.119050603909,
-              49.28775171200715
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11946679180316,
-      "lat": 49.28793562664148
-    }
-  },
-  {
-    "project": "E 15th Av from Copley St to Laneway",
-    "street": null,
-    "location": "E 15th Av from Copley St to Laneway",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/32c89690-144e-41ea-b1a7-f5cc63f378d7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05501854725586,
-            49.256618835032555
-          ],
-          [
-            -123.05368280716642,
-            49.25661533382572
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05435067721115,
-      "lat": 49.25661708442914
-    }
-  },
-  {
-    "project": "Both sides of the street of 3100 Block of Charles St, from Lillooet St to 50m E",
-    "street": null,
-    "location": "Both sides of the street of 3100 Block of Charles St, from Lillooet St to 50m E",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/40cc1cf2-2206-485f-99b7-ed9348c5a5b7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03888162457615,
-            49.27326456254298
-          ],
-          [
-            -123.03778770359904,
-            49.27325989580612
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03833466408759,
-      "lat": 49.27326222917455
-    }
-  },
-  {
-    "project": "E 22nd Ave from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Ave from Welwyn St to Commercial St",
-    "comp_date": "2024-06-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e34d2895-8054-4c8f-8d8e-d7df1be343af",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06987552194408,
-              49.25035141997262
-            ],
-            [
-              -123.06946570385813,
-              49.2503455143669
-            ]
-          ],
-          [
-            [
-              -123.06946570385813,
-              49.2503455143669
-            ],
-            [
-              -123.06878750444173,
-              49.25033443323838
-            ]
-          ],
-          [
-            [
-              -123.06878750444173,
-              49.25033443323838
-            ],
-            [
-              -123.06810978525478,
-              49.250322619232236
-            ]
-          ],
-          [
-            [
-              -123.06810978525478,
-              49.250322619232236
-            ],
-            [
-              -123.06779433074232,
-              49.2503197463887
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06883493145439,
-      "lat": 49.25033507033897
-    }
-  },
-  {
     "project": "E 22nd Ave from Welwyn St to Commercial St",
     "street": null,
     "location": "E 22nd Ave from Welwyn St to Commercial St",
@@ -381,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.09350158560419,
       "lat": 49.27982595314333
+    }
+  },
+  {
+    "project": "W 42nd Av from Montgomery St to Oak St",
+    "street": null,
+    "location": "W 42nd Av from Montgomery St to Oak St",
+    "comp_date": "2024-06-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56e0153d-e21b-4201-87f6-b9c143f12523",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13189026517188,
+            49.23313139162133
+          ],
+          [
+            -123.12812980813301,
+            49.23300178516894
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13001003665244,
+      "lat": 49.23306658839513
     }
   },
   {
@@ -552,6 +252,42 @@
     }
   },
   {
+    "project": "Matapan Crescent from Falaise Av to Laneway",
+    "street": null,
+    "location": "Matapan Crescent from Falaise Av to Laneway",
+    "comp_date": "2024-06-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cee6fccc-8287-4133-ab44-0b550abf48c0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02976199944642,
+            49.25728327568112
+          ],
+          [
+            -123.0301087318327,
+            49.25727698958195
+          ],
+          [
+            -123.03044165493122,
+            49.25632430096903
+          ],
+          [
+            -123.02937729700191,
+            49.25558736565287
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0300521083968,
+      "lat": 49.256450758244206
+    }
+  },
+  {
     "project": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
     "street": null,
     "location": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
@@ -645,34 +381,6 @@
     "geo_point_2d": {
       "lon": -123.18957723761825,
       "lat": 49.24049758408509
-    }
-  },
-  {
-    "project": "3200 Block of E 27th Avenue",
-    "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-07-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03665448697437,
-            49.24628547102543
-          ],
-          [
-            -123.03456236394275,
-            49.24627496520537
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
     }
   },
   {
