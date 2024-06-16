@@ -1,77 +1,21 @@
 [
   {
-    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "project": null,
     "street": null,
-    "location": "E 22nd Ave from Welwyn St to Commercial St",
-    "comp_date": "2024-06-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0267386b-1c22-41dd-8b7c-3af445cd6223",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06942284614551,
-            49.25033964345627
-          ],
-          [
-            -123.06814323673554,
-            49.250322835779826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06878304144053,
-      "lat": 49.25033123961805
-    }
-  },
-  {
-    "project": "500 Jackson Av between E Pender and Keefer St",
-    "street": null,
-    "location": "500 Jackson Av between E Pender and Keefer St",
-    "comp_date": "2024-06-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8d2d80ac-80b6-4ce6-a9c9-f151a08137b2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09348575043538,
-            49.28023686436674
-          ],
-          [
-            -123.093517420773,
-            49.27941504191992
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09350158560419,
-      "lat": 49.27982595314333
-    }
-  },
-  {
-    "project": "W 42nd Av from Montgomery St to Oak St",
-    "street": null,
-    "location": "W 42nd Av from Montgomery St to Oak St",
+    "location": null,
     "comp_date": "2024-06-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56e0153d-e21b-4201-87f6-b9c143f12523",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4fe8da2f-0a72-47ce-8800-9d4b1d91df89",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.13189026517188,
-            49.23313139162133
+            -123.09096832828217,
+            49.21825228937672
           ],
           [
-            -123.12812980813301,
-            49.23300178516894
+            -123.0770499878174,
+            49.218129730704504
           ]
         ],
         "type": "LineString"
@@ -79,120 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13001003665244,
-      "lat": 49.23306658839513
-    }
-  },
-  {
-    "project": "E 6th Av from Kaslo St to Renfrew St",
-    "street": null,
-    "location": "E 6th Av from Kaslo St to Renfrew St",
-    "comp_date": "2024-06-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/75126850-9e31-4c6b-a397-5e1abb62f1b1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04703220989815,
-            49.26477061877915
-          ],
-          [
-            -123.04429374216902,
-            49.26476720842285
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04566297603358,
-      "lat": 49.264768913600996
-    }
-  },
-  {
-    "project": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
-    "street": null,
-    "location": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
-    "comp_date": "2024-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09c8bb5e-d88e-4ed7-91e4-1c908ee63f0a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11093537728536,
-            49.26387379673304
-          ],
-          [
-            -123.11092679797387,
-            49.26419305907035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11093108762961,
-      "lat": 49.2640334279017
-    }
-  },
-  {
-    "project": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
-    "street": null,
-    "location": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
-    "comp_date": "2024-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4c3ab7ee-f6c9-420c-824a-c84f952b5f94",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14843603571161,
-            49.255806461611115
-          ],
-          [
-            -123.14844676454769,
-            49.25552285838609
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14844140012966,
-      "lat": 49.2556646599986
-    }
-  },
-  {
-    "project": "W 1st Av from Tolmie St and Sasamat St",
-    "street": null,
-    "location": "W 1st Av from Tolmie St and Sasamat St",
-    "comp_date": "2024-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fcd48ca4-698c-43fa-bc79-ef4f183d2670",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21184504403467,
-            49.27219524649104
-          ],
-          [
-            -123.20883024110192,
-            49.272132244621105
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.2103376425683,
-      "lat": 49.272163745556064
+      "lon": -123.08400915804977,
+      "lat": 49.21819101004061
     }
   },
   {
@@ -224,97 +56,45 @@
     }
   },
   {
-    "project": "Lanark St from E 31st Av to E 32nd Av",
+    "project": "Both sides of 8100-8700 Block Yukon St from SW Marine Drive to 150m South of SW",
     "street": null,
-    "location": "Lanark St from E 31st Av to E 32nd Av",
-    "comp_date": "2024-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f51fe85b-4e63-4e24-ba4d-5ebe711575f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07483945482237,
-            49.24302481647953
-          ],
-          [
-            -123.074891992326,
-            49.241659712152824
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07486572357419,
-      "lat": 49.242342264316186
-    }
-  },
-  {
-    "project": "Matapan Crescent from Falaise Av to Laneway",
-    "street": null,
-    "location": "Matapan Crescent from Falaise Av to Laneway",
-    "comp_date": "2024-06-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cee6fccc-8287-4133-ab44-0b550abf48c0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02976199944642,
-            49.25728327568112
-          ],
-          [
-            -123.0301087318327,
-            49.25727698958195
-          ],
-          [
-            -123.03044165493122,
-            49.25632430096903
-          ],
-          [
-            -123.02937729700191,
-            49.25558736565287
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0300521083968,
-      "lat": 49.256450758244206
-    }
-  },
-  {
-    "project": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "street": null,
-    "location": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "comp_date": "2024-06-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9272868-1785-4617-aede-07fcc67c46e8",
+    "location": "Both sides of 8100-8700 Block Yukon St from SW Marine Drive to 150m South of SW",
+    "comp_date": "2024-06-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cb5d7201-ee53-4958-a889-cf1c37cc8d0f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.1276086208932,
-              49.22391151066526
+              -123.11707481199574,
+              49.21016215887116
             ],
             [
-              -123.1275871632211,
-              49.22451061001982
+              -123.1162658411275,
+              49.210501503666734
+            ],
+            [
+              -123.11547390122489,
+              49.2108464091049
+            ],
+            [
+              -123.11487781742723,
+              49.211018860921655
+            ],
+            [
+              -123.11420509428416,
+              49.21120243800101
             ]
           ],
           [
             [
-              -123.12842937685176,
-              49.223922021242856
+              -123.11506515804935,
+              49.210929853607496
             ],
             [
-              -123.12730284906552,
-              49.22390100008545
+              -123.1151247664291,
+              49.20966704507299
             ]
           ]
         ],
@@ -323,100 +103,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12777296424126,
-      "lat": 49.224015539351605
-    }
-  },
-  {
-    "project": "E 51st Av from Fraser St to St. George St",
-    "street": null,
-    "location": "E 51st Av from Fraser St to St. George St",
-    "comp_date": "2024-06-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76fdd25d-ad82-432a-87ce-4bf68a53f560",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09413999409922,
-            49.22363076611754
-          ],
-          [
-            -123.09083496867628,
-            49.22358220998683
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09248748138775,
-      "lat": 49.22360648805219
-    }
-  },
-  {
-    "project": "W 35th Av from Wallace St to Highbury St",
-    "street": null,
-    "location": "W 35th Av from Wallace St to Highbury St",
-    "comp_date": "2024-07-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02401754-b2a7-4a41-9811-5c07a13a87e7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19096125746995,
-            49.24049758408509
-          ],
-          [
-            -123.18819321776658,
-            49.24049758408509
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18957723761825,
-      "lat": 49.24049758408509
-    }
-  },
-  {
-    "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
-    "street": null,
-    "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
-    "comp_date": "2024-08-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5351f95a-d2fc-459c-a4b6-89ccef154242",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14774564957074,
-            49.27445872806922
-          ],
-          [
-            -123.14628652786664,
-            49.274430728532906
-          ],
-          [
-            -123.14634017204692,
-            49.273538234984755
-          ],
-          [
-            -123.14776710724284,
-            49.27346473479642
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14686415347224,
-      "lat": 49.27397960655968
+      "lon": -123.11549180377081,
+      "lat": 49.2106022899703
     }
   },
   {
@@ -585,200 +273,6 @@
     }
   },
   {
-    "project": "Various Locations",
-    "street": null,
-    "location": "Various Locations",
-    "comp_date": "2024-09-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d153dfcc-7c87-49f5-80fd-fe5ec9b07baf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03101921163568,
-              49.25474694682316
-            ],
-            [
-              -123.03063782458389,
-              49.254758261830005
-            ],
-            [
-              -123.02738744322222,
-              49.25686276807096
-            ]
-          ],
-          [
-            [
-              -123.02941062434542,
-              49.2556102914788
-            ],
-            [
-              -123.03044392285899,
-              49.256313042439416
-            ],
-            [
-              -123.03010527880835,
-              49.257282142270725
-            ],
-            [
-              -123.02786501816547,
-              49.25725380628839
-            ],
-            [
-              -123.02473038990155,
-              49.25517390076607
-            ],
-            [
-              -123.02460014218977,
-              49.25502654718653
-            ],
-            [
-              -123.02463487491295,
-              49.251512600744604
-            ]
-          ],
-          [
-            [
-              -123.02464983810387,
-              49.2535710006502
-            ],
-            [
-              -123.02610980905047,
-              49.25359944665212
-            ],
-            [
-              -123.0275915706082,
-              49.254538155518674
-            ],
-            [
-              -123.02567399682759,
-              49.25580396193598
-            ]
-          ],
-          [
-            [
-              -123.02660009780116,
-              49.25515684023881
-            ],
-            [
-              -123.02588100763344,
-              49.25462349180319
-            ]
-          ],
-          [
-            [
-              -123.02760246591374,
-              49.25454526688134
-            ],
-            [
-              -123.02841961383162,
-              49.25404035758535
-            ],
-            [
-              -123.02882274013774,
-              49.25429636857805
-            ],
-            [
-              -123.02931302888848,
-              49.25399768895747
-            ],
-            [
-              -123.03043524536234,
-              49.254822609226636
-            ]
-          ],
-          [
-            [
-              -123.02844140444267,
-              49.25620929757869
-            ],
-            [
-              -123.0288554260544,
-              49.25650085273716
-            ]
-          ],
-          [
-            [
-              -123.02779858141396,
-              49.25721906663446
-            ],
-            [
-              -123.02723202552423,
-              49.25758172512647
-            ],
-            [
-              -123.02551056724393,
-              49.25759594697382
-            ],
-            [
-              -123.02464983810377,
-              49.25699862585677
-            ],
-            [
-              -123.02467162871493,
-              49.25592485186192
-            ],
-            [
-              -123.02517281277119,
-              49.25552662510455
-            ]
-          ],
-          [
-            [
-              -123.02663278371779,
-              49.25647951949125
-            ],
-            [
-              -123.02622965741163,
-              49.25679240617342
-            ],
-            [
-              -123.02602264660577,
-              49.256799517211306
-            ],
-            [
-              -123.02581563579992,
-              49.25665729625854
-            ],
-            [
-              -123.02584832171664,
-              49.25652929705063
-            ],
-            [
-              -123.02627323863392,
-              49.25626618652532
-            ]
-          ],
-          [
-            [
-              -123.02925385060556,
-              49.2540098447478
-            ],
-            [
-              -123.02637748993466,
-              49.252125277359426
-            ],
-            [
-              -123.02623585096224,
-              49.25194748426924
-            ],
-            [
-              -123.02626853687896,
-              49.251506554642475
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02719311118969,
-      "lat": 49.25523695141732
-    }
-  },
-  {
     "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
     "street": null,
     "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
@@ -918,166 +412,6 @@
     "geo_point_2d": {
       "lon": -123.14993267933147,
       "lat": 49.213684491275586
-    }
-  },
-  {
-    "project": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
-    "street": null,
-    "location": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
-    "comp_date": "2024-11-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03649805514345,
-              49.2651930108195
-            ],
-            [
-              -123.03650271110962,
-              49.26474089249274
-            ]
-          ],
-          [
-            [
-              -123.04156102693383,
-              49.264758793340434
-            ],
-            [
-              -123.03903086501592,
-              49.264749637061556
-            ]
-          ],
-          [
-            [
-              -123.036500262164,
-              49.26568812400441
-            ],
-            [
-              -123.03649805514345,
-              49.2651930108195
-            ]
-          ],
-          [
-            [
-              -123.0495436959967,
-              49.26477496525732
-            ],
-            [
-              -123.04431691465969,
-              49.26476997869088
-            ]
-          ],
-          [
-            [
-              -123.04429119263114,
-              49.264768150543745
-            ],
-            [
-              -123.04353110893598,
-              49.26476571385095
-            ]
-          ],
-          [
-            [
-              -123.04353110893598,
-              49.26476571385095
-            ],
-            [
-              -123.04156102693383,
-              49.264758793340434
-            ]
-          ],
-          [
-            [
-              -123.04431176951252,
-              49.262971581785706
-            ],
-            [
-              -123.03101786377984,
-              49.262920704157835
-            ]
-          ],
-          [
-            [
-              -123.03903404831173,
-              49.263857709963105
-            ],
-            [
-              -123.03903404831173,
-              49.262958373076145
-            ]
-          ],
-          [
-            [
-              -123.03651933222142,
-              49.26384249280778
-            ],
-            [
-              -123.03650239217212,
-              49.2647268594101
-            ]
-          ],
-          [
-            [
-              -123.03903086501592,
-              49.264749637061556
-            ],
-            [
-              -123.03650271110962,
-              49.26474089249274
-            ]
-          ],
-          [
-            [
-              -123.03298763729669,
-              49.263829458791946
-            ],
-            [
-              -123.03903404831173,
-              49.263857709963105
-            ]
-          ],
-          [
-            [
-              -123.0345217174447,
-              49.264733711479465
-            ],
-            [
-              -123.033762253404,
-              49.264731435217726
-            ]
-          ],
-          [
-            [
-              -123.03650271110962,
-              49.26474089249274
-            ],
-            [
-              -123.0345217174447,
-              49.264733711479465
-            ]
-          ],
-          [
-            [
-              -123.03648603460017,
-              49.262929592760685
-            ],
-            [
-              -123.0364741606871,
-              49.261929989700576
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03897035546358,
-      "lat": 49.263904089013906
     }
   },
   {
