@@ -1,89 +1,5 @@
 [
   {
-    "project": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
-    "street": null,
-    "location": "East Side of 2300 Block of Alberta Street From W 8th Avenue to 20m North of W 8t",
-    "comp_date": "2024-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09c8bb5e-d88e-4ed7-91e4-1c908ee63f0a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11093537728536,
-            49.26387379673304
-          ],
-          [
-            -123.11092679797387,
-            49.26419305907035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11093108762961,
-      "lat": 49.2640334279017
-    }
-  },
-  {
-    "project": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
-    "street": null,
-    "location": "Both sides of 3300 Block Cypress St from Laneway North of W 18th Ave to 20m Sout",
-    "comp_date": "2024-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4c3ab7ee-f6c9-420c-824a-c84f952b5f94",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14843603571161,
-            49.255806461611115
-          ],
-          [
-            -123.14844676454769,
-            49.25552285838609
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14844140012966,
-      "lat": 49.2556646599986
-    }
-  },
-  {
-    "project": "W 1st Av from Tolmie St and Sasamat St",
-    "street": null,
-    "location": "W 1st Av from Tolmie St and Sasamat St",
-    "comp_date": "2024-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fcd48ca4-698c-43fa-bc79-ef4f183d2670",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21184504403467,
-            49.27219524649104
-          ],
-          [
-            -123.20883024110192,
-            49.272132244621105
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.2103376425683,
-      "lat": 49.272163745556064
-    }
-  },
-  {
     "project": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
     "street": null,
     "location": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
@@ -165,6 +81,46 @@
     "geo_point_2d": {
       "lon": -123.06008666943046,
       "lat": 49.263210634444846
+    }
+  },
+  {
+    "project": "Both Sides of 4500 Block of Crown Street From W 29th Avenue to W 30th Avenue. Fu",
+    "street": null,
+    "location": "Both Sides of 4500 Block of Crown Street From W 29th Avenue to W 30th Avenue. Fu",
+    "comp_date": "2024-06-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2431de10-9be9-4f5b-9b9a-3a7a9911d7e4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.19365721944375,
+              49.24621543542804
+            ],
+            [
+              -123.19367008792004,
+              49.2452600957391
+            ]
+          ],
+          [
+            [
+              -123.14836817350191,
+              49.24557890299923
+            ],
+            [
+              -123.14862983644693,
+              49.24591509276442
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17973551901846,
+      "lat": 49.24574061269292
     }
   },
   {
@@ -272,6 +228,34 @@
     }
   },
   {
+    "project": "W 33rd Av from Crown St to Wallace St",
+    "street": null,
+    "location": "W 33rd Av from Crown St to Wallace St",
+    "comp_date": "2024-06-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ed3d3a3-ec5b-4f2c-938e-561af1bd5d14",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1909125298401,
+            49.242395385994
+          ],
+          [
+            -123.19367460519847,
+            49.242408797039246
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1922935675193,
+      "lat": 49.242402091516624
+    }
+  },
+  {
     "project": "E 51st Av from Fraser St to St. George St",
     "street": null,
     "location": "E 51st Av from Fraser St to St. George St",
@@ -297,6 +281,46 @@
     "geo_point_2d": {
       "lon": -123.09248748138775,
       "lat": 49.22360648805219
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "street": null,
+    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "comp_date": "2024-06-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/af1716b1-2f81-460c-8da1-889c4df52508",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07555197706017,
+              49.24684959341968
+            ],
+            [
+              -123.0755573414782,
+              49.24644687331954
+            ]
+          ],
+          [
+            [
+              -123.0746775769213,
+              49.24642586174588
+            ],
+            [
+              -123.07619570722372,
+              49.24643636753382
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07546138649303,
+      "lat": 49.24647663747299
     }
   },
   {
