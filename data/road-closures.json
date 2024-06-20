@@ -1,33 +1,5 @@
 [
   {
-    "project": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
-    "street": null,
-    "location": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Ave to 6",
-    "comp_date": "2024-06-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d11334c0-cfbe-468d-b518-ce7955ec6add",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15154990302844,
-            49.250687817548936
-          ],
-          [
-            -123.15175375091358,
-            49.25032014530288
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.151651826971,
-      "lat": 49.25050398142591
-    }
-  },
-  {
     "project": "Lanark St from E 31st Av to E 32nd Av",
     "street": null,
     "location": "Lanark St from E 31st Av to E 32nd Av",
@@ -81,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.06008666943046,
       "lat": 49.263210634444846
+    }
+  },
+  {
+    "project": "2000 McNicoll Av from Arbutus St to Maple St.",
+    "street": null,
+    "location": "2000 McNicoll Av from Arbutus St to Maple St.",
+    "comp_date": "2024-06-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ab7f369-372b-4cb9-8980-a7f100882d24",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15007683565543,
+            49.27581441576763
+          ],
+          [
+            -123.1514686431437,
+            49.27583669778261
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15077273939957,
+      "lat": 49.27582555677512
     }
   },
   {
@@ -188,46 +188,6 @@
     }
   },
   {
-    "project": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "street": null,
-    "location": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "comp_date": "2024-06-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9272868-1785-4617-aede-07fcc67c46e8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1276086208932,
-              49.22391151066526
-            ],
-            [
-              -123.1275871632211,
-              49.22451061001982
-            ]
-          ],
-          [
-            [
-              -123.12842937685176,
-              49.223922021242856
-            ],
-            [
-              -123.12730284906552,
-              49.22390100008545
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12777296424126,
-      "lat": 49.224015539351605
-    }
-  },
-  {
     "project": "W 33rd Av from Crown St to Wallace St",
     "street": null,
     "location": "W 33rd Av from Crown St to Wallace St",
@@ -253,6 +213,96 @@
     "geo_point_2d": {
       "lon": -123.1922935675193,
       "lat": 49.242402091516624
+    }
+  },
+  {
+    "project": "East 25th Ave from Rupert St.to Windermere St",
+    "street": null,
+    "location": "East 25th Ave from Rupert St.to Windermere St",
+    "comp_date": "2024-06-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08a1c1c5-bf4d-4a3a-88c0-40689b873a33",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03457871713809,
+              49.24787729776304
+            ],
+            [
+              -123.03381250498131,
+              49.247876193257355
+            ]
+          ],
+          [
+            [
+              -123.03656309579273,
+              49.247874240090084
+            ],
+            [
+              -123.03457871713809,
+              49.24787729776304
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03518780042796,
+      "lat": 49.24787604096636
+    }
+  },
+  {
+    "project": "East 51st Ave from St. George St to Fraser St",
+    "street": null,
+    "location": "East 51st Ave from St. George St to Fraser St",
+    "comp_date": "2024-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/075bde7e-648d-4ea0-9032-72eb63681ad9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0934693437756,
+              49.22361222580125
+            ],
+            [
+              -123.09146889276676,
+              49.22358339614365
+            ]
+          ],
+          [
+            [
+              -123.09412994513659,
+              49.22362212390087
+            ],
+            [
+              -123.0934693437756,
+              49.22361222580125
+            ]
+          ],
+          [
+            [
+              -123.09146889276676,
+              49.22358339614365
+            ],
+            [
+              -123.09082142321961,
+              49.223574327053115
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09247568789624,
+      "lat": 49.223597969000615
     }
   },
   {
@@ -349,6 +399,46 @@
     "geo_point_2d": {
       "lon": -123.18957723761825,
       "lat": 49.24049758408509
+    }
+  },
+  {
+    "project": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
+    "street": null,
+    "location": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
+    "comp_date": "2024-07-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9272868-1785-4617-aede-07fcc67c46e8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1276086208932,
+              49.22391151066526
+            ],
+            [
+              -123.1275871632211,
+              49.22451061001982
+            ]
+          ],
+          [
+            [
+              -123.12842937685176,
+              49.223922021242856
+            ],
+            [
+              -123.12730284906552,
+              49.22390100008545
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12777296424126,
+      "lat": 49.224015539351605
     }
   },
   {
