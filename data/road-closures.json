@@ -1,61 +1,5 @@
 [
   {
-    "project": "Lanark St from E 31st Av to E 32nd Av",
-    "street": null,
-    "location": "Lanark St from E 31st Av to E 32nd Av",
-    "comp_date": "2024-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f51fe85b-4e63-4e24-ba4d-5ebe711575f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07483945482237,
-            49.24302481647953
-          ],
-          [
-            -123.074891992326,
-            49.241659712152824
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07486572357419,
-      "lat": 49.242342264316186
-    }
-  },
-  {
-    "project": "E 8th av from Lakewood Dr to Garden Dr",
-    "street": null,
-    "location": "E 8th av from Lakewood Dr to Garden Dr",
-    "comp_date": "2024-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/258e0506-01ab-4dc2-83bd-52dc4600b9a9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0620232243392,
-            49.26322813814028
-          ],
-          [
-            -123.05815011452171,
-            49.263193130749414
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06008666943046,
-      "lat": 49.263210634444846
-    }
-  },
-  {
     "project": "2000 McNicoll Av from Arbutus St to Maple St.",
     "street": null,
     "location": "2000 McNicoll Av from Arbutus St to Maple St.",
@@ -188,9 +132,9 @@
     }
   },
   {
-    "project": "W 33rd Av from Crown St to Wallace St",
+    "project": "W 34th Av from Crown St to Wallace St",
     "street": null,
-    "location": "W 33rd Av from Crown St to Wallace St",
+    "location": "W 34th Av from Crown St to Wallace St",
     "comp_date": "2024-06-24",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ed3d3a3-ec5b-4f2c-938e-561af1bd5d14",
     "geom": {
@@ -198,12 +142,12 @@
       "geometry": {
         "coordinates": [
           [
-            -123.1909125298401,
-            49.242395385994
+            -123.19092648258075,
+            49.24144593282108
           ],
           [
-            -123.19367460519847,
-            49.242408797039246
+            -123.19368966311539,
+            49.241449851675156
           ]
         ],
         "type": "LineString"
@@ -211,8 +155,48 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1922935675193,
-      "lat": 49.242402091516624
+      "lon": -123.19230807284808,
+      "lat": 49.24144789224811
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-06-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eadd626e-183c-4331-b6e8-dda7620797ab",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "geometries": [
+          {
+            "coordinates": [
+              -123.12005591396593,
+              49.283180367825594
+            ],
+            "type": "Point"
+          },
+          {
+            "coordinates": [
+              [
+                -123.12074999344229,
+                49.28206176581003
+              ],
+              [
+                -123.11915769433746,
+                49.28310712690154
+              ]
+            ],
+            "type": "LineString"
+          }
+        ],
+        "type": "GeometryCollection"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11995384388987,
+      "lat": 49.282584446355784
     }
   },
   {
@@ -334,6 +318,34 @@
     }
   },
   {
+    "project": "E Hastings St from Skeena St to Kootenay St",
+    "street": null,
+    "location": "E Hastings St from Skeena St to Kootenay St",
+    "comp_date": "2024-06-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/221cdd52-9120-44ed-a915-0671e6668c14",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02832198758676,
+            49.28112204004972
+          ],
+          [
+            -123.0256963025615,
+            49.281120575893624
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02700914507412,
+      "lat": 49.28112130797168
+    }
+  },
+  {
     "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
     "street": null,
     "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
@@ -371,6 +383,38 @@
     "geo_point_2d": {
       "lon": -123.07546138649303,
       "lat": 49.24647663747299
+    }
+  },
+  {
+    "project": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
+    "street": null,
+    "location": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
+    "comp_date": "2024-07-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2dfd2f-4d50-4270-b9bb-3dcb2ac1b8f5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10053548697833,
+            49.25886784278248
+          ],
+          [
+            -123.10056767348651,
+            49.25839169807168
+          ],
+          [
+            -123.09994003657702,
+            49.25840220131337
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10038244275927,
+      "lat": 49.2584975051346
     }
   },
   {
