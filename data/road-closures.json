@@ -1,137 +1,5 @@
 [
   {
-    "project": "2000 McNicoll Av from Arbutus St to Maple St.",
-    "street": null,
-    "location": "2000 McNicoll Av from Arbutus St to Maple St.",
-    "comp_date": "2024-06-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ab7f369-372b-4cb9-8980-a7f100882d24",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15007683565543,
-            49.27581441576763
-          ],
-          [
-            -123.1514686431437,
-            49.27583669778261
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15077273939957,
-      "lat": 49.27582555677512
-    }
-  },
-  {
-    "project": "Both Sides of 4500 Block of Crown Street From W 29th Avenue to W 30th Avenue. Fu",
-    "street": null,
-    "location": "Both Sides of 4500 Block of Crown Street From W 29th Avenue to W 30th Avenue. Fu",
-    "comp_date": "2024-06-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2431de10-9be9-4f5b-9b9a-3a7a9911d7e4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.19365721944375,
-              49.24621543542804
-            ],
-            [
-              -123.19367008792004,
-              49.2452600957391
-            ]
-          ],
-          [
-            [
-              -123.14836817350191,
-              49.24557890299923
-            ],
-            [
-              -123.14862983644693,
-              49.24591509276442
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17973551901846,
-      "lat": 49.24574061269292
-    }
-  },
-  {
-    "project": "Yale St from N Slocan St to N Kaslo St",
-    "street": null,
-    "location": "Yale St from N Slocan St to N Kaslo St",
-    "comp_date": "2024-06-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9bcc88ff-44b7-4d43-847f-158a88bc5439",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04931715874987,
-            49.29072386700591
-          ],
-          [
-            -123.04670468716937,
-            49.290720368218985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04801092295962,
-      "lat": 49.29072211761245
-    }
-  },
-  {
-    "project": "Matapan Crescent from Falaise Av to Laneway",
-    "street": null,
-    "location": "Matapan Crescent from Falaise Av to Laneway",
-    "comp_date": "2024-06-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cee6fccc-8287-4133-ab44-0b550abf48c0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02976199944642,
-            49.25728327568112
-          ],
-          [
-            -123.0301087318327,
-            49.25727698958195
-          ],
-          [
-            -123.03044165493122,
-            49.25632430096903
-          ],
-          [
-            -123.02937729700191,
-            49.25558736565287
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0300521083968,
-      "lat": 49.256450758244206
-    }
-  },
-  {
     "project": "W 34th Av from Crown St to Wallace St",
     "street": null,
     "location": "W 34th Av from Crown St to Wallace St",
@@ -318,6 +186,34 @@
     }
   },
   {
+    "project": "E 39th Av from Ross St to Windsor St",
+    "street": null,
+    "location": "E 39th Av from Ross St to Windsor St",
+    "comp_date": "2024-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d297f8d8-00a5-4d21-a157-2ed4f9fa3364",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08478328340972,
+            49.23471888828112
+          ],
+          [
+            -123.08251175448372,
+            49.23469236891404
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08364751894673,
+      "lat": 49.23470562859758
+    }
+  },
+  {
     "project": "E Hastings St from Skeena St to Kootenay St",
     "street": null,
     "location": "E Hastings St from Skeena St to Kootenay St",
@@ -343,6 +239,34 @@
     "geo_point_2d": {
       "lon": -123.02700914507412,
       "lat": 49.28112130797168
+    }
+  },
+  {
+    "project": "W 29th Av from Quesnel Dr to Puget Dr",
+    "street": null,
+    "location": "W 29th Av from Quesnel Dr to Puget Dr",
+    "comp_date": "2024-06-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdec790-2039-4d01-821e-d5011481586d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16595831678498,
+            49.24609642121817
+          ],
+          [
+            -123.16789460403601,
+            49.24610364421133
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1669264604105,
+      "lat": 49.24610003271475
     }
   },
   {
@@ -443,6 +367,34 @@
     "geo_point_2d": {
       "lon": -123.18957723761825,
       "lat": 49.24049758408509
+    }
+  },
+  {
+    "project": "2000 Block of Creelman Avenue",
+    "street": null,
+    "location": "2000 Block of Creelman Avenue",
+    "comp_date": "2024-07-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d96b8a8-7c16-4043-82cc-53f7f506d321",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1513775182339,
+            49.27453074808261
+          ],
+          [
+            -123.15253348344267,
+            49.27453613517207
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15195550083828,
+      "lat": 49.27453344162734
     }
   },
   {
