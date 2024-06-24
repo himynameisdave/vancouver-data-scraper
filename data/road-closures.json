@@ -1,5 +1,33 @@
 [
   {
+    "project": "W 34th Av from Crown St to Wallace St",
+    "street": null,
+    "location": "W 34th Av from Crown St to Wallace St",
+    "comp_date": "2024-06-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ed3d3a3-ec5b-4f2c-938e-561af1bd5d14",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19092648258075,
+            49.24144593282108
+          ],
+          [
+            -123.19368966311539,
+            49.241449851675156
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19230807284808,
+      "lat": 49.24144789224811
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -37,6 +65,480 @@
     "geo_point_2d": {
       "lon": -123.11995384388987,
       "lat": 49.282584446355784
+    }
+  },
+  {
+    "project": "East 25th Ave from Rupert St.to Windermere St",
+    "street": null,
+    "location": "East 25th Ave from Rupert St.to Windermere St",
+    "comp_date": "2024-06-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08a1c1c5-bf4d-4a3a-88c0-40689b873a33",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03457871713809,
+              49.24787729776304
+            ],
+            [
+              -123.03381250498131,
+              49.247876193257355
+            ]
+          ],
+          [
+            [
+              -123.03656309579273,
+              49.247874240090084
+            ],
+            [
+              -123.03457871713809,
+              49.24787729776304
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03518780042796,
+      "lat": 49.24787604096636
+    }
+  },
+  {
+    "project": "East 51st Ave from St. George St to Fraser St",
+    "street": null,
+    "location": "East 51st Ave from St. George St to Fraser St",
+    "comp_date": "2024-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/075bde7e-648d-4ea0-9032-72eb63681ad9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0934693437756,
+              49.22361222580125
+            ],
+            [
+              -123.09146889276676,
+              49.22358339614365
+            ]
+          ],
+          [
+            [
+              -123.09412994513659,
+              49.22362212390087
+            ],
+            [
+              -123.0934693437756,
+              49.22361222580125
+            ]
+          ],
+          [
+            [
+              -123.09146889276676,
+              49.22358339614365
+            ],
+            [
+              -123.09082142321961,
+              49.223574327053115
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09247568789624,
+      "lat": 49.223597969000615
+    }
+  },
+  {
+    "project": "E 51st Av from Fraser St to St. George St",
+    "street": null,
+    "location": "E 51st Av from Fraser St to St. George St",
+    "comp_date": "2024-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76fdd25d-ad82-432a-87ce-4bf68a53f560",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09413999409922,
+            49.22363076611754
+          ],
+          [
+            -123.09083496867628,
+            49.22358220998683
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09248748138775,
+      "lat": 49.22360648805219
+    }
+  },
+  {
+    "project": "E 39th Av from Ross St to Windsor St",
+    "street": null,
+    "location": "E 39th Av from Ross St to Windsor St",
+    "comp_date": "2024-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d297f8d8-00a5-4d21-a157-2ed4f9fa3364",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08478328340972,
+            49.23471888828112
+          ],
+          [
+            -123.08251175448372,
+            49.23469236891404
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08364751894673,
+      "lat": 49.23470562859758
+    }
+  },
+  {
+    "project": "E Hastings St from Skeena St to Kootenay St",
+    "street": null,
+    "location": "E Hastings St from Skeena St to Kootenay St",
+    "comp_date": "2024-06-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/221cdd52-9120-44ed-a915-0671e6668c14",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02832198758676,
+            49.28112204004972
+          ],
+          [
+            -123.0256963025615,
+            49.281120575893624
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02700914507412,
+      "lat": 49.28112130797168
+    }
+  },
+  {
+    "project": "5700 Block of Mckinnon Street",
+    "street": null,
+    "location": "5700 Block of Mckinnon Street",
+    "comp_date": "2024-06-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b742a5e5-2fce-4230-9f30-ed14987811b1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03880151224477,
+            49.23258047671902
+          ],
+          [
+            -123.03882833433494,
+            49.23197797225626
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03881492328986,
+      "lat": 49.23227922448764
+    }
+  },
+  {
+    "project": "W 29th Av from Quesnel Dr to Puget Dr",
+    "street": null,
+    "location": "W 29th Av from Quesnel Dr to Puget Dr",
+    "comp_date": "2024-06-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdec790-2039-4d01-821e-d5011481586d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16595831678498,
+            49.24609642121817
+          ],
+          [
+            -123.16789460403601,
+            49.24610364421133
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1669264604105,
+      "lat": 49.24610003271475
+    }
+  },
+  {
+    "project": "Both sides of 2300-2400 Block St Georges St from Lane North of E 8th Ave to Lane",
+    "street": null,
+    "location": "Both sides of 2300-2400 Block St Georges St from Lane North of E 8th Ave to Lane",
+    "comp_date": "2024-06-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/99ba7a32-5486-458a-bc9c-e7eb4a645cd9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09230527143448,
+              49.263455949838715
+            ],
+            [
+              -123.09375110837972,
+              49.263464686198176
+            ]
+          ],
+          [
+            [
+              -123.09296794670107,
+              49.26390150219896
+            ],
+            [
+              -123.09298802776972,
+              49.26301912989379
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09300916066083,
+      "lat": 49.26346031727094
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "street": null,
+    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "comp_date": "2024-06-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/af1716b1-2f81-460c-8da1-889c4df52508",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07555197706017,
+              49.24684959341968
+            ],
+            [
+              -123.0755573414782,
+              49.24644687331954
+            ]
+          ],
+          [
+            [
+              -123.0746775769213,
+              49.24642586174588
+            ],
+            [
+              -123.07619570722372,
+              49.24643636753382
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07546138649303,
+      "lat": 49.24647663747299
+    }
+  },
+  {
+    "project": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
+    "street": null,
+    "location": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
+    "comp_date": "2024-07-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2dfd2f-4d50-4270-b9bb-3dcb2ac1b8f5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10053548697833,
+            49.25886784278248
+          ],
+          [
+            -123.10056767348651,
+            49.25839169807168
+          ],
+          [
+            -123.09994003657702,
+            49.25840220131337
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10038244275927,
+      "lat": 49.2584975051346
+    }
+  },
+  {
+    "project": "W 35th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 35th Av from Wallace St to Highbury St",
+    "comp_date": "2024-07-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02401754-b2a7-4a41-9811-5c07a13a87e7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19096125746995,
+            49.24049758408509
+          ],
+          [
+            -123.18819321776658,
+            49.24049758408509
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18957723761825,
+      "lat": 49.24049758408509
+    }
+  },
+  {
+    "project": "2000 Block of Creelman Avenue",
+    "street": null,
+    "location": "2000 Block of Creelman Avenue",
+    "comp_date": "2024-07-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d96b8a8-7c16-4043-82cc-53f7f506d321",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1513775182339,
+            49.27453074808261
+          ],
+          [
+            -123.15253348344267,
+            49.27453613517207
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15195550083828,
+      "lat": 49.27453344162734
+    }
+  },
+  {
+    "project": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
+    "street": null,
+    "location": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
+    "comp_date": "2024-07-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9272868-1785-4617-aede-07fcc67c46e8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1276086208932,
+              49.22391151066526
+            ],
+            [
+              -123.1275871632211,
+              49.22451061001982
+            ]
+          ],
+          [
+            [
+              -123.12842937685176,
+              49.223922021242856
+            ],
+            [
+              -123.12730284906552,
+              49.22390100008545
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12777296424126,
+      "lat": 49.224015539351605
+    }
+  },
+  {
+    "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
+    "street": null,
+    "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
+    "comp_date": "2024-08-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5351f95a-d2fc-459c-a4b6-89ccef154242",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14774564957074,
+            49.27445872806922
+          ],
+          [
+            -123.14628652786664,
+            49.274430728532906
+          ],
+          [
+            -123.14634017204692,
+            49.273538234984755
+          ],
+          [
+            -123.14776710724284,
+            49.27346473479642
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14686415347224,
+      "lat": 49.27397960655968
     }
   },
   {
