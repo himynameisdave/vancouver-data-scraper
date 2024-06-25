@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 34th Av from Crown St to Wallace St",
-    "street": null,
-    "location": "W 34th Av from Crown St to Wallace St",
-    "comp_date": "2024-06-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ed3d3a3-ec5b-4f2c-938e-561af1bd5d14",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19092648258075,
-            49.24144593282108
-          ],
-          [
-            -123.19368966311539,
-            49.241449851675156
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19230807284808,
-      "lat": 49.24144789224811
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -214,34 +186,6 @@
     }
   },
   {
-    "project": "E Hastings St from Skeena St to Kootenay St",
-    "street": null,
-    "location": "E Hastings St from Skeena St to Kootenay St",
-    "comp_date": "2024-06-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/221cdd52-9120-44ed-a915-0671e6668c14",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02832198758676,
-            49.28112204004972
-          ],
-          [
-            -123.0256963025615,
-            49.281120575893624
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02700914507412,
-      "lat": 49.28112130797168
-    }
-  },
-  {
     "project": "5700 Block of Mckinnon Street",
     "street": null,
     "location": "5700 Block of Mckinnon Street",
@@ -335,6 +279,50 @@
     "geo_point_2d": {
       "lon": -123.09300916066083,
       "lat": 49.26346031727094
+    }
+  },
+  {
+    "project": "Matapan Crescent from Falaise Av to Laneway",
+    "street": null,
+    "location": "Matapan Crescent from Falaise Av to Laneway",
+    "comp_date": "2024-06-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b778963c-d3e7-4199-be25-5bc3564fb452",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02974072618531,
+            49.257266812881994
+          ],
+          [
+            -123.03010187472651,
+            49.2572667733244
+          ],
+          [
+            -123.03041781101295,
+            49.256442126254655
+          ],
+          [
+            -123.03040713081086,
+            49.25632672045498
+          ],
+          [
+            -123.03032608305725,
+            49.25622449314383
+          ],
+          [
+            -123.02935909541577,
+            49.25558954574012
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03004328001512,
+      "lat": 49.25644760968977
     }
   },
   {
