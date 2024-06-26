@@ -1,85 +1,5 @@
 [
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-06-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eadd626e-183c-4331-b6e8-dda7620797ab",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "geometries": [
-          {
-            "coordinates": [
-              -123.12005591396593,
-              49.283180367825594
-            ],
-            "type": "Point"
-          },
-          {
-            "coordinates": [
-              [
-                -123.12074999344229,
-                49.28206176581003
-              ],
-              [
-                -123.11915769433746,
-                49.28310712690154
-              ]
-            ],
-            "type": "LineString"
-          }
-        ],
-        "type": "GeometryCollection"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11995384388987,
-      "lat": 49.282584446355784
-    }
-  },
-  {
-    "project": "East 25th Ave from Rupert St.to Windermere St",
-    "street": null,
-    "location": "East 25th Ave from Rupert St.to Windermere St",
-    "comp_date": "2024-06-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08a1c1c5-bf4d-4a3a-88c0-40689b873a33",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03457871713809,
-              49.24787729776304
-            ],
-            [
-              -123.03381250498131,
-              49.247876193257355
-            ]
-          ],
-          [
-            [
-              -123.03656309579273,
-              49.247874240090084
-            ],
-            [
-              -123.03457871713809,
-              49.24787729776304
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03518780042796,
-      "lat": 49.24787604096636
-    }
-  },
-  {
     "project": "East 51st Ave from St. George St to Fraser St",
     "street": null,
     "location": "East 51st Ave from St. George St to Fraser St",
@@ -242,6 +162,34 @@
     }
   },
   {
+    "project": "Bute St from Robson St to Laneway north of Robson St (Eihu Ln)",
+    "street": null,
+    "location": "Bute St from Robson St to Laneway north of Robson St (Eihu Ln)",
+    "comp_date": "2024-06-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80704364-0bf1-4d96-b610-95f595d26d2f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12644791947972,
+            49.28635667824926
+          ],
+          [
+            -123.12697974111134,
+            49.28600474366536
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12671383029551,
+      "lat": 49.28618071095732
+    }
+  },
+  {
     "project": "Both sides of 2300-2400 Block St Georges St from Lane North of E 8th Ave to Lane",
     "street": null,
     "location": "Both sides of 2300-2400 Block St Georges St from Lane North of E 8th Ave to Lane",
@@ -363,6 +311,78 @@
     "geo_point_2d": {
       "lon": -123.07546138649303,
       "lat": 49.24647663747299
+    }
+  },
+  {
+    "project": "Prince Albert St from E 33rd Av to E 35th Av",
+    "street": null,
+    "location": "Prince Albert St from E 33rd Av to E 35th Av",
+    "comp_date": "2024-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78a45495-1261-4bd4-a044-98fb06cdd8ec",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08796910033648,
+              49.24028611078373
+            ],
+            [
+              -123.08793581399667,
+              49.24017845408517
+            ],
+            [
+              -123.08794476551043,
+              49.23988121748448
+            ]
+          ],
+          [
+            [
+              -123.08794476551043,
+              49.23988121748448
+            ],
+            [
+              -123.08799284071468,
+              49.23827606060496
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08796368339824,
+      "lat": 49.23928343609032
+    }
+  },
+  {
+    "project": "Both Sides of 2000 Block of Venables Street From Semlin Drive to 40m East.",
+    "street": null,
+    "location": "Both Sides of 2000 Block of Venables Street From Semlin Drive to 40m East.",
+    "comp_date": "2024-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d997e617-4de9-46a0-8306-9d25743b0002",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06370749642521,
+            49.276620035007454
+          ],
+          [
+            -123.06303694417146,
+            49.27661653521963
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06337222029833,
+      "lat": 49.27661828511354
     }
   },
   {
@@ -491,6 +511,38 @@
     "geo_point_2d": {
       "lon": -123.12777296424126,
       "lat": 49.224015539351605
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2024-07-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a6b21e28-4880-4bda-81ba-221647916beb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10172809712668,
+            49.273015999953486
+          ],
+          [
+            -123.1009968351969,
+            49.272925897960334
+          ],
+          [
+            -123.10002804173709,
+            49.27277629612772
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10087718435923,
+      "lat": 49.27290252536003
     }
   },
   {
@@ -692,6 +744,72 @@
     "geo_point_2d": {
       "lon": -123.10641869273127,
       "lat": 49.28387327954871
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-09-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14857623067299,
+              49.209589355262864
+            ],
+            [
+              -123.14840041326133,
+              49.215769718021335
+            ],
+            [
+              -123.14848586678069,
+              49.21602648606017
+            ]
+          ],
+          [
+            [
+              -123.15127165151208,
+              49.21416997712936
+            ],
+            [
+              -123.15123747010432,
+              49.21404717057794
+            ],
+            [
+              -123.14961385323633,
+              49.21236134071407
+            ],
+            [
+              -123.14934040197434,
+              49.21214921235435
+            ],
+            [
+              -123.14855422959617,
+              49.21183660048095
+            ]
+          ],
+          [
+            [
+              -123.15444194332788,
+              49.21513916733218
+            ],
+            [
+              -123.14840637599511,
+              49.215082845061744
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14993267933147,
+      "lat": 49.213684491275586
     }
   },
   {
@@ -962,72 +1080,6 @@
     "geo_point_2d": {
       "lon": -123.05845345725456,
       "lat": 49.26558362797153
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14857623067299,
-              49.209589355262864
-            ],
-            [
-              -123.14840041326133,
-              49.215769718021335
-            ],
-            [
-              -123.14848586678069,
-              49.21602648606017
-            ]
-          ],
-          [
-            [
-              -123.15127165151208,
-              49.21416997712936
-            ],
-            [
-              -123.15123747010432,
-              49.21404717057794
-            ],
-            [
-              -123.14961385323633,
-              49.21236134071407
-            ],
-            [
-              -123.14934040197434,
-              49.21214921235435
-            ],
-            [
-              -123.14855422959617,
-              49.21183660048095
-            ]
-          ],
-          [
-            [
-              -123.15444194332788,
-              49.21513916733218
-            ],
-            [
-              -123.14840637599511,
-              49.215082845061744
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14993267933147,
-      "lat": 49.213684491275586
     }
   },
   {
