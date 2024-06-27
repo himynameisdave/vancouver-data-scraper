@@ -1,111 +1,5 @@
 [
   {
-    "project": "East 51st Ave from St. George St to Fraser St",
-    "street": null,
-    "location": "East 51st Ave from St. George St to Fraser St",
-    "comp_date": "2024-06-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/075bde7e-648d-4ea0-9032-72eb63681ad9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0934693437756,
-              49.22361222580125
-            ],
-            [
-              -123.09146889276676,
-              49.22358339614365
-            ]
-          ],
-          [
-            [
-              -123.09412994513659,
-              49.22362212390087
-            ],
-            [
-              -123.0934693437756,
-              49.22361222580125
-            ]
-          ],
-          [
-            [
-              -123.09146889276676,
-              49.22358339614365
-            ],
-            [
-              -123.09082142321961,
-              49.223574327053115
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09247568789624,
-      "lat": 49.223597969000615
-    }
-  },
-  {
-    "project": "E 51st Av from Fraser St to St. George St",
-    "street": null,
-    "location": "E 51st Av from Fraser St to St. George St",
-    "comp_date": "2024-06-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76fdd25d-ad82-432a-87ce-4bf68a53f560",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09413999409922,
-            49.22363076611754
-          ],
-          [
-            -123.09083496867628,
-            49.22358220998683
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09248748138775,
-      "lat": 49.22360648805219
-    }
-  },
-  {
-    "project": "E 39th Av from Ross St to Windsor St",
-    "street": null,
-    "location": "E 39th Av from Ross St to Windsor St",
-    "comp_date": "2024-06-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d297f8d8-00a5-4d21-a157-2ed4f9fa3364",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08478328340972,
-            49.23471888828112
-          ],
-          [
-            -123.08251175448372,
-            49.23469236891404
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08364751894673,
-      "lat": 49.23470562859758
-    }
-  },
-  {
     "project": "5700 Block of Mckinnon Street",
     "street": null,
     "location": "5700 Block of Mckinnon Street",
@@ -274,46 +168,6 @@
     }
   },
   {
-    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "street": null,
-    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "comp_date": "2024-06-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/af1716b1-2f81-460c-8da1-889c4df52508",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07555197706017,
-              49.24684959341968
-            ],
-            [
-              -123.0755573414782,
-              49.24644687331954
-            ]
-          ],
-          [
-            [
-              -123.0746775769213,
-              49.24642586174588
-            ],
-            [
-              -123.07619570722372,
-              49.24643636753382
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07546138649303,
-      "lat": 49.24647663747299
-    }
-  },
-  {
     "project": "Prince Albert St from E 33rd Av to E 35th Av",
     "street": null,
     "location": "Prince Albert St from E 33rd Av to E 35th Av",
@@ -383,6 +237,34 @@
     "geo_point_2d": {
       "lon": -123.06337222029833,
       "lat": 49.27661828511354
+    }
+  },
+  {
+    "project": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
+    "street": null,
+    "location": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
+    "comp_date": "2024-07-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8163e1a9-3f40-49a1-a132-901c2232b1f1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09858221262078,
+            49.23628873336992
+          ],
+          [
+            -123.09767282638776,
+            49.23627472280026
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09812751950427,
+      "lat": 49.23628172808509
     }
   },
   {
@@ -514,6 +396,46 @@
     }
   },
   {
+    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "street": null,
+    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
+    "comp_date": "2024-07-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/af1716b1-2f81-460c-8da1-889c4df52508",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07555197706017,
+              49.24684959341968
+            ],
+            [
+              -123.0755573414782,
+              49.24644687331954
+            ]
+          ],
+          [
+            [
+              -123.0746775769213,
+              49.24642586174588
+            ],
+            [
+              -123.07619570722372,
+              49.24643636753382
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07546138649303,
+      "lat": 49.24647663747299
+    }
+  },
+  {
     "project": "100 Block Terminal Avenue",
     "street": null,
     "location": "100 Block Terminal Avenue",
@@ -524,16 +446,20 @@
       "geometry": {
         "coordinates": [
           [
-            -123.10172809712668,
-            49.273015999953486
+            -123.10163182687499,
+            49.27294563042844
           ],
           [
-            -123.1009968351969,
-            49.272925897960334
+            -123.10103090141138,
+            49.27289498373639
           ],
           [
-            -123.10002804173709,
-            49.27277629612772
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
           ]
         ],
         "type": "LineString"
@@ -541,8 +467,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10087718435923,
-      "lat": 49.27290252536003
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
     }
   },
   {
