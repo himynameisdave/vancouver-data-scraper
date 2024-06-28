@@ -1,33 +1,5 @@
 [
   {
-    "project": "5700 Block of Mckinnon Street",
-    "street": null,
-    "location": "5700 Block of Mckinnon Street",
-    "comp_date": "2024-06-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b742a5e5-2fce-4230-9f30-ed14987811b1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03880151224477,
-            49.23258047671902
-          ],
-          [
-            -123.03882833433494,
-            49.23197797225626
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03881492328986,
-      "lat": 49.23227922448764
-    }
-  },
-  {
     "project": "W 29th Av from Quesnel Dr to Puget Dr",
     "street": null,
     "location": "W 29th Av from Quesnel Dr to Puget Dr",
@@ -265,6 +237,34 @@
     "geo_point_2d": {
       "lon": -123.09812751950427,
       "lat": 49.23628172808509
+    }
+  },
+  {
+    "project": "B/S of 500-600 blk of E51st Ave",
+    "street": null,
+    "location": "B/S of 500-600 blk of E51st Ave",
+    "comp_date": "2024-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fb2d2d-813c-450c-9044-d03eaef0388b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09413425651766,
+            49.22362054227588
+          ],
+          [
+            -123.0934046956656,
+            49.223610031634166
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09376947609164,
+      "lat": 49.223615286955024
     }
   },
   {
