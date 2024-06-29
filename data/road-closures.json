@@ -1,145 +1,5 @@
 [
   {
-    "project": "W 29th Av from Quesnel Dr to Puget Dr",
-    "street": null,
-    "location": "W 29th Av from Quesnel Dr to Puget Dr",
-    "comp_date": "2024-06-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdec790-2039-4d01-821e-d5011481586d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16595831678498,
-            49.24609642121817
-          ],
-          [
-            -123.16789460403601,
-            49.24610364421133
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1669264604105,
-      "lat": 49.24610003271475
-    }
-  },
-  {
-    "project": "Bute St from Robson St to Laneway north of Robson St (Eihu Ln)",
-    "street": null,
-    "location": "Bute St from Robson St to Laneway north of Robson St (Eihu Ln)",
-    "comp_date": "2024-06-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80704364-0bf1-4d96-b610-95f595d26d2f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12644791947972,
-            49.28635667824926
-          ],
-          [
-            -123.12697974111134,
-            49.28600474366536
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12671383029551,
-      "lat": 49.28618071095732
-    }
-  },
-  {
-    "project": "Both sides of 2300-2400 Block St Georges St from Lane North of E 8th Ave to Lane",
-    "street": null,
-    "location": "Both sides of 2300-2400 Block St Georges St from Lane North of E 8th Ave to Lane",
-    "comp_date": "2024-06-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/99ba7a32-5486-458a-bc9c-e7eb4a645cd9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09230527143448,
-              49.263455949838715
-            ],
-            [
-              -123.09375110837972,
-              49.263464686198176
-            ]
-          ],
-          [
-            [
-              -123.09296794670107,
-              49.26390150219896
-            ],
-            [
-              -123.09298802776972,
-              49.26301912989379
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09300916066083,
-      "lat": 49.26346031727094
-    }
-  },
-  {
-    "project": "Matapan Crescent from Falaise Av to Laneway",
-    "street": null,
-    "location": "Matapan Crescent from Falaise Av to Laneway",
-    "comp_date": "2024-06-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b778963c-d3e7-4199-be25-5bc3564fb452",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02974072618531,
-            49.257266812881994
-          ],
-          [
-            -123.03010187472651,
-            49.2572667733244
-          ],
-          [
-            -123.03041781101295,
-            49.256442126254655
-          ],
-          [
-            -123.03040713081086,
-            49.25632672045498
-          ],
-          [
-            -123.03032608305725,
-            49.25622449314383
-          ],
-          [
-            -123.02935909541577,
-            49.25558954574012
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03004328001512,
-      "lat": 49.25644760968977
-    }
-  },
-  {
     "project": "Prince Albert St from E 33rd Av to E 35th Av",
     "street": null,
     "location": "Prince Albert St from E 33rd Av to E 35th Av",
@@ -212,6 +72,56 @@
     }
   },
   {
+    "project": "W 27th Av from Collingwood St to Blenheim St",
+    "street": null,
+    "location": "W 27th Av from Collingwood St to Blenheim St",
+    "comp_date": "2024-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ac63c65-2495-4254-9454-126b2ca8e21d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18020603669673,
+      "lat": 49.2480484241057
+    }
+  },
+  {
     "project": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
     "street": null,
     "location": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
@@ -265,38 +175,6 @@
     "geo_point_2d": {
       "lon": -123.09376947609164,
       "lat": 49.223615286955024
-    }
-  },
-  {
-    "project": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
-    "street": null,
-    "location": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
-    "comp_date": "2024-07-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2dfd2f-4d50-4270-b9bb-3dcb2ac1b8f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10053548697833,
-            49.25886784278248
-          ],
-          [
-            -123.10056767348651,
-            49.25839169807168
-          ],
-          [
-            -123.09994003657702,
-            49.25840220131337
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10038244275927,
-      "lat": 49.2584975051346
     }
   },
   {
@@ -433,6 +311,38 @@
     "geo_point_2d": {
       "lon": -123.07546138649303,
       "lat": 49.24647663747299
+    }
+  },
+  {
+    "project": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
+    "street": null,
+    "location": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
+    "comp_date": "2024-07-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2dfd2f-4d50-4270-b9bb-3dcb2ac1b8f5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10053548697833,
+            49.25886784278248
+          ],
+          [
+            -123.10056767348651,
+            49.25839169807168
+          ],
+          [
+            -123.09994003657702,
+            49.25840220131337
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10038244275927,
+      "lat": 49.2584975051346
     }
   },
   {
@@ -577,6 +487,34 @@
     "geo_point_2d": {
       "lon": -123.02532494707073,
       "lat": 49.291188587919336
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279118902884,
+            49.240529920566985
+          ],
+          [
+            -123.10285484836781,
+            49.239129253729374
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10282301869833,
+      "lat": 49.239829587148186
     }
   },
   {
