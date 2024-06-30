@@ -1,42 +1,32 @@
 [
   {
-    "project": "W 27th Av from Collingwood St to Blenheim St",
+    "project": null,
     "street": null,
-    "location": "W 27th Av from Collingwood St to Blenheim St",
-    "comp_date": "2024-07-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ac63c65-2495-4254-9454-126b2ca8e21d",
+    "location": null,
+    "comp_date": "2024-06-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a6b67307-6078-47b4-b974-91f243dd9344",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.18126440464864,
-              49.248052381069584
+              -123.17453581030857,
+              49.263301826930785
             ],
             [
-              -123.18180682450586,
-              49.24805438924071
+              -123.1759430681052,
+              49.26332369177078
             ]
           ],
           [
             [
-              -123.17924569207646,
-              49.24804479941619
+              -123.17400825217526,
+              49.26329362744818
             ],
             [
-              -123.18126440464864,
-              49.248052381069584
-            ]
-          ],
-          [
-            [
-              -123.17860524839084,
-              49.24804259797858
-            ],
-            [
-              -123.17924569207646,
-              49.24804479941619
+              -123.17453581030857,
+              49.263301826930785
             ]
           ]
         ],
@@ -45,222 +35,66 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18020603669673,
-      "lat": 49.2480484241057
+      "lon": -123.17497566012491,
+      "lat": 49.26330866059426
     }
   },
   {
-    "project": "Prince Albert St from E 33rd Av to E 35th Av",
+    "project": null,
     "street": null,
-    "location": "Prince Albert St from E 33rd Av to E 35th Av",
-    "comp_date": "2024-07-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78a45495-1261-4bd4-a044-98fb06cdd8ec",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08796910033648,
-              49.24028611078373
-            ],
-            [
-              -123.08793581399667,
-              49.24017845408517
-            ],
-            [
-              -123.08794476551043,
-              49.23988121748448
-            ]
-          ],
-          [
-            [
-              -123.08794476551043,
-              49.23988121748448
-            ],
-            [
-              -123.08799284071468,
-              49.23827606060496
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08796368339824,
-      "lat": 49.23928343609032
-    }
-  },
-  {
-    "project": "Both Sides of 2000 Block of Venables Street From Semlin Drive to 40m East.",
-    "street": null,
-    "location": "Both Sides of 2000 Block of Venables Street From Semlin Drive to 40m East.",
-    "comp_date": "2024-07-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d997e617-4de9-46a0-8306-9d25743b0002",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06370749642521,
-            49.276620035007454
-          ],
-          [
-            -123.06303694417146,
-            49.27661653521963
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06337222029833,
-      "lat": 49.27661828511354
-    }
-  },
-  {
-    "project": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
-    "street": null,
-    "location": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
+    "location": null,
     "comp_date": "2024-07-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8163e1a9-3f40-49a1-a132-901c2232b1f1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09858221262078,
-            49.23628873336992
-          ],
-          [
-            -123.09767282638776,
-            49.23627472280026
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09812751950427,
-      "lat": 49.23628172808509
-    }
-  },
-  {
-    "project": "B/S of 500-600 blk of E51st Ave",
-    "street": null,
-    "location": "B/S of 500-600 blk of E51st Ave",
-    "comp_date": "2024-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fb2d2d-813c-450c-9044-d03eaef0388b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09413425651766,
-            49.22362054227588
-          ],
-          [
-            -123.0934046956656,
-            49.223610031634166
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09376947609164,
-      "lat": 49.223615286955024
-    }
-  },
-  {
-    "project": "W 35th Av from Wallace St to Highbury St",
-    "street": null,
-    "location": "W 35th Av from Wallace St to Highbury St",
-    "comp_date": "2024-07-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02401754-b2a7-4a41-9811-5c07a13a87e7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19096125746995,
-            49.24049758408509
-          ],
-          [
-            -123.18819321776658,
-            49.24049758408509
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18957723761825,
-      "lat": 49.24049758408509
-    }
-  },
-  {
-    "project": "2000 Block of Creelman Avenue",
-    "street": null,
-    "location": "2000 Block of Creelman Avenue",
-    "comp_date": "2024-07-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d96b8a8-7c16-4043-82cc-53f7f506d321",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1513775182339,
-            49.27453074808261
-          ],
-          [
-            -123.15253348344267,
-            49.27453613517207
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15195550083828,
-      "lat": 49.27453344162734
-    }
-  },
-  {
-    "project": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "street": null,
-    "location": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "comp_date": "2024-07-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9272868-1785-4617-aede-07fcc67c46e8",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a565d7c8-8ef1-4380-bd38-004117be9db0",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.1276086208932,
-              49.22391151066526
+              -123.11954648116337,
+              49.288442030433885
             ],
             [
-              -123.1275871632211,
-              49.22451061001982
+              -123.11623778147082,
+              49.28763915409468
+            ],
+            [
+              -123.11587371813445,
+              49.28758330156907
+            ],
+            [
+              -123.11446029323245,
+              49.28703175216444
+            ],
+            [
+              -123.11388207395439,
+              49.2866058679744
+            ],
+            [
+              -123.11305757544132,
+              49.28724120195113
+            ],
+            [
+              -123.1131646534122,
+              49.287464614182824
+            ],
+            [
+              -123.11822942614106,
+              49.28890280560995
+            ],
+            [
+              -123.1194822345769,
+              49.28812088133927
             ]
           ],
           [
             [
-              -123.12842937685176,
-              49.223922021242856
+              -123.11552036190895,
+              49.28809993677433
             ],
             [
-              -123.12730284906552,
-              49.22390100008545
+              -123.11654830729223,
+              49.287443669339126
             ]
           ]
         ],
@@ -269,80 +103,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12777296424126,
-      "lat": 49.224015539351605
-    }
-  },
-  {
-    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "street": null,
-    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "comp_date": "2024-07-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/af1716b1-2f81-460c-8da1-889c4df52508",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07555197706017,
-              49.24684959341968
-            ],
-            [
-              -123.0755573414782,
-              49.24644687331954
-            ]
-          ],
-          [
-            [
-              -123.0746775769213,
-              49.24642586174588
-            ],
-            [
-              -123.07619570722372,
-              49.24643636753382
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07546138649303,
-      "lat": 49.24647663747299
-    }
-  },
-  {
-    "project": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
-    "street": null,
-    "location": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
-    "comp_date": "2024-07-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2dfd2f-4d50-4270-b9bb-3dcb2ac1b8f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10053548697833,
-            49.25886784278248
-          ],
-          [
-            -123.10056767348651,
-            49.25839169807168
-          ],
-          [
-            -123.09994003657702,
-            49.25840220131337
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10038244275927,
-      "lat": 49.2584975051346
+      "lon": -123.11620975068608,
+      "lat": 49.28788597428817
     }
   },
   {
