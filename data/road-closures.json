@@ -1,5 +1,55 @@
 [
   {
+    "project": "W 27th Av from Collingwood St to Blenheim St",
+    "street": null,
+    "location": "W 27th Av from Collingwood St to Blenheim St",
+    "comp_date": "2024-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ac63c65-2495-4254-9454-126b2ca8e21d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18020603669673,
+      "lat": 49.2480484241057
+    }
+  },
+  {
     "project": "Prince Albert St from E 33rd Av to E 35th Av",
     "street": null,
     "location": "Prince Albert St from E 33rd Av to E 35th Av",
@@ -69,56 +119,6 @@
     "geo_point_2d": {
       "lon": -123.06337222029833,
       "lat": 49.27661828511354
-    }
-  },
-  {
-    "project": "W 27th Av from Collingwood St to Blenheim St",
-    "street": null,
-    "location": "W 27th Av from Collingwood St to Blenheim St",
-    "comp_date": "2024-07-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ac63c65-2495-4254-9454-126b2ca8e21d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ],
-          [
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ],
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ]
-          ],
-          [
-            [
-              -123.17860524839084,
-              49.24804259797858
-            ],
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18020603669673,
-      "lat": 49.2480484241057
     }
   },
   {
