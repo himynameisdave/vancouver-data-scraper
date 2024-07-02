@@ -1,5 +1,127 @@
 [
   {
+    "project": "W 27th Av from Collingwood St to Blenheim St",
+    "street": null,
+    "location": "W 27th Av from Collingwood St to Blenheim St",
+    "comp_date": "2024-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ac63c65-2495-4254-9454-126b2ca8e21d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18020603669673,
+      "lat": 49.2480484241057
+    }
+  },
+  {
+    "project": "Prince Albert St from E 33rd Av to E 35th Av",
+    "street": null,
+    "location": "Prince Albert St from E 33rd Av to E 35th Av",
+    "comp_date": "2024-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78a45495-1261-4bd4-a044-98fb06cdd8ec",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08796910033648,
+              49.24028611078373
+            ],
+            [
+              -123.08793581399667,
+              49.24017845408517
+            ],
+            [
+              -123.08794476551043,
+              49.23988121748448
+            ]
+          ],
+          [
+            [
+              -123.08794476551043,
+              49.23988121748448
+            ],
+            [
+              -123.08799284071468,
+              49.23827606060496
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08796368339824,
+      "lat": 49.23928343609032
+    }
+  },
+  {
+    "project": "Both Sides of 2000 Block of Venables Street From Semlin Drive to 40m East.",
+    "street": null,
+    "location": "Both Sides of 2000 Block of Venables Street From Semlin Drive to 40m East.",
+    "comp_date": "2024-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d997e617-4de9-46a0-8306-9d25743b0002",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06370749642521,
+            49.276620035007454
+          ],
+          [
+            -123.06303694417146,
+            49.27661653521963
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06337222029833,
+      "lat": 49.27661828511354
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -65,6 +187,118 @@
     "geo_point_2d": {
       "lon": -123.11620975068608,
       "lat": 49.28788597428817
+    }
+  },
+  {
+    "project": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
+    "street": null,
+    "location": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
+    "comp_date": "2024-07-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8163e1a9-3f40-49a1-a132-901c2232b1f1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09858221262078,
+            49.23628873336992
+          ],
+          [
+            -123.09767282638776,
+            49.23627472280026
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09812751950427,
+      "lat": 49.23628172808509
+    }
+  },
+  {
+    "project": "B/S of 500-600 blk of E51st Ave",
+    "street": null,
+    "location": "B/S of 500-600 blk of E51st Ave",
+    "comp_date": "2024-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fb2d2d-813c-450c-9044-d03eaef0388b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09413425651766,
+            49.22362054227588
+          ],
+          [
+            -123.0934046956656,
+            49.223610031634166
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09376947609164,
+      "lat": 49.223615286955024
+    }
+  },
+  {
+    "project": "W 35th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 35th Av from Wallace St to Highbury St",
+    "comp_date": "2024-07-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02401754-b2a7-4a41-9811-5c07a13a87e7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19096125746995,
+            49.24049758408509
+          ],
+          [
+            -123.18819321776658,
+            49.24049758408509
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18957723761825,
+      "lat": 49.24049758408509
+    }
+  },
+  {
+    "project": "2000 Block of Creelman Avenue",
+    "street": null,
+    "location": "2000 Block of Creelman Avenue",
+    "comp_date": "2024-07-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d96b8a8-7c16-4043-82cc-53f7f506d321",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1513775182339,
+            49.27453074808261
+          ],
+          [
+            -123.15253348344267,
+            49.27453613517207
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15195550083828,
+      "lat": 49.27453344162734
     }
   },
   {
