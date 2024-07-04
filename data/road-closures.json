@@ -1,101 +1,5 @@
 [
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-07-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a565d7c8-8ef1-4380-bd38-004117be9db0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11954648116337,
-              49.288442030433885
-            ],
-            [
-              -123.11623778147082,
-              49.28763915409468
-            ],
-            [
-              -123.11587371813445,
-              49.28758330156907
-            ],
-            [
-              -123.11446029323245,
-              49.28703175216444
-            ],
-            [
-              -123.11388207395439,
-              49.2866058679744
-            ],
-            [
-              -123.11305757544132,
-              49.28724120195113
-            ],
-            [
-              -123.1131646534122,
-              49.287464614182824
-            ],
-            [
-              -123.11822942614106,
-              49.28890280560995
-            ],
-            [
-              -123.1194822345769,
-              49.28812088133927
-            ]
-          ],
-          [
-            [
-              -123.11552036190895,
-              49.28809993677433
-            ],
-            [
-              -123.11654830729223,
-              49.287443669339126
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11620975068608,
-      "lat": 49.28788597428817
-    }
-  },
-  {
-    "project": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
-    "street": null,
-    "location": "Both Sides of 300 Block of E 38th Avenue From West PL of 337 to East PL of 365.",
-    "comp_date": "2024-07-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8163e1a9-3f40-49a1-a132-901c2232b1f1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09858221262078,
-            49.23628873336992
-          ],
-          [
-            -123.09767282638776,
-            49.23627472280026
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09812751950427,
-      "lat": 49.23628172808509
-    }
-  },
-  {
     "project": "B/S of 500-600 blk of E51st Ave",
     "street": null,
     "location": "B/S of 500-600 blk of E51st Ave",
@@ -121,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.09376947609164,
       "lat": 49.223615286955024
+    }
+  },
+  {
+    "project": "900 Block of Chilco Street",
+    "street": null,
+    "location": "900 Block of Chilco Street",
+    "comp_date": "2024-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ad5ea811-ebfc-4fea-ab35-5f28ed3b0dfb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14157338660392,
+            49.29127357113194
+          ],
+          [
+            -123.141047673637,
+            49.29163394083923
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14131053012045,
+      "lat": 49.29145375598559
     }
   },
   {
@@ -177,34 +109,6 @@
     "geo_point_2d": {
       "lon": -123.18957723761825,
       "lat": 49.24049758408509
-    }
-  },
-  {
-    "project": "Both sides of 1100 Block Union St from Vernon Dr to 50m West of Vernon Dr.",
-    "street": null,
-    "location": "Both sides of 1100 Block Union St from Vernon Dr to 50m West of Vernon Dr.",
-    "comp_date": "2024-07-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5d4a6d8f-d50e-4257-83e8-4b13234fce39",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07933444854751,
-            49.27731800669568
-          ],
-          [
-            -123.08027858612074,
-            49.27732500617154
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07980651733413,
-      "lat": 49.27732150643361
     }
   },
   {
