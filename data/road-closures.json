@@ -1,61 +1,5 @@
 [
   {
-    "project": "B/S of 500-600 blk of E51st Ave",
-    "street": null,
-    "location": "B/S of 500-600 blk of E51st Ave",
-    "comp_date": "2024-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fb2d2d-813c-450c-9044-d03eaef0388b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09413425651766,
-            49.22362054227588
-          ],
-          [
-            -123.0934046956656,
-            49.223610031634166
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09376947609164,
-      "lat": 49.223615286955024
-    }
-  },
-  {
-    "project": "900 Block of Chilco Street",
-    "street": null,
-    "location": "900 Block of Chilco Street",
-    "comp_date": "2024-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ad5ea811-ebfc-4fea-ab35-5f28ed3b0dfb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14157338660392,
-            49.29127357113194
-          ],
-          [
-            -123.141047673637,
-            49.29163394083923
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14131053012045,
-      "lat": 49.29145375598559
-    }
-  },
-  {
     "project": "Trinity St to N Kamloops St to N Penticton St",
     "street": null,
     "location": "Trinity St to N Kamloops St to N Penticton St",
@@ -220,6 +164,261 @@
     }
   },
   {
+    "project": "Jonathon Roger's Park, 100 W 8th ave, 2300 Columbia, 100 W 7th and 2300 Manitoba",
+    "street": null,
+    "location": "Jonathon Roger's Park, 100 W 8th ave, 2300 Columbia, 100 W 7th and 2300 Manitoba",
+    "comp_date": "2024-07-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/23f8146e-c7d4-4da9-986a-b3359f1247fd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "geometries": [
+          {
+            "coordinates": [
+              [
+                -123.10668239812658,
+                49.26387344717958
+              ],
+              [
+                -123.10497205060685,
+                49.263840600817616
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.1108241220224,
+                49.263961037371246
+              ],
+              [
+                -123.10963358436625,
+                49.263928191067606
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                [
+                  -123.10830174468063,
+                  49.264264389735644
+                ],
+                [
+                  -123.10795523177302,
+                  49.264264389735644
+                ],
+                [
+                  -123.10795950971014,
+                  49.26426159660372
+                ],
+                [
+                  -123.10830174468063,
+                  49.264264389735644
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10490497815512,
+                49.26459606161126
+              ],
+              [
+                -123.10668239812658,
+                49.26463985555057
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10934852808381,
+                49.265592375875826
+              ],
+              [
+                -123.10936529619674,
+                49.264880724462444
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.1108241220224,
+                49.26484787877098
+              ],
+              [
+                -123.10490497815512,
+                49.26474934156536
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10934852808381,
+                49.26319461765502
+              ],
+              [
+                -123.10934852808381,
+                49.263720163702686
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10679977491715,
+                49.26553763396774
+              ],
+              [
+                -123.1069171500702,
+                49.26313987268583
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10674947057834,
+                49.2631179753227
+              ],
+              [
+                -123.10666563001364,
+                49.26553763396774
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10953297568861,
+                49.26320556632078
+              ],
+              [
+                -123.10951620921318,
+                49.26561427280919
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10498881871979,
+                49.263698266329754
+              ],
+              [
+                -123.11089119201787,
+                49.26380775443377
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10692068507723,
+                49.26383245834265
+              ],
+              [
+                -123.10938762654591,
+                49.263888324160405
+              ],
+              [
+                -123.10940188842409,
+                49.26471699302954
+              ],
+              [
+                -123.10682086515922,
+                49.264689060597675
+              ],
+              [
+                -123.10684938613048,
+                49.26382314736691
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10948109999158,
+                49.264654505080586
+              ],
+              [
+                -123.10944525815127,
+                49.263882211456405
+              ],
+              [
+                -123.10925410050291,
+                49.26381980317254
+              ],
+              [
+                -123.10697217117037,
+                49.26379640011717
+              ],
+              [
+                -123.10678101468874,
+                49.2638900122721
+              ],
+              [
+                -123.10676906740865,
+                49.26466230558373
+              ]
+            ],
+            "type": "LineString"
+          }
+        ],
+        "type": "GeometryCollection"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1080721620546,
+      "lat": 49.26426345869167
+    }
+  },
+  {
+    "project": "W 20th Av from Ash St to Tupper St",
+    "street": null,
+    "location": "W 20th Av from Ash St to Tupper St",
+    "comp_date": "2024-07-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7747f495-5327-4e8a-9c58-c73acced9da8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11604652241569,
+            49.25331256503728
+          ],
+          [
+            -123.11827016415977,
+            49.25335468357201
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11715834328773,
+      "lat": 49.253333624304645
+    }
+  },
+  {
     "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
     "street": null,
     "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
@@ -285,38 +484,6 @@
     "geo_point_2d": {
       "lon": -123.03560842545858,
       "lat": 49.2462802181154
-    }
-  },
-  {
-    "project": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
-    "street": null,
-    "location": "Both sides of 2900 Block Watson St from E 14th Ave to 45m North of E 14th Ave. N",
-    "comp_date": "2024-07-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2dfd2f-4d50-4270-b9bb-3dcb2ac1b8f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10053548697833,
-            49.25886784278248
-          ],
-          [
-            -123.10056767348651,
-            49.25839169807168
-          ],
-          [
-            -123.09994003657702,
-            49.25840220131337
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10038244275927,
-      "lat": 49.2584975051346
     }
   },
   {
