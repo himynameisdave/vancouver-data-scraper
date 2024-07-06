@@ -1,129 +1,5 @@
 [
   {
-    "project": "Trinity St to N Kamloops St to N Penticton St",
-    "street": null,
-    "location": "Trinity St to N Kamloops St to N Penticton St",
-    "comp_date": "2024-07-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96975d90-4723-4937-a4cf-6bea377cea88",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05456106629248,
-            49.28970836031047
-          ],
-          [
-            -123.05193419474261,
-            49.28970612560178
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05324763051755,
-      "lat": 49.289707242956126
-    }
-  },
-  {
-    "project": "W 35th Av from Wallace St to Highbury St",
-    "street": null,
-    "location": "W 35th Av from Wallace St to Highbury St",
-    "comp_date": "2024-07-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02401754-b2a7-4a41-9811-5c07a13a87e7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19096125746995,
-            49.24049758408509
-          ],
-          [
-            -123.18819321776658,
-            49.24049758408509
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18957723761825,
-      "lat": 49.24049758408509
-    }
-  },
-  {
-    "project": "2000 Block of Creelman Avenue",
-    "street": null,
-    "location": "2000 Block of Creelman Avenue",
-    "comp_date": "2024-07-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d96b8a8-7c16-4043-82cc-53f7f506d321",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1513775182339,
-            49.27453074808261
-          ],
-          [
-            -123.15253348344267,
-            49.27453613517207
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15195550083828,
-      "lat": 49.27453344162734
-    }
-  },
-  {
-    "project": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "street": null,
-    "location": "Lane East of 6700 Block of Oak St and 900 Block of W 52nd Ave",
-    "comp_date": "2024-07-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9272868-1785-4617-aede-07fcc67c46e8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1276086208932,
-              49.22391151066526
-            ],
-            [
-              -123.1275871632211,
-              49.22451061001982
-            ]
-          ],
-          [
-            [
-              -123.12842937685176,
-              49.223922021242856
-            ],
-            [
-              -123.12730284906552,
-              49.22390100008545
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12777296424126,
-      "lat": 49.224015539351605
-    }
-  },
-  {
     "project": "Chester St from E 39th Av to E 41st Av",
     "street": null,
     "location": "Chester St from E 39th Av to E 41st Av",
@@ -161,6 +37,136 @@
     "geo_point_2d": {
       "lon": -123.08925199102039,
       "lat": 49.23382094150642
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-07-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ded97f64-d937-40ef-82f2-45976573021a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15747485002537,
+              49.26820807207517
+            ],
+            [
+              -123.14573867066831,
+              49.26803931389233
+            ]
+          ],
+          [
+            [
+              -123.15514829432911,
+              49.268579338174305
+            ],
+            [
+              -123.15517414553415,
+              49.26777773769692
+            ]
+          ],
+          [
+            [
+              -123.15274418748301,
+              49.26852027325606
+            ],
+            [
+              -123.15278296379752,
+              49.267769299534734
+            ]
+          ],
+          [
+            [
+              -123.15035300574638,
+              49.26848652175053
+            ],
+            [
+              -123.15037885596529,
+              49.26769335794165
+            ]
+          ],
+          [
+            [
+              -123.14796182400974,
+              49.26846964598906
+            ],
+            [
+              -123.14797474911919,
+              49.26764272982612
+            ]
+          ],
+          [
+            [
+              -123.16831918203798,
+              49.268393704830174
+            ],
+            [
+              -123.15751362486083,
+              49.26820807143136
+            ]
+          ],
+          [
+            [
+              -123.16635453483026,
+              49.268773407202445
+            ],
+            [
+              -123.1663803860353,
+              49.26790430609353
+            ]
+          ],
+          [
+            [
+              -123.16453206678499,
+              49.268739655870036
+            ],
+            [
+              -123.16455791799,
+              49.26789586827488
+            ]
+          ],
+          [
+            [
+              -123.16221843669123,
+              49.26865527775993
+            ],
+            [
+              -123.16225721300573,
+              49.26792962018453
+            ]
+          ],
+          [
+            [
+              -123.15987895736465,
+              49.268646840713444
+            ],
+            [
+              -123.15990480758357,
+              49.26785367948196
+            ]
+          ],
+          [
+            [
+              -123.1574748495324,
+              49.26861308929449
+            ],
+            [
+              -123.15752655095639,
+              49.267414902824214
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15714786094357,
+      "lat": 49.26820112090659
     }
   },
   {
