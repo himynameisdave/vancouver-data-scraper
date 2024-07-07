@@ -1,45 +1,5 @@
 [
   {
-    "project": "Chester St from E 39th Av to E 41st Av",
-    "street": null,
-    "location": "Chester St from E 39th Av to E 41st Av",
-    "comp_date": "2024-07-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0e951677-8130-40f3-99c3-ba15a2c73a32",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08923210004401,
-              49.23477102029946
-            ],
-            [
-              -123.08926300045981,
-              49.233288210158946
-            ]
-          ],
-          [
-            [
-              -123.08926300045981,
-              49.233288210158946
-            ],
-            [
-              -123.08927253683838,
-              49.23287087701834
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08925199102039,
-      "lat": 49.23382094150642
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -397,61 +357,77 @@
     }
   },
   {
-    "project": "W 20th Av from Ash St to Tupper St",
+    "project": "Columbia St - Union to Hastings St",
     "street": null,
-    "location": "W 20th Av from Ash St to Tupper St",
-    "comp_date": "2024-07-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7747f495-5327-4e8a-9c58-c73acced9da8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11604652241569,
-            49.25331256503728
-          ],
-          [
-            -123.11827016415977,
-            49.25335468357201
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11715834328773,
-      "lat": 49.253333624304645
-    }
-  },
-  {
-    "project": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "street": null,
-    "location": "Both sides of 1400 Block E 27th Ave from Knight St to 60m East of Lane East of K",
-    "comp_date": "2024-07-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/af1716b1-2f81-460c-8da1-889c4df52508",
+    "location": "Columbia St - Union to Hastings St",
+    "comp_date": "2024-07-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07b41735-33b5-4ffd-9a54-3abad1a29b97",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.07555197706017,
-              49.24684959341968
+              -123.10221604895952,
+              49.27927350237343
             ],
             [
-              -123.0755573414782,
-              49.24644687331954
+              -123.10212850854367,
+              49.27906675357133
+            ],
+            [
+              -123.10212474263511,
+              49.27764239669909
             ]
           ],
           [
             [
-              -123.0746775769213,
-              49.24642586174588
+              -123.10233644329747,
+              49.27953002832669
             ],
             [
-              -123.07619570722372,
-              49.24643636753382
+              -123.10221604895952,
+              49.27927350237343
+            ]
+          ],
+          [
+            [
+              -123.10231671469197,
+              49.27998258433581
+            ],
+            [
+              -123.10233644329747,
+              49.27953002832669
+            ]
+          ],
+          [
+            [
+              -123.10229713578302,
+              49.28043456448188
+            ],
+            [
+              -123.10231671469197,
+              49.27998258433581
+            ]
+          ],
+          [
+            [
+              -123.10227809392099,
+              49.28088711080986
+            ],
+            [
+              -123.10229713578302,
+              49.28043456448188
+            ]
+          ],
+          [
+            [
+              -123.10225508772504,
+              49.281384213724095
+            ],
+            [
+              -123.10227809392099,
+              49.28088711080986
             ]
           ]
         ],
@@ -460,36 +436,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07546138649303,
-      "lat": 49.24647663747299
-    }
-  },
-  {
-    "project": "3200 Block of E 27th Avenue",
-    "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-07-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03665448697437,
-            49.24628547102543
-          ],
-          [
-            -123.03456236394275,
-            49.24627496520537
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
+      "lon": -123.10222360080618,
+      "lat": 49.27951135800801
     }
   },
   {
