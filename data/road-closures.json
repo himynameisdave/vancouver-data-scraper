@@ -3,6 +3,34 @@
     "project": null,
     "street": null,
     "location": null,
+    "comp_date": "2024-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7c5451f5-6b7c-4c90-89e7-32de50f3e46d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10641911080955,
+            49.277037063760844
+          ],
+          [
+            -123.10641911080955,
+            49.27563714065374
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10641911080955,
+      "lat": 49.276337102207286
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
     "comp_date": "2024-07-09",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ded97f64-d937-40ef-82f2-45976573021a",
     "geom": {
