@@ -358,67 +358,93 @@
     }
   },
   {
-    "project": "3200 Block of E 27th Avenue",
+    "project": "Grant St from Nanaimo St to Kamloops St",
     "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-07-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "location": "Grant St from Nanaimo St to Kamloops St",
+    "comp_date": "2024-07-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c7a39f4-74e1-41f2-867f-d43f059de0c8",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03665448697437,
-            49.24628547102543
+            [
+              -123.05658545674078,
+              49.2713618924042
+            ],
+            [
+              -123.05587155967461,
+              49.27136223081612
+            ]
           ],
           [
-            -123.03456236394275,
-            49.24627496520537
+            [
+              -123.05587155967461,
+              49.27136223081612
+            ],
+            [
+              -123.05528601619352,
+              49.27136253945494
+            ]
+          ],
+          [
+            [
+              -123.05528601619352,
+              49.27136253945494
+            ],
+            [
+              -123.05468793495548,
+              49.271362221397766
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
+      "lon": -123.0556366958417,
+      "lat": 49.271362261932595
     }
   },
   {
-    "project": "100 Block Terminal Avenue",
+    "project": "W 13th Av from Trimble St to Discovery St",
     "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2024-07-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a6b21e28-4880-4bda-81ba-221647916beb",
+    "location": "W 13th Av from Trimble St to Discovery St",
+    "comp_date": "2024-07-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bad64c2b-bf53-4201-bdf6-4d85a05f291e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10163182687499,
-            49.27294563042844
+            [
+              -123.20311765647921,
+              49.26100383851707
+            ],
+            [
+              -123.20549984446986,
+              49.26103967276441
+            ]
           ],
           [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
+            [
+              -123.20549984446986,
+              49.26103967276441
+            ],
+            [
+              -123.20615860460133,
+              49.26104966226421
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
+      "lon": -123.20463813101368,
+      "lat": 49.26102671904358
     }
   },
   {
@@ -466,30 +492,30 @@
     }
   },
   {
-    "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
+    "project": "100 Block Terminal Avenue",
     "street": null,
-    "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
-    "comp_date": "2024-08-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5351f95a-d2fc-459c-a4b6-89ccef154242",
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2024-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a6b21e28-4880-4bda-81ba-221647916beb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14774564957074,
-            49.27445872806922
+            -123.10163182687499,
+            49.27294563042844
           ],
           [
-            -123.14628652786664,
-            49.274430728532906
+            -123.10103090141138,
+            49.27289498373639
           ],
           [
-            -123.14634017204692,
-            49.273538234984755
+            -123.1004577110221,
+            49.27280816067659
           ],
           [
-            -123.14776710724284,
-            49.27346473479642
+            -123.1001359852083,
+            49.272755102049985
           ]
         ],
         "type": "LineString"
@@ -497,8 +523,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14686415347224,
-      "lat": 49.27397960655968
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
     }
   },
   {
@@ -571,6 +625,42 @@
     "geo_point_2d": {
       "lon": -123.02532494707073,
       "lat": 49.291188587919336
+    }
+  },
+  {
+    "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
+    "street": null,
+    "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
+    "comp_date": "2024-08-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5351f95a-d2fc-459c-a4b6-89ccef154242",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14774564957074,
+            49.27445872806922
+          ],
+          [
+            -123.14628652786664,
+            49.274430728532906
+          ],
+          [
+            -123.14634017204692,
+            49.273538234984755
+          ],
+          [
+            -123.14776710724284,
+            49.27346473479642
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14686415347224,
+      "lat": 49.27397960655968
     }
   },
   {
@@ -698,7 +788,7 @@
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2024-09-18",
+    "comp_date": "2024-09-17",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
     "geom": {
       "type": "Feature",
