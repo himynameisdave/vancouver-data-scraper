@@ -1,82 +1,112 @@
 [
   {
-    "project": "Grant St from Nanaimo St to Kamloops St",
+    "project": "100 blk E 27th Ave, from Main west to the lane",
     "street": null,
-    "location": "Grant St from Nanaimo St to Kamloops St",
-    "comp_date": "2024-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c7a39f4-74e1-41f2-867f-d43f059de0c8",
+    "location": "100 blk E 27th Ave, from Main west to the lane",
+    "comp_date": "2024-07-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/266ade3c-874f-4e1e-8fad-37be573b7fbe",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.05658545674078,
-              49.2713618924042
-            ],
-            [
-              -123.05587155967461,
-              49.27136223081612
-            ]
+            -123.1012260498084,
+            49.24722669167133
           ],
           [
-            [
-              -123.05587155967461,
-              49.27136223081612
-            ],
-            [
-              -123.05528601619352,
-              49.27136253945494
-            ]
-          ],
-          [
-            [
-              -123.05528601619352,
-              49.27136253945494
-            ],
-            [
-              -123.05468793495548,
-              49.271362221397766
-            ]
+            -123.10177858486546,
+            49.24724770290419
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0556366958417,
-      "lat": 49.271362261932595
+      "lon": -123.10150231733691,
+      "lat": 49.24723719728776
     }
   },
   {
-    "project": "W 13th Av from Trimble St to Discovery St",
+    "project": null,
     "street": null,
-    "location": "W 13th Av from Trimble St to Discovery St",
+    "location": null,
     "comp_date": "2024-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bad64c2b-bf53-4201-bdf6-4d85a05f291e",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/44fb410a-de92-4e6e-ac95-e2f8e05b5752",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.20311765647921,
-              49.26100383851707
+              -123.10445486298211,
+              49.27925132766552
             ],
             [
-              -123.20549984446986,
-              49.26103967276441
+              -123.10249278624417,
+              49.27921690602244
+            ],
+            [
+              -123.10223149210603,
+              49.27927911429157
             ]
           ],
           [
             [
-              -123.20549984446986,
-              49.26103967276441
+              -123.10223149210603,
+              49.27927911429157
             ],
             [
-              -123.20615860460133,
-              49.26104966226421
+              -123.10124125088035,
+              49.279514859315384
+            ],
+            [
+              -123.10049656069211,
+              49.279500928184234
+            ]
+          ],
+          [
+            [
+              -123.1023518865326,
+              49.27953564024233
+            ],
+            [
+              -123.10223149210603,
+              49.27927911429157
+            ]
+          ],
+          [
+            [
+              -123.10233215804648,
+              49.27998819627396
+            ],
+            [
+              -123.1023518865326,
+              49.27953564024233
+            ]
+          ],
+          [
+            [
+              -123.10231257925679,
+              49.28044017644248
+            ],
+            [
+              -123.10233215804648,
+              49.27998819627396
+            ]
+          ],
+          [
+            [
+              -123.10223149210603,
+              49.27927911429157
+            ],
+            [
+              -123.10214395162029,
+              49.27907236549038
+            ],
+            [
+              -123.10214018532544,
+              49.27764800855496
             ]
           ]
         ],
@@ -85,52 +115,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.20463813101368,
-      "lat": 49.26102671904358
-    }
-  },
-  {
-    "project": "Vimy Crescent from Skeena St to Boundary Rd",
-    "street": null,
-    "location": "Vimy Crescent from Skeena St to Boundary Rd",
-    "comp_date": "2024-07-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c4b3763a-ee81-4f35-80ff-0d7d43c4f7c1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.02851766632608,
-              49.25814857116731
-            ],
-            [
-              -123.02621180611212,
-              49.25817225299028
-            ],
-            [
-              -123.02451121564614,
-              49.25816341518765
-            ]
-          ],
-          [
-            [
-              -123.02451121564614,
-              49.25816341518765
-            ],
-            [
-              -123.02371089756546,
-              49.258159246510445
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02611430545925,
-      "lat": 49.258163190838786
+      "lon": -123.10236692433071,
+      "lat": 49.27921173572457
     }
   },
   {
@@ -167,34 +153,6 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
-    }
-  },
-  {
-    "project": "3200 Block of E 27th Avenue",
-    "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-08-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03665448697437,
-            49.24628547102543
-          ],
-          [
-            -123.03456236394275,
-            49.24627496520537
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
     }
   },
   {
