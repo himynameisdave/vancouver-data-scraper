@@ -1,84 +1,92 @@
 [
   {
-    "project": null,
+    "project": "Both Sides of 1000 Block of E 22nd Avenue From Glen Drive to West PL of 1045.",
     "street": null,
-    "location": null,
-    "comp_date": "2024-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/44fb410a-de92-4e6e-ac95-e2f8e05b5752",
+    "location": "Both Sides of 1000 Block of E 22nd Avenue From Glen Drive to West PL of 1045.",
+    "comp_date": "2024-07-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a36178fd-fb23-4294-ab05-d89faf19df73",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0818893950298,
+            49.25088107231309
+          ],
+          [
+            -123.0831033396197,
+            49.25090628396799
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08249636732474,
+      "lat": 49.25089367814054
+    }
+  },
+  {
+    "project": "E 20th Av from Sophia St to Prince Edward St",
+    "street": null,
+    "location": "E 20th Av from Sophia St to Prince Edward St",
+    "comp_date": "2024-07-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d3c3c0e-6b23-45f7-9986-26153c33e934",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09856183409748,
+            49.25294764065006
+          ],
+          [
+            -123.09662678410722,
+            49.25291734219124
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09759430910235,
+      "lat": 49.25293249142065
+    }
+  },
+  {
+    "project": "Vimy Crescent from Skeena St to Boundary Rd",
+    "street": null,
+    "location": "Vimy Crescent from Skeena St to Boundary Rd",
+    "comp_date": "2024-07-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c4b3763a-ee81-4f35-80ff-0d7d43c4f7c1",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10445486298211,
-              49.27925132766552
+              -123.02851766632608,
+              49.25814857116731
             ],
             [
-              -123.10249278624417,
-              49.27921690602244
+              -123.02621180611212,
+              49.25817225299028
             ],
             [
-              -123.10223149210603,
-              49.27927911429157
+              -123.02451121564614,
+              49.25816341518765
             ]
           ],
           [
             [
-              -123.10223149210603,
-              49.27927911429157
+              -123.02451121564614,
+              49.25816341518765
             ],
             [
-              -123.10124125088035,
-              49.279514859315384
-            ],
-            [
-              -123.10049656069211,
-              49.279500928184234
-            ]
-          ],
-          [
-            [
-              -123.1023518865326,
-              49.27953564024233
-            ],
-            [
-              -123.10223149210603,
-              49.27927911429157
-            ]
-          ],
-          [
-            [
-              -123.10233215804648,
-              49.27998819627396
-            ],
-            [
-              -123.1023518865326,
-              49.27953564024233
-            ]
-          ],
-          [
-            [
-              -123.10231257925679,
-              49.28044017644248
-            ],
-            [
-              -123.10233215804648,
-              49.27998819627396
-            ]
-          ],
-          [
-            [
-              -123.10223149210603,
-              49.27927911429157
-            ],
-            [
-              -123.10214395162029,
-              49.27907236549038
-            ],
-            [
-              -123.10214018532544,
-              49.27764800855496
+              -123.02371089756546,
+              49.258159246510445
             ]
           ]
         ],
@@ -87,8 +95,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10236692433071,
-      "lat": 49.27921173572457
+      "lon": -123.02611430545925,
+      "lat": 49.258163190838786
+    }
+  },
+  {
+    "project": "Napier St from Garden Dr to Templeton Dr",
+    "street": null,
+    "location": "Napier St from Garden Dr to Templeton Dr",
+    "comp_date": "2024-07-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/494a815c-927b-411b-9e00-71942ff92f24",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05984903024542,
+            49.27477663007835
+          ],
+          [
+            -123.05791414440094,
+            49.27476158664743
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05888158732319,
+      "lat": 49.27476910836289
     }
   },
   {
@@ -125,6 +161,34 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
     }
   },
   {
