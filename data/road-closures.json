@@ -1,5 +1,33 @@
 [
   {
+    "project": "W 9th Av from Discovery St to Trimble St",
+    "street": null,
+    "location": "W 9th Av from Discovery St to Trimble St",
+    "comp_date": "2024-07-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06519a72-3fb4-4bbd-b78d-b9dac84eac70",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20299156909618,
+            49.26461918234543
+          ],
+          [
+            -123.20602961127096,
+            49.26466640892252
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.20451059018357,
+      "lat": 49.264642795633975
+    }
+  },
+  {
     "project": "Both Sides of 1000 Block of E 22nd Avenue From Glen Drive to West PL of 1045.",
     "street": null,
     "location": "Both Sides of 1000 Block of E 22nd Avenue From Glen Drive to West PL of 1045.",
@@ -100,6 +128,34 @@
     }
   },
   {
+    "project": "Inverness St from E 53rd Av to E 54th Av",
+    "street": null,
+    "location": "Inverness St from E 53rd Av to E 54th Av",
+    "comp_date": "2024-07-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cfb2d447-d195-44f9-b872-7cb94b454afb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08018244038357,
+            49.2218341331245
+          ],
+          [
+            -123.08023452204282,
+            49.220480578468425
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0802084812132,
+      "lat": 49.221157355796464
+    }
+  },
+  {
     "project": "Napier St from Garden Dr to Templeton Dr",
     "street": null,
     "location": "Napier St from Garden Dr to Templeton Dr",
@@ -125,6 +181,50 @@
     "geo_point_2d": {
       "lon": -123.05888158732319,
       "lat": 49.27476910836289
+    }
+  },
+  {
+    "project": "Lane East of 4700 Block of Granville St and 1400 Block of Minto Crescent",
+    "street": null,
+    "location": "Lane East of 4700 Block of Granville St and 1400 Block of Minto Crescent",
+    "comp_date": "2024-07-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08379029-e563-40b7-a946-d72fa83c4c6d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13928831576256,
+              49.24281468276689
+            ],
+            [
+              -123.13838172911552,
+              49.242839198061404
+            ],
+            [
+              -123.13791502474692,
+              49.242888228613936
+            ]
+          ],
+          [
+            [
+              -123.13838172911552,
+              49.242839198061404
+            ],
+            [
+              -123.13834954260734,
+              49.2434485743282
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13852861348668,
+      "lat": 49.24293299319232
     }
   },
   {
@@ -520,7 +620,7 @@
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2024-09-17",
+    "comp_date": "2024-09-18",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
     "geom": {
       "type": "Feature",
@@ -586,7 +686,7 @@
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2024-09-30",
+    "comp_date": "2024-09-27",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d153dfcc-7c87-49f5-80fd-fe5ec9b07baf",
     "geom": {
       "type": "Feature",
