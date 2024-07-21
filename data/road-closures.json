@@ -1,33 +1,5 @@
 [
   {
-    "project": "E 20th Av from Sophia St to Prince Edward St",
-    "street": null,
-    "location": "E 20th Av from Sophia St to Prince Edward St",
-    "comp_date": "2024-07-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d3c3c0e-6b23-45f7-9986-26153c33e934",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09856183409748,
-            49.25294764065006
-          ],
-          [
-            -123.09662678410722,
-            49.25291734219124
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09759430910235,
-      "lat": 49.25293249142065
-    }
-  },
-  {
     "project": "Vimy Crescent from Skeena St to Boundary Rd",
     "street": null,
     "location": "Vimy Crescent from Skeena St to Boundary Rd",
@@ -97,6 +69,34 @@
     "geo_point_2d": {
       "lon": -123.18291596459977,
       "lat": 49.26160317957722
+    }
+  },
+  {
+    "project": "E 20th Av from Sophia St to Prince Edward St",
+    "street": null,
+    "location": "E 20th Av from Sophia St to Prince Edward St",
+    "comp_date": "2024-07-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d3c3c0e-6b23-45f7-9986-26153c33e934",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09856183409748,
+            49.25294764065006
+          ],
+          [
+            -123.09662678410722,
+            49.25291734219124
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09759430910235,
+      "lat": 49.25293249142065
     }
   },
   {
@@ -1019,34 +1019,6 @@
     }
   },
   {
-    "project": "W 36th Av from Wallace St to Highbury St",
-    "street": null,
-    "location": "W 36th Av from Wallace St to Highbury St",
-    "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18819063842795,
-            49.239535630607975
-          ],
-          [
-            -123.19094968035765,
-            49.239544982864174
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1895701593928,
-      "lat": 49.23954030673608
-    }
-  },
-  {
     "project": "W 35th Av",
     "street": null,
     "location": "W 35th Av",
@@ -1072,6 +1044,34 @@
     "geo_point_2d": {
       "lon": -123.1867286183414,
       "lat": 49.240477493539295
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Highbury St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819063842795,
+            49.239535630607975
+          ],
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1895701593928,
+      "lat": 49.23954030673608
     }
   },
   {
