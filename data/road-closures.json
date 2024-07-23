@@ -1,29 +1,61 @@
 [
   {
-    "project": "100 Block Terminal Avenue",
+    "project": "W 21st Av from Laurel St to Oak St",
     "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2024-08-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "location": "W 21st Av from Laurel St to Oak St",
+    "comp_date": "2024-07-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c0ef9920-66eb-4de1-83e6-34d7da877248",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10163182687499,
-            49.27294563042844
+            [
+              -123.12672498863596,
+              49.25261552290877
+            ],
+            [
+              -123.12741156066603,
+              49.25262693833068
+            ]
           ],
           [
-            -123.10103090141138,
-            49.27289498373639
+            [
+              -123.1245692031699,
+              49.252579673678724
+            ],
+            [
+              -123.12672498863596,
+              49.25261552290877
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12599038190663,
+      "lat": 49.252603306686694
+    }
+  },
+  {
+    "project": "Inverness St from E 53rd Av to E 54th Av",
+    "street": null,
+    "location": "Inverness St from E 53rd Av to E 54th Av",
+    "comp_date": "2024-07-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cfb2d447-d195-44f9-b872-7cb94b454afb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08018244038357,
+            49.2218341331245
           ],
           [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
+            -123.08023452204282,
+            49.220480578468425
           ]
         ],
         "type": "LineString"
@@ -31,8 +63,176 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
+      "lon": -123.0802084812132,
+      "lat": 49.221157355796464
+    }
+  },
+  {
+    "project": "Napier St from Garden Dr to Templeton Dr",
+    "street": null,
+    "location": "Napier St from Garden Dr to Templeton Dr",
+    "comp_date": "2024-07-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/494a815c-927b-411b-9e00-71942ff92f24",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05984903024542,
+            49.27477663007835
+          ],
+          [
+            -123.05791414440094,
+            49.27476158664743
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05888158732319,
+      "lat": 49.27476910836289
+    }
+  },
+  {
+    "project": "West side of 500-600 Block Beatty St from 30m North of W Georgia St to W Pender",
+    "street": null,
+    "location": "West side of 500-600 Block Beatty St from 30m North of W Georgia St to W Pender",
+    "comp_date": "2024-07-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/da959e25-a535-4b0e-8725-29b91c38fe16",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10852029436299,
+            49.28121026051184
+          ],
+          [
+            -123.11197093665564,
+            49.278914647064624
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11024561550931,
+      "lat": 49.28006245378823
+    }
+  },
+  {
+    "project": "Lane East of 4700 Block of Granville St and 1400 Block of Minto Crescent",
+    "street": null,
+    "location": "Lane East of 4700 Block of Granville St and 1400 Block of Minto Crescent",
+    "comp_date": "2024-07-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08379029-e563-40b7-a946-d72fa83c4c6d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13928831576256,
+              49.24281468276689
+            ],
+            [
+              -123.13838172911552,
+              49.242839198061404
+            ],
+            [
+              -123.13791502474692,
+              49.242888228613936
+            ]
+          ],
+          [
+            [
+              -123.13838172911552,
+              49.242839198061404
+            ],
+            [
+              -123.13834954260734,
+              49.2434485743282
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13852861348668,
+      "lat": 49.24293299319232
+    }
+  },
+  {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
+    }
+  },
+  {
+    "project": "700 Block of W 59th Ave and 7400 Block of Heather St",
+    "street": null,
+    "location": "700 Block of W 59th Ave and 7400 Block of Heather St",
+    "comp_date": "2024-08-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/84dd58ca-eaa8-4b3c-bc0e-4bdb5e8e9da8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.123927034773,
+              49.21701968069658
+            ],
+            [
+              -123.12315455857672,
+              49.217009168650975
+            ]
+          ],
+          [
+            [
+              -123.12391094151893,
+              49.21701968069658
+            ],
+            [
+              -123.12391094151893,
+              49.217324529048
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12364552886079,
+      "lat": 49.217059040159135
     }
   },
   {
@@ -442,6 +642,46 @@
     }
   },
   {
+    "project": "2500 Block Birch St",
+    "street": null,
+    "location": "2500 Block Birch St",
+    "comp_date": "2024-08-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c6b4db27-44d7-4724-b541-423492119bf5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13372620696241,
+              49.263520681387575
+            ],
+            [
+              -123.1337453900149,
+              49.26301556926808
+            ]
+          ],
+          [
+            [
+              -123.1337453900149,
+              49.26301556926808
+            ],
+            [
+              -123.13376248013341,
+              49.26255495882285
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13374444875507,
+      "lat": 49.263037824054734
+    }
+  },
+  {
     "project": "North Side of 3600 Block of Fellowes Street From North Boundary Road to Kootenay",
     "street": null,
     "location": "North Side of 3600 Block of Fellowes Street From North Boundary Road to Kootenay",
@@ -671,6 +911,78 @@
     }
   },
   {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2024-09-03",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -708,6 +1020,62 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Highbury St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819063842795,
+            49.239535630607975
+          ],
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1895701593928,
+      "lat": 49.23954030673608
+    }
+  },
+  {
+    "project": "W 35th Av",
+    "street": null,
+    "location": "W 35th Av",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18527983039485,
+            49.240472657053914
+          ],
+          [
+            -123.18817740628796,
+            49.24048233002466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1867286183414,
+      "lat": 49.240477493539295
     }
   },
   {
