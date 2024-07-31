@@ -100,6 +100,34 @@
     }
   },
   {
+    "project": "Chambers St from",
+    "street": null,
+    "location": "Chambers St from",
+    "comp_date": "2024-08-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09112f18-4699-4e20-bf9b-a998b29aad34",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0529829805449,
+            49.23888130318775
+          ],
+          [
+            -123.05300477627821,
+            49.237373636298656
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05299387841157,
+      "lat": 49.238127469743205
+    }
+  },
+  {
     "project": "Both sides of 5400 Block Rhodes St from North of PL 5443 to South of PL 5481. Bo",
     "street": null,
     "location": "Both sides of 5400 Block Rhodes St from North of PL 5443 to South of PL 5481. Bo",
@@ -596,31 +624,53 @@
     }
   },
   {
-    "project": "Chambers St from",
+    "project": "Both sides of 700-1000 Block E 54th Ave from Fraser St to 30m East. Both sides o",
     "street": null,
-    "location": "Chambers St from",
-    "comp_date": "2024-08-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/09112f18-4699-4e20-bf9b-a998b29aad34",
+    "location": "Both sides of 700-1000 Block E 54th Ave from Fraser St to 30m East. Both sides o",
+    "comp_date": "2024-08-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59f38654-4a50-4693-90f5-b2d21ed85bf3",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0529829805449,
-            49.23888130318775
+            [
+              -123.09086627733645,
+              49.22065165885235
+            ],
+            [
+              -123.09032983553348,
+              49.220648155094864
+            ]
           ],
           [
-            -123.05300477627821,
-            49.237373636298656
+            [
+              -123.08813272317762,
+              49.220609613746205
+            ],
+            [
+              -123.08871208032484,
+              49.22061662126637
+            ]
+          ],
+          [
+            [
+              -123.08589575886596,
+              49.22057838193038
+            ],
+            [
+              -123.08545587658753,
+              49.22056436687819
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05299387841157,
-      "lat": 49.238127469743205
+      "lon": -123.08839563388219,
+      "lat": 49.220613994432675
     }
   },
   {
@@ -724,53 +774,31 @@
     }
   },
   {
-    "project": "Both sides of 700-1000 Block E 54th Ave from Fraser St to 30m East. Both sides o",
+    "project": "B/S of 3500 blk of W39th Ave",
     "street": null,
-    "location": "Both sides of 700-1000 Block E 54th Ave from Fraser St to 30m East. Both sides o",
-    "comp_date": "2024-08-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59f38654-4a50-4693-90f5-b2d21ed85bf3",
+    "location": "B/S of 3500 blk of W39th Ave",
+    "comp_date": "2024-08-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f6a18cd-4abf-4686-9e6b-f36bbb5cdac9",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.09086627733645,
-              49.22065165885235
-            ],
-            [
-              -123.09032983553348,
-              49.220648155094864
-            ]
+            -123.18530448800976,
+            49.23645791752068
           ],
           [
-            [
-              -123.08813272317762,
-              49.220609613746205
-            ],
-            [
-              -123.08871208032484,
-              49.22061662126637
-            ]
-          ],
-          [
-            [
-              -123.08589575886596,
-              49.22057838193038
-            ],
-            [
-              -123.08545587658753,
-              49.22056436687819
-            ]
+            -123.18468221551832,
+            49.23644040433453
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08839563388219,
-      "lat": 49.220613994432675
+      "lon": -123.18499335176404,
+      "lat": 49.236449160927606
     }
   },
   {
@@ -799,34 +827,6 @@
     "geo_point_2d": {
       "lon": -123.06081630210227,
       "lat": 49.27478430209615
-    }
-  },
-  {
-    "project": "B/S of 3500 blk of W39th Ave",
-    "street": null,
-    "location": "B/S of 3500 blk of W39th Ave",
-    "comp_date": "2024-08-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f6a18cd-4abf-4686-9e6b-f36bbb5cdac9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18530448800976,
-            49.23645791752068
-          ],
-          [
-            -123.18468221551832,
-            49.23644040433453
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18499335176404,
-      "lat": 49.236449160927606
     }
   },
   {
@@ -1163,42 +1163,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -1236,6 +1200,42 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
     }
   },
   {
