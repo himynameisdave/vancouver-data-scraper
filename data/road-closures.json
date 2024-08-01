@@ -28,50 +28,6 @@
     }
   },
   {
-    "project": "Lane East of 4700 Block of Granville St and 1400 Block of Minto Crescent",
-    "street": null,
-    "location": "Lane East of 4700 Block of Granville St and 1400 Block of Minto Crescent",
-    "comp_date": "2024-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08379029-e563-40b7-a946-d72fa83c4c6d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13928831576256,
-              49.24281468276689
-            ],
-            [
-              -123.13838172911552,
-              49.242839198061404
-            ],
-            [
-              -123.13791502474692,
-              49.242888228613936
-            ]
-          ],
-          [
-            [
-              -123.13838172911552,
-              49.242839198061404
-            ],
-            [
-              -123.13834954260734,
-              49.2434485743282
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13852861348668,
-      "lat": 49.24293299319232
-    }
-  },
-  {
     "project": "Both sides of 4700 Block Argyle St from South of PL 4768 to North of PL 4728.",
     "street": null,
     "location": "Both sides of 4700 Block Argyle St from South of PL 4768 to North of PL 4728.",
@@ -516,46 +472,6 @@
     }
   },
   {
-    "project": "700 Block of W 59th Ave and 7400 Block of Heather St",
-    "street": null,
-    "location": "700 Block of W 59th Ave and 7400 Block of Heather St",
-    "comp_date": "2024-08-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/84dd58ca-eaa8-4b3c-bc0e-4bdb5e8e9da8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.123927034773,
-              49.21701968069658
-            ],
-            [
-              -123.12315455857672,
-              49.217009168650975
-            ]
-          ],
-          [
-            [
-              -123.12391094151893,
-              49.21701968069658
-            ],
-            [
-              -123.12391094151893,
-              49.217324529048
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12364552886079,
-      "lat": 49.217059040159135
-    }
-  },
-  {
     "project": "3500 Block of Marshall Street",
     "street": null,
     "location": "3500 Block of Marshall Street",
@@ -621,6 +537,90 @@
     "geo_point_2d": {
       "lon": -123.11475444854884,
       "lat": 49.26488791246792
+    }
+  },
+  {
+    "project": "Both Sides of 2200 Block of E 25th Avenue From Lane West of Brant Street to West",
+    "street": null,
+    "location": "Both Sides of 2200 Block of E 25th Avenue From Lane West of Brant Street to West",
+    "comp_date": "2024-08-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a3c6083-592c-4989-a7db-839a4dc0e3e7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0585789361903,
+            49.248111357473505
+          ],
+          [
+            -123.05985293465129,
+            49.24812536471208
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05921593542078,
+      "lat": 49.24811836109279
+    }
+  },
+  {
+    "project": "W 26th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 26th Av from Wallace St to Highbury St",
+    "comp_date": "2024-08-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bd167373-d8dd-4ccd-b581-da0acf3e4c87",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18809529626338,
+            49.2490269705514
+          ],
+          [
+            -123.19085676905023,
+            49.249041394586555
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18947603265683,
+      "lat": 49.24903418256898
+    }
+  },
+  {
+    "project": "W 26th Av from Dunkirk St to Collingwood St",
+    "street": null,
+    "location": "W 26th Av from Dunkirk St to Collingwood St",
+    "comp_date": "2024-08-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e57d9cc-7fcf-43a6-a702-f9d46e61fe55",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18346609500678,
+            49.24902711475008
+          ],
+          [
+            -123.18182034103852,
+            49.24902049686594
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18264321802265,
+      "lat": 49.24902380580801
     }
   },
   {
@@ -895,6 +895,46 @@
     "geo_point_2d": {
       "lon": -123.03560842545858,
       "lat": 49.2462802181154
+    }
+  },
+  {
+    "project": "700 Block of W 59th Ave and 7400 Block of Heather St",
+    "street": null,
+    "location": "700 Block of W 59th Ave and 7400 Block of Heather St",
+    "comp_date": "2024-08-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/84dd58ca-eaa8-4b3c-bc0e-4bdb5e8e9da8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.123927034773,
+              49.21701968069658
+            ],
+            [
+              -123.12315455857672,
+              49.217009168650975
+            ]
+          ],
+          [
+            [
+              -123.12391094151893,
+              49.21701968069658
+            ],
+            [
+              -123.12391094151893,
+              49.217324529048
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12364552886079,
+      "lat": 49.217059040159135
     }
   },
   {
