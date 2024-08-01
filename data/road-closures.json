@@ -1,21 +1,21 @@
 [
   {
-    "project": "W 64th Av from Birch St to Montcalm St",
+    "project": "Both sides of 5900-6000 Block Argyle St from E 43rd Ave to 35m South of E 43rd A",
     "street": null,
-    "location": "W 64th Av from Birch St to Montcalm St",
-    "comp_date": "2024-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/17b35451-a2ed-482d-8fb4-221b97bab10f",
+    "location": "Both sides of 5900-6000 Block Argyle St from E 43rd Ave to 35m South of E 43rd A",
+    "comp_date": "2024-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/949df51a-a273-41bd-b3cb-c4eb8e180a4f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.13558720039467,
-            49.213070594629954
+            -123.07159765170002,
+            49.23055249004031
           ],
           [
-            -123.1363406086642,
-            49.213084154239056
+            -123.07159228728199,
+            49.23021619558082
           ]
         ],
         "type": "LineString"
@@ -23,36 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13596390452943,
-      "lat": 49.213077374434505
-    }
-  },
-  {
-    "project": "Both sides of 4700 Block Argyle St from South of PL 4768 to North of PL 4728.",
-    "street": null,
-    "location": "Both sides of 4700 Block Argyle St from South of PL 4768 to North of PL 4728.",
-    "comp_date": "2024-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ad7aeea4-d9fc-4b6b-9adb-7a10008ec687",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07080572472097,
-            49.24198595459373
-          ],
-          [
-            -123.0707789026308,
-            49.24268289634597
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0707923136759,
-      "lat": 49.242334425469856
+      "lon": -123.071594969491,
+      "lat": 49.23038434281057
     }
   },
   {
@@ -81,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.05299387841157,
       "lat": 49.238127469743205
+    }
+  },
+  {
+    "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "street": null,
+    "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "comp_date": "2024-08-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a275f674-dc86-440e-9c5f-8634430ac6cb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10444563247533,
+            49.279281592135135
+          ],
+          [
+            -123.10443490363926,
+            49.279575557560975
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10444026805727,
+      "lat": 49.279428574848055
     }
   },
   {
