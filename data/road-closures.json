@@ -1,37 +1,5 @@
 [
   {
-    "project": "W King Edward between Arbutus St and Maple Crescent",
-    "street": null,
-    "location": "W King Edward between Arbutus St and Maple Crescent",
-    "comp_date": "2024-08-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6022cbba-ef4b-4317-bf05-f9df10f84957",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15302996438452,
-            49.25152741929486
-          ],
-          [
-            -123.15239038474444,
-            49.25135614559025
-          ],
-          [
-            -123.15147201397915,
-            49.250863730379535
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15223385197467,
-      "lat": 49.251238868394786
-    }
-  },
-  {
     "project": "1100 Bute, 1100 Jervis and Jim Deva Plaza",
     "street": null,
     "location": "1100 Bute, 1100 Jervis and Jim Deva Plaza",
@@ -132,6 +100,38 @@
     "geo_point_2d": {
       "lon": -123.11472404201646,
       "lat": 49.2260494377845
+    }
+  },
+  {
+    "project": "W King Edward between Arbutus St and Maple Crescent",
+    "street": null,
+    "location": "W King Edward between Arbutus St and Maple Crescent",
+    "comp_date": "2024-08-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6022cbba-ef4b-4317-bf05-f9df10f84957",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15302996438452,
+            49.25152741929486
+          ],
+          [
+            -123.15239038474444,
+            49.25135614559025
+          ],
+          [
+            -123.15147201397915,
+            49.250863730379535
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15223385197467,
+      "lat": 49.251238868394786
     }
   },
   {
@@ -468,42 +468,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -541,6 +505,42 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
     }
   },
   {
