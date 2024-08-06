@@ -1,21 +1,21 @@
 [
   {
-    "project": "W 26th Av from Wallace St to Highbury St",
+    "project": "Both Sides of 2200 Block of E 25th Avenue From Lane West of Brant Street to West",
     "street": null,
-    "location": "W 26th Av from Wallace St to Highbury St",
+    "location": "Both Sides of 2200 Block of E 25th Avenue From Lane West of Brant Street to West",
     "comp_date": "2024-08-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bd167373-d8dd-4ccd-b581-da0acf3e4c87",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a3c6083-592c-4989-a7db-839a4dc0e3e7",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.18809529626338,
-            49.2490269705514
+            -123.0585789361903,
+            49.248111357473505
           ],
           [
-            -123.19085676905023,
-            49.249041394586555
+            -123.05985293465129,
+            49.24812536471208
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18947603265683,
-      "lat": 49.24903418256898
+      "lon": -123.05921593542078,
+      "lat": 49.24811836109279
     }
   },
   {
@@ -56,22 +56,22 @@
     }
   },
   {
-    "project": "Both Sides of 2200 Block of E 25th Avenue From Lane West of Brant Street to West",
+    "project": "W 26th Av from Wallace St to Highbury St",
     "street": null,
-    "location": "Both Sides of 2200 Block of E 25th Avenue From Lane West of Brant Street to West",
+    "location": "W 26th Av from Wallace St to Highbury St",
     "comp_date": "2024-08-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a3c6083-592c-4989-a7db-839a4dc0e3e7",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bd167373-d8dd-4ccd-b581-da0acf3e4c87",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0585789361903,
-            49.248111357473505
+            -123.18809529626338,
+            49.2490269705514
           ],
           [
-            -123.05985293465129,
-            49.24812536471208
+            -123.19085676905023,
+            49.249041394586555
           ]
         ],
         "type": "LineString"
@@ -79,8 +79,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05921593542078,
-      "lat": 49.24811836109279
+      "lon": -123.18947603265683,
+      "lat": 49.24903418256898
     }
   },
   {
@@ -109,56 +109,6 @@
     "geo_point_2d": {
       "lon": -123.18264321802265,
       "lat": 49.24902380580801
-    }
-  },
-  {
-    "project": "Both sides of 1100-1200 Block E 54th Ave from 70m East of Ross St to 100m East o",
-    "street": null,
-    "location": "Both sides of 1100-1200 Block E 54th Ave from 70m East of Ross St to 100m East o",
-    "comp_date": "2024-08-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/416475ac-2efd-4713-b27d-32487957a652",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08208021535707,
-              49.220517856506206
-            ],
-            [
-              -123.08166179075076,
-              49.220510848972026
-            ]
-          ],
-          [
-            [
-              -123.08020266904666,
-              49.22048632259455
-            ],
-            [
-              -123.07970914258793,
-              49.22048281882539
-            ]
-          ],
-          [
-            [
-              -123.07882937803103,
-              49.22046880374609
-            ],
-            [
-              -123.07833585157232,
-              49.22045829243399
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08004378408802,
-      "lat": 49.220486054502885
     }
   },
   {
@@ -209,6 +159,56 @@
     "geo_point_2d": {
       "lon": -123.08839563388219,
       "lat": 49.220613994432675
+    }
+  },
+  {
+    "project": "Both sides of 1100-1200 Block E 54th Ave from 70m East of Ross St to 100m East o",
+    "street": null,
+    "location": "Both sides of 1100-1200 Block E 54th Ave from 70m East of Ross St to 100m East o",
+    "comp_date": "2024-08-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/416475ac-2efd-4713-b27d-32487957a652",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08208021535707,
+              49.220517856506206
+            ],
+            [
+              -123.08166179075076,
+              49.220510848972026
+            ]
+          ],
+          [
+            [
+              -123.08020266904666,
+              49.22048632259455
+            ],
+            [
+              -123.07970914258793,
+              49.22048281882539
+            ]
+          ],
+          [
+            [
+              -123.07882937803103,
+              49.22046880374609
+            ],
+            [
+              -123.07833585157232,
+              49.22045829243399
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08004378408802,
+      "lat": 49.220486054502885
     }
   },
   {
