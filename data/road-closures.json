@@ -28,22 +28,22 @@
     }
   },
   {
-    "project": "B/S of 3500 blk of W39th Ave",
+    "project": "W 14th Av from Balaclava St to Trutch St",
     "street": null,
-    "location": "B/S of 3500 blk of W39th Ave",
-    "comp_date": "2024-08-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f6a18cd-4abf-4686-9e6b-f36bbb5cdac9",
+    "location": "W 14th Av from Balaclava St to Trutch St",
+    "comp_date": "2024-08-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bd228df-da4f-484d-b38e-c47005e9806e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.18530448800976,
-            49.23645791752068
+            -123.17382093405008,
+            49.26843704451875
           ],
           [
-            -123.18468221551832,
-            49.23644040433453
+            -123.17575538528139,
+            49.26846650990535
           ]
         ],
         "type": "LineString"
@@ -51,8 +51,64 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18499335176404,
-      "lat": 49.236449160927606
+      "lon": -123.17478815966574,
+      "lat": 49.26845177721205
+    }
+  },
+  {
+    "project": "Rhodes St from E 38th Av to E 40th Av",
+    "street": null,
+    "location": "Rhodes St from E 38th Av to E 40th Av",
+    "comp_date": "2024-08-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fedb056-6fbd-4589-9ffc-09327a969313",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0502133855006,
+            49.235851115549735
+          ],
+          [
+            -123.05017706465252,
+            49.23387069229017
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05019522507655,
+      "lat": 49.23486090391995
+    }
+  },
+  {
+    "project": "3300 Block of Cypress Street",
+    "street": null,
+    "location": "3300 Block of Cypress Street",
+    "comp_date": "2024-08-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5ce33085-af6c-4714-b735-21efd0027f38",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14843603571161,
+            49.25582746919258
+          ],
+          [
+            -123.14843603571161,
+            49.2555403648052
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14843603571161,
+      "lat": 49.25568391699889
     }
   },
   {
@@ -112,90 +168,6 @@
     }
   },
   {
-    "project": "3300 Block of Cypress Street",
-    "street": null,
-    "location": "3300 Block of Cypress Street",
-    "comp_date": "2024-08-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5ce33085-af6c-4714-b735-21efd0027f38",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14843603571161,
-            49.25582746919258
-          ],
-          [
-            -123.14843603571161,
-            49.2555403648052
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14843603571161,
-      "lat": 49.25568391699889
-    }
-  },
-  {
-    "project": "W 14th Av from Balaclava St to Trutch St",
-    "street": null,
-    "location": "W 14th Av from Balaclava St to Trutch St",
-    "comp_date": "2024-08-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bd228df-da4f-484d-b38e-c47005e9806e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17382093405008,
-            49.26843704451875
-          ],
-          [
-            -123.17575538528139,
-            49.26846650990535
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17478815966574,
-      "lat": 49.26845177721205
-    }
-  },
-  {
-    "project": "Rhodes St from E 38th Av to E 40th Av",
-    "street": null,
-    "location": "Rhodes St from E 38th Av to E 40th Av",
-    "comp_date": "2024-08-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fedb056-6fbd-4589-9ffc-09327a969313",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0502133855006,
-            49.235851115549735
-          ],
-          [
-            -123.05017706465252,
-            49.23387069229017
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05019522507655,
-      "lat": 49.23486090391995
-    }
-  },
-  {
     "project": "4000 Block of Maple Crescent",
     "street": null,
     "location": "4000 Block of Maple Crescent",
@@ -221,6 +193,86 @@
     "geo_point_2d": {
       "lon": -123.15162902819404,
       "lat": 49.250534867091844
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-08-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8dfb1d5-966b-4e86-a656-c8dd58003098",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10166828048781,
+              49.265526339758736
+            ],
+            [
+              -123.10086646850179,
+              49.26551182261332
+            ]
+          ],
+          [
+            [
+              -123.10286941871694,
+              49.265548142431214
+            ],
+            [
+              -123.10166828048781,
+              49.265526339758736
+            ]
+          ],
+          [
+            [
+              -123.1016492373479,
+              49.26597838344671
+            ],
+            [
+              -123.10166828048781,
+              49.265526339758736
+            ]
+          ],
+          [
+            [
+              -123.10162974017646,
+              49.266430382519246
+            ],
+            [
+              -123.1016492373479,
+              49.26597838344671
+            ]
+          ],
+          [
+            [
+              -123.10162974017646,
+              49.266430382519246
+            ],
+            [
+              -123.10082850427321,
+              49.266415702689045
+            ]
+          ],
+          [
+            [
+              -123.10082850427321,
+              49.266415702689045
+            ],
+            [
+              -123.10086646850179,
+              49.26551182261332
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10151400979039,
+      "lat": 49.26585805880498
     }
   },
   {
@@ -292,22 +344,22 @@
     }
   },
   {
-    "project": "3200 Block of E 27th Avenue",
+    "project": "Both sides of 2900 Block Grant St from Renfrew St to East side of PL 2932.",
     "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-08-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "location": "Both sides of 2900 Block Grant St from Renfrew St to East side of PL 2932.",
+    "comp_date": "2024-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/24c818e2-9076-45cc-a7ad-475a63a25684",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03665448697437,
-            49.24628547102543
+            -123.04417274339367,
+            49.2713543607218
           ],
           [
-            -123.03456236394275,
-            49.24627496520537
+            -123.04300866468121,
+            49.27135786088297
           ]
         ],
         "type": "LineString"
@@ -315,8 +367,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
+      "lon": -123.04359070403743,
+      "lat": 49.27135611080239
     }
   },
   {
@@ -360,6 +412,34 @@
     }
   },
   {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
+    }
+  },
+  {
     "project": "700 Block of W 59th Ave and 7400 Block of Heather St",
     "street": null,
     "location": "700 Block of W 59th Ave and 7400 Block of Heather St",
@@ -397,6 +477,74 @@
     "geo_point_2d": {
       "lon": -123.12364552886079,
       "lat": 49.217059040159135
+    }
+  },
+  {
+    "project": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
+    "street": null,
+    "location": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
+    "comp_date": "2024-08-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/558304f1-5833-4b6c-976f-63e7cd16de52",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10764110320645,
+              49.27866880614661
+            ],
+            [
+              -123.10743520447684,
+              49.27860441270735
+            ],
+            [
+              -123.1072636221749,
+              49.27851762132414
+            ],
+            [
+              -123.10716925203972,
+              49.27847562546975
+            ],
+            [
+              -123.10689472029118,
+              49.278327239638884
+            ],
+            [
+              -123.10665879462601,
+              49.27822084989589
+            ],
+            [
+              -123.1063628150897,
+              49.278131257922524
+            ],
+            [
+              -123.10611402062099,
+              49.27807526300339
+            ]
+          ],
+          [
+            [
+              -123.10211615311667,
+              49.27763850049499
+            ],
+            [
+              -123.10311133033704,
+              49.27759650389203
+            ],
+            [
+              -123.10343304715319,
+              49.27761890217019
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10505772613959,
+      "lat": 49.27802225248731
     }
   },
   {
@@ -665,42 +813,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -741,22 +853,30 @@
     }
   },
   {
-    "project": "W 36th Av from Wallace St to Highbury St",
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
-    "location": "W 36th Av from Wallace St to Highbury St",
-    "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.18819063842795,
-            49.239535630607975
+            -123.14871563506094,
+            49.24001853227824
           ],
           [
-            -123.19094968035765,
-            49.239544982864174
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
           ]
         ],
         "type": "LineString"
@@ -764,8 +884,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1895701593928,
-      "lat": 49.23954030673608
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
     }
   },
   {
@@ -794,6 +914,34 @@
     "geo_point_2d": {
       "lon": -123.1867286183414,
       "lat": 49.240477493539295
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Highbury St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819063842795,
+            49.239535630607975
+          ],
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1895701593928,
+      "lat": 49.23954030673608
     }
   },
   {
