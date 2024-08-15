@@ -1,70 +1,32 @@
 [
   {
-    "project": "Both sides of 2900 Block Grant St from Renfrew St to East side of PL 2932.",
+    "project": "Dumfries St from E 55th Av to E 57th Av",
     "street": null,
-    "location": "Both sides of 2900 Block Grant St from Renfrew St to East side of PL 2932.",
-    "comp_date": "2024-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/24c818e2-9076-45cc-a7ad-475a63a25684",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04417274339367,
-            49.2713543607218
-          ],
-          [
-            -123.04300866468121,
-            49.27135786088297
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04359070403743,
-      "lat": 49.27135611080239
-    }
-  },
-  {
-    "project": "East 48th Ave from Boundary Rd to Frontenac St.",
-    "street": null,
-    "location": "East 48th Ave from Boundary Rd to Frontenac St.",
-    "comp_date": "2024-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/52f80947-f546-40d4-a128-ebd089bf0ff4",
+    "location": "Dumfries St from E 55th Av to E 57th Av",
+    "comp_date": "2024-08-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/42d01ed3-87fc-408c-a78d-b494edc1ab1e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.02415479267341,
-              49.22521530026174
+              -123.07547704004506,
+              49.21956379342461
             ],
             [
-              -123.0235920837408,
-              49.2252135365442
+              -123.07549372705242,
+              49.21856443450176
             ]
           ],
           [
             [
-              -123.02534985531386,
-              49.225218246504994
+              -123.07549372705242,
+              49.21856443450176
             ],
             [
-              -123.02415479267341,
-              49.22521530026174
-            ]
-          ],
-          [
-            [
-              -123.0259987038593,
-              49.22522009924376
-            ],
-            [
-              -123.02534985531386,
-              49.225218246504994
+              -123.07550107938033,
+              49.21811738248482
             ]
           ]
         ],
@@ -73,36 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.02479539364217,
-      "lat": 49.22521686967472
-    }
-  },
-  {
-    "project": "West 18th Ave from Tupper St to Ash St.",
-    "street": null,
-    "location": "West 18th Ave from Tupper St to Ash St.",
-    "comp_date": "2024-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e0751002-907c-416e-bb21-a4b05942a97a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11604565193426,
-            49.25512194564277
-          ],
-          [
-            -123.11820192015925,
-            49.25516084089972
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11712378604676,
-      "lat": 49.255141393271245
+      "lon": -123.07548909853804,
+      "lat": 49.21884058859813
     }
   },
   {
@@ -199,6 +133,66 @@
     "geo_point_2d": {
       "lon": -123.11712378604676,
       "lat": 49.255141393271245
+    }
+  },
+  {
+    "project": "E 34th Av from Nanaimo St to St. Margarets St.",
+    "street": null,
+    "location": "E 34th Av from Nanaimo St to St. Margarets St.",
+    "comp_date": "2024-08-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/88bb3c5a-8fcf-4863-9460-07d58d5e9ea8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05874749073328,
+              49.23891299438375
+            ],
+            [
+              -123.05820690613271,
+              49.238909993750525
+            ]
+          ],
+          [
+            [
+              -123.05820690613271,
+              49.238909993750525
+            ],
+            [
+              -123.05765454825487,
+              49.238906924502004
+            ]
+          ],
+          [
+            [
+              -123.05765454825487,
+              49.238906924502004
+            ],
+            [
+              -123.0571017508247,
+              49.238903843834464
+            ]
+          ],
+          [
+            [
+              -123.0571017508247,
+              49.238903843834464
+            ],
+            [
+              -123.0565494205447,
+              49.23890076029318
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05764845559601,
+      "lat": 49.23890688505498
     }
   },
   {
@@ -506,6 +500,34 @@
     }
   },
   {
+    "project": "Ross St from E 29th Av to E 31st Av",
+    "street": null,
+    "location": "Ross St from E 29th Av to E 31st Av",
+    "comp_date": "2024-08-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f5270c97-d0d5-4b7d-87f5-5ef2910ebf3b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08134078779446,
+            49.244602475449625
+          ],
+          [
+            -123.08135595534998,
+            49.24249455704572
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08134837157223,
+      "lat": 49.24354851624767
+    }
+  },
+  {
     "project": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
     "street": null,
     "location": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
@@ -571,6 +593,34 @@
     "geo_point_2d": {
       "lon": -123.10505772613959,
       "lat": 49.27802225248731
+    }
+  },
+  {
+    "project": "Both Sides of 3200 Block of E 25th Avenue From West PL of 3216 to East PL of 326",
+    "street": null,
+    "location": "Both Sides of 3200 Block of E 25th Avenue From West PL of 3216 to East PL of 326",
+    "comp_date": "2024-08-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5625c020-1257-401c-a5ac-a7d0f02436ee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03616439258288,
+            49.24789063740948
+          ],
+          [
+            -123.03511774047556,
+            49.24789624035182
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03564106652924,
+      "lat": 49.24789343888065
     }
   },
   {
@@ -646,6 +696,34 @@
     }
   },
   {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
+    }
+  },
+  {
     "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
     "street": null,
     "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
@@ -682,31 +760,43 @@
     }
   },
   {
-    "project": "3200 Block of E 27th Avenue",
+    "project": "Both sides of 800 Block W 64th Ave from 45m East of Laurel St to 55m West of Lau",
     "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-08-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "location": "Both sides of 800 Block W 64th Ave from 45m East of Laurel St to 55m West of Lau",
+    "comp_date": "2024-08-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/69249f71-ed1e-451d-bcf7-50243b9a0caf",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03665448697437,
-            49.24628547102543
+            [
+              -123.1270711845362,
+              49.21294669817033
+            ],
+            [
+              -123.12532238425847,
+              49.21291866373372
+            ]
           ],
           [
-            -123.03456236394275,
-            49.24627496520537
+            [
+              -123.12599830093022,
+              49.21220542933722
+            ],
+            [
+              -123.12597147884009,
+              49.21291680851306
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
+      "lon": -123.12613548818004,
+      "lat": 49.21282519658864
     }
   },
   {
@@ -867,42 +957,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -940,6 +994,42 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
     }
   },
   {
