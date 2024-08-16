@@ -1,73 +1,5 @@
 [
   {
-    "project": "Both Sides of 3400 Block of Pandora Street From Cassiar Street to East PL of 344",
-    "street": null,
-    "location": "Both Sides of 3400 Block of Pandora Street From Cassiar Street to East PL of 344",
-    "comp_date": "2024-08-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/342c708a-e5fa-4a00-8444-02ab137b704c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03089244599173,
-            49.28296754331208
-          ],
-          [
-            -123.02960128890778,
-            49.282970342845914
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03024686744978,
-      "lat": 49.282968943079
-    }
-  },
-  {
-    "project": "Dumfries St from E 55th Av to E 57th Av",
-    "street": null,
-    "location": "Dumfries St from E 55th Av to E 57th Av",
-    "comp_date": "2024-08-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/42d01ed3-87fc-408c-a78d-b494edc1ab1e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07547704004506,
-              49.21956379342461
-            ],
-            [
-              -123.07549372705242,
-              49.21856443450176
-            ]
-          ],
-          [
-            [
-              -123.07549372705242,
-              49.21856443450176
-            ],
-            [
-              -123.07550107938033,
-              49.21811738248482
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07548909853804,
-      "lat": 49.21884058859813
-    }
-  },
-  {
     "project": "Both sides of 3200 Block Graveley St from West of PL 3238 to East of PL 3280.",
     "street": null,
     "location": "Both sides of 3200 Block Graveley St from West of PL 3238 to East of PL 3280.",
@@ -205,46 +137,6 @@
     "geo_point_2d": {
       "lon": -123.17873172768347,
       "lat": 49.23665519317113
-    }
-  },
-  {
-    "project": "2500 Block Birch St",
-    "street": null,
-    "location": "2500 Block Birch St",
-    "comp_date": "2024-08-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c6b4db27-44d7-4724-b541-423492119bf5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13372620696241,
-              49.263520681387575
-            ],
-            [
-              -123.1337453900149,
-              49.26301556926808
-            ]
-          ],
-          [
-            [
-              -123.1337453900149,
-              49.26301556926808
-            ],
-            [
-              -123.13376248013341,
-              49.26255495882285
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13374444875507,
-      "lat": 49.263037824054734
     }
   },
   {
@@ -696,6 +588,66 @@
     }
   },
   {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
+    }
+  },
+  {
+    "project": "James St from E 28th Av to E 29th Av",
+    "street": null,
+    "location": "James St from E 28th Av to E 29th Av",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e620df5-10f6-4c71-be10-32bd3c3e8a16",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10387994662597,
+            49.246021936039796
+          ],
+          [
+            -123.1038192011793,
+            49.245948868391025
+          ],
+          [
+            -123.10388720820205,
+            49.244518969737044
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10385297868925,
+      "lat": 49.24528069576078
+    }
+  },
+  {
     "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
     "street": null,
     "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
@@ -732,31 +684,43 @@
     }
   },
   {
-    "project": "3200 Block of E 27th Avenue",
+    "project": "Manitoba St from W 13th Av to W 14th Av",
     "street": null,
-    "location": "3200 Block of E 27th Avenue",
+    "location": "Manitoba St from W 13th Av to W 14th Av",
     "comp_date": "2024-08-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/90fffce7-ca08-449c-b25c-1078f364f2fd",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03665448697437,
-            49.24628547102543
+            [
+              -123.10698554153082,
+              49.259401412156535
+            ],
+            [
+              -123.1070081766541,
+              49.25894992145692
+            ]
           ],
           [
-            -123.03456236394275,
-            49.24627496520537
+            [
+              -123.1070081766541,
+              49.25894992145692
+            ],
+            [
+              -123.10703344986631,
+              49.25849833832126
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
+      "lon": -123.10700883924973,
+      "lat": 49.25894984041458
     }
   },
   {
@@ -797,6 +761,34 @@
     "geo_point_2d": {
       "lon": -123.12613548818004,
       "lat": 49.21282519658864
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "street": null,
+    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801939737046,
+            49.25890235196064
+          ],
+          [
+            -123.13657608613285,
+            49.25886900803479
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13729774175165,
+      "lat": 49.25888567999772
     }
   },
   {
@@ -957,42 +949,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -1030,6 +986,42 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
     }
   },
   {
