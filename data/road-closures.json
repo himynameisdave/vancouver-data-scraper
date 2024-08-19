@@ -1,5 +1,61 @@
 [
   {
+    "project": "West 46th Ave from Alberta St to Columbia St.",
+    "street": null,
+    "location": "West 46th Ave from Alberta St to Columbia St.",
+    "comp_date": "2024-08-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10072254-8f80-4240-baf7-55a269c350c6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11081470055102,
+            49.22864044367793
+          ],
+          [
+            -123.11302065443412,
+            49.22868352567522
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11191767749257,
+      "lat": 49.22866198467658
+    }
+  },
+  {
+    "project": "Ross St from E 29th Av to E 31st Av",
+    "street": null,
+    "location": "Ross St from E 29th Av to E 31st Av",
+    "comp_date": "2024-08-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f5270c97-d0d5-4b7d-87f5-5ef2910ebf3b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08134078779446,
+            49.244602475449625
+          ],
+          [
+            -123.08135595534998,
+            49.24249455704572
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08134837157223,
+      "lat": 49.24354851624767
+    }
+  },
+  {
     "project": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
     "street": null,
     "location": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
@@ -65,6 +121,34 @@
     "geo_point_2d": {
       "lon": -123.10505772613959,
       "lat": 49.27802225248731
+    }
+  },
+  {
+    "project": "Both Sides of 3200 Block of E 25th Avenue From West PL of 3216 to East PL of 326",
+    "street": null,
+    "location": "Both Sides of 3200 Block of E 25th Avenue From West PL of 3216 to East PL of 326",
+    "comp_date": "2024-08-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5625c020-1257-401c-a5ac-a7d0f02436ee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03616439258288,
+            49.24789063740948
+          ],
+          [
+            -123.03511774047556,
+            49.24789624035182
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03564106652924,
+      "lat": 49.24789343888065
     }
   },
   {
@@ -140,6 +224,34 @@
     }
   },
   {
+    "project": "Both sides of 1700 Block E 36th Ave form West of PL 1712 to East of PL 1758.",
+    "street": null,
+    "location": "Both sides of 1700 Block E 36th Ave form West of PL 1712 to East of PL 1758.",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/22e27551-2e5c-4675-9fbc-a70c986b4991",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06971848992556,
+            49.23756906362701
+          ],
+          [
+            -123.07094425944537,
+            49.237593581525545
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07033137468545,
+      "lat": 49.237581322576276
+    }
+  },
+  {
     "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
     "street": null,
     "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
@@ -176,6 +288,74 @@
     }
   },
   {
+    "project": "Manitoba St from W 13th Av to W 14th Av",
+    "street": null,
+    "location": "Manitoba St from W 13th Av to W 14th Av",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/90fffce7-ca08-449c-b25c-1078f364f2fd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10698554153082,
+              49.259401412156535
+            ],
+            [
+              -123.1070081766541,
+              49.25894992145692
+            ]
+          ],
+          [
+            [
+              -123.1070081766541,
+              49.25894992145692
+            ],
+            [
+              -123.10703344986631,
+              49.25849833832126
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10700883924973,
+      "lat": 49.25894984041458
+    }
+  },
+  {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
+    }
+  },
+  {
     "project": "James St from E 28th Av to E 29th Av",
     "street": null,
     "location": "James St from E 28th Av to E 29th Av",
@@ -205,6 +385,74 @@
     "geo_point_2d": {
       "lon": -123.10385297868925,
       "lat": 49.24528069576078
+    }
+  },
+  {
+    "project": "Both sides of 800 Block W 64th Ave from 45m East of Laurel St to 55m West of Lau",
+    "street": null,
+    "location": "Both sides of 800 Block W 64th Ave from 45m East of Laurel St to 55m West of Lau",
+    "comp_date": "2024-08-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/69249f71-ed1e-451d-bcf7-50243b9a0caf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1270711845362,
+              49.21294669817033
+            ],
+            [
+              -123.12532238425847,
+              49.21291866373372
+            ]
+          ],
+          [
+            [
+              -123.12599830093022,
+              49.21220542933722
+            ],
+            [
+              -123.12597147884009,
+              49.21291680851306
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12613548818004,
+      "lat": 49.21282519658864
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "street": null,
+    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801939737046,
+            49.25890235196064
+          ],
+          [
+            -123.13657608613285,
+            49.25886900803479
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13729774175165,
+      "lat": 49.25888567999772
     }
   },
   {
@@ -438,6 +686,62 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Highbury St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819063842795,
+            49.239535630607975
+          ],
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1895701593928,
+      "lat": 49.23954030673608
+    }
+  },
+  {
+    "project": "W 35th Av",
+    "street": null,
+    "location": "W 35th Av",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18527983039485,
+            49.240472657053914
+          ],
+          [
+            -123.18817740628796,
+            49.24048233002466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1867286183414,
+      "lat": 49.240477493539295
     }
   },
   {
