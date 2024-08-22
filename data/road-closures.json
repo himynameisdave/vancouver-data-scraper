@@ -1,89 +1,5 @@
 [
   {
-    "project": "Both Sides of 3200 Block of E 25th Avenue From West PL of 3216 to East PL of 326",
-    "street": null,
-    "location": "Both Sides of 3200 Block of E 25th Avenue From West PL of 3216 to East PL of 326",
-    "comp_date": "2024-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5625c020-1257-401c-a5ac-a7d0f02436ee",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03616439258288,
-            49.24789063740948
-          ],
-          [
-            -123.03511774047556,
-            49.24789624035182
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03564106652924,
-      "lat": 49.24789343888065
-    }
-  },
-  {
-    "project": "3200 Block of E 27th Avenue",
-    "street": null,
-    "location": "3200 Block of E 27th Avenue",
-    "comp_date": "2024-08-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03665448697437,
-            49.24628547102543
-          ],
-          [
-            -123.03456236394275,
-            49.24627496520537
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03560842545858,
-      "lat": 49.2462802181154
-    }
-  },
-  {
-    "project": "Venables St from Kamloops St to Penticton St",
-    "street": null,
-    "location": "Venables St from Kamloops St to Penticton St",
-    "comp_date": "2024-08-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a88ce46e-39a7-4f25-9d85-8a6b6385d850",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05464992030437,
-            49.27663419316616
-          ],
-          [
-            -123.05199238234036,
-            49.2766309399112
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05332115132236,
-      "lat": 49.27663256653869
-    }
-  },
-  {
     "project": "Both sides of 1700 Block E 36th Ave form West of PL 1712 to East of PL 1758.",
     "street": null,
     "location": "Both sides of 1700 Block E 36th Ave form West of PL 1712 to East of PL 1758.",
@@ -188,6 +104,62 @@
     }
   },
   {
+    "project": "3200 Block of E 27th Avenue",
+    "street": null,
+    "location": "3200 Block of E 27th Avenue",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e801814-7e4a-41f4-8b01-c2e674c48601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03665448697437,
+            49.24628547102543
+          ],
+          [
+            -123.03456236394275,
+            49.24627496520537
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03560842545858,
+      "lat": 49.2462802181154
+    }
+  },
+  {
+    "project": "Venables St from Kamloops St to Penticton St",
+    "street": null,
+    "location": "Venables St from Kamloops St to Penticton St",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a88ce46e-39a7-4f25-9d85-8a6b6385d850",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05464992030437,
+            49.27663419316616
+          ],
+          [
+            -123.05199238234036,
+            49.2766309399112
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05332115132236,
+      "lat": 49.27663256653869
+    }
+  },
+  {
     "project": "James St from E 28th Av to E 29th Av",
     "street": null,
     "location": "James St from E 28th Av to E 29th Av",
@@ -217,6 +189,74 @@
     "geo_point_2d": {
       "lon": -123.10385297868925,
       "lat": 49.24528069576078
+    }
+  },
+  {
+    "project": "E 4th Av from Penticton St to Slocan St\r\nRoad and lane north closed until Monday",
+    "street": null,
+    "location": "E 4th Av from Penticton St to Slocan St\r\nRoad and lane north closed until Monday",
+    "comp_date": "2024-08-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/682d29de-96d9-4bad-b412-800f4f9601e3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05213457919308,
+              49.26667645492972
+            ],
+            [
+              -123.04950941058671,
+              49.26667302207048
+            ]
+          ],
+          [
+            [
+              -123.05212790786648,
+              49.26712859262719
+            ],
+            [
+              -123.04950183548291,
+              49.267125088039535
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05081843266927,
+      "lat": 49.26690082832577
+    }
+  },
+  {
+    "project": "Holland St from W 39th Av to W 41st Av",
+    "street": null,
+    "location": "Holland St from W 39th Av to W 41st Av",
+    "comp_date": "2024-08-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8668ef66-fcd3-4a07-8e14-88723e9cae3c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19232066785887,
+            49.236458479892036
+          ],
+          [
+            -123.19233794463862,
+            49.23476975393106
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19232930624875,
+      "lat": 49.23561411691155
     }
   },
   {
@@ -288,6 +328,34 @@
     }
   },
   {
+    "project": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "street": null,
+    "location": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f58c8141-5ad6-4111-9c5c-d9dfce51b84b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0520709313414,
+            49.272268650904635
+          ],
+          [
+            -123.05206556692337,
+            49.2720656448933
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05206824913239,
+      "lat": 49.27216714789897
+    }
+  },
+  {
     "project": "South side of 1300-1400 Block E Georgia St from Clark St to 20m East of Clark St",
     "street": null,
     "location": "South side of 1300-1400 Block E Georgia St from Clark St to 20m East of Clark St",
@@ -328,22 +396,22 @@
     }
   },
   {
-    "project": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
     "street": null,
-    "location": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
     "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f58c8141-5ad6-4111-9c5c-d9dfce51b84b",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0520709313414,
-            49.272268650904635
+            -123.13801939737046,
+            49.25890235196064
           ],
           [
-            -123.05206556692337,
-            49.2720656448933
+            -123.13657608613285,
+            49.25886900803479
           ]
         ],
         "type": "LineString"
@@ -351,8 +419,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05206824913239,
-      "lat": 49.27216714789897
+      "lon": -123.13729774175165,
+      "lat": 49.25888567999772
     }
   },
   {
@@ -381,34 +449,6 @@
     "geo_point_2d": {
       "lon": -123.10444295026643,
       "lat": 49.279446904587275
-    }
-  },
-  {
-    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
-    "street": null,
-    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801939737046,
-            49.25890235196064
-          ],
-          [
-            -123.13657608613285,
-            49.25886900803479
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13729774175165,
-      "lat": 49.25888567999772
     }
   },
   {
@@ -665,6 +705,42 @@
     }
   },
   {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -702,42 +778,6 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
-    }
-  },
-  {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
     }
   },
   {
