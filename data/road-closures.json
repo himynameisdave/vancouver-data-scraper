@@ -104,6 +104,46 @@
     }
   },
   {
+    "project": "W 23rd Av from Valley Drive to Vine St",
+    "street": null,
+    "location": "W 23rd Av from Valley Drive to Vine St",
+    "comp_date": "2024-08-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c03b7b6e-14c1-4d44-86a8-3134cb42ad51",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15997567007885,
+              49.251792176633046
+            ],
+            [
+              -123.1607480153858,
+              49.25180463342852
+            ]
+          ],
+          [
+            [
+              -123.1581190507633,
+              49.25176249362937
+            ],
+            [
+              -123.15997567007885,
+              49.251792176633046
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15943353369133,
+      "lat": 49.25178352512095
+    }
+  },
+  {
     "project": "3200 Block of E 27th Avenue",
     "street": null,
     "location": "3200 Block of E 27th Avenue",
@@ -260,6 +300,46 @@
     }
   },
   {
+    "project": "Both sides of 300 Block Richards St from W Hastings St to W Cordova St. Both sid",
+    "street": null,
+    "location": "Both sides of 300 Block Richards St from W Hastings St to W Cordova St. Both sid",
+    "comp_date": "2024-08-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d92c72b-ae3b-4d2d-96c0-4b988fc37015",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11100157534214,
+              49.28468938325068
+            ],
+            [
+              -123.1121281031284,
+              49.28390205357138
+            ]
+          ],
+          [
+            [
+              -123.1114253643665,
+              49.28438495059871
+            ],
+            [
+              -123.1104544047031,
+              49.28375158469072
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1112788924624,
+      "lat": 49.28419164876796
+    }
+  },
+  {
     "project": "Both sides of 800 Block W 64th Ave from 45m East of Laurel St to 55m West of Lau",
     "street": null,
     "location": "Both sides of 800 Block W 64th Ave from 45m East of Laurel St to 55m West of Lau",
@@ -300,6 +380,34 @@
     }
   },
   {
+    "project": "Elgin St from E 29th Av to E 31st Av",
+    "street": null,
+    "location": "Elgin St from E 29th Av to E 31st Av",
+    "comp_date": "2024-08-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ac3c031a-c3d5-45de-b1d0-11136fdd0350",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08272536815859,
+            49.24460943510064
+          ],
+          [
+            -123.08274439886225,
+            49.24250542666857
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08273488351043,
+      "lat": 49.24355743088461
+    }
+  },
+  {
     "project": "Both sides of 1500 Block W 65th Ave from Adera St to East PL of 1573.",
     "street": null,
     "location": "Both sides of 1500 Block W 65th Ave from Adera St to East PL of 1573.",
@@ -325,6 +433,34 @@
     "geo_point_2d": {
       "lon": -123.14312908043894,
       "lat": 49.212303570307924
+    }
+  },
+  {
+    "project": "W 34th Av from Highbury St to Wallace St",
+    "street": null,
+    "location": "W 34th Av from Highbury St to Wallace St",
+    "comp_date": "2024-08-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f7a6fbe1-4c96-441a-b950-bcc3b05c0a6a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18816886268799,
+            49.24143374415118
+          ],
+          [
+            -123.19092648258075,
+            49.24144593282108
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18954767263438,
+      "lat": 49.24143983848613
     }
   },
   {
@@ -396,34 +532,6 @@
     }
   },
   {
-    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
-    "street": null,
-    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801939737046,
-            49.25890235196064
-          ],
-          [
-            -123.13657608613285,
-            49.25886900803479
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13729774175165,
-      "lat": 49.25888567999772
-    }
-  },
-  {
     "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
     "street": null,
     "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
@@ -449,6 +557,34 @@
     "geo_point_2d": {
       "lon": -123.10444295026643,
       "lat": 49.279446904587275
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "street": null,
+    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801939737046,
+            49.25890235196064
+          ],
+          [
+            -123.13657608613285,
+            49.25886900803479
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13729774175165,
+      "lat": 49.25888567999772
     }
   },
   {
