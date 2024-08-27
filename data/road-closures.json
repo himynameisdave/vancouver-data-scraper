@@ -1,141 +1,5 @@
 [
   {
-    "project": "Valley Drive from W 23rd Av to Oliver Crescent",
-    "street": null,
-    "location": "Valley Drive from W 23rd Av to Oliver Crescent",
-    "comp_date": "2024-08-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06911612-343f-44bb-a8e5-28969ad828f2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1607480153858,
-            49.25180463342852
-          ],
-          [
-            -123.15993821563286,
-            49.25067912296964
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16034311550933,
-      "lat": 49.25124187819908
-    }
-  },
-  {
-    "project": "Both sides of 300 Block Richards St from W Hastings St to W Cordova St. Both sid",
-    "street": null,
-    "location": "Both sides of 300 Block Richards St from W Hastings St to W Cordova St. Both sid",
-    "comp_date": "2024-08-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d92c72b-ae3b-4d2d-96c0-4b988fc37015",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11100157534214,
-              49.28468938325068
-            ],
-            [
-              -123.1121281031284,
-              49.28390205357138
-            ]
-          ],
-          [
-            [
-              -123.1114253643665,
-              49.28438495059871
-            ],
-            [
-              -123.1104544047031,
-              49.28375158469072
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1112788924624,
-      "lat": 49.28419164876796
-    }
-  },
-  {
-    "project": "E 4th Av from Penticton St to Slocan St\r\nRoad and lane north closed until Monday",
-    "street": null,
-    "location": "E 4th Av from Penticton St to Slocan St\r\nRoad and lane north closed until Monday",
-    "comp_date": "2024-08-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/682d29de-96d9-4bad-b412-800f4f9601e3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05213457919308,
-              49.26667645492972
-            ],
-            [
-              -123.04950941058671,
-              49.26667302207048
-            ]
-          ],
-          [
-            [
-              -123.05212790786648,
-              49.26712859262719
-            ],
-            [
-              -123.04950183548291,
-              49.267125088039535
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05081843266927,
-      "lat": 49.26690082832577
-    }
-  },
-  {
-    "project": "Holland St from W 39th Av to W 41st Av",
-    "street": null,
-    "location": "Holland St from W 39th Av to W 41st Av",
-    "comp_date": "2024-08-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8668ef66-fcd3-4a07-8e14-88723e9cae3c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19232066785887,
-            49.236458479892036
-          ],
-          [
-            -123.19233794463862,
-            49.23476975393106
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19232930624875,
-      "lat": 49.23561411691155
-    }
-  },
-  {
     "project": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
     "street": null,
     "location": "Creelman Av - Cypress St to Chestnut St\r\nChestnut St - Creelman Av to Greer St",
@@ -324,22 +188,22 @@
     }
   },
   {
-    "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "project": "Turner St from Skeena St to Kootenay St",
     "street": null,
-    "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d4dcfebd-3613-434f-ad79-92e99137c6d0",
+    "location": "Turner St from Skeena St to Kootenay St",
+    "comp_date": "2024-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/24dd4469-f943-4296-af07-df4285c6ab0d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10445099689348,
-            49.279285923580574
+            -123.0283270402316,
+            49.27906904233586
           ],
           [
-            -123.10443490363937,
-            49.279607885593975
+            -123.02570035051016,
+            49.27906753354824
           ]
         ],
         "type": "LineString"
@@ -347,36 +211,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10444295026643,
-      "lat": 49.279446904587275
-    }
-  },
-  {
-    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
-    "street": null,
-    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801939737046,
-            49.25890235196064
-          ],
-          [
-            -123.13657608613285,
-            49.25886900803479
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13729774175165,
-      "lat": 49.25888567999772
+      "lon": -123.0270136953709,
+      "lat": 49.27906828794205
     }
   },
   {
@@ -476,6 +312,118 @@
     }
   },
   {
+    "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "street": null,
+    "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d4dcfebd-3613-434f-ad79-92e99137c6d0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10445099689348,
+            49.279285923580574
+          ],
+          [
+            -123.10443490363937,
+            49.279607885593975
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10444295026643,
+      "lat": 49.279446904587275
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "street": null,
+    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801939737046,
+            49.25890235196064
+          ],
+          [
+            -123.13657608613285,
+            49.25886900803479
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13729774175165,
+      "lat": 49.25888567999772
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279118902884,
+            49.240529920566985
+          ],
+          [
+            -123.10285484836781,
+            49.239129253729374
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10282301869833,
+      "lat": 49.239829587148186
+    }
+  },
+  {
+    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "street": null,
+    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10214431787122,
+            49.278720744268554
+          ],
+          [
+            -123.10213439614502,
+            49.277872808694184
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10213935700811,
+      "lat": 49.278296776481376
+    }
+  },
+  {
     "project": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
     "street": null,
     "location": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
@@ -544,22 +492,22 @@
     }
   },
   {
-    "project": null,
+    "project": "St. Catherines St. from E 45th Av to E 47th Av",
     "street": null,
-    "location": null,
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
+    "location": "St. Catherines St. from E 45th Av to E 47th Av",
+    "comp_date": "2024-09-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85e1d875-f1b7-45ec-aa90-98726708a5cd",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10279118902884,
-            49.240529920566985
+            -123.08652063232253,
+            49.22910993132743
           ],
           [
-            -123.10285484836781,
-            49.239129253729374
+            -123.08656462887409,
+            49.22731928380111
           ]
         ],
         "type": "LineString"
@@ -567,36 +515,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10282301869833,
-      "lat": 49.239829587148186
-    }
-  },
-  {
-    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "street": null,
-    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214431787122,
-            49.278720744268554
-          ],
-          [
-            -123.10213439614502,
-            49.277872808694184
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10213935700811,
-      "lat": 49.278296776481376
+      "lon": -123.0865426305983,
+      "lat": 49.22821460756427
     }
   },
   {
@@ -983,34 +903,6 @@
     }
   },
   {
-    "project": "W 35th Av",
-    "street": null,
-    "location": "W 35th Av",
-    "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18527983039485,
-            49.240472657053914
-          ],
-          [
-            -123.18817740628796,
-            49.24048233002466
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1867286183414,
-      "lat": 49.240477493539295
-    }
-  },
-  {
     "project": "W 36th Av from Wallace St to Highbury St",
     "street": null,
     "location": "W 36th Av from Wallace St to Highbury St",
@@ -1036,6 +928,34 @@
     "geo_point_2d": {
       "lon": -123.1895701593928,
       "lat": 49.23954030673608
+    }
+  },
+  {
+    "project": "W 35th Av",
+    "street": null,
+    "location": "W 35th Av",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18527983039485,
+            49.240472657053914
+          ],
+          [
+            -123.18817740628796,
+            49.24048233002466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1867286183414,
+      "lat": 49.240477493539295
     }
   },
   {
