@@ -284,34 +284,6 @@
     }
   },
   {
-    "project": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
-    "street": null,
-    "location": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f58c8141-5ad6-4111-9c5c-d9dfce51b84b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0520709313414,
-            49.272268650904635
-          ],
-          [
-            -123.05206556692337,
-            49.2720656448933
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05206824913239,
-      "lat": 49.27216714789897
-    }
-  },
-  {
     "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
     "street": null,
     "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
@@ -368,22 +340,22 @@
     }
   },
   {
-    "project": null,
+    "project": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
     "street": null,
-    "location": null,
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
+    "location": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f58c8141-5ad6-4111-9c5c-d9dfce51b84b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10279118902884,
-            49.240529920566985
+            -123.0520709313414,
+            49.272268650904635
           ],
           [
-            -123.10285484836781,
-            49.239129253729374
+            -123.05206556692337,
+            49.2720656448933
           ]
         ],
         "type": "LineString"
@@ -391,36 +363,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10282301869833,
-      "lat": 49.239829587148186
-    }
-  },
-  {
-    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "street": null,
-    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214431787122,
-            49.278720744268554
-          ],
-          [
-            -123.10213439614502,
-            49.277872808694184
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10213935700811,
-      "lat": 49.278296776481376
+      "lon": -123.05206824913239,
+      "lat": 49.27216714789897
     }
   },
   {
@@ -489,6 +433,62 @@
     "geo_point_2d": {
       "lon": -123.10505772613959,
       "lat": 49.27802225248731
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279118902884,
+            49.240529920566985
+          ],
+          [
+            -123.10285484836781,
+            49.239129253729374
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10282301869833,
+      "lat": 49.239829587148186
+    }
+  },
+  {
+    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "street": null,
+    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10214431787122,
+            49.278720744268554
+          ],
+          [
+            -123.10213439614502,
+            49.277872808694184
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10213935700811,
+      "lat": 49.278296776481376
     }
   },
   {
@@ -903,34 +903,6 @@
     }
   },
   {
-    "project": "W 36th Av from Wallace St to Highbury St",
-    "street": null,
-    "location": "W 36th Av from Wallace St to Highbury St",
-    "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18819063842795,
-            49.239535630607975
-          ],
-          [
-            -123.19094968035765,
-            49.239544982864174
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1895701593928,
-      "lat": 49.23954030673608
-    }
-  },
-  {
     "project": "W 35th Av",
     "street": null,
     "location": "W 35th Av",
@@ -956,6 +928,34 @@
     "geo_point_2d": {
       "lon": -123.1867286183414,
       "lat": 49.240477493539295
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Highbury St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819063842795,
+            49.239535630607975
+          ],
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1895701593928,
+      "lat": 49.23954030673608
     }
   },
   {
