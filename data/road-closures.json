@@ -1,89 +1,5 @@
 [
   {
-    "project": "Elgin St from E 29th Av to E 31st Av",
-    "street": null,
-    "location": "Elgin St from E 29th Av to E 31st Av",
-    "comp_date": "2024-08-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ac3c031a-c3d5-45de-b1d0-11136fdd0350",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08272536815859,
-            49.24460943510064
-          ],
-          [
-            -123.08274439886225,
-            49.24250542666857
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08273488351043,
-      "lat": 49.24355743088461
-    }
-  },
-  {
-    "project": "Both sides of 1500 Block W 65th Ave from Adera St to East PL of 1573.",
-    "street": null,
-    "location": "Both sides of 1500 Block W 65th Ave from Adera St to East PL of 1573.",
-    "comp_date": "2024-08-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c2ba50ac-5be7-42fa-9c96-6a04bda563a7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14272674908669,
-            49.21229480943498
-          ],
-          [
-            -123.14353141179117,
-            49.21231233118087
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14312908043894,
-      "lat": 49.212303570307924
-    }
-  },
-  {
-    "project": "W 34th Av from Highbury St to Wallace St",
-    "street": null,
-    "location": "W 34th Av from Highbury St to Wallace St",
-    "comp_date": "2024-08-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f7a6fbe1-4c96-441a-b950-bcc3b05c0a6a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18816886268799,
-            49.24143374415118
-          ],
-          [
-            -123.19092648258075,
-            49.24144593282108
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18954767263438,
-      "lat": 49.24143983848613
-    }
-  },
-  {
     "project": "Both sides of 7500 Block Inverness St form E 59th Ave to 20m South of E 59th Ave",
     "street": null,
     "location": "Both sides of 7500 Block Inverness St form E 59th Ave to 20m South of E 59th Ave",
@@ -109,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.08010633882532,
       "lat": 49.21627223811271
+    }
+  },
+  {
+    "project": "E 6th Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 6th Av from Kamloops St to Penticton St",
+    "comp_date": "2024-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/63467236-ed31-44e1-a5d4-f308a8391f8c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469773006136,
+            49.264778667819854
+          ],
+          [
+            -123.05215954665029,
+            49.26477800650349
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342863835584,
+      "lat": 49.26477833716167
     }
   },
   {
@@ -388,34 +332,6 @@
     }
   },
   {
-    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "street": null,
-    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214431787122,
-            49.278720744268554
-          ],
-          [
-            -123.10213439614502,
-            49.277872808694184
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10213935700811,
-      "lat": 49.278296776481376
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -441,6 +357,34 @@
     "geo_point_2d": {
       "lon": -123.10282301869833,
       "lat": 49.239829587148186
+    }
+  },
+  {
+    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "street": null,
+    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10214431787122,
+            49.278720744268554
+          ],
+          [
+            -123.10213439614502,
+            49.277872808694184
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10213935700811,
+      "lat": 49.278296776481376
     }
   },
   {
@@ -575,6 +519,50 @@
     "geo_point_2d": {
       "lon": -123.18097244231238,
       "lat": 49.23475247470179
+    }
+  },
+  {
+    "project": "W 20th Av from Cambie St to Yukon St",
+    "street": null,
+    "location": "W 20th Av from Cambie St to Yukon St",
+    "comp_date": "2024-09-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/50911ce7-746f-478b-88de-e2921974485e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11454790787839,
+              49.252935622559676
+            ],
+            [
+              -123.11507140565386,
+              49.252945518812794
+            ],
+            [
+              -123.1152371090792,
+              49.25298961914669
+            ]
+          ],
+          [
+            [
+              -123.11266274634052,
+              49.25290015506917
+            ],
+            [
+              -123.11454790787839,
+              49.252935622559676
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1139526062291,
+      "lat": 49.252925792051784
     }
   },
   {
