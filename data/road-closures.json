@@ -1,89 +1,5 @@
 [
   {
-    "project": "Both sides of 7500 Block Inverness St form E 59th Ave to 20m South of E 59th Ave",
-    "street": null,
-    "location": "Both sides of 7500 Block Inverness St form E 59th Ave to 20m South of E 59th Ave",
-    "comp_date": "2024-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3852a5c6-00f5-4d2b-8cf9-61bdee41d462",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08010633882532,
-            49.21638612031728
-          ],
-          [
-            -123.08010633882532,
-            49.216158355908135
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08010633882532,
-      "lat": 49.21627223811271
-    }
-  },
-  {
-    "project": "E 6th Av from Kamloops St to Penticton St",
-    "street": null,
-    "location": "E 6th Av from Kamloops St to Penticton St",
-    "comp_date": "2024-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/63467236-ed31-44e1-a5d4-f308a8391f8c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05469773006136,
-            49.264778667819854
-          ],
-          [
-            -123.05215954665029,
-            49.26477800650349
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05342863835584,
-      "lat": 49.26477833716167
-    }
-  },
-  {
-    "project": "Turner St from Skeena St to Kootenay St",
-    "street": null,
-    "location": "Turner St from Skeena St to Kootenay St",
-    "comp_date": "2024-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/24dd4469-f943-4296-af07-df4285c6ab0d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0283270402316,
-            49.27906904233586
-          ],
-          [
-            -123.02570035051016,
-            49.27906753354824
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0270136953709,
-      "lat": 49.27906828794205
-    }
-  },
-  {
     "project": "South side of 1300-1400 Block E Georgia St from Clark St to 20m East of Clark St",
     "street": null,
     "location": "South side of 1300-1400 Block E Georgia St from Clark St to 20m East of Clark St",
@@ -152,6 +68,34 @@
     }
   },
   {
+    "project": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "street": null,
+    "location": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f58c8141-5ad6-4111-9c5c-d9dfce51b84b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0520709313414,
+            49.272268650904635
+          ],
+          [
+            -123.05206556692337,
+            49.2720656448933
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05206824913239,
+      "lat": 49.27216714789897
+    }
+  },
+  {
     "project": "E 38th Av from Sophia St to Prince Edward St",
     "street": null,
     "location": "E 38th Av from Sophia St to Prince Edward St",
@@ -208,22 +152,22 @@
     }
   },
   {
-    "project": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
+    "project": null,
     "street": null,
-    "location": "Both sides of 1400 Block W 14th Ave from Lane East of Granville St to 90m East.",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fdfae5c6-4f2b-43a7-8e72-b62f9ef5d9c7",
+    "location": null,
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.13801939737046,
-            49.25890235196064
+            -123.10279118902884,
+            49.240529920566985
           ],
           [
-            -123.13657608613285,
-            49.25886900803479
+            -123.10285484836781,
+            49.239129253729374
           ]
         ],
         "type": "LineString"
@@ -231,27 +175,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13729774175165,
-      "lat": 49.25888567999772
+      "lon": -123.10282301869833,
+      "lat": 49.239829587148186
     }
   },
   {
-    "project": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
+    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
     "street": null,
-    "location": "Both sides of 1400 Block Penticton St from Kitchener St to 20m South of Kitchene",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f58c8141-5ad6-4111-9c5c-d9dfce51b84b",
+    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0520709313414,
-            49.272268650904635
+            -123.10214431787122,
+            49.278720744268554
           ],
           [
-            -123.05206556692337,
-            49.2720656448933
+            -123.10213439614502,
+            49.277872808694184
           ]
         ],
         "type": "LineString"
@@ -259,8 +203,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05206824913239,
-      "lat": 49.27216714789897
+      "lon": -123.10213935700811,
+      "lat": 49.278296776481376
     }
   },
   {
@@ -329,62 +273,6 @@
     "geo_point_2d": {
       "lon": -123.10505772613959,
       "lat": 49.27802225248731
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10279118902884,
-            49.240529920566985
-          ],
-          [
-            -123.10285484836781,
-            49.239129253729374
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10282301869833,
-      "lat": 49.239829587148186
-    }
-  },
-  {
-    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "street": null,
-    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214431787122,
-            49.278720744268554
-          ],
-          [
-            -123.10213439614502,
-            49.277872808694184
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10213935700811,
-      "lat": 49.278296776481376
     }
   },
   {
@@ -957,34 +845,6 @@
     }
   },
   {
-    "project": "W 35th Av",
-    "street": null,
-    "location": "W 35th Av",
-    "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18527983039485,
-            49.240472657053914
-          ],
-          [
-            -123.18817740628796,
-            49.24048233002466
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1867286183414,
-      "lat": 49.240477493539295
-    }
-  },
-  {
     "project": "W 36th Av from Wallace St to Highbury St",
     "street": null,
     "location": "W 36th Av from Wallace St to Highbury St",
@@ -1010,6 +870,34 @@
     "geo_point_2d": {
       "lon": -123.1895701593928,
       "lat": 49.23954030673608
+    }
+  },
+  {
+    "project": "W 35th Av",
+    "street": null,
+    "location": "W 35th Av",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18527983039485,
+            49.240472657053914
+          ],
+          [
+            -123.18817740628796,
+            49.24048233002466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1867286183414,
+      "lat": 49.240477493539295
     }
   },
   {
