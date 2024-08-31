@@ -1,5 +1,61 @@
 [
   {
+    "project": "E 38th Av from Sophia St to Prince Edward St",
+    "street": null,
+    "location": "E 38th Av from Sophia St to Prince Edward St",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c1faf3bc-5369-478d-83cb-0474f07ed1f4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09937247767476,
+            49.23629411192002
+          ],
+          [
+            -123.09708820311874,
+            49.23625362365914
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09823034039675,
+      "lat": 49.23627386778958
+    }
+  },
+  {
+    "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "street": null,
+    "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "comp_date": "2024-08-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d4dcfebd-3613-434f-ad79-92e99137c6d0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10445099689348,
+            49.279285923580574
+          ],
+          [
+            -123.10443490363937,
+            49.279607885593975
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10444295026643,
+      "lat": 49.279446904587275
+    }
+  },
+  {
     "project": "South side of 1300-1400 Block E Georgia St from Clark St to 20m East of Clark St",
     "street": null,
     "location": "South side of 1300-1400 Block E Georgia St from Clark St to 20m East of Clark St",
@@ -96,118 +152,6 @@
     }
   },
   {
-    "project": "E 38th Av from Sophia St to Prince Edward St",
-    "street": null,
-    "location": "E 38th Av from Sophia St to Prince Edward St",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c1faf3bc-5369-478d-83cb-0474f07ed1f4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09937247767476,
-            49.23629411192002
-          ],
-          [
-            -123.09708820311874,
-            49.23625362365914
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09823034039675,
-      "lat": 49.23627386778958
-    }
-  },
-  {
-    "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
-    "street": null,
-    "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
-    "comp_date": "2024-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d4dcfebd-3613-434f-ad79-92e99137c6d0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10445099689348,
-            49.279285923580574
-          ],
-          [
-            -123.10443490363937,
-            49.279607885593975
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10444295026643,
-      "lat": 49.279446904587275
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10279118902884,
-            49.240529920566985
-          ],
-          [
-            -123.10285484836781,
-            49.239129253729374
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10282301869833,
-      "lat": 49.239829587148186
-    }
-  },
-  {
-    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "street": null,
-    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
-    "comp_date": "2024-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214431787122,
-            49.278720744268554
-          ],
-          [
-            -123.10213439614502,
-            49.277872808694184
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10213935700811,
-      "lat": 49.278296776481376
-    }
-  },
-  {
     "project": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
     "street": null,
     "location": "North Side of 0 Block of Expo Boulevard From Carrall Street to Abbott Street. Bo",
@@ -273,6 +217,62 @@
     "geo_point_2d": {
       "lon": -123.10505772613959,
       "lat": 49.27802225248731
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0af0a0e0-43c6-4282-85f8-48cafd45fbd2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10279118902884,
+            49.240529920566985
+          ],
+          [
+            -123.10285484836781,
+            49.239129253729374
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10282301869833,
+      "lat": 49.239829587148186
+    }
+  },
+  {
+    "project": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "street": null,
+    "location": "East side of 600-700 Block Quebec St from 30m North of Union St to Lane North of",
+    "comp_date": "2024-08-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b63da20-42a4-4306-9224-667ead299428",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10214431787122,
+            49.278720744268554
+          ],
+          [
+            -123.10213439614502,
+            49.277872808694184
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10213935700811,
+      "lat": 49.278296776481376
     }
   },
   {
@@ -845,34 +845,6 @@
     }
   },
   {
-    "project": "W 36th Av from Wallace St to Highbury St",
-    "street": null,
-    "location": "W 36th Av from Wallace St to Highbury St",
-    "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18819063842795,
-            49.239535630607975
-          ],
-          [
-            -123.19094968035765,
-            49.239544982864174
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1895701593928,
-      "lat": 49.23954030673608
-    }
-  },
-  {
     "project": "W 35th Av",
     "street": null,
     "location": "W 35th Av",
@@ -898,6 +870,34 @@
     "geo_point_2d": {
       "lon": -123.1867286183414,
       "lat": 49.240477493539295
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Highbury St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819063842795,
+            49.239535630607975
+          ],
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1895701593928,
+      "lat": 49.23954030673608
     }
   },
   {
