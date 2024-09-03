@@ -1,21 +1,21 @@
 [
   {
-    "project": "St. Catherines St. from E 45th Av to E 47th Av",
+    "project": "Both Sides of 1200 Block of Melville Street From Bute Street to Jervis Street.",
     "street": null,
-    "location": "St. Catherines St. from E 45th Av to E 47th Av",
-    "comp_date": "2024-09-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85e1d875-f1b7-45ec-aa90-98726708a5cd",
+    "location": "Both Sides of 1200 Block of Melville Street From Bute Street to Jervis Street.",
+    "comp_date": "2024-09-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4cff277b-1b4b-45fd-9f96-712e3a5830b7",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.08652063232253,
-            49.22910993132743
+            -123.12574999047031,
+            49.288892831570706
           ],
           [
-            -123.08656462887409,
-            49.22731928380111
+            -123.12416285417736,
+            49.28785714132721
           ]
         ],
         "type": "LineString"
@@ -23,108 +23,100 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0865426305983,
-      "lat": 49.22821460756427
+      "lon": -123.12495642232383,
+      "lat": 49.28837498644896
     }
   },
   {
-    "project": "Stanley Park, Second Beach, and English Bay Beach Park",
+    "project": "East side of 6400 Block Culloden St from E 49th Ave to 20m North of E 49th Ave.",
     "street": null,
-    "location": "Stanley Park, Second Beach, and English Bay Beach Park",
-    "comp_date": "2024-09-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96beb626-54b0-460b-a703-7b0321575855",
+    "location": "East side of 6400 Block Culloden St from E 49th Ave to 20m North of E 49th Ave.",
+    "comp_date": "2024-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/292052ec-1c4d-4e6b-8527-514c385b0b84",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07867183516537,
+            49.22558221224472
+          ],
+          [
+            -123.07867183516537,
+            49.22531595253602
+          ],
+          [
+            -123.07732536623989,
+            49.225301938827386
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07810974593997,
+      "lat": 49.225332081050745
+    }
+  },
+  {
+    "project": "41st Av, Blenheim St to Collingwood St; Collingwood St, 40th Av to 42nd Av",
+    "street": null,
+    "location": "41st Av, Blenheim St to Collingwood St; Collingwood St, 40th Av to 42nd Av",
+    "comp_date": "2024-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70e03733-b96a-4d1d-a697-01e137e8c3d0",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.14183876021109,
-              49.2928440943721
+              -123.1787215114398,
+              49.234753778917764
             ],
             [
-              -123.14223767406672,
-              49.29297368310009
-            ],
-            [
-              -123.14280279643968,
-              49.29303308281624
+              -123.182025918027,
+              49.234759548750645
             ]
           ],
           [
             [
-              -123.14293824046447,
-              49.29215533827568
+              -123.18201906529404,
+              49.23568345316994
             ],
             [
-              -123.14300798143614,
-              49.29217970984044
-            ],
-            [
-              -123.14350249227302,
-              49.292401016491056
+              -123.18202179064446,
+              49.23528866515278
             ]
           ],
           [
             [
-              -123.14558938135038,
-              49.29034498089612
+              -123.18202179064446,
+              49.23528866515278
             ],
             [
-              -123.14571266583417,
-              49.29036272588914
-            ],
-            [
-              -123.14589073385778,
-              49.29044875587047
-            ],
-            [
-              -123.14605159301708,
-              49.29052358135988
-            ],
-            [
-              -123.14623539394356,
-              49.290594680581535
+              -123.182025918027,
+              49.234759548750645
             ]
           ],
           [
             [
-              -123.14623539394356,
-              49.290594680581535
+              -123.182025918027,
+              49.234759548750645
             ],
             [
-              -123.14636196277267,
-              49.290699583884816
-            ],
-            [
-              -123.14639656517241,
-              49.29077455973831
-            ],
-            [
-              -123.14636819403263,
-              49.29085339333011
+              -123.18203204401787,
+              49.23428464355999
             ]
           ],
           [
             [
-              -123.13536685924676,
-              49.29368748473462
+              -123.18203204401787,
+              49.23428464355999
             ],
             [
-              -123.13653716582344,
-              49.29446211647317
-            ],
-            [
-              -123.1367401783394,
-              49.29483191133926
-            ],
-            [
-              -123.1367162943532,
-              49.29514720787802
-            ],
-            [
-              -123.13644163042535,
-              49.295649342646385
+              -123.18203280171485,
+              49.233806742373105
             ]
           ]
         ],
@@ -133,27 +125,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14007423583506,
-      "lat": 49.29322382232178
+      "lon": -123.18097244231238,
+      "lat": 49.23475247470179
     }
   },
   {
-    "project": "E 33rd Ave - Sophia St & Prince Edward St",
+    "project": "Both sides of 7000 Block Culloden St from E 55th Ave to 40m North of E 55th Ave.",
     "street": null,
-    "location": "E 33rd Ave - Sophia St & Prince Edward St",
-    "comp_date": "2024-09-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c2597a68-cc01-41ca-bb56-e6d89a1d87ca",
+    "location": "Both sides of 7000 Block Culloden St from E 55th Ave to 40m North of E 55th Ave.",
+    "comp_date": "2024-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3a4ed945-677c-49c6-a707-e97addfdc729",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.098814470841,
-            49.24044917047479
+            -123.07889332275882,
+            49.21962184509448
           ],
           [
-            -123.09692259350179,
-            49.24041179680037
+            -123.07888259392278,
+            49.22017194340037
           ]
         ],
         "type": "LineString"
@@ -161,84 +153,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09786853217139,
-      "lat": 49.240430483637574
-    }
-  },
-  {
-    "project": "500 - 800 Granville and VAG",
-    "street": null,
-    "location": "500 - 800 Granville and VAG",
-    "comp_date": "2024-09-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f78f021-cd53-48db-be3d-25b83122744d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "geometries": [
-          {
-            "coordinates": [
-              [
-                -123.1213900337923,
-                49.280359942707065
-              ],
-              [
-                -123.11536304898569,
-                49.28432381090968
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              -123.11997622331766,
-              49.283063752400636
-            ],
-            "type": "Point"
-          }
-        ],
-        "type": "GeometryCollection"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11837654138898,
-      "lat": 49.282341876808374
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2024-09-03",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
+      "lon": -123.0788879583408,
+      "lat": 49.21989689424743
     }
   },
   {
@@ -516,73 +432,31 @@
     }
   },
   {
-    "project": "41st Av, Blenheim St to Collingwood St; Collingwood St, 40th Av to 42nd Av",
+    "project": "3300 Block of E 4th Avenue",
     "street": null,
-    "location": "41st Av, Blenheim St to Collingwood St; Collingwood St, 40th Av to 42nd Av",
+    "location": "3300 Block of E 4th Avenue",
     "comp_date": "2024-09-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70e03733-b96a-4d1d-a697-01e137e8c3d0",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e5654bd4-4cf3-41c3-8ff6-9c4a39f96669",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.1787215114398,
-              49.234753778917764
-            ],
-            [
-              -123.182025918027,
-              49.234759548750645
-            ]
+            -123.03374795979748,
+            49.266635796213876
           ],
           [
-            [
-              -123.18201906529404,
-              49.23568345316994
-            ],
-            [
-              -123.18202179064446,
-              49.23528866515278
-            ]
-          ],
-          [
-            [
-              -123.18202179064446,
-              49.23528866515278
-            ],
-            [
-              -123.182025918027,
-              49.234759548750645
-            ]
-          ],
-          [
-            [
-              -123.182025918027,
-              49.234759548750645
-            ],
-            [
-              -123.18203204401787,
-              49.23428464355999
-            ]
-          ],
-          [
-            [
-              -123.18203204401787,
-              49.23428464355999
-            ],
-            [
-              -123.18203280171485,
-              49.233806742373105
-            ]
+            -123.03155391282331,
+            49.266635796213876
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18097244231238,
-      "lat": 49.23475247470179
+      "lon": -123.0326509363104,
+      "lat": 49.266635796213876
     }
   },
   {
@@ -627,6 +501,62 @@
     "geo_point_2d": {
       "lon": -123.1139526062291,
       "lat": 49.252925792051784
+    }
+  },
+  {
+    "project": "Both sides of 8600 Block Logan St from SW Marine Dr to W 70th Ave.",
+    "street": null,
+    "location": "Both sides of 8600 Block Logan St from SW Marine Dr to W 70th Ave.",
+    "comp_date": "2024-09-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2db27b53-7f1f-421b-9b38-ea736a222f60",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12501265980127,
+            49.20836693131176
+          ],
+          [
+            -123.12505523721538,
+            49.20685926743107
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12503394850833,
+      "lat": 49.207613099371414
+    }
+  },
+  {
+    "project": "Both Sides of 3500 Block of W 39th Avenue From Dunbar Street Collingwood Street.",
+    "street": null,
+    "location": "Both Sides of 3500 Block of W 39th Avenue From Dunbar Street Collingwood Street.",
+    "comp_date": "2024-09-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/44ccabd6-fb09-428d-87ab-ee3c94d61d73",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18532089632836,
+            49.23644391787525
+          ],
+          [
+            -123.1820308056559,
+            49.2364299073229
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18367585099213,
+      "lat": 49.23643691259908
     }
   },
   {
@@ -763,46 +693,6 @@
     }
   },
   {
-    "project": "Both Sides of 3300-3400 Block of Mayfair Avenue From Blenheim Street to 60m West",
-    "street": null,
-    "location": "Both Sides of 3300-3400 Block of Mayfair Avenue From Blenheim Street to 60m West",
-    "comp_date": "2024-09-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/587e6acb-6488-4186-907e-2db8baf8c85f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.17872735665,
-              49.236878979858574
-            ],
-            [
-              -123.18005711949004,
-              49.23688178190113
-            ]
-          ],
-          [
-            [
-              -123.17870590853498,
-              49.236736073232464
-            ],
-            [
-              -123.17870590853498,
-              49.23724605163875
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17920198703254,
-      "lat": 49.23691106188618
-    }
-  },
-  {
     "project": "North Side of 1300-1400 Block of Franklin Street From Clark Drive to 35m East. E",
     "street": null,
     "location": "North Side of 1300-1400 Block of Franklin Street From Clark Drive to 35m East. E",
@@ -853,33 +743,33 @@
     }
   },
   {
-    "project": null,
+    "project": "Both Sides of 3300-3400 Block of Mayfair Avenue From Blenheim Street to 60m West",
     "street": null,
-    "location": null,
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce8b137a-f950-482f-9bcc-9422e88149cf",
+    "location": "Both Sides of 3300-3400 Block of Mayfair Avenue From Blenheim Street to 60m West",
+    "comp_date": "2024-09-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/587e6acb-6488-4186-907e-2db8baf8c85f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.13070935918554,
-              49.221587587195984
+              -123.17872735665,
+              49.236878979858574
             ],
             [
-              -123.13068240106233,
-              49.22284942780112
+              -123.18005711949004,
+              49.23688178190113
             ]
           ],
           [
             [
-              -123.12916194508482,
-              49.223930387073324
+              -123.17870590853498,
+              49.236736073232464
             ],
             [
-              -123.12849963530266,
-              49.22392299292889
+              -123.17870590853498,
+              49.23724605163875
             ]
           ]
         ],
@@ -888,8 +778,148 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13005396929958,
-      "lat": 49.22280641525604
+      "lon": -123.17920198703254,
+      "lat": 49.23691106188618
+    }
+  },
+  {
+    "project": "300 Block of Glen Dr and 1000-1100 Block of E Hastings St",
+    "street": null,
+    "location": "300 Block of Glen Dr and 1000-1100 Block of E Hastings St",
+    "comp_date": "2024-09-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f8b138b-c82c-40c7-a930-33c72704a2fd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08128752373572,
+              49.28099958210049
+            ],
+            [
+              -123.08128752373572,
+              49.28148457682593
+            ]
+          ],
+          [
+            [
+              -123.08284667111293,
+              49.281042920149844
+            ],
+            [
+              -123.08127864269142,
+              49.28101646577818
+            ]
+          ],
+          [
+            [
+              -123.08127188394809,
+              49.28101646577812
+            ],
+            [
+              -123.08016345006392,
+              49.280998829522446
+            ]
+          ],
+          [
+            [
+              -123.08128010397485,
+              49.28148718888576
+            ],
+            [
+              -123.08126560773049,
+              49.28194425230285
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08144700140494,
+      "lat": 49.28113808504459
+    }
+  },
+  {
+    "project": "Both sides of Lane South of 1000 Block Powell St from Raymur Ave to Glen Dr. Bot",
+    "street": null,
+    "location": "Both sides of Lane South of 1000 Block Powell St from Raymur Ave to Glen Dr. Bot",
+    "comp_date": "2024-09-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9bac703a-b982-40fd-83df-f29d871cbced",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08234734641512,
+              49.282423000682144
+            ],
+            [
+              -123.08128519164521,
+              49.28240200442218
+            ]
+          ],
+          [
+            [
+              -123.081231547465,
+              49.282321518676184
+            ],
+            [
+              -123.08055026637523,
+              49.282318019292944
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0814547061169,
+      "lat": 49.28237626914851
+    }
+  },
+  {
+    "project": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
+    "street": null,
+    "location": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
+    "comp_date": "2024-09-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2493fe-07ce-4054-a3f2-2cfc58e8812c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08181162520964,
+              49.25299414816692
+            ],
+            [
+              -123.08177943870145,
+              49.25391502455955
+            ]
+          ],
+          [
+            [
+              -123.08236952468471,
+              49.253837993732645
+            ],
+            [
+              -123.08078702136594,
+              49.25308868759927
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08165318422604,
+      "lat": 49.253460322169424
     }
   },
   {
@@ -933,31 +963,43 @@
     }
   },
   {
-    "project": "W 35th Av",
+    "project": null,
     "street": null,
-    "location": "W 35th Av",
-    "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
+    "location": null,
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce8b137a-f950-482f-9bcc-9422e88149cf",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.18527983039485,
-            49.240472657053914
+            [
+              -123.13070935918554,
+              49.221587587195984
+            ],
+            [
+              -123.13068240106233,
+              49.22284942780112
+            ]
           ],
           [
-            -123.18817740628796,
-            49.24048233002466
+            [
+              -123.12916194508482,
+              49.223930387073324
+            ],
+            [
+              -123.12849963530266,
+              49.22392299292889
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1867286183414,
-      "lat": 49.240477493539295
+      "lon": -123.13005396929958,
+      "lat": 49.22280641525604
     }
   },
   {
@@ -986,6 +1028,66 @@
     "geo_point_2d": {
       "lon": -123.1895701593928,
       "lat": 49.23954030673608
+    }
+  },
+  {
+    "project": "W 35th Av",
+    "street": null,
+    "location": "W 35th Av",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18527983039485,
+            49.240472657053914
+          ],
+          [
+            -123.18817740628796,
+            49.24048233002466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1867286183414,
+      "lat": 49.240477493539295
+    }
+  },
+  {
+    "project": "Both sides of Lane South of 2100 Block Napier St from Lakewood Dr to 40m East of",
+    "street": null,
+    "location": "Both sides of Lane South of 2100 Block Napier St from Lakewood Dr to 40m East of",
+    "comp_date": "2024-09-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/39120eb1-fe0e-499b-8d0d-7cb9a439affb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06180538060019,
+            49.27477017994758
+          ],
+          [
+            -123.06181074501822,
+            49.27433968803817
+          ],
+          [
+            -123.06125820996114,
+            49.27433968803817
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06165429252013,
+      "lat": 49.27443395369782
     }
   },
   {
