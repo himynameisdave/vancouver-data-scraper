@@ -1,49 +1,5 @@
 [
   {
-    "project": "W 20th Av from Cambie St to Yukon St",
-    "street": null,
-    "location": "W 20th Av from Cambie St to Yukon St",
-    "comp_date": "2024-09-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/50911ce7-746f-478b-88de-e2921974485e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11454790787839,
-              49.252935622559676
-            ],
-            [
-              -123.11507140565386,
-              49.252945518812794
-            ],
-            [
-              -123.1152371090792,
-              49.25298961914669
-            ]
-          ],
-          [
-            [
-              -123.11266274634052,
-              49.25290015506917
-            ],
-            [
-              -123.11454790787839,
-              49.252935622559676
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1139526062291,
-      "lat": 49.252925792051784
-    }
-  },
-  {
     "project": "Both sides of 8600 Block Logan St from SW Marine Dr to W 70th Ave.",
     "street": null,
     "location": "Both sides of 8600 Block Logan St from SW Marine Dr to W 70th Ave.",
@@ -97,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.18367585099213,
       "lat": 49.23643691259908
+    }
+  },
+  {
+    "project": "4700 Block of Argyle Street",
+    "street": null,
+    "location": "4700 Block of Argyle Street",
+    "comp_date": "2024-09-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cf82cefa-6405-43b9-b27f-8696cc6e236f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07082222256423,
+            49.24194793706971
+          ],
+          [
+            -123.07078167010506,
+            49.24270247822005
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07080194633465,
+      "lat": 49.24232520764488
     }
   },
   {
@@ -559,46 +543,6 @@
     }
   },
   {
-    "project": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
-    "street": null,
-    "location": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/915e5ede-e208-4318-aa81-07984cbed62f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08238408499524,
-              49.28196785848684
-            ],
-            [
-              -123.08275298687896,
-              49.281979056527774
-            ]
-          ],
-          [
-            [
-              -123.08239266397943,
-              49.28197345745423
-            ],
-            [
-              -123.08237979517588,
-              49.28230939946019
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08248163285847,
-      "lat": 49.282053527082006
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -636,6 +580,46 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
+    "street": null,
+    "location": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/915e5ede-e208-4318-aa81-07984cbed62f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08238408499524,
+              49.28196785848684
+            ],
+            [
+              -123.08275298687896,
+              49.281979056527774
+            ]
+          ],
+          [
+            [
+              -123.08239266397943,
+              49.28197345745423
+            ],
+            [
+              -123.08237979517588,
+              49.28230939946019
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08248163285847,
+      "lat": 49.282053527082006
     }
   },
   {
@@ -727,6 +711,34 @@
     }
   },
   {
+    "project": "North side of 100 Keefer St from Main St to Lane West of Main St.",
+    "street": null,
+    "location": "North side of 100 Keefer St from Main St to Lane West of Main St.",
+    "comp_date": "2024-09-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00d4b8a3-110d-4374-9eff-822745e34dff",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0997853940497,
+            49.279488261388536
+          ],
+          [
+            -123.10046667513949,
+            49.279502259723245
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1001260345946,
+      "lat": 49.27949526055588
+    }
+  },
+  {
     "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
     "street": null,
     "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
@@ -771,72 +783,6 @@
     "street": null,
     "location": null,
     "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14857623067299,
-              49.209589355262864
-            ],
-            [
-              -123.14840041326133,
-              49.215769718021335
-            ],
-            [
-              -123.14848586678069,
-              49.21602648606017
-            ]
-          ],
-          [
-            [
-              -123.15127165151208,
-              49.21416997712936
-            ],
-            [
-              -123.15123747010432,
-              49.21404717057794
-            ],
-            [
-              -123.14961385323633,
-              49.21236134071407
-            ],
-            [
-              -123.14934040197434,
-              49.21214921235435
-            ],
-            [
-              -123.14855422959617,
-              49.21183660048095
-            ]
-          ],
-          [
-            [
-              -123.15444194332788,
-              49.21513916733218
-            ],
-            [
-              -123.14840637599511,
-              49.215082845061744
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14993267933147,
-      "lat": 49.213684491275586
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-09-25",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d153dfcc-7c87-49f5-80fd-fe5ec9b07baf",
     "geom": {
       "type": "Feature",
@@ -1024,6 +970,72 @@
     "geo_point_2d": {
       "lon": -123.02719311118969,
       "lat": 49.25523695141732
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-09-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14857623067299,
+              49.209589355262864
+            ],
+            [
+              -123.14840041326133,
+              49.215769718021335
+            ],
+            [
+              -123.14848586678069,
+              49.21602648606017
+            ]
+          ],
+          [
+            [
+              -123.15127165151208,
+              49.21416997712936
+            ],
+            [
+              -123.15123747010432,
+              49.21404717057794
+            ],
+            [
+              -123.14961385323633,
+              49.21236134071407
+            ],
+            [
+              -123.14934040197434,
+              49.21214921235435
+            ],
+            [
+              -123.14855422959617,
+              49.21183660048095
+            ]
+          ],
+          [
+            [
+              -123.15444194332788,
+              49.21513916733218
+            ],
+            [
+              -123.14840637599511,
+              49.215082845061744
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14993267933147,
+      "lat": 49.213684491275586
     }
   },
   {
