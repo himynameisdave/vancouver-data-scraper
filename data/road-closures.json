@@ -1,113 +1,5 @@
 [
   {
-    "project": "Wall St from N Kaslo St to N Renfrew St",
-    "street": null,
-    "location": "Wall St from N Kaslo St to N Renfrew St",
-    "comp_date": "2024-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3574d00-d9cc-45e7-b8cf-691a2d98a0b9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04667530819358,
-            49.29163794855421
-          ],
-          [
-            -123.0440551591823,
-            49.291053158323365
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04536523368795,
-      "lat": 49.29134555343879
-    }
-  },
-  {
-    "project": "Lanark St. from E 39th Av to E 41st Av",
-    "street": null,
-    "location": "Lanark St. from E 39th Av to E 41st Av",
-    "comp_date": "2024-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7de3ce2d-010d-4f48-97b8-e7e0c8103dd2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0755820763272,
-              49.23477906628875
-            ],
-            [
-              -123.07563788951435,
-              49.233124533193205
-            ]
-          ],
-          [
-            [
-              -123.07563788951435,
-              49.233124533193205
-            ],
-            [
-              -123.07565176090039,
-              49.2327003619551
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07561709249049,
-      "lat": 49.23373971989775
-    }
-  },
-  {
-    "project": "Both Sides of 3300-3400 Block of Mayfair Avenue From Blenheim Street to 60m West",
-    "street": null,
-    "location": "Both Sides of 3300-3400 Block of Mayfair Avenue From Blenheim Street to 60m West",
-    "comp_date": "2024-09-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/587e6acb-6488-4186-907e-2db8baf8c85f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.17872735665,
-              49.236878979858574
-            ],
-            [
-              -123.18005711949004,
-              49.23688178190113
-            ]
-          ],
-          [
-            [
-              -123.17870590853498,
-              49.236736073232464
-            ],
-            [
-              -123.17870590853498,
-              49.23724605163875
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17920198703254,
-      "lat": 49.23691106188618
-    }
-  },
-  {
     "project": "North Side of 1300-1400 Block of Franklin Street From Clark Drive to 35m East. E",
     "street": null,
     "location": "North Side of 1300-1400 Block of Franklin Street From Clark Drive to 35m East. E",
@@ -326,56 +218,6 @@
     }
   },
   {
-    "project": "Both sides of 1600 Block Kamloops St form 25m North of E 1st Ave to 45m North of",
-    "street": null,
-    "location": "Both sides of 1600 Block Kamloops St form 25m North of E 1st Ave to 45m North of",
-    "comp_date": "2024-09-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8fc0ac82-5370-4b76-8404-de8d01660936",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05472394799379,
-              49.26989477215565
-            ],
-            [
-              -123.05471858357575,
-              49.270087286347945
-            ]
-          ],
-          [
-            [
-              -123.05467963317629,
-              49.27456305692232
-            ],
-            [
-              -123.05467426875826,
-              49.27417806271879
-            ]
-          ],
-          [
-            [
-              -123.05466566345355,
-              49.27578433911671
-            ],
-            [
-              -123.05466566345355,
-              49.27539235469624
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0546811898208,
-      "lat": 49.27399298800537
-    }
-  },
-  {
     "project": "E 23rd Av from Kamloops St to Penticton St",
     "street": null,
     "location": "E 23rd Av from Kamloops St to Penticton St",
@@ -429,6 +271,56 @@
     "geo_point_2d": {
       "lon": -123.06343079520045,
       "lat": 49.27571998066357
+    }
+  },
+  {
+    "project": "Both sides of 1600 Block Kamloops St form 25m North of E 1st Ave to 45m North of",
+    "street": null,
+    "location": "Both sides of 1600 Block Kamloops St form 25m North of E 1st Ave to 45m North of",
+    "comp_date": "2024-09-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8fc0ac82-5370-4b76-8404-de8d01660936",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05472394799379,
+              49.26989477215565
+            ],
+            [
+              -123.05471858357575,
+              49.270087286347945
+            ]
+          ],
+          [
+            [
+              -123.05467963317629,
+              49.27456305692232
+            ],
+            [
+              -123.05467426875826,
+              49.27417806271879
+            ]
+          ],
+          [
+            [
+              -123.05466566345355,
+              49.27578433911671
+            ],
+            [
+              -123.05466566345355,
+              49.27539235469624
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0546811898208,
+      "lat": 49.27399298800537
     }
   },
   {
@@ -500,46 +392,6 @@
     }
   },
   {
-    "project": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
-    "street": null,
-    "location": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
-    "comp_date": "2024-09-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/915e5ede-e208-4318-aa81-07984cbed62f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08238408499524,
-              49.28196785848684
-            ],
-            [
-              -123.08275298687896,
-              49.281979056527774
-            ]
-          ],
-          [
-            [
-              -123.08239266397943,
-              49.28197345745423
-            ],
-            [
-              -123.08237979517588,
-              49.28230939946019
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08248163285847,
-      "lat": 49.282053527082006
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -577,6 +429,46 @@
     "geo_point_2d": {
       "lon": -123.13005396929958,
       "lat": 49.22280641525604
+    }
+  },
+  {
+    "project": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
+    "street": null,
+    "location": "Both Sides of 900 Block of E Cordova Street From Raymur Avenue to 12m West. Both",
+    "comp_date": "2024-09-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/915e5ede-e208-4318-aa81-07984cbed62f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08238408499524,
+              49.28196785848684
+            ],
+            [
+              -123.08275298687896,
+              49.281979056527774
+            ]
+          ],
+          [
+            [
+              -123.08239266397943,
+              49.28197345745423
+            ],
+            [
+              -123.08237979517588,
+              49.28230939946019
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08248163285847,
+      "lat": 49.282053527082006
     }
   },
   {
@@ -733,72 +625,6 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14857623067299,
-              49.209589355262864
-            ],
-            [
-              -123.14840041326133,
-              49.215769718021335
-            ],
-            [
-              -123.14848586678069,
-              49.21602648606017
-            ]
-          ],
-          [
-            [
-              -123.15127165151208,
-              49.21416997712936
-            ],
-            [
-              -123.15123747010432,
-              49.21404717057794
-            ],
-            [
-              -123.14961385323633,
-              49.21236134071407
-            ],
-            [
-              -123.14934040197434,
-              49.21214921235435
-            ],
-            [
-              -123.14855422959617,
-              49.21183660048095
-            ]
-          ],
-          [
-            [
-              -123.15444194332788,
-              49.21513916733218
-            ],
-            [
-              -123.14840637599511,
-              49.215082845061744
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14993267933147,
-      "lat": 49.213684491275586
     }
   },
   {
@@ -993,6 +819,72 @@
     "geo_point_2d": {
       "lon": -123.02719311118969,
       "lat": 49.25523695141732
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-09-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/551eb216-9736-4593-9650-34c6ff4c77da",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14857623067299,
+              49.209589355262864
+            ],
+            [
+              -123.14840041326133,
+              49.215769718021335
+            ],
+            [
+              -123.14848586678069,
+              49.21602648606017
+            ]
+          ],
+          [
+            [
+              -123.15127165151208,
+              49.21416997712936
+            ],
+            [
+              -123.15123747010432,
+              49.21404717057794
+            ],
+            [
+              -123.14961385323633,
+              49.21236134071407
+            ],
+            [
+              -123.14934040197434,
+              49.21214921235435
+            ],
+            [
+              -123.14855422959617,
+              49.21183660048095
+            ]
+          ],
+          [
+            [
+              -123.15444194332788,
+              49.21513916733218
+            ],
+            [
+              -123.14840637599511,
+              49.215082845061744
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14993267933147,
+      "lat": 49.213684491275586
     }
   },
   {
@@ -1263,6 +1155,42 @@
     "geo_point_2d": {
       "lon": -123.14871274786182,
       "lat": 49.24049562451019
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2024-11-03",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
     }
   },
   {
