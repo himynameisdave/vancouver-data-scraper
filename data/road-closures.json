@@ -1,62 +1,114 @@
 [
   {
-    "project": "intersection of Keefer and Hawks\r\n700-800 blk Keefer and 500 & 600 blk Hawks",
+    "project": "Cambridge St from N Penticton St to n Slocan St",
     "street": null,
-    "location": "intersection of Keefer and Hawks\r\n700-800 blk Keefer and 500 & 600 blk Hawks",
+    "location": "Cambridge St from N Penticton St to n Slocan St",
     "comp_date": "2024-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e9982a7-9864-4202-8ba4-63a0e80439d3",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea7f386a-549c-41a9-b962-d49d0ad65d7c",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.08960123665024,
-              49.279275728546054
-            ],
-            [
-              -123.08724356447058,
-              49.279243065573326
-            ]
+            -123.051949311276,
+            49.286725066909014
           ],
           [
-            [
-              -123.08723640911414,
-              49.27967934737677
-            ],
-            [
-              -123.08724356430685,
-              49.27923839940209
-            ]
-          ],
-          [
-            [
-              -123.08727407042569,
-              49.27880687750326
-            ],
-            [
-              -123.0872415070303,
-              49.27923866457658
-            ]
-          ],
-          [
-            [
-              -123.08720894363488,
-              49.27925282141001
-            ],
-            [
-              -123.08494036025587,
-              49.27920327223217
-            ]
+            -123.04932202000509,
+            49.28672202642602
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08726751434565,
-      "lat": 49.27924383100455
+      "lon": -123.05063566564057,
+      "lat": 49.28672354666752
+    }
+  },
+  {
+    "project": "W 35th Av",
+    "street": null,
+    "location": "W 35th Av",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14fde098-d062-415b-9134-2f5a19387ec6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18527983039485,
+            49.240472657053914
+          ],
+          [
+            -123.18817740628796,
+            49.24048233002466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1867286183414,
+      "lat": 49.240477493539295
+    }
+  },
+  {
+    "project": "W 12th Av from Tolmie St to Sasamat St",
+    "street": null,
+    "location": "W 12th Av from Tolmie St to Sasamat St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f445defd-7435-42d2-bcbf-9d0bdca87195",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20916533004198,
+            49.262001367118074
+          ],
+          [
+            -123.21220445681271,
+            49.262049121949445
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21068489342736,
+      "lat": 49.26202524453375
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Highbury St",
+    "comp_date": "2024-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8c66053-a306-4284-bed3-ce60ae2fbf29",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819063842795,
+            49.239535630607975
+          ],
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1895701593928,
+      "lat": 49.23954030673608
     }
   },
   {
@@ -89,6 +141,410 @@
     "geo_point_2d": {
       "lon": -123.06165429252013,
       "lat": 49.27443395369782
+    }
+  },
+  {
+    "project": "North side of 100 Keefer St from Main St to Lane West of Main St.",
+    "street": null,
+    "location": "North side of 100 Keefer St from Main St to Lane West of Main St.",
+    "comp_date": "2024-09-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00d4b8a3-110d-4374-9eff-822745e34dff",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0997853940497,
+            49.279488261388536
+          ],
+          [
+            -123.10046667513949,
+            49.279502259723245
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1001260345946,
+      "lat": 49.27949526055588
+    }
+  },
+  {
+    "project": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
+    "street": null,
+    "location": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
+    "comp_date": "2024-09-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2493fe-07ce-4054-a3f2-2cfc58e8812c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08181162520964,
+              49.25299414816692
+            ],
+            [
+              -123.08177943870145,
+              49.25391502455955
+            ]
+          ],
+          [
+            [
+              -123.08236952468471,
+              49.253837993732645
+            ],
+            [
+              -123.08078702136594,
+              49.25308868759927
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08165318422604,
+      "lat": 49.253460322169424
+    }
+  },
+  {
+    "project": "Kitchener St from Renfrew St to Nootka St",
+    "street": null,
+    "location": "Kitchener St from Renfrew St to Nootka St",
+    "comp_date": "2024-09-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/47cefb49-655a-44bf-a07c-429e2830b24e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0435795120564,
+              49.27228421169232
+            ],
+            [
+              -123.04143779100815,
+              49.27228112268966
+            ]
+          ],
+          [
+            [
+              -123.04417053974407,
+              49.272286056162045
+            ],
+            [
+              -123.0435795120564,
+              49.27228421169232
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04280416626302,
+      "lat": 49.27228320068817
+    }
+  },
+  {
+    "project": "E 23rd Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 23rd Av from Kamloops St to Penticton St",
+    "comp_date": "2024-09-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e44cb7e-8925-448f-a2ed-b29739b8cd0f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0545788419046,
+            49.249715302259034
+          ],
+          [
+            -123.05223926613823,
+            49.24972372391886
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05340905402142,
+      "lat": 49.24971951308895
+    }
+  },
+  {
+    "project": "Both sides of 3600 Block E 48th Ave from Boundary Rd to West of PL of 3637.",
+    "street": null,
+    "location": "Both sides of 3600 Block E 48th Ave from Boundary Rd to West of PL of 3637.",
+    "comp_date": "2024-09-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/582c6b72-13dd-4f52-9cb3-194849c1761f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.025054136583,
+            49.225223302603325
+          ],
+          [
+            -123.02361915476003,
+            49.22521979916996
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02433664567151,
+      "lat": 49.225221550886644
+    }
+  },
+  {
+    "project": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
+    "street": null,
+    "location": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
+    "comp_date": "2024-09-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6c44de89-079f-4993-b296-e8b3005e44c0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18307127231095,
+              49.24617069325876
+            ],
+            [
+              -123.18460090838383,
+              49.246175417482874
+            ]
+          ],
+          [
+            [
+              -123.18458876712168,
+              49.247111839882336
+            ],
+            [
+              -123.18459949595774,
+              49.24617507781963
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18412401264308,
+      "lat": 49.24635172593817
+    }
+  },
+  {
+    "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "street": null,
+    "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "comp_date": "2024-09-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/368db2d6-752e-405a-96a8-02bfe5efc9d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07864258396474,
+              49.27587950583674
+            ],
+            [
+              -123.07798276054707,
+              49.27587250615579
+            ]
+          ],
+          [
+            [
+              -123.07862649071068,
+              49.27629948487723
+            ],
+            [
+              -123.07864258396476,
+              49.27539652551934
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07849865054656,
+      "lat": 49.27585982673097
+    }
+  },
+  {
+    "project": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
+    "street": null,
+    "location": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
+    "comp_date": "2024-09-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e20c6e7-3f03-4e81-9715-5a4e5fbbe351",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17012947977038,
+            49.264067874272456
+          ],
+          [
+            -123.17015093744249,
+            49.26327671464139
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17014020860643,
+      "lat": 49.263672294456924
+    }
+  },
+  {
+    "project": "Both sides of 300 Block E 1st Ave from Scotia St to 80m East. Both sides of 1800",
+    "street": null,
+    "location": "Both sides of 300 Block E 1st Ave from Scotia St to 80m East. Both sides of 1800",
+    "comp_date": "2024-09-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/095070e1-aee6-42ac-999c-95babca74edb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09655829053075,
+            49.267915319055334
+          ],
+          [
+            -123.09738977532537,
+            49.2683948722522
+          ],
+          [
+            -123.0982051668659,
+            49.26778230347426
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09739822828675,
+      "lat": 49.26812083406963
+    }
+  },
+  {
+    "project": "Intersection of Templeton Dr and E 4th Av",
+    "street": null,
+    "location": "Intersection of Templeton Dr and E 4th Av",
+    "comp_date": "2024-09-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2d07f056-4c5b-4628-ac1d-9a044a80ffab",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06132443212407,
+              49.26674423728758
+            ],
+            [
+              -123.06000892108351,
+              49.266733863912094
+            ]
+          ],
+          [
+            [
+              -123.06000892108351,
+              49.266733863912094
+            ],
+            [
+              -123.06001525494878,
+              49.266346230475534
+            ]
+          ],
+          [
+            [
+              -123.05999742019853,
+              49.26730404856963
+            ],
+            [
+              -123.06000892108351,
+              49.266733863912094
+            ]
+          ],
+          [
+            [
+              -123.06000892108351,
+              49.266733863912094
+            ],
+            [
+              -123.05941010675295,
+              49.2667289561482
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06024703943056,
+      "lat": 49.26676617252271
+    }
+  },
+  {
+    "project": "Columbia St from W 6th Av to W 7th Av",
+    "street": null,
+    "location": "Columbia St from W 6th Av to W 7th Av",
+    "comp_date": "2024-09-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10943779425952,
+              49.265663971802525
+            ],
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ]
+          ],
+          [
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ],
+            [
+              -123.1094432083651,
+              49.264755936850406
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10944043385062,
+      "lat": 49.26520995392424
     }
   },
   {
@@ -508,6 +964,56 @@
     }
   },
   {
+    "project": "W 27th Av from Blenheim St to Collingwood St",
+    "street": null,
+    "location": "W 27th Av from Blenheim St to Collingwood St",
+    "comp_date": "2024-10-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7eb7dfca-84fb-4247-ac19-b5d80bd9a00f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18020603669673,
+      "lat": 49.2480484241057
+    }
+  },
+  {
     "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
     "location": "Cypress St between W 35th Ave and Quilchena Street",
@@ -737,6 +1243,34 @@
     "geo_point_2d": {
       "lon": -123.03897035546358,
       "lat": 49.263904089013906
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-11-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/79a06ada-e000-494c-8161-a3dec12e4c39",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06593973539636,
+            49.2604481677711
+          ],
+          [
+            -123.06981670949094,
+            49.26047637059608
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06787822244365,
+      "lat": 49.26046226918359
     }
   },
   {
