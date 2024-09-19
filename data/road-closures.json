@@ -1,33 +1,5 @@
 [
   {
-    "project": "North side of 100 Keefer St from Main St to Lane West of Main St.",
-    "street": null,
-    "location": "North side of 100 Keefer St from Main St to Lane West of Main St.",
-    "comp_date": "2024-09-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00d4b8a3-110d-4374-9eff-822745e34dff",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0997853940497,
-            49.279488261388536
-          ],
-          [
-            -123.10046667513949,
-            49.279502259723245
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1001260345946,
-      "lat": 49.27949526055588
-    }
-  },
-  {
     "project": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
     "street": null,
     "location": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
@@ -65,6 +37,34 @@
     "geo_point_2d": {
       "lon": -123.08165318422604,
       "lat": 49.253460322169424
+    }
+  },
+  {
+    "project": "North side of 100 Keefer St from Main St to Lane West of Main St.",
+    "street": null,
+    "location": "North side of 100 Keefer St from Main St to Lane West of Main St.",
+    "comp_date": "2024-09-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00d4b8a3-110d-4374-9eff-822745e34dff",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0997853940497,
+            49.279488261388536
+          ],
+          [
+            -123.10046667513949,
+            49.279502259723245
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1001260345946,
+      "lat": 49.27949526055588
     }
   },
   {
@@ -568,46 +568,6 @@
     }
   },
   {
-    "project": "Columbia St from W 6th Av to W 7th Av",
-    "street": null,
-    "location": "Columbia St from W 6th Av to W 7th Av",
-    "comp_date": "2024-09-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10943779425952,
-              49.265663971802525
-            ],
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ]
-          ],
-          [
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ],
-            [
-              -123.1094432083651,
-              49.264755936850406
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10944043385062,
-      "lat": 49.26520995392424
-    }
-  },
-  {
     "project": "E 4th Av from Templeton Dr to Garden Dr including Intersection of Garden Dr. and",
     "street": null,
     "location": "E 4th Av from Templeton Dr to Garden Dr including Intersection of Garden Dr. and",
@@ -688,69 +648,33 @@
     }
   },
   {
-    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "project": "Columbia St from W 6th Av to W 7th Av",
     "street": null,
-    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
-    "comp_date": "2024-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
+    "location": "Columbia St from W 6th Av to W 7th Av",
+    "comp_date": "2024-09-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.06002435412238,
-              49.26673948016389
+              -123.10943779425952,
+              49.265663971802525
             ],
             [
-              -123.05942553969516,
-              49.26673457246906
-            ],
-            [
-              -123.05809151403038,
-              49.266724150778856
+              -123.10944036455973,
+              49.26521026031088
             ]
           ],
           [
             [
-              -123.05809151403038,
-              49.26672415077479
+              -123.10944036455973,
+              49.26521026031088
             ],
             [
-              -123.05809735678676,
-              49.266350298321015
-            ],
-            [
-              -123.05810636693613,
-              49.26589967020803
-            ],
-            [
-              -123.05811415196108,
-              49.265447639423655
-            ],
-            [
-              -123.05811932305129,
-              49.26511073052012
-            ],
-            [
-              -123.05812232224615,
-              49.2649960671647
-            ],
-            [
-              -123.05813064352644,
-              49.26454444981783
-            ],
-            [
-              -123.05813870254663,
-              49.2640920140031
-            ],
-            [
-              -123.05814727030167,
-              49.26363985674763
-            ],
-            [
-              -123.0581550962084,
-              49.26318813159912
+              -123.1094432083651,
+              49.264755936850406
             ]
           ]
         ],
@@ -759,8 +683,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05845345725456,
-      "lat": 49.26558362797153
+      "lon": -123.10944043385062,
+      "lat": 49.26520995392424
     }
   },
   {
@@ -955,6 +879,82 @@
     "geo_point_2d": {
       "lon": -123.02719311118969,
       "lat": 49.25523695141732
+    }
+  },
+  {
+    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "street": null,
+    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "comp_date": "2024-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06002435412238,
+              49.26673948016389
+            ],
+            [
+              -123.05942553969516,
+              49.26673457246906
+            ],
+            [
+              -123.05809151403038,
+              49.266724150778856
+            ]
+          ],
+          [
+            [
+              -123.05809151403038,
+              49.26672415077479
+            ],
+            [
+              -123.05809735678676,
+              49.266350298321015
+            ],
+            [
+              -123.05810636693613,
+              49.26589967020803
+            ],
+            [
+              -123.05811415196108,
+              49.265447639423655
+            ],
+            [
+              -123.05811932305129,
+              49.26511073052012
+            ],
+            [
+              -123.05812232224615,
+              49.2649960671647
+            ],
+            [
+              -123.05813064352644,
+              49.26454444981783
+            ],
+            [
+              -123.05813870254663,
+              49.2640920140031
+            ],
+            [
+              -123.05814727030167,
+              49.26363985674763
+            ],
+            [
+              -123.0581550962084,
+              49.26318813159912
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05845345725456,
+      "lat": 49.26558362797153
     }
   },
   {
