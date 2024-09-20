@@ -1,73 +1,5 @@
 [
   {
-    "project": "North side of 100 Keefer St from Main St to Lane West of Main St.",
-    "street": null,
-    "location": "North side of 100 Keefer St from Main St to Lane West of Main St.",
-    "comp_date": "2024-09-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00d4b8a3-110d-4374-9eff-822745e34dff",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0997853940497,
-            49.279488261388536
-          ],
-          [
-            -123.10046667513949,
-            49.279502259723245
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1001260345946,
-      "lat": 49.27949526055588
-    }
-  },
-  {
-    "project": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
-    "street": null,
-    "location": "Both sides of 3500 Block Glen Dr from Kingsway to 30m North of E 19th Ave. Both",
-    "comp_date": "2024-09-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b2493fe-07ce-4054-a3f2-2cfc58e8812c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08181162520964,
-              49.25299414816692
-            ],
-            [
-              -123.08177943870145,
-              49.25391502455955
-            ]
-          ],
-          [
-            [
-              -123.08236952468471,
-              49.253837993732645
-            ],
-            [
-              -123.08078702136594,
-              49.25308868759927
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08165318422604,
-      "lat": 49.253460322169424
-    }
-  },
-  {
     "project": "E 23rd Av from Kamloops St to Penticton St",
     "street": null,
     "location": "E 23rd Av from Kamloops St to Penticton St",
@@ -476,6 +408,34 @@
     }
   },
   {
+    "project": "Both Sides of 5700-5800 Block of St. Margarets Street From North PL of 5839 to S",
+    "street": null,
+    "location": "Both Sides of 5700-5800 Block of St. Margarets Street From North PL of 5839 to S",
+    "comp_date": "2024-09-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea1567b1-f2fc-445c-abe4-91dfd07c5224",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05655887599808,
+            49.230285345840855
+          ],
+          [
+            -123.05656316549018,
+            49.23099996772376
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05656102074413,
+      "lat": 49.2306426567823
+    }
+  },
+  {
     "project": "Both sides of 300 Block E 1st Ave from Scotia St to 80m East. Both sides of 1800",
     "street": null,
     "location": "Both sides of 300 Block E 1st Ave from Scotia St to 80m East. Both sides of 1800",
@@ -568,46 +528,6 @@
     }
   },
   {
-    "project": "Columbia St from W 6th Av to W 7th Av",
-    "street": null,
-    "location": "Columbia St from W 6th Av to W 7th Av",
-    "comp_date": "2024-09-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10943779425952,
-              49.265663971802525
-            ],
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ]
-          ],
-          [
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ],
-            [
-              -123.1094432083651,
-              49.264755936850406
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10944043385062,
-      "lat": 49.26520995392424
-    }
-  },
-  {
     "project": "E 4th Av from Templeton Dr to Garden Dr including Intersection of Garden Dr. and",
     "street": null,
     "location": "E 4th Av from Templeton Dr to Garden Dr including Intersection of Garden Dr. and",
@@ -688,69 +608,33 @@
     }
   },
   {
-    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "project": "Columbia St from W 6th Av to W 7th Av",
     "street": null,
-    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
-    "comp_date": "2024-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
+    "location": "Columbia St from W 6th Av to W 7th Av",
+    "comp_date": "2024-09-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.06002435412238,
-              49.26673948016389
+              -123.10943779425952,
+              49.265663971802525
             ],
             [
-              -123.05942553969516,
-              49.26673457246906
-            ],
-            [
-              -123.05809151403038,
-              49.266724150778856
+              -123.10944036455973,
+              49.26521026031088
             ]
           ],
           [
             [
-              -123.05809151403038,
-              49.26672415077479
+              -123.10944036455973,
+              49.26521026031088
             ],
             [
-              -123.05809735678676,
-              49.266350298321015
-            ],
-            [
-              -123.05810636693613,
-              49.26589967020803
-            ],
-            [
-              -123.05811415196108,
-              49.265447639423655
-            ],
-            [
-              -123.05811932305129,
-              49.26511073052012
-            ],
-            [
-              -123.05812232224615,
-              49.2649960671647
-            ],
-            [
-              -123.05813064352644,
-              49.26454444981783
-            ],
-            [
-              -123.05813870254663,
-              49.2640920140031
-            ],
-            [
-              -123.05814727030167,
-              49.26363985674763
-            ],
-            [
-              -123.0581550962084,
-              49.26318813159912
+              -123.1094432083651,
+              49.264755936850406
             ]
           ]
         ],
@@ -759,8 +643,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05845345725456,
-      "lat": 49.26558362797153
+      "lon": -123.10944043385062,
+      "lat": 49.26520995392424
     }
   },
   {
@@ -955,6 +839,132 @@
     "geo_point_2d": {
       "lon": -123.02719311118969,
       "lat": 49.25523695141732
+    }
+  },
+  {
+    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "street": null,
+    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "comp_date": "2024-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06002435412238,
+              49.26673948016389
+            ],
+            [
+              -123.05942553969516,
+              49.26673457246906
+            ],
+            [
+              -123.05809151403038,
+              49.266724150778856
+            ]
+          ],
+          [
+            [
+              -123.05809151403038,
+              49.26672415077479
+            ],
+            [
+              -123.05809735678676,
+              49.266350298321015
+            ],
+            [
+              -123.05810636693613,
+              49.26589967020803
+            ],
+            [
+              -123.05811415196108,
+              49.265447639423655
+            ],
+            [
+              -123.05811932305129,
+              49.26511073052012
+            ],
+            [
+              -123.05812232224615,
+              49.2649960671647
+            ],
+            [
+              -123.05813064352644,
+              49.26454444981783
+            ],
+            [
+              -123.05813870254663,
+              49.2640920140031
+            ],
+            [
+              -123.05814727030167,
+              49.26363985674763
+            ],
+            [
+              -123.0581550962084,
+              49.26318813159912
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05845345725456,
+      "lat": 49.26558362797153
+    }
+  },
+  {
+    "project": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
+    "street": null,
+    "location": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1d47ad3f-1dd8-40e2-8cf6-bbc7edc108fe",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09782120908625,
+              49.21751690592217
+            ],
+            [
+              -123.09783193792232,
+              49.21671098404494
+            ]
+          ],
+          [
+            [
+              -123.09778188156919,
+              49.21577375210572
+            ],
+            [
+              -123.09422240974888,
+              49.21570144063102
+            ]
+          ],
+          [
+            [
+              -123.09779181711278,
+              49.218394950845976
+            ],
+            [
+              -123.09843343869721,
+              49.21839918410649
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0965661891988,
+      "lat": 49.216299863076046
     }
   },
   {
@@ -1475,6 +1485,114 @@
     "geo_point_2d": {
       "lon": -123.15114314223422,
       "lat": 49.264197330553955
+    }
+  },
+  {
+    "project": "Oak St On-ramp from Marine Drive",
+    "street": null,
+    "location": "Oak St On-ramp from Marine Drive",
+    "comp_date": "2025-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/365bacdf-6c40-4100-b24a-455324f1bd68",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12843829437679,
+            49.2055288456244
+          ],
+          [
+            -123.12841057040337,
+            49.20561759833268
+          ],
+          [
+            -123.1284410672489,
+            49.20572446355516
+          ],
+          [
+            -123.1284050251503,
+            49.20566650293384
+          ],
+          [
+            -123.12829690032791,
+            49.20562665484695
+          ],
+          [
+            -123.12819986453826,
+            49.20561578698684
+          ],
+          [
+            -123.12811946450789,
+            49.2056429562048
+          ],
+          [
+            -123.12820540930022,
+            49.20561759833268
+          ],
+          [
+            -123.12829967238146,
+            49.20563389980046
+          ],
+          [
+            -123.128393935299,
+            49.20566469148284
+          ],
+          [
+            -123.12843829437679,
+            49.20572265232022
+          ],
+          [
+            -123.12852146760672,
+            49.20587661037092
+          ],
+          [
+            -123.12866157481491,
+            49.20600546882426
+          ],
+          [
+            -123.12888004461745,
+            49.206105957991866
+          ],
+          [
+            -123.12917115084035,
+            49.206167540749504
+          ],
+          [
+            -123.12936183785398,
+            49.20614855458666
+          ],
+          [
+            -123.12957531577263,
+            49.20611232943676
+          ],
+          [
+            -123.1297111655507,
+            49.20606704782841
+          ],
+          [
+            -123.1298636497783,
+            49.20604893528042
+          ],
+          [
+            -123.12996068507681,
+            49.20607067038
+          ],
+          [
+            -123.13004663085144,
+            49.206144932040786
+          ],
+          [
+            -123.13009376231021,
+            49.20624998496143
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12894659997447,
+      "lat": 49.205929032188706
     }
   },
   {
