@@ -1,33 +1,5 @@
 [
   {
-    "project": "E 23rd Av from Kamloops St to Penticton St",
-    "street": null,
-    "location": "E 23rd Av from Kamloops St to Penticton St",
-    "comp_date": "2024-09-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e44cb7e-8925-448f-a2ed-b29739b8cd0f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0545788419046,
-            49.249715302259034
-          ],
-          [
-            -123.05223926613823,
-            49.24972372391886
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05340905402142,
-      "lat": 49.24971951308895
-    }
-  },
-  {
     "project": "Kitchener St from Renfrew St to Nootka St",
     "street": null,
     "location": "Kitchener St from Renfrew St to Nootka St",
@@ -68,43 +40,31 @@
     }
   },
   {
-    "project": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
+    "project": "E 23rd Av from Kamloops St to Penticton St",
     "street": null,
-    "location": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
-    "comp_date": "2024-09-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6c44de89-079f-4993-b296-e8b3005e44c0",
+    "location": "E 23rd Av from Kamloops St to Penticton St",
+    "comp_date": "2024-09-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e44cb7e-8925-448f-a2ed-b29739b8cd0f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.18307127231095,
-              49.24617069325876
-            ],
-            [
-              -123.18460090838383,
-              49.246175417482874
-            ]
+            -123.0545788419046,
+            49.249715302259034
           ],
           [
-            [
-              -123.18458876712168,
-              49.247111839882336
-            ],
-            [
-              -123.18459949595774,
-              49.24617507781963
-            ]
+            -123.05223926613823,
+            49.24972372391886
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18412401264308,
-      "lat": 49.24635172593817
+      "lon": -123.05340905402142,
+      "lat": 49.24971951308895
     }
   },
   {
@@ -336,6 +296,46 @@
     }
   },
   {
+    "project": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
+    "street": null,
+    "location": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
+    "comp_date": "2024-09-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6c44de89-079f-4993-b296-e8b3005e44c0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18307127231095,
+              49.24617069325876
+            ],
+            [
+              -123.18460090838383,
+              49.246175417482874
+            ]
+          ],
+          [
+            [
+              -123.18458876712168,
+              49.247111839882336
+            ],
+            [
+              -123.18459949595774,
+              49.24617507781963
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18412401264308,
+      "lat": 49.24635172593817
+    }
+  },
+  {
     "project": "Garden Dr from E 18th Av to E 19th Av",
     "street": null,
     "location": "Garden Dr from E 18th Av to E 19th Av",
@@ -380,34 +380,6 @@
     }
   },
   {
-    "project": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
-    "street": null,
-    "location": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
-    "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e20c6e7-3f03-4e81-9715-5a4e5fbbe351",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17012947977038,
-            49.264067874272456
-          ],
-          [
-            -123.17015093744249,
-            49.26327671464139
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17014020860643,
-      "lat": 49.263672294456924
-    }
-  },
-  {
     "project": "Both Sides of 5700-5800 Block of St. Margarets Street From North PL of 5839 to S",
     "street": null,
     "location": "Both Sides of 5700-5800 Block of St. Margarets Street From North PL of 5839 to S",
@@ -433,6 +405,34 @@
     "geo_point_2d": {
       "lon": -123.05656102074413,
       "lat": 49.2306426567823
+    }
+  },
+  {
+    "project": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
+    "street": null,
+    "location": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
+    "comp_date": "2024-09-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e20c6e7-3f03-4e81-9715-5a4e5fbbe351",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17012947977038,
+            49.264067874272456
+          ],
+          [
+            -123.17015093744249,
+            49.26327671464139
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17014020860643,
+      "lat": 49.263672294456924
     }
   },
   {
@@ -648,6 +648,82 @@
     }
   },
   {
+    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "street": null,
+    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "comp_date": "2024-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06002435412238,
+              49.26673948016389
+            ],
+            [
+              -123.05942553969516,
+              49.26673457246906
+            ],
+            [
+              -123.05809151403038,
+              49.266724150778856
+            ]
+          ],
+          [
+            [
+              -123.05809151403038,
+              49.26672415077479
+            ],
+            [
+              -123.05809735678676,
+              49.266350298321015
+            ],
+            [
+              -123.05810636693613,
+              49.26589967020803
+            ],
+            [
+              -123.05811415196108,
+              49.265447639423655
+            ],
+            [
+              -123.05811932305129,
+              49.26511073052012
+            ],
+            [
+              -123.05812232224615,
+              49.2649960671647
+            ],
+            [
+              -123.05813064352644,
+              49.26454444981783
+            ],
+            [
+              -123.05813870254663,
+              49.2640920140031
+            ],
+            [
+              -123.05814727030167,
+              49.26363985674763
+            ],
+            [
+              -123.0581550962084,
+              49.26318813159912
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05845345725456,
+      "lat": 49.26558362797153
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -842,79 +918,31 @@
     }
   },
   {
-    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
     "street": null,
-    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
-    "comp_date": "2024-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
+    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.06002435412238,
-              49.26673948016389
-            ],
-            [
-              -123.05942553969516,
-              49.26673457246906
-            ],
-            [
-              -123.05809151403038,
-              49.266724150778856
-            ]
+            -123.1909568037628,
+            49.2347425787203
           ],
           [
-            [
-              -123.05809151403038,
-              49.26672415077479
-            ],
-            [
-              -123.05809735678676,
-              49.266350298321015
-            ],
-            [
-              -123.05810636693613,
-              49.26589967020803
-            ],
-            [
-              -123.05811415196108,
-              49.265447639423655
-            ],
-            [
-              -123.05811932305129,
-              49.26511073052012
-            ],
-            [
-              -123.05812232224615,
-              49.2649960671647
-            ],
-            [
-              -123.05813064352644,
-              49.26454444981783
-            ],
-            [
-              -123.05813870254663,
-              49.2640920140031
-            ],
-            [
-              -123.05814727030167,
-              49.26363985674763
-            ],
-            [
-              -123.0581550962084,
-              49.26318813159912
-            ]
+            -123.19096753259886,
+            49.234252190131826
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05845345725456,
-      "lat": 49.26558362797153
+      "lon": -123.19096216818083,
+      "lat": 49.234497384426064
     }
   },
   {
@@ -965,34 +993,6 @@
     "geo_point_2d": {
       "lon": -123.0965661891988,
       "lat": 49.216299863076046
-    }
-  },
-  {
-    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "street": null,
-    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "comp_date": "2024-10-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1909568037628,
-            49.2347425787203
-          ],
-          [
-            -123.19096753259886,
-            49.234252190131826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19096216818083,
-      "lat": 49.234497384426064
     }
   },
   {
