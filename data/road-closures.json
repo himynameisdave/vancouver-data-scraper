@@ -1,73 +1,5 @@
 [
   {
-    "project": "Kitchener St from Renfrew St to Nootka St",
-    "street": null,
-    "location": "Kitchener St from Renfrew St to Nootka St",
-    "comp_date": "2024-09-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/47cefb49-655a-44bf-a07c-429e2830b24e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0435795120564,
-              49.27228421169232
-            ],
-            [
-              -123.04143779100815,
-              49.27228112268966
-            ]
-          ],
-          [
-            [
-              -123.04417053974407,
-              49.272286056162045
-            ],
-            [
-              -123.0435795120564,
-              49.27228421169232
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04280416626302,
-      "lat": 49.27228320068817
-    }
-  },
-  {
-    "project": "E 23rd Av from Kamloops St to Penticton St",
-    "street": null,
-    "location": "E 23rd Av from Kamloops St to Penticton St",
-    "comp_date": "2024-09-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e44cb7e-8925-448f-a2ed-b29739b8cd0f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0545788419046,
-            49.249715302259034
-          ],
-          [
-            -123.05223926613823,
-            49.24972372391886
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05340905402142,
-      "lat": 49.24971951308895
-    }
-  },
-  {
     "project": "Both sides of 3600 Block E 48th Ave from Boundary Rd to West of PL of 3637.",
     "street": null,
     "location": "Both sides of 3600 Block E 48th Ave from Boundary Rd to West of PL of 3637.",
@@ -93,6 +25,72 @@
     "geo_point_2d": {
       "lon": -123.02433664567151,
       "lat": 49.225221550886644
+    }
+  },
+  {
+    "project": "Dieppe Place from Dieppe Dr to Dieppe Dr",
+    "street": null,
+    "location": "Dieppe Place from Dieppe Dr to Dieppe Dr",
+    "comp_date": "2024-09-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c134bdbe-bec0-4f16-a3ba-8dcae29413b7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0266944731591,
+              49.25645620651963
+            ],
+            [
+              -123.02617026231763,
+              49.256797694848814
+            ],
+            [
+              -123.02602508404614,
+              49.25679751175687
+            ]
+          ],
+          [
+            [
+              -123.02602508404614,
+              49.25679751175687
+            ],
+            [
+              -123.0259968291243,
+              49.25679775199356
+            ],
+            [
+              -123.02580344372805,
+              49.2566702881783
+            ],
+            [
+              -123.02580344685462,
+              49.25664992301145
+            ]
+          ],
+          [
+            [
+              -123.02632527190953,
+              49.25621345640266
+            ],
+            [
+              -123.02580341034894,
+              49.256553530297765
+            ],
+            [
+              -123.02580344685462,
+              49.25664992301145
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0261575915467,
+      "lat": 49.25657102510345
     }
   },
   {
@@ -333,6 +331,96 @@
     "geo_point_2d": {
       "lon": -123.18412401264308,
       "lat": 49.24635172593817
+    }
+  },
+  {
+    "project": "Dieppe Dr from Falaise Av to Malta Av",
+    "street": null,
+    "location": "Dieppe Dr from Falaise Av to Malta Av",
+    "comp_date": "2024-09-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f9196eb-7e7c-4941-b377-18250cfa4c2f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.02736058652626,
+              49.25689325411088
+            ],
+            [
+              -123.02722616136099,
+              49.25680505180787
+            ]
+          ],
+          [
+            [
+              -123.02722616136099,
+              49.25680505180787
+            ],
+            [
+              -123.02687855259329,
+              49.25657697857375
+            ]
+          ],
+          [
+            [
+              -123.0266944731591,
+              49.25645620651963
+            ],
+            [
+              -123.02632527190953,
+              49.25621345640266
+            ]
+          ],
+          [
+            [
+              -123.02614013661277,
+              49.25609194609078
+            ],
+            [
+              -123.02579395368699,
+              49.25586455287953
+            ]
+          ],
+          [
+            [
+              -123.02632527190953,
+              49.25621345640266
+            ],
+            [
+              -123.02614013661277,
+              49.25609194609078
+            ]
+          ],
+          [
+            [
+              -123.02687855259329,
+              49.25657697857375
+            ],
+            [
+              -123.0266944731591,
+              49.25645620651963
+            ]
+          ],
+          [
+            [
+              -123.02579395368699,
+              49.25586455287953
+            ],
+            [
+              -123.02565839317639,
+              49.255775755306274
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02650948072231,
+      "lat": 49.256334518550766
     }
   },
   {
