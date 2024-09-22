@@ -1,429 +1,5 @@
 [
   {
-    "project": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
-    "street": null,
-    "location": "Road Closure is at both sides of 3500 Block W 29th Ave from Dunbar St to East PL",
-    "comp_date": "2024-09-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6c44de89-079f-4993-b296-e8b3005e44c0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18307127231095,
-              49.24617069325876
-            ],
-            [
-              -123.18460090838383,
-              49.246175417482874
-            ]
-          ],
-          [
-            [
-              -123.18458876712168,
-              49.247111839882336
-            ],
-            [
-              -123.18459949595774,
-              49.24617507781963
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18412401264308,
-      "lat": 49.24635172593817
-    }
-  },
-  {
-    "project": "Dieppe Dr from Falaise Av to Malta Av",
-    "street": null,
-    "location": "Dieppe Dr from Falaise Av to Malta Av",
-    "comp_date": "2024-09-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f9196eb-7e7c-4941-b377-18250cfa4c2f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.02736058652626,
-              49.25689325411088
-            ],
-            [
-              -123.02722616136099,
-              49.25680505180787
-            ]
-          ],
-          [
-            [
-              -123.02722616136099,
-              49.25680505180787
-            ],
-            [
-              -123.02687855259329,
-              49.25657697857375
-            ]
-          ],
-          [
-            [
-              -123.0266944731591,
-              49.25645620651963
-            ],
-            [
-              -123.02632527190953,
-              49.25621345640266
-            ]
-          ],
-          [
-            [
-              -123.02614013661277,
-              49.25609194609078
-            ],
-            [
-              -123.02579395368699,
-              49.25586455287953
-            ]
-          ],
-          [
-            [
-              -123.02632527190953,
-              49.25621345640266
-            ],
-            [
-              -123.02614013661277,
-              49.25609194609078
-            ]
-          ],
-          [
-            [
-              -123.02687855259329,
-              49.25657697857375
-            ],
-            [
-              -123.0266944731591,
-              49.25645620651963
-            ]
-          ],
-          [
-            [
-              -123.02579395368699,
-              49.25586455287953
-            ],
-            [
-              -123.02565839317639,
-              49.255775755306274
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02650948072231,
-      "lat": 49.256334518550766
-    }
-  },
-  {
-    "project": "Both sides of 3600 Block E 48th Ave from Boundary Rd to West of PL of 3637.",
-    "street": null,
-    "location": "Both sides of 3600 Block E 48th Ave from Boundary Rd to West of PL of 3637.",
-    "comp_date": "2024-09-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/582c6b72-13dd-4f52-9cb3-194849c1761f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.025054136583,
-            49.225223302603325
-          ],
-          [
-            -123.02361915476003,
-            49.22521979916996
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02433664567151,
-      "lat": 49.225221550886644
-    }
-  },
-  {
-    "project": "Dieppe Place from Dieppe Dr to Dieppe Dr",
-    "street": null,
-    "location": "Dieppe Place from Dieppe Dr to Dieppe Dr",
-    "comp_date": "2024-09-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c134bdbe-bec0-4f16-a3ba-8dcae29413b7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0266944731591,
-              49.25645620651963
-            ],
-            [
-              -123.02617026231763,
-              49.256797694848814
-            ],
-            [
-              -123.02602508404614,
-              49.25679751175687
-            ]
-          ],
-          [
-            [
-              -123.02602508404614,
-              49.25679751175687
-            ],
-            [
-              -123.0259968291243,
-              49.25679775199356
-            ],
-            [
-              -123.02580344372805,
-              49.2566702881783
-            ],
-            [
-              -123.02580344685462,
-              49.25664992301145
-            ]
-          ],
-          [
-            [
-              -123.02632527190953,
-              49.25621345640266
-            ],
-            [
-              -123.02580341034894,
-              49.256553530297765
-            ],
-            [
-              -123.02580344685462,
-              49.25664992301145
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0261575915467,
-      "lat": 49.25657102510345
-    }
-  },
-  {
-    "project": "Drummond Dr from Blanca St to Fannin Av",
-    "street": null,
-    "location": "Drummond Dr from Blanca St to Fannin Av",
-    "comp_date": "2024-09-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e4d0156d-3465-44cf-ae77-21dea84b961f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21489624717877,
-            49.27261439672097
-          ],
-          [
-            -123.21506360158666,
-            49.2726168198887
-          ],
-          [
-            -123.21506360178223,
-            49.27261686486435
-          ],
-          [
-            -123.21521587277292,
-            49.27262179855998
-          ],
-          [
-            -123.2154230789176,
-            49.272642874976555
-          ],
-          [
-            -123.21562579624796,
-            49.27267801889428
-          ],
-          [
-            -123.21582178235273,
-            49.272726820746016
-          ],
-          [
-            -123.21600890437887,
-            49.27278878082194
-          ],
-          [
-            -123.216183718437,
-            49.27286225049164
-          ],
-          [
-            -123.21623923217724,
-            49.27288798981917
-          ],
-          [
-            -123.21635503330488,
-            49.272940197061985
-          ],
-          [
-            -123.21647220360347,
-            49.27299107932902
-          ],
-          [
-            -123.21659070174759,
-            49.273040618703334
-          ],
-          [
-            -123.21671051390561,
-            49.273088797216445
-          ],
-          [
-            -123.21683159879048,
-            49.27313560594652
-          ],
-          [
-            -123.21695388754155,
-            49.27318101803323
-          ],
-          [
-            -123.21707739385941,
-            49.27322502445193
-          ],
-          [
-            -123.21720204900076,
-            49.27326762532795
-          ],
-          [
-            -123.21732782530546,
-            49.27330878472884
-          ],
-          [
-            -123.21745468152355,
-            49.27334850272857
-          ],
-          [
-            -123.21758257632575,
-            49.2733867614111
-          ],
-          [
-            -123.21771146850095,
-            49.273423569845676
-          ],
-          [
-            -123.21784131663978,
-            49.27345889212654
-          ],
-          [
-            -123.21797209319844,
-            49.27349271930703
-          ],
-          [
-            -123.2181037569648,
-            49.273525060457075
-          ],
-          [
-            -123.21823626652812,
-            49.27355587967111
-          ],
-          [
-            -123.21836955318093,
-            49.27358518607127
-          ],
-          [
-            -123.21850363062006,
-            49.27361297063379
-          ],
-          [
-            -123.21863841627102,
-            49.27363921552177
-          ],
-          [
-            -123.2187738825879,
-            49.273663911789725
-          ],
-          [
-            -123.21890998835693,
-            49.273687068508536
-          ],
-          [
-            -123.21904669220478,
-            49.27370865876884
-          ],
-          [
-            -123.21918395291708,
-            49.27372869164188
-          ],
-          [
-            -123.2193217154124,
-            49.27374714923977
-          ],
-          [
-            -123.2194599659309,
-            49.27376403158692
-          ],
-          [
-            -123.2195986356831,
-            49.273779329817216
-          ],
-          [
-            -123.21973768345407,
-            49.27379305300252
-          ],
-          [
-            -123.21987709536347,
-            49.273805174182485
-          ],
-          [
-            -123.22001680270128,
-            49.273815702481784
-          ],
-          [
-            -123.22015676421212,
-            49.27382463797787
-          ],
-          [
-            -123.22017311382116,
-            49.27382550634471
-          ],
-          [
-            -123.22027794637044,
-            49.27383040681656
-          ],
-          [
-            -123.220382911084,
-            49.27383411058
-          ],
-          [
-            -123.22048795296493,
-            49.27383661773956
-          ],
-          [
-            -123.22058240333318,
-            49.27383778674883
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21771716582823,
-      "lat": 49.27331889811596
-    }
-  },
-  {
     "project": "Garden Dr from E 18th Av to E 19th Av",
     "street": null,
     "location": "Garden Dr from E 18th Av to E 19th Av",
@@ -465,34 +41,6 @@
     "geo_point_2d": {
       "lon": -123.05833993270079,
       "lat": 49.25273563420993
-    }
-  },
-  {
-    "project": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
-    "street": null,
-    "location": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
-    "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e20c6e7-3f03-4e81-9715-5a4e5fbbe351",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17012947977038,
-            49.264067874272456
-          ],
-          [
-            -123.17015093744249,
-            49.26327671464139
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17014020860643,
-      "lat": 49.263672294456924
     }
   },
   {
@@ -1006,6 +554,34 @@
     }
   },
   {
+    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "street": null,
+    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1909568037628,
+            49.2347425787203
+          ],
+          [
+            -123.19096753259886,
+            49.234252190131826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19096216818083,
+      "lat": 49.234497384426064
+    }
+  },
+  {
     "project": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
     "street": null,
     "location": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
@@ -1053,34 +629,6 @@
     "geo_point_2d": {
       "lon": -123.0965661891988,
       "lat": 49.216299863076046
-    }
-  },
-  {
-    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "street": null,
-    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "comp_date": "2024-10-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1909568037628,
-            49.2347425787203
-          ],
-          [
-            -123.19096753259886,
-            49.234252190131826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19096216818083,
-      "lat": 49.234497384426064
     }
   },
   {
@@ -1187,6 +735,34 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
+    }
+  },
+  {
+    "project": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
+    "street": null,
+    "location": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
+    "comp_date": "2024-10-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e20c6e7-3f03-4e81-9715-5a4e5fbbe351",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17012947977038,
+            49.264067874272456
+          ],
+          [
+            -123.17015093744249,
+            49.26327671464139
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17014020860643,
+      "lat": 49.263672294456924
     }
   },
   {
