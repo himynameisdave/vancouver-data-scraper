@@ -1,36 +1,46 @@
 [
   {
-    "project": "Garden Dr from E 18th Av to E 19th Av",
+    "project": "E 20th Av from Penticton St and Nanaimo St",
     "street": null,
-    "location": "Garden Dr from E 18th Av to E 19th Av",
-    "comp_date": "2024-09-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/01a36ee2-d210-41f8-89ce-93f9074b1b8b",
+    "location": "E 20th Av from Penticton St and Nanaimo St",
+    "comp_date": "2024-09-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/46541465-7ff1-4342-a0f2-f644e8936f71",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.05827826473609,
-              49.253471879532185
+              -123.05662787785552,
+              49.25235806641166
             ],
             [
-              -123.05828279396324,
-              49.252533369861
-            ],
-            [
-              -123.05830966504593,
-              49.252492104215406
+              -123.0558668252789,
+              49.25236377109468
             ]
           ],
           [
             [
-              -123.05830966504593,
-              49.252492104215406
+              -123.05586682512664,
+              49.25236363616639
             ],
             [
-              -123.05859311856693,
-              49.252056744976954
+              -123.0547288463037,
+              49.25237227653551
+            ]
+          ],
+          [
+            [
+              -123.05464455663284,
+              49.25237290112253
+            ],
+            [
+              -123.0530086171008,
+              49.252385536990374
+            ],
+            [
+              -123.05220898447843,
+              49.25238478569864
             ]
           ]
         ],
@@ -39,8 +49,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05833993270079,
-      "lat": 49.25273563420993
+      "lon": -123.05441322338528,
+      "lat": 49.25237414528212
     }
   },
   {
@@ -81,42 +91,6 @@
     "geo_point_2d": {
       "lon": -123.106891225326,
       "lat": 49.26213969564776
-    }
-  },
-  {
-    "project": "North side of 0 Block Expo Blvd from Quebec St to Expo Blvd.",
-    "street": null,
-    "location": "North side of 0 Block Expo Blvd from Quebec St to Expo Blvd.",
-    "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ddacf9ec-f652-4573-954a-3c256bc3e3f9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214602687141,
-            49.27763932081808
-          ],
-          [
-            -123.10314917304298,
-            49.277604323652014
-          ],
-          [
-            -123.10360514857551,
-            49.27763932081808
-          ],
-          [
-            -123.10378753878852,
-            49.27766731853305
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10296794603616,
-      "lat": 49.27762535414827
     }
   },
   {
@@ -177,6 +151,34 @@
     "geo_point_2d": {
       "lon": -123.09739822828675,
       "lat": 49.26812083406963
+    }
+  },
+  {
+    "project": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
+    "street": null,
+    "location": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
+    "comp_date": "2024-09-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aab6f36d-0c7e-4481-9216-55e12b1d4434",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17363836150471,
+            49.243278482844886
+          ],
+          [
+            -123.17301608901326,
+            49.243274980691865
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.173327225259,
+      "lat": 49.243276731768375
     }
   },
   {
@@ -268,31 +270,43 @@
     }
   },
   {
-    "project": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
+    "project": "Columbia St from W 6th Av to W 7th Av",
     "street": null,
-    "location": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
-    "comp_date": "2024-09-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aab6f36d-0c7e-4481-9216-55e12b1d4434",
+    "location": "Columbia St from W 6th Av to W 7th Av",
+    "comp_date": "2024-09-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.17363836150471,
-            49.243278482844886
+            [
+              -123.10943779425952,
+              49.265663971802525
+            ],
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ]
           ],
           [
-            -123.17301608901326,
-            49.243274980691865
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ],
+            [
+              -123.1094432083651,
+              49.264755936850406
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.173327225259,
-      "lat": 49.243276731768375
+      "lon": -123.10944043385062,
+      "lat": 49.26520995392424
     }
   },
   {
@@ -376,33 +390,69 @@
     }
   },
   {
-    "project": "Columbia St from W 6th Av to W 7th Av",
+    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
     "street": null,
-    "location": "Columbia St from W 6th Av to W 7th Av",
-    "comp_date": "2024-09-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
+    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "comp_date": "2024-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10943779425952,
-              49.265663971802525
+              -123.06002435412238,
+              49.26673948016389
             ],
             [
-              -123.10944036455973,
-              49.26521026031088
+              -123.05942553969516,
+              49.26673457246906
+            ],
+            [
+              -123.05809151403038,
+              49.266724150778856
             ]
           ],
           [
             [
-              -123.10944036455973,
-              49.26521026031088
+              -123.05809151403038,
+              49.26672415077479
             ],
             [
-              -123.1094432083651,
-              49.264755936850406
+              -123.05809735678676,
+              49.266350298321015
+            ],
+            [
+              -123.05810636693613,
+              49.26589967020803
+            ],
+            [
+              -123.05811415196108,
+              49.265447639423655
+            ],
+            [
+              -123.05811932305129,
+              49.26511073052012
+            ],
+            [
+              -123.05812232224615,
+              49.2649960671647
+            ],
+            [
+              -123.05813064352644,
+              49.26454444981783
+            ],
+            [
+              -123.05813870254663,
+              49.2640920140031
+            ],
+            [
+              -123.05814727030167,
+              49.26363985674763
+            ],
+            [
+              -123.0581550962084,
+              49.26318813159912
             ]
           ]
         ],
@@ -411,8 +461,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10944043385062,
-      "lat": 49.26520995392424
+      "lon": -123.05845345725456,
+      "lat": 49.26558362797153
     }
   },
   {
@@ -610,110 +660,6 @@
     }
   },
   {
-    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
-    "street": null,
-    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
-    "comp_date": "2024-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06002435412238,
-              49.26673948016389
-            ],
-            [
-              -123.05942553969516,
-              49.26673457246906
-            ],
-            [
-              -123.05809151403038,
-              49.266724150778856
-            ]
-          ],
-          [
-            [
-              -123.05809151403038,
-              49.26672415077479
-            ],
-            [
-              -123.05809735678676,
-              49.266350298321015
-            ],
-            [
-              -123.05810636693613,
-              49.26589967020803
-            ],
-            [
-              -123.05811415196108,
-              49.265447639423655
-            ],
-            [
-              -123.05811932305129,
-              49.26511073052012
-            ],
-            [
-              -123.05812232224615,
-              49.2649960671647
-            ],
-            [
-              -123.05813064352644,
-              49.26454444981783
-            ],
-            [
-              -123.05813870254663,
-              49.2640920140031
-            ],
-            [
-              -123.05814727030167,
-              49.26363985674763
-            ],
-            [
-              -123.0581550962084,
-              49.26318813159912
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05845345725456,
-      "lat": 49.26558362797153
-    }
-  },
-  {
-    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "street": null,
-    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "comp_date": "2024-10-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1909568037628,
-            49.2347425787203
-          ],
-          [
-            -123.19096753259886,
-            49.234252190131826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19096216818083,
-      "lat": 49.234497384426064
-    }
-  },
-  {
     "project": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
     "street": null,
     "location": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
@@ -761,6 +707,34 @@
     "geo_point_2d": {
       "lon": -123.0965661891988,
       "lat": 49.216299863076046
+    }
+  },
+  {
+    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "street": null,
+    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1909568037628,
+            49.2347425787203
+          ],
+          [
+            -123.19096753259886,
+            49.234252190131826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19096216818083,
+      "lat": 49.234497384426064
     }
   },
   {
@@ -830,6 +804,34 @@
     }
   },
   {
+    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "street": null,
+    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "comp_date": "2024-10-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801252527122,
+            49.25890870896123
+          ],
+          [
+            -123.1367513952865,
+            49.25888070059918
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13738196027887,
+      "lat": 49.258894704780204
+    }
+  },
+  {
     "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
     "street": null,
     "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
@@ -867,34 +869,6 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
-    }
-  },
-  {
-    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "street": null,
-    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "comp_date": "2024-10-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801252527122,
-            49.25890870896123
-          ],
-          [
-            -123.1367513952865,
-            49.25888070059918
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13738196027887,
-      "lat": 49.258894704780204
     }
   },
   {
