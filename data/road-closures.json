@@ -1,115 +1,21 @@
 [
   {
-    "project": "E 20th Av from Penticton St and Nanaimo St",
+    "project": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
     "street": null,
-    "location": "E 20th Av from Penticton St and Nanaimo St",
-    "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/46541465-7ff1-4342-a0f2-f644e8936f71",
+    "location": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
+    "comp_date": "2024-09-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aab6f36d-0c7e-4481-9216-55e12b1d4434",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.05662787785552,
-              49.25235806641166
-            ],
-            [
-              -123.0558668252789,
-              49.25236377109468
-            ]
+            -123.17363836150471,
+            49.243278482844886
           ],
           [
-            [
-              -123.05586682512664,
-              49.25236363616639
-            ],
-            [
-              -123.0547288463037,
-              49.25237227653551
-            ]
-          ],
-          [
-            [
-              -123.05464455663284,
-              49.25237290112253
-            ],
-            [
-              -123.0530086171008,
-              49.252385536990374
-            ],
-            [
-              -123.05220898447843,
-              49.25238478569864
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05441322338528,
-      "lat": 49.25237414528212
-    }
-  },
-  {
-    "project": "Both sides of 2500-2600 Block Manitoba St from Lane North of W 10th Av to Lane S",
-    "street": null,
-    "location": "Both sides of 2500-2600 Block Manitoba St from Lane North of W 10th Av to Lane S",
-    "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a083a0d-a7ea-4e29-9d7c-886d8291e75a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10686643629225,
-              49.26257860711084
-            ],
-            [
-              -123.10689862280043,
-              49.26177342024013
-            ]
-          ],
-          [
-            [
-              -123.10763891248857,
-              49.26213050473447
-            ],
-            [
-              -123.10615296869432,
-              49.26210949983573
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.106891225326,
-      "lat": 49.26213969564776
-    }
-  },
-  {
-    "project": "Both Sides of 5700-5800 Block of St. Margarets Street From North PL of 5839 to S",
-    "street": null,
-    "location": "Both Sides of 5700-5800 Block of St. Margarets Street From North PL of 5839 to S",
-    "comp_date": "2024-09-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea1567b1-f2fc-445c-abe4-91dfd07c5224",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05655887599808,
-            49.230285345840855
-          ],
-          [
-            -123.05656316549018,
-            49.23099996772376
+            -123.17301608901326,
+            49.243274980691865
           ]
         ],
         "type": "LineString"
@@ -117,40 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05656102074413,
-      "lat": 49.2306426567823
-    }
-  },
-  {
-    "project": "Both sides of 300 Block E 1st Ave from Scotia St to 80m East. Both sides of 1800",
-    "street": null,
-    "location": "Both sides of 300 Block E 1st Ave from Scotia St to 80m East. Both sides of 1800",
-    "comp_date": "2024-09-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/095070e1-aee6-42ac-999c-95babca74edb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09655829053075,
-            49.267915319055334
-          ],
-          [
-            -123.09738977532537,
-            49.2683948722522
-          ],
-          [
-            -123.0982051668659,
-            49.26778230347426
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09739822828675,
-      "lat": 49.26812083406963
+      "lon": -123.173327225259,
+      "lat": 49.243276731768375
     }
   },
   {
@@ -242,31 +116,43 @@
     }
   },
   {
-    "project": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
+    "project": "Columbia St from W 6th Av to W 7th Av",
     "street": null,
-    "location": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
-    "comp_date": "2024-09-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aab6f36d-0c7e-4481-9216-55e12b1d4434",
+    "location": "Columbia St from W 6th Av to W 7th Av",
+    "comp_date": "2024-09-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.17363836150471,
-            49.243278482844886
+            [
+              -123.10943779425952,
+              49.265663971802525
+            ],
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ]
           ],
           [
-            -123.17301608901326,
-            49.243274980691865
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ],
+            [
+              -123.1094432083651,
+              49.264755936850406
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.173327225259,
-      "lat": 49.243276731768375
+      "lon": -123.10944043385062,
+      "lat": 49.26520995392424
     }
   },
   {
@@ -350,33 +236,69 @@
     }
   },
   {
-    "project": "Columbia St from W 6th Av to W 7th Av",
+    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
     "street": null,
-    "location": "Columbia St from W 6th Av to W 7th Av",
-    "comp_date": "2024-09-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
+    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
+    "comp_date": "2024-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10943779425952,
-              49.265663971802525
+              -123.06002435412238,
+              49.26673948016389
             ],
             [
-              -123.10944036455973,
-              49.26521026031088
+              -123.05942553969516,
+              49.26673457246906
+            ],
+            [
+              -123.05809151403038,
+              49.266724150778856
             ]
           ],
           [
             [
-              -123.10944036455973,
-              49.26521026031088
+              -123.05809151403038,
+              49.26672415077479
             ],
             [
-              -123.1094432083651,
-              49.264755936850406
+              -123.05809735678676,
+              49.266350298321015
+            ],
+            [
+              -123.05810636693613,
+              49.26589967020803
+            ],
+            [
+              -123.05811415196108,
+              49.265447639423655
+            ],
+            [
+              -123.05811932305129,
+              49.26511073052012
+            ],
+            [
+              -123.05812232224615,
+              49.2649960671647
+            ],
+            [
+              -123.05813064352644,
+              49.26454444981783
+            ],
+            [
+              -123.05813870254663,
+              49.2640920140031
+            ],
+            [
+              -123.05814727030167,
+              49.26363985674763
+            ],
+            [
+              -123.0581550962084,
+              49.26318813159912
             ]
           ]
         ],
@@ -385,15 +307,149 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10944043385062,
-      "lat": 49.26520995392424
+      "lon": -123.05845345725456,
+      "lat": 49.26558362797153
+    }
+  },
+  {
+    "project": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
+    "street": null,
+    "location": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1d47ad3f-1dd8-40e2-8cf6-bbc7edc108fe",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09782120908625,
+              49.21751690592217
+            ],
+            [
+              -123.09783193792232,
+              49.21671098404494
+            ]
+          ],
+          [
+            [
+              -123.09778188156919,
+              49.21577375210572
+            ],
+            [
+              -123.09422240974888,
+              49.21570144063102
+            ]
+          ],
+          [
+            [
+              -123.09779181711278,
+              49.218394950845976
+            ],
+            [
+              -123.09843343869721,
+              49.21839918410649
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0965661891988,
+      "lat": 49.216299863076046
+    }
+  },
+  {
+    "project": "Both Sides of 4200 Block of Atlin Street From E 27th Avenue to North PL of 4215.",
+    "street": null,
+    "location": "Both Sides of 4200 Block of Atlin Street From E 27th Avenue to North PL of 4215.",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/68155946-5f89-435e-808a-0ce7b2c713de",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04585991674341,
+            49.24627291458103
+          ],
+          [
+            -123.04585133743197,
+            49.246908863121604
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04585562708769,
+      "lat": 49.246590888851316
+    }
+  },
+  {
+    "project": "Both sides of 8000-8100 Block of St Georges St from Marine Dr to E 64th Ave",
+    "street": null,
+    "location": "Both sides of 8000-8100 Block of St Georges St from Marine Dr to E 64th Ave",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9633a393-edbd-4b85-96df-c74ee9977490",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09431645985462,
+            49.21105963583767
+          ],
+          [
+            -123.09429500218252,
+            49.21208642531866
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09430573101858,
+      "lat": 49.211573030578165
+    }
+  },
+  {
+    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "street": null,
+    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1909568037628,
+            49.2347425787203
+          ],
+          [
+            -123.19096753259886,
+            49.234252190131826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19096216818083,
+      "lat": 49.234497384426064
     }
   },
   {
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2024-10-01",
+    "comp_date": "2024-10-04",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d153dfcc-7c87-49f5-80fd-fe5ec9b07baf",
     "geom": {
       "type": "Feature",
@@ -584,160 +640,6 @@
     }
   },
   {
-    "project": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
-    "street": null,
-    "location": "between E 8th Ave and E 4th Ave; and E 4th Ave – between Garden Dr and Templeto",
-    "comp_date": "2024-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d616545-c79e-4ad9-ad9d-74e295b2d947",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06002435412238,
-              49.26673948016389
-            ],
-            [
-              -123.05942553969516,
-              49.26673457246906
-            ],
-            [
-              -123.05809151403038,
-              49.266724150778856
-            ]
-          ],
-          [
-            [
-              -123.05809151403038,
-              49.26672415077479
-            ],
-            [
-              -123.05809735678676,
-              49.266350298321015
-            ],
-            [
-              -123.05810636693613,
-              49.26589967020803
-            ],
-            [
-              -123.05811415196108,
-              49.265447639423655
-            ],
-            [
-              -123.05811932305129,
-              49.26511073052012
-            ],
-            [
-              -123.05812232224615,
-              49.2649960671647
-            ],
-            [
-              -123.05813064352644,
-              49.26454444981783
-            ],
-            [
-              -123.05813870254663,
-              49.2640920140031
-            ],
-            [
-              -123.05814727030167,
-              49.26363985674763
-            ],
-            [
-              -123.0581550962084,
-              49.26318813159912
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05845345725456,
-      "lat": 49.26558362797153
-    }
-  },
-  {
-    "project": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
-    "street": null,
-    "location": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
-    "comp_date": "2024-10-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1d47ad3f-1dd8-40e2-8cf6-bbc7edc108fe",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09782120908625,
-              49.21751690592217
-            ],
-            [
-              -123.09783193792232,
-              49.21671098404494
-            ]
-          ],
-          [
-            [
-              -123.09778188156919,
-              49.21577375210572
-            ],
-            [
-              -123.09422240974888,
-              49.21570144063102
-            ]
-          ],
-          [
-            [
-              -123.09779181711278,
-              49.218394950845976
-            ],
-            [
-              -123.09843343869721,
-              49.21839918410649
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0965661891988,
-      "lat": 49.216299863076046
-    }
-  },
-  {
-    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "street": null,
-    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
-    "comp_date": "2024-10-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1909568037628,
-            49.2347425787203
-          ],
-          [
-            -123.19096753259886,
-            49.234252190131826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19096216818083,
-      "lat": 49.234497384426064
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -804,6 +706,34 @@
     }
   },
   {
+    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "street": null,
+    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "comp_date": "2024-10-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801252527122,
+            49.25890870896123
+          ],
+          [
+            -123.1367513952865,
+            49.25888070059918
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13738196027887,
+      "lat": 49.258894704780204
+    }
+  },
+  {
     "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
     "street": null,
     "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
@@ -841,34 +771,6 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
-    }
-  },
-  {
-    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "street": null,
-    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "comp_date": "2024-10-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801252527122,
-            49.25890870896123
-          ],
-          [
-            -123.1367513952865,
-            49.25888070059918
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13738196027887,
-      "lat": 49.258894704780204
     }
   },
   {
@@ -1022,10 +924,114 @@
     }
   },
   {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-11-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/79a06ada-e000-494c-8161-a3dec12e4c39",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06593973539636,
+            49.2604481677711
+          ],
+          [
+            -123.06981670949094,
+            49.26047637059608
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06787822244365,
+      "lat": 49.26046226918359
+    }
+  },
+  {
+    "project": "W 10th Ave (Yew St to Cypress St)\r\nW 7th Ave (Yew St to Cypress St)",
+    "street": null,
+    "location": "W 10th Ave (Yew St to Cypress St)\r\nW 7th Ave (Yew St to Cypress St)",
+    "comp_date": "2025-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/71fbc294-bb79-4fb3-9bb6-a76d100118e4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15534939644594,
+            49.26290658986835
+          ],
+          [
+            -123.15382360977375,
+            49.26288333673111
+          ],
+          [
+            -123.15297987536017,
+            49.26286825656257
+          ],
+          [
+            -123.15227593311229,
+            49.262856728088195
+          ],
+          [
+            -123.15058020367758,
+            49.26283022879312
+          ],
+          [
+            -123.14817942044908,
+            49.262791540936604
+          ],
+          [
+            -123.14816409923601,
+            49.26325189042859
+          ],
+          [
+            -123.14814539417256,
+            49.26375735519022
+          ],
+          [
+            -123.14812689528398,
+            49.26423539325219
+          ],
+          [
+            -123.14811051511163,
+            49.264668290607545
+          ],
+          [
+            -123.14807974753339,
+            49.265506710248786
+          ],
+          [
+            -123.15047888829062,
+            49.2655450695182
+          ],
+          [
+            -123.1528775934756,
+            49.265583595433384
+          ],
+          [
+            -123.155247491559,
+            49.26562181341876
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15114314223422,
+      "lat": 49.264197330553955
+    }
+  },
+  {
     "project": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
     "street": null,
     "location": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
-    "comp_date": "2024-11-08",
+    "comp_date": "2025-01-06",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
     "geom": {
       "type": "Feature",
@@ -1179,110 +1185,6 @@
     "geo_point_2d": {
       "lon": -123.03897035546358,
       "lat": 49.263904089013906
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-11-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/79a06ada-e000-494c-8161-a3dec12e4c39",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06593973539636,
-            49.2604481677711
-          ],
-          [
-            -123.06981670949094,
-            49.26047637059608
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06787822244365,
-      "lat": 49.26046226918359
-    }
-  },
-  {
-    "project": "W 10th Ave (Yew St to Cypress St)\r\nW 7th Ave (Yew St to Cypress St)",
-    "street": null,
-    "location": "W 10th Ave (Yew St to Cypress St)\r\nW 7th Ave (Yew St to Cypress St)",
-    "comp_date": "2025-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/71fbc294-bb79-4fb3-9bb6-a76d100118e4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15534939644594,
-            49.26290658986835
-          ],
-          [
-            -123.15382360977375,
-            49.26288333673111
-          ],
-          [
-            -123.15297987536017,
-            49.26286825656257
-          ],
-          [
-            -123.15227593311229,
-            49.262856728088195
-          ],
-          [
-            -123.15058020367758,
-            49.26283022879312
-          ],
-          [
-            -123.14817942044908,
-            49.262791540936604
-          ],
-          [
-            -123.14816409923601,
-            49.26325189042859
-          ],
-          [
-            -123.14814539417256,
-            49.26375735519022
-          ],
-          [
-            -123.14812689528398,
-            49.26423539325219
-          ],
-          [
-            -123.14811051511163,
-            49.264668290607545
-          ],
-          [
-            -123.14807974753339,
-            49.265506710248786
-          ],
-          [
-            -123.15047888829062,
-            49.2655450695182
-          ],
-          [
-            -123.1528775934756,
-            49.265583595433384
-          ],
-          [
-            -123.155247491559,
-            49.26562181341876
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15114314223422,
-      "lat": 49.264197330553955
     }
   },
   {
