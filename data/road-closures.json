@@ -1,83 +1,5 @@
 [
   {
-    "project": "Larch St from",
-    "street": null,
-    "location": "Larch St from",
-    "comp_date": "2024-09-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65915a4e-7c8c-49ee-a0cc-f7fe43989236",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16261214304662,
-              49.23840853816182
-            ],
-            [
-              -123.16262868281058,
-              49.23795655759878
-            ]
-          ],
-          [
-            [
-              -123.16262868281058,
-              49.23795655759878
-            ],
-            [
-              -123.16265575034916,
-              49.237204966375714
-            ]
-          ],
-          [
-            [
-              -123.16265575034916,
-              49.237204966375714
-            ],
-            [
-              -123.1626793821255,
-              49.236545185422216
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16264590351018,
-      "lat": 49.23747686689191
-    }
-  },
-  {
-    "project": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
-    "street": null,
-    "location": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
-    "comp_date": "2024-09-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aab6f36d-0c7e-4481-9216-55e12b1d4434",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17363836150471,
-            49.243278482844886
-          ],
-          [
-            -123.17301608901326,
-            49.243274980691865
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.173327225259,
-      "lat": 49.243276731768375
-    }
-  },
-  {
     "project": "Intersection of Templeton Dr and E 4th Av",
     "street": null,
     "location": "Intersection of Templeton Dr and E 4th Av",
@@ -166,43 +88,31 @@
     }
   },
   {
-    "project": "Columbia St from W 6th Av to W 7th Av",
+    "project": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
     "street": null,
-    "location": "Columbia St from W 6th Av to W 7th Av",
-    "comp_date": "2024-09-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
+    "location": "Both sides of 3000 W 32nd Ave from Carnarvon St to 50 M West.",
+    "comp_date": "2024-09-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aab6f36d-0c7e-4481-9216-55e12b1d4434",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.10943779425952,
-              49.265663971802525
-            ],
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ]
+            -123.17363836150471,
+            49.243278482844886
           ],
           [
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ],
-            [
-              -123.1094432083651,
-              49.264755936850406
-            ]
+            -123.17301608901326,
+            49.243274980691865
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10944043385062,
-      "lat": 49.26520995392424
+      "lon": -123.173327225259,
+      "lat": 49.243276731768375
     }
   },
   {
@@ -283,6 +193,46 @@
     "geo_point_2d": {
       "lon": -123.05825407696709,
       "lat": 49.26676286781678
+    }
+  },
+  {
+    "project": "Columbia St from W 6th Av to W 7th Av",
+    "street": null,
+    "location": "Columbia St from W 6th Av to W 7th Av",
+    "comp_date": "2024-09-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10943779425952,
+              49.265663971802525
+            ],
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ]
+          ],
+          [
+            [
+              -123.10944036455973,
+              49.26521026031088
+            ],
+            [
+              -123.1094432083651,
+              49.264755936850406
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10944043385062,
+      "lat": 49.26520995392424
     }
   },
   {
@@ -756,34 +706,6 @@
     }
   },
   {
-    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "street": null,
-    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "comp_date": "2024-10-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801252527122,
-            49.25890870896123
-          ],
-          [
-            -123.1367513952865,
-            49.25888070059918
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13738196027887,
-      "lat": 49.258894704780204
-    }
-  },
-  {
     "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
     "street": null,
     "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
@@ -821,6 +743,34 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
+    }
+  },
+  {
+    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "street": null,
+    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "comp_date": "2024-10-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801252527122,
+            49.25890870896123
+          ],
+          [
+            -123.1367513952865,
+            49.25888070059918
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13738196027887,
+      "lat": 49.258894704780204
     }
   },
   {
