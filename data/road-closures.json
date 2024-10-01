@@ -1,42 +1,32 @@
 [
   {
-    "project": "Hastings St - Richards St to Cambie St",
+    "project": "Columbia St from W 6th Av to W 7th Av",
     "street": null,
-    "location": "Hastings St - Richards St to Cambie St",
+    "location": "Columbia St from W 6th Av to W 7th Av",
     "comp_date": "2024-09-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f11dd2b2-2370-457d-a942-ba3ca652d6ce",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a58c0fe2-77e1-4c08-b65d-04e2a49bd298",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.11093306004541,
-              49.28340931632479
+              -123.10943779425952,
+              49.265663971802525
             ],
             [
-              -123.11190416820475,
-              49.2840376464074
+              -123.10944036455973,
+              49.26521026031088
             ]
           ],
           [
             [
-              -123.10996328364563,
-              49.28278135454846
+              -123.10944036455973,
+              49.26521026031088
             ],
             [
-              -123.11093306004541,
-              49.28340931632479
-            ]
-          ],
-          [
-            [
-              -123.10954633718234,
-              49.28251140954518
-            ],
-            [
-              -123.10996328364563,
-              49.28278135454846
+              -123.1094432083651,
+              49.264755936850406
             ]
           ]
         ],
@@ -45,8 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11072519419561,
-      "lat": 49.283274618355364
+      "lon": -123.10944043385062,
+      "lat": 49.26520995392424
     }
   },
   {
@@ -203,6 +193,140 @@
     "geo_point_2d": {
       "lon": -123.05845345725456,
       "lat": 49.26558362797153
+    }
+  },
+  {
+    "project": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
+    "street": null,
+    "location": "Both side of 400 Block E 61st Ave from Prince Edward St to St. George St. Both s",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1d47ad3f-1dd8-40e2-8cf6-bbc7edc108fe",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09782120908625,
+              49.21751690592217
+            ],
+            [
+              -123.09783193792232,
+              49.21671098404494
+            ]
+          ],
+          [
+            [
+              -123.09778188156919,
+              49.21577375210572
+            ],
+            [
+              -123.09422240974888,
+              49.21570144063102
+            ]
+          ],
+          [
+            [
+              -123.09779181711278,
+              49.218394950845976
+            ],
+            [
+              -123.09843343869721,
+              49.21839918410649
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0965661891988,
+      "lat": 49.216299863076046
+    }
+  },
+  {
+    "project": "Both Sides of 4200 Block of Atlin Street From E 27th Avenue to North PL of 4215.",
+    "street": null,
+    "location": "Both Sides of 4200 Block of Atlin Street From E 27th Avenue to North PL of 4215.",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/68155946-5f89-435e-808a-0ce7b2c713de",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04585991674341,
+            49.24627291458103
+          ],
+          [
+            -123.04585133743197,
+            49.246908863121604
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04585562708769,
+      "lat": 49.246590888851316
+    }
+  },
+  {
+    "project": "Both sides of 8000-8100 Block of St Georges St from Marine Dr to E 64th Ave",
+    "street": null,
+    "location": "Both sides of 8000-8100 Block of St Georges St from Marine Dr to E 64th Ave",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9633a393-edbd-4b85-96df-c74ee9977490",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09431645985462,
+            49.21105963583767
+          ],
+          [
+            -123.09429500218252,
+            49.21208642531866
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09430573101858,
+      "lat": 49.211573030578165
+    }
+  },
+  {
+    "project": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "street": null,
+    "location": "Both sides of 5700-5800 Block Wallace St from W 41st Ave to 50m South of W 41st",
+    "comp_date": "2024-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f65c9c78-f9cd-48a3-9035-86019099c33d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1909568037628,
+            49.2347425787203
+          ],
+          [
+            -123.19096753259886,
+            49.234252190131826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19096216818083,
+      "lat": 49.234497384426064
     }
   },
   {
@@ -463,6 +587,120 @@
     "geo_point_2d": {
       "lon": -123.02719311118969,
       "lat": 49.25523695141732
+    }
+  },
+  {
+    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "street": null,
+    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "comp_date": "2024-10-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801252527122,
+            49.25890870896123
+          ],
+          [
+            -123.1367513952865,
+            49.25888070059918
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13738196027887,
+      "lat": 49.258894704780204
+    }
+  },
+  {
+    "project": "W 27th Av from Blenheim St to Collingwood St",
+    "street": null,
+    "location": "W 27th Av from Blenheim St to Collingwood St",
+    "comp_date": "2024-10-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7eb7dfca-84fb-4247-ac19-b5d80bd9a00f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18020603669673,
+      "lat": 49.2480484241057
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
     }
   },
   {
