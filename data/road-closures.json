@@ -122,34 +122,6 @@
     }
   },
   {
-    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "street": null,
-    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "comp_date": "2024-10-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801252527122,
-            49.25890870896123
-          ],
-          [
-            -123.1367513952865,
-            49.25888070059918
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13738196027887,
-      "lat": 49.258894704780204
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -187,6 +159,34 @@
     "geo_point_2d": {
       "lon": -123.10944043385062,
       "lat": 49.26520995392424
+    }
+  },
+  {
+    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "street": null,
+    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
+    "comp_date": "2024-10-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13801252527122,
+            49.25890870896123
+          ],
+          [
+            -123.1367513952865,
+            49.25888070059918
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13738196027887,
+      "lat": 49.258894704780204
     }
   },
   {
@@ -384,6 +384,42 @@
     }
   },
   {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
     "project": "intersection of St. George St & East Broadway",
     "street": null,
     "location": "intersection of St. George St & East Broadway",
@@ -421,42 +457,6 @@
     "geo_point_2d": {
       "lon": -123.0922181154134,
       "lat": 49.26255021085781
-    }
-  },
-  {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
     }
   },
   {
