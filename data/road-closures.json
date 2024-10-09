@@ -68,34 +68,6 @@
     }
   },
   {
-    "project": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "street": null,
-    "location": "Both Sides of 1400 Block of W 14th Avenue From Lane East of Granville Street to",
-    "comp_date": "2024-10-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8ee9ac4-8d2e-4ce7-a0fe-efbbbd3ebfe8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13801252527122,
-            49.25890870896123
-          ],
-          [
-            -123.1367513952865,
-            49.25888070059918
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13738196027887,
-      "lat": 49.258894704780204
-    }
-  },
-  {
     "project": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
     "street": null,
     "location": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
@@ -121,6 +93,34 @@
     "geo_point_2d": {
       "lon": -123.17014020860643,
       "lat": 49.263672294456924
+    }
+  },
+  {
+    "project": "Both Sides of 800 Block of Evans Avenue From West PL of 810 to East PL of 810.",
+    "street": null,
+    "location": "Both Sides of 800 Block of Evans Avenue From West PL of 810 to East PL of 810.",
+    "comp_date": "2024-10-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19a30736-d502-4625-b2e1-409186fe563a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0856287395635,
+            49.27152425509445
+          ],
+          [
+            -123.08311934807034,
+            49.2710930347784
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08437404381692,
+      "lat": 49.27130864493643
     }
   },
   {
