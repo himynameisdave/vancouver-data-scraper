@@ -1,129 +1,5 @@
 [
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2024-10-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5dcd1688-8b1e-4137-a808-1f1297f928b1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10943779425952,
-              49.265663971802525
-            ],
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ]
-          ],
-          [
-            [
-              -123.10944036455973,
-              49.26521026031088
-            ],
-            [
-              -123.1094432083651,
-              49.264755936850406
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10944043385062,
-      "lat": 49.26520995392424
-    }
-  },
-  {
-    "project": "W 21st Av from Vine St to Yew St",
-    "street": null,
-    "location": "W 21st Av from Vine St to Yew St",
-    "comp_date": "2024-10-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/afdea9db-5d72-40db-8126-b2373f691967",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15568260238031,
-            49.25353244680946
-          ],
-          [
-            -123.15805253009016,
-            49.25357062504648
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15686756623522,
-      "lat": 49.25355153592797
-    }
-  },
-  {
-    "project": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
-    "street": null,
-    "location": "Both sides of 2500 Block Mackenzie St from W Broadway to W 10th Ave.",
-    "comp_date": "2024-10-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2e20c6e7-3f03-4e81-9715-5a4e5fbbe351",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17012947977038,
-            49.264067874272456
-          ],
-          [
-            -123.17015093744249,
-            49.26327671464139
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17014020860643,
-      "lat": 49.263672294456924
-    }
-  },
-  {
-    "project": "Both Sides of 800 Block of Evans Avenue From West PL of 810 to East PL of 810.",
-    "street": null,
-    "location": "Both Sides of 800 Block of Evans Avenue From West PL of 810 to East PL of 810.",
-    "comp_date": "2024-10-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19a30736-d502-4625-b2e1-409186fe563a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0856287395635,
-            49.27152425509445
-          ],
-          [
-            -123.08311934807034,
-            49.2710930347784
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08437404381692,
-      "lat": 49.27130864493643
-    }
-  },
-  {
     "project": "Both Sides of 600 Block of E 54th Avenue From West PL of 575 to East PL of 635.",
     "street": null,
     "location": "Both Sides of 600 Block of E 54th Avenue From West PL of 575 to East PL of 635.",
@@ -149,62 +25,6 @@
     "geo_point_2d": {
       "lon": -123.09273662550638,
       "lat": 49.22089300944886
-    }
-  },
-  {
-    "project": "Both sides of 3300 Block Cypress St from Lane North of W 18th Av to 20m South of",
-    "street": null,
-    "location": "Both sides of 3300 Block Cypress St from Lane North of W 18th Av to 20m South of",
-    "comp_date": "2024-10-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3075a384-f433-4994-aa19-cfaf77fffb2c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14843624279314,
-            49.25581357688364
-          ],
-          [
-            -123.14843980865356,
-            49.25555746250012
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14843802572337,
-      "lat": 49.25568551969188
-    }
-  },
-  {
-    "project": "Both Sides of 3500 Block of Napier Street From W PL of 3532 to Kootenay Street.",
-    "street": null,
-    "location": "Both Sides of 3500 Block of Napier Street From W PL of 3532 to Kootenay Street.",
-    "comp_date": "2024-10-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5f561dbc-1e23-43d6-88d6-66d89d4c2c3d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02705997729362,
-            49.27452502891725
-          ],
-          [
-            -123.02611627463293,
-            49.27453062862284
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02658812596327,
-      "lat": 49.27452782877005
     }
   },
   {
@@ -236,22 +56,22 @@
     }
   },
   {
-    "project": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Av to 30",
+    "project": "Both Sides of 3500 Block of Napier Street From W PL of 3532 to Kootenay Street.",
     "street": null,
-    "location": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Av to 30",
-    "comp_date": "2024-10-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c8ac75fc-076f-44a1-97dc-a1cc6d37e705",
+    "location": "Both Sides of 3500 Block of Napier Street From W PL of 3532 to Kootenay Street.",
+    "comp_date": "2024-10-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5f561dbc-1e23-43d6-88d6-66d89d4c2c3d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1515887132084,
-            49.25062113191396
+            -123.02705997729362,
+            49.27452502891725
           ],
           [
-            -123.1517356583697,
-            49.25035523372233
+            -123.02611627463293,
+            49.27453062862284
           ]
         ],
         "type": "LineString"
@@ -259,8 +79,64 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15166218578906,
-      "lat": 49.250488182818145
+      "lon": -123.02658812596327,
+      "lat": 49.27452782877005
+    }
+  },
+  {
+    "project": "Both sides of 3300 Block Cypress St from Lane North of W 18th Av to 20m South of",
+    "street": null,
+    "location": "Both sides of 3300 Block Cypress St from Lane North of W 18th Av to 20m South of",
+    "comp_date": "2024-10-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3075a384-f433-4994-aa19-cfaf77fffb2c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14843624279314,
+            49.25581357688364
+          ],
+          [
+            -123.14843980865356,
+            49.25555746250012
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14843802572337,
+      "lat": 49.25568551969188
+    }
+  },
+  {
+    "project": "West 13th Ave from Carnarvon St to Balaclava St",
+    "street": null,
+    "location": "West 13th Ave from Carnarvon St to Balaclava St",
+    "comp_date": "2024-10-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7ab1a784-c8d0-4be1-8caa-d0a4ff3f520f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17217279064909,
+            49.260531581700036
+          ],
+          [
+            -123.17410609535392,
+            49.26056158006156
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1731394430015,
+      "lat": 49.2605465808808
     }
   },
   {
@@ -309,6 +185,34 @@
     "geo_point_2d": {
       "lon": -123.09868666836854,
       "lat": 49.27478913963419
+    }
+  },
+  {
+    "project": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Av to 30",
+    "street": null,
+    "location": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Av to 30",
+    "comp_date": "2024-10-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c8ac75fc-076f-44a1-97dc-a1cc6d37e705",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1515887132084,
+            49.25062113191396
+          ],
+          [
+            -123.1517356583697,
+            49.25035523372233
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15166218578906,
+      "lat": 49.250488182818145
     }
   },
   {
@@ -448,33 +352,21 @@
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.09298087020237,
-              49.263002781760235
-            ],
-            [
-              -123.09298896649051,
-              49.262505808060126
-            ]
+            -123.09298087020237,
+            49.263002781760235
           ],
           [
-            [
-              -123.09298896649051,
-              49.262505808060126
-            ],
-            [
-              -123.09105344883959,
-              49.262489799942614
-            ]
+            -123.09298896649051,
+            49.262505808060126
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0922181154134,
-      "lat": 49.26255021085781
+      "lon": -123.09298491834645,
+      "lat": 49.26275429491018
     }
   },
   {
