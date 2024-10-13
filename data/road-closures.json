@@ -1,58 +1,56 @@
 [
   {
-    "project": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Av to 30",
+    "project": "E 57th Av - Fraser St to Prince Albert St",
     "street": null,
-    "location": "Both sides of 4000 Block Maple Crescent from 15m South of W King Edward Av to 30",
-    "comp_date": "2024-10-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c8ac75fc-076f-44a1-97dc-a1cc6d37e705",
+    "location": "E 57th Av - Fraser St to Prince Albert St",
+    "comp_date": "2024-10-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70a78a5b-ffca-473d-9d28-5a59df86d788",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1515887132084,
-            49.25062113191396
+            [
+              -123.09095311706717,
+              49.21825548091152
+            ],
+            [
+              -123.09078884511115,
+              49.218265405995965
+            ],
+            [
+              -123.09031023075575,
+              49.21825912467307
+            ]
           ],
           [
-            -123.1517356583697,
-            49.25035523372233
+            [
+              -123.09031023075575,
+              49.21825912467307
+            ],
+            [
+              -123.08846876370144,
+              49.2182358936378
+            ]
+          ],
+          [
+            [
+              -123.08846876370144,
+              49.2182358936378
+            ],
+            [
+              -123.08780176729636,
+              49.21822588707201
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15166218578906,
-      "lat": 49.250488182818145
-    }
-  },
-  {
-    "project": "Cordova - Abbott St to Carrall St",
-    "street": null,
-    "location": "Cordova - Abbott St to Carrall St",
-    "comp_date": "2024-10-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b825f2d6-f648-4a0e-82ce-9063659bae76",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10430442445526,
-            49.282475700850796
-          ],
-          [
-            -123.10678798525701,
-            49.28293018940636
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10554620485614,
-      "lat": 49.28270294512858
+      "lon": -123.08937757043445,
+      "lat": 49.218246908192235
     }
   },
   {
@@ -113,96 +111,6 @@
     "geo_point_2d": {
       "lon": -123.11626753579046,
       "lat": 49.23167970964821
-    }
-  },
-  {
-    "project": "E 57th Av - Fraser St to Prince Albert St",
-    "street": null,
-    "location": "E 57th Av - Fraser St to Prince Albert St",
-    "comp_date": "2024-10-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70a78a5b-ffca-473d-9d28-5a59df86d788",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09095311706717,
-              49.21825548091152
-            ],
-            [
-              -123.09078884511115,
-              49.218265405995965
-            ],
-            [
-              -123.09031023075575,
-              49.21825912467307
-            ]
-          ],
-          [
-            [
-              -123.09031023075575,
-              49.21825912467307
-            ],
-            [
-              -123.08846876370144,
-              49.2182358936378
-            ]
-          ],
-          [
-            [
-              -123.08846876370144,
-              49.2182358936378
-            ],
-            [
-              -123.08780176729636,
-              49.21822588707201
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08937757043445,
-      "lat": 49.218246908192235
-    }
-  },
-  {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
     }
   },
   {
