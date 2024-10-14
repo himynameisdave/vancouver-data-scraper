@@ -1,59 +1,5 @@
 [
   {
-    "project": "E 57th Av - Fraser St to Prince Albert St",
-    "street": null,
-    "location": "E 57th Av - Fraser St to Prince Albert St",
-    "comp_date": "2024-10-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70a78a5b-ffca-473d-9d28-5a59df86d788",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09095311706717,
-              49.21825548091152
-            ],
-            [
-              -123.09078884511115,
-              49.218265405995965
-            ],
-            [
-              -123.09031023075575,
-              49.21825912467307
-            ]
-          ],
-          [
-            [
-              -123.09031023075575,
-              49.21825912467307
-            ],
-            [
-              -123.08846876370144,
-              49.2182358936378
-            ]
-          ],
-          [
-            [
-              -123.08846876370144,
-              49.2182358936378
-            ],
-            [
-              -123.08780176729636,
-              49.21822588707201
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08937757043445,
-      "lat": 49.218246908192235
-    }
-  },
-  {
     "project": "Cambie St - W 41st Av to W 49th Av",
     "street": null,
     "location": "Cambie St - W 41st Av to W 49th Av",
@@ -111,6 +57,60 @@
     "geo_point_2d": {
       "lon": -123.11626753579046,
       "lat": 49.23167970964821
+    }
+  },
+  {
+    "project": "E 57th Av - Fraser St to Prince Albert St",
+    "street": null,
+    "location": "E 57th Av - Fraser St to Prince Albert St",
+    "comp_date": "2024-10-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70a78a5b-ffca-473d-9d28-5a59df86d788",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09095311706717,
+              49.21825548091152
+            ],
+            [
+              -123.09078884511115,
+              49.218265405995965
+            ],
+            [
+              -123.09031023075575,
+              49.21825912467307
+            ]
+          ],
+          [
+            [
+              -123.09031023075575,
+              49.21825912467307
+            ],
+            [
+              -123.08846876370144,
+              49.2182358936378
+            ]
+          ],
+          [
+            [
+              -123.08846876370144,
+              49.2182358936378
+            ],
+            [
+              -123.08780176729636,
+              49.21822588707201
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08937757043445,
+      "lat": 49.218246908192235
     }
   },
   {
