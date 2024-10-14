@@ -1,52 +1,42 @@
 [
   {
-    "project": "Cambie St - W 41st Av to W 49th Av",
+    "project": "W 27th Av from Blenheim St to Collingwood St",
     "street": null,
-    "location": "Cambie St - W 41st Av to W 49th Av",
-    "comp_date": "2024-10-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e5e5b763-85eb-4cf5-9296-853efac2557c",
+    "location": "W 27th Av from Blenheim St to Collingwood St",
+    "comp_date": "2024-10-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7eb7dfca-84fb-4247-ac19-b5d80bd9a00f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.11619218473058,
-              49.233543467151264
+              -123.17924569207646,
+              49.24804479941619
             ],
             [
-              -123.11623451183618,
-              49.23253888854762
+              -123.18126440464864,
+              49.248052381069584
             ]
           ],
           [
             [
-              -123.11623451183618,
-              49.23253888854762
+              -123.18126440464864,
+              49.248052381069584
             ],
             [
-              -123.1162667947636,
-              49.231644799602634
+              -123.18180682450586,
+              49.24805438924071
             ]
           ],
           [
             [
-              -123.1162667947636,
-              49.231644799602634
+              -123.17860524839084,
+              49.24804259797858
             ],
             [
-              -123.116305837784,
-              49.230740440114204
-            ]
-          ],
-          [
-            [
-              -123.116305837784,
-              49.230740440114204
-            ],
-            [
-              -123.11634290920547,
-              49.22981595106532
+              -123.17924569207646,
+              49.24804479941619
             ]
           ]
         ],
@@ -55,52 +45,94 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11626753579046,
-      "lat": 49.23167970964821
+      "lon": -123.18020603669673,
+      "lat": 49.2480484241057
     }
   },
   {
-    "project": "E 57th Av - Fraser St to Prince Albert St",
+    "project": "Windsor St from E 61st Av to E 62nd Av",
     "street": null,
-    "location": "E 57th Av - Fraser St to Prince Albert St",
-    "comp_date": "2024-10-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70a78a5b-ffca-473d-9d28-5a59df86d788",
+    "location": "Windsor St from E 61st Av to E 62nd Av",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8860204-99a1-45fc-9f68-9d2493016781",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08569031872132,
+            49.21473222213447
+          ],
+          [
+            -123.08569643239404,
+            49.21382865047923
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08569337555768,
+      "lat": 49.21428043630685
+    }
+  },
+  {
+    "project": "Fremlin St from W 52nd Av to W 54th Av",
+    "street": null,
+    "location": "Fremlin St from W 52nd Av to W 54th Av",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/54c8baaf-bba1-41d2-8421-bc87175683fd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12681291665005,
+            49.22389112131208
+          ],
+          [
+            -123.12689173033421,
+            49.221519026793146
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12685232349213,
+      "lat": 49.22270507405261
+    }
+  },
+  {
+    "project": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "street": null,
+    "location": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "comp_date": "2024-10-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/522d344c-5d6c-4efb-8db6-519a833d1055",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.09095311706717,
-              49.21825548091152
+              -123.0618873479701,
+              49.26952455580954
             ],
             [
-              -123.09078884511115,
-              49.218265405995965
-            ],
-            [
-              -123.09031023075575,
-              49.21825912467307
+              -123.06186589029797,
+              49.270452124241075
             ]
           ],
           [
             [
-              -123.09031023075575,
-              49.21825912467307
+              -123.06187661913404,
+              49.269997092850076
             ],
             [
-              -123.08846876370144,
-              49.2182358936378
-            ]
-          ],
-          [
-            [
-              -123.08846876370144,
-              49.2182358936378
-            ],
-            [
-              -123.08780176729636,
-              49.21822588707201
+              -123.06253107813366,
+              49.270000593107596
             ]
           ]
         ],
@@ -109,8 +141,72 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08937757043445,
-      "lat": 49.218246908192235
+      "lon": -123.06201196855633,
+      "lat": 49.26999268428123
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
+    "project": "intersection of St. George St & East Broadway",
+    "street": null,
+    "location": "intersection of St. George St & East Broadway",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ed724dbf-1ebb-4609-b644-53748442f32a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09298087020237,
+            49.263002781760235
+          ],
+          [
+            -123.09298896649051,
+            49.262505808060126
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09298491834645,
+      "lat": 49.26275429491018
     }
   },
   {
