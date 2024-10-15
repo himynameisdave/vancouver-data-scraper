@@ -50,34 +50,6 @@
     }
   },
   {
-    "project": "Windsor St from E 61st Av to E 62nd Av",
-    "street": null,
-    "location": "Windsor St from E 61st Av to E 62nd Av",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8860204-99a1-45fc-9f68-9d2493016781",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08569031872132,
-            49.21473222213447
-          ],
-          [
-            -123.08569643239404,
-            49.21382865047923
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08569337555768,
-      "lat": 49.21428043630685
-    }
-  },
-  {
     "project": "Fremlin St from W 52nd Av to W 54th Av",
     "street": null,
     "location": "Fremlin St from W 52nd Av to W 54th Av",
@@ -103,6 +75,34 @@
     "geo_point_2d": {
       "lon": -123.12685232349213,
       "lat": 49.22270507405261
+    }
+  },
+  {
+    "project": "Windsor St from E 61st Av to E 62nd Av",
+    "street": null,
+    "location": "Windsor St from E 61st Av to E 62nd Av",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8860204-99a1-45fc-9f68-9d2493016781",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08569031872132,
+            49.21473222213447
+          ],
+          [
+            -123.08569643239404,
+            49.21382865047923
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08569337555768,
+      "lat": 49.21428043630685
     }
   },
   {
