@@ -1,52 +1,58 @@
 [
   {
-    "project": "W 27th Av from Blenheim St to Collingwood St",
+    "project": "Both sides of 0 Block E 55th Av from West PL of 62 E 55th Av to Quebec St.",
     "street": null,
-    "location": "W 27th Av from Blenheim St to Collingwood St",
-    "comp_date": "2024-10-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7eb7dfca-84fb-4247-ac19-b5d80bd9a00f",
+    "location": "Both sides of 0 Block E 55th Av from West PL of 62 E 55th Av to Quebec St.",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0b4e60eb-a7f4-40a3-8555-8d638ea149e8",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ],
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ]
+            -123.10509267745798,
+            49.220230814024404
           ],
           [
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ],
-          [
-            [
-              -123.17860524839084,
-              49.24804259797858
-            ],
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ]
+            -123.10399140172434,
+            49.220211494994345
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18020603669673,
-      "lat": 49.2480484241057
+      "lon": -123.10454203959117,
+      "lat": 49.220221154509375
+    }
+  },
+  {
+    "project": "Both sides of 7500 Block Inverness St from E 59th Ave to 20m South of E 59th Ave",
+    "street": null,
+    "location": "Both sides of 7500 Block Inverness St from E 59th Ave to 20m South of E 59th Ave",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2c7fef9e-852d-44a4-9334-cefa88c265b3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08011706766132,
+            49.21638612031728
+          ],
+          [
+            -123.08011170324328,
+            49.21614083552549
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0801143854523,
+      "lat": 49.21626347792139
     }
   },
   {
@@ -75,6 +81,154 @@
     "geo_point_2d": {
       "lon": -123.12685232349213,
       "lat": 49.22270507405261
+    }
+  },
+  {
+    "project": "W 64th Av from Cartier St to Hudson St",
+    "street": null,
+    "location": "W 64th Av from Cartier St to Hudson St",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56310b28-39a5-41cf-b4a4-c4e081d4ac5b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13420396521465,
+              49.21305028850074
+            ],
+            [
+              -123.13489435389216,
+              49.21306048554982
+            ]
+          ],
+          [
+            [
+              -123.13489435389216,
+              49.21306048554982
+            ],
+            [
+              -123.13558720039467,
+              49.213070594629954
+            ]
+          ],
+          [
+            [
+              -123.13558720039467,
+              49.213070594629954
+            ],
+            [
+              -123.1363406086642,
+              49.213084154239056
+            ]
+          ],
+          [
+            [
+              -123.1363406086642,
+              49.213084154239056
+            ],
+            [
+              -123.13691035130904,
+              49.213090811502354
+            ]
+          ],
+          [
+            [
+              -123.13691035130904,
+              49.213090811502354
+            ],
+            [
+              -123.1376477968637,
+              49.213101341097655
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13592587505103,
+      "lat": 49.21307626267018
+    }
+  },
+  {
+    "project": "East Side of 6400 Block of Culloden Street From E 49th Avenue to 20m North of E",
+    "street": null,
+    "location": "East Side of 6400 Block of Culloden Street From E 49th Avenue to 20m North of E",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c1265c14-8f1e-4076-9445-3cf46cc418b4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07865037749316,
+              49.22530571078286
+            ],
+            [
+              -123.0786396486571,
+              49.225628025051066
+            ]
+          ],
+          [
+            [
+              -123.07868256400137,
+              49.225333738194024
+            ],
+            [
+              -123.07730390856771,
+              49.22531972449042
+            ]
+          ],
+          [
+            [
+              -123.07890862605964,
+              49.21959989468624
+            ],
+            [
+              -123.07889253280557,
+              49.21995728425003
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07825297614592,
+      "lat": 49.2243846762502
+    }
+  },
+  {
+    "project": "Both sides of 2700 Block E Georgia St from Kaslo St to Lane West of Kaslo St.",
+    "street": null,
+    "location": "Both sides of 2700 Block E Georgia St from Kaslo St to Lane West of Kaslo St.",
+    "comp_date": "2024-10-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8a8fe4f3-34e8-473c-bbfa-f13cc4633ff2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04675590318027,
+            49.278277148017025
+          ],
+          [
+            -123.0474693707782,
+            49.278270148676285
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04711263697922,
+      "lat": 49.278273648346655
     }
   },
   {
@@ -210,6 +364,46 @@
     }
   },
   {
+    "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "street": null,
+    "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "comp_date": "2024-11-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/368db2d6-752e-405a-96a8-02bfe5efc9d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07864258396474,
+              49.27587950583674
+            ],
+            [
+              -123.07798276054707,
+              49.27587250615579
+            ]
+          ],
+          [
+            [
+              -123.07862649071068,
+              49.27629948487723
+            ],
+            [
+              -123.07864258396476,
+              49.27539652551934
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07849865054656,
+      "lat": 49.27585982673097
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -235,6 +429,56 @@
     "geo_point_2d": {
       "lon": -123.06787822244365,
       "lat": 49.26046226918359
+    }
+  },
+  {
+    "project": "4950 Heather Street",
+    "street": null,
+    "location": "4950 Heather Street",
+    "comp_date": "2024-11-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f7fd3e9e-f18f-48de-950d-65cacc7313d2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11929348793599,
+              49.24111619378738
+            ],
+            [
+              -123.12064474900788,
+              49.241164993011324
+            ]
+          ],
+          [
+            [
+              -123.11843674037748,
+              49.24108393682113
+            ],
+            [
+              -123.11929348793599,
+              49.24111619378738
+            ]
+          ],
+          [
+            [
+              -123.11927107536974,
+              49.241661661377236
+            ],
+            [
+              -123.11929348793599,
+              49.24111619378738
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11948952392409,
+      "lat": 49.24117718507583
     }
   },
   {
@@ -350,10 +594,10 @@
     }
   },
   {
-    "project": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
+    "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
     "street": null,
-    "location": "E 6th Av, E 7th Av, E 8th Av, Windermere St, Lillooet St",
-    "comp_date": "2025-01-06",
+    "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
+    "comp_date": "2025-01-21",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
     "geom": {
       "type": "Feature",
@@ -513,7 +757,7 @@
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "comp_date": "2025-01-27",
+    "comp_date": "2025-02-04",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
     "geom": {
       "type": "Feature",
