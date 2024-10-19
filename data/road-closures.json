@@ -1,265 +1,5 @@
 [
   {
-    "project": "Both sides of 0 Block E 55th Av from West PL of 62 E 55th Av to Quebec St.",
-    "street": null,
-    "location": "Both sides of 0 Block E 55th Av from West PL of 62 E 55th Av to Quebec St.",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0b4e60eb-a7f4-40a3-8555-8d638ea149e8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10509267745798,
-            49.220230814024404
-          ],
-          [
-            -123.10399140172434,
-            49.220211494994345
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10454203959117,
-      "lat": 49.220221154509375
-    }
-  },
-  {
-    "project": "Both sides of 7500 Block Inverness St from E 59th Ave to 20m South of E 59th Ave",
-    "street": null,
-    "location": "Both sides of 7500 Block Inverness St from E 59th Ave to 20m South of E 59th Ave",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2c7fef9e-852d-44a4-9334-cefa88c265b3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08011706766132,
-            49.21638612031728
-          ],
-          [
-            -123.08011170324328,
-            49.21614083552549
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0801143854523,
-      "lat": 49.21626347792139
-    }
-  },
-  {
-    "project": "Fremlin St from W 52nd Av to W 54th Av",
-    "street": null,
-    "location": "Fremlin St from W 52nd Av to W 54th Av",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/54c8baaf-bba1-41d2-8421-bc87175683fd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12681291665005,
-            49.22389112131208
-          ],
-          [
-            -123.12689173033421,
-            49.221519026793146
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12685232349213,
-      "lat": 49.22270507405261
-    }
-  },
-  {
-    "project": "W 64th Av from Cartier St to Hudson St",
-    "street": null,
-    "location": "W 64th Av from Cartier St to Hudson St",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56310b28-39a5-41cf-b4a4-c4e081d4ac5b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13420396521465,
-              49.21305028850074
-            ],
-            [
-              -123.13489435389216,
-              49.21306048554982
-            ]
-          ],
-          [
-            [
-              -123.13489435389216,
-              49.21306048554982
-            ],
-            [
-              -123.13558720039467,
-              49.213070594629954
-            ]
-          ],
-          [
-            [
-              -123.13558720039467,
-              49.213070594629954
-            ],
-            [
-              -123.1363406086642,
-              49.213084154239056
-            ]
-          ],
-          [
-            [
-              -123.1363406086642,
-              49.213084154239056
-            ],
-            [
-              -123.13691035130904,
-              49.213090811502354
-            ]
-          ],
-          [
-            [
-              -123.13691035130904,
-              49.213090811502354
-            ],
-            [
-              -123.1376477968637,
-              49.213101341097655
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13592587505103,
-      "lat": 49.21307626267018
-    }
-  },
-  {
-    "project": "East Side of 6400 Block of Culloden Street From E 49th Avenue to 20m North of E",
-    "street": null,
-    "location": "East Side of 6400 Block of Culloden Street From E 49th Avenue to 20m North of E",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c1265c14-8f1e-4076-9445-3cf46cc418b4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07865037749316,
-              49.22530571078286
-            ],
-            [
-              -123.0786396486571,
-              49.225628025051066
-            ]
-          ],
-          [
-            [
-              -123.07868256400137,
-              49.225333738194024
-            ],
-            [
-              -123.07730390856771,
-              49.22531972449042
-            ]
-          ],
-          [
-            [
-              -123.07890862605964,
-              49.21959989468624
-            ],
-            [
-              -123.07889253280557,
-              49.21995728425003
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07825297614592,
-      "lat": 49.2243846762502
-    }
-  },
-  {
-    "project": "Both sides of 2700 Block E Georgia St from Kaslo St to Lane West of Kaslo St.",
-    "street": null,
-    "location": "Both sides of 2700 Block E Georgia St from Kaslo St to Lane West of Kaslo St.",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8a8fe4f3-34e8-473c-bbfa-f13cc4633ff2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04675590318027,
-            49.278277148017025
-          ],
-          [
-            -123.0474693707782,
-            49.278270148676285
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04711263697922,
-      "lat": 49.278273648346655
-    }
-  },
-  {
-    "project": "Windsor St from E 61st Av to E 62nd Av",
-    "street": null,
-    "location": "Windsor St from E 61st Av to E 62nd Av",
-    "comp_date": "2024-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8860204-99a1-45fc-9f68-9d2493016781",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08569031872132,
-            49.21473222213447
-          ],
-          [
-            -123.08569643239404,
-            49.21382865047923
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08569337555768,
-      "lat": 49.21428043630685
-    }
-  },
-  {
     "project": "Columbia St from W 42nd Av to W 43rd Av",
     "street": null,
     "location": "Columbia St from W 42nd Av to W 43rd Av",
@@ -568,46 +308,6 @@
     }
   },
   {
-    "project": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
-    "street": null,
-    "location": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
-    "comp_date": "2024-10-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/522d344c-5d6c-4efb-8db6-519a833d1055",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0618873479701,
-              49.26952455580954
-            ],
-            [
-              -123.06186589029797,
-              49.270452124241075
-            ]
-          ],
-          [
-            [
-              -123.06187661913404,
-              49.269997092850076
-            ],
-            [
-              -123.06253107813366,
-              49.270000593107596
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06201196855633,
-      "lat": 49.26999268428123
-    }
-  },
-  {
     "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
     "location": "Cypress St between W 35th Ave and Quilchena Street",
@@ -709,6 +409,46 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
+    }
+  },
+  {
+    "project": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "street": null,
+    "location": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "comp_date": "2024-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/522d344c-5d6c-4efb-8db6-519a833d1055",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0618873479701,
+              49.26952455580954
+            ],
+            [
+              -123.06186589029797,
+              49.270452124241075
+            ]
+          ],
+          [
+            [
+              -123.06187661913404,
+              49.269997092850076
+            ],
+            [
+              -123.06253107813366,
+              49.270000593107596
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06201196855633,
+      "lat": 49.26999268428123
     }
   },
   {
