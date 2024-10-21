@@ -1,5 +1,313 @@
 [
   {
+    "project": "Columbia St from W 42nd Av to W 43rd Av",
+    "street": null,
+    "location": "Columbia St from W 42nd Av to W 43rd Av",
+    "comp_date": "2024-10-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e00abf82-9ed6-4926-8a5e-332b7fb135e0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11078411823252,
+              49.23232851080206
+            ],
+            [
+              -123.11080419543734,
+              49.23186577560446
+            ]
+          ],
+          [
+            [
+              -123.11080419543734,
+              49.23186577560446
+            ],
+            [
+              -123.1108229748074,
+              49.2314370616713
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11080350033582,
+      "lat": 49.23188278422324
+    }
+  },
+  {
+    "project": "Both sides of 6100 Block Argyle St from E 45th Av to 15m South of E 46th Av.",
+    "street": null,
+    "location": "Both sides of 6100 Block Argyle St from E 45th Av to 15m South of E 46th Av.",
+    "comp_date": "2024-10-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8091c33a-65e5-43b8-ad66-11b4b2de2ca6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07165832530603,
+            49.22838245838679
+          ],
+          [
+            -123.07163757788847,
+            49.22894983554545
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07164795159724,
+      "lat": 49.22866614696612
+    }
+  },
+  {
+    "project": "E 57th Av from Vivian Drive to Rosemont Drive",
+    "street": null,
+    "location": "E 57th Av from Vivian Drive to Rosemont Drive",
+    "comp_date": "2024-10-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dac2b451-f6bd-47b6-8b51-bc6609ac937d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05055815927807,
+            49.21807376465463
+          ],
+          [
+            -123.05039036410807,
+            49.21808333698496
+          ],
+          [
+            -123.04953464020765,
+            49.21808220489825
+          ],
+          [
+            -123.04951998827842,
+            49.21808231012844
+          ],
+          [
+            -123.049507354933,
+            49.21808239650113
+          ],
+          [
+            -123.04949484532807,
+            49.21808263573905
+          ],
+          [
+            -123.0494825417836,
+            49.218082955844864
+          ],
+          [
+            -123.04946946942735,
+            49.218083456184104
+          ],
+          [
+            -123.04945650692676,
+            49.21808395647486
+          ],
+          [
+            -123.04943873862565,
+            49.21808485461321
+          ],
+          [
+            -123.04943070582657,
+            49.21808527183359
+          ],
+          [
+            -123.04941836155146,
+            49.21808605970432
+          ],
+          [
+            -123.04940603108861,
+            49.21808692852525
+          ],
+          [
+            -123.04939308290106,
+            49.218088013495674
+          ],
+          [
+            -123.04937965412032,
+            49.218089125655865
+          ],
+          [
+            -123.04936739255787,
+            49.21809023731572
+          ],
+          [
+            -123.04935510368311,
+            49.218091501905576
+          ],
+          [
+            -123.04934225193061,
+            49.21809290166374
+          ],
+          [
+            -123.04932951011381,
+            49.218094382330946
+          ],
+          [
+            -123.04931690568776,
+            49.218095934900305
+          ],
+          [
+            -123.04930399927348,
+            49.21809760453584
+          ],
+          [
+            -123.04929198541082,
+            49.21809924680315
+          ],
+          [
+            -123.04927997169939,
+            49.21810104198886
+          ],
+          [
+            -123.04926687341018,
+            49.218103089503614
+          ],
+          [
+            -123.04925396734093,
+            49.21810510994911
+          ],
+          [
+            -123.04924222847205,
+            49.21810711190503
+          ],
+          [
+            -123.04922959726399,
+            49.218109357112525
+          ],
+          [
+            -123.04921781737579,
+            49.21811153898895
+          ],
+          [
+            -123.04920482944618,
+            49.218114099180326
+          ],
+          [
+            -123.04919245935673,
+            49.2181165601591
+          ],
+          [
+            -123.04918067973297,
+            49.21811901188991
+          ],
+          [
+            -123.04916835106911,
+            49.21812170672564
+          ],
+          [
+            -123.04915636568597,
+            49.2181243834234
+          ],
+          [
+            -123.04914444908641,
+            49.21812718602453
+          ],
+          [
+            -123.04913249139649,
+            49.21813009658524
+          ],
+          [
+            -123.0491203278589,
+            49.21813314216132
+          ],
+          [
+            -123.04910831544308,
+            49.21813625963409
+          ],
+          [
+            -123.04909655022854,
+            49.218139403986356
+          ],
+          [
+            -123.04908473020028,
+            49.218142665299325
+          ],
+          [
+            -123.04907318481943,
+            49.21814593548967
+          ],
+          [
+            -123.0490614336796,
+            49.21814943064811
+          ],
+          [
+            -123.04905094554424,
+            49.218152583448585
+          ],
+          [
+            -123.04894746914445,
+            49.21818852748581
+          ],
+          [
+            -123.0488735475412,
+            49.218214213310745
+          ],
+          [
+            -123.0488569923886,
+            49.21821996829493
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04970055532021,
+      "lat": 49.2181011949445
+    }
+  },
+  {
+    "project": "French St from W 71st Av to W 72nd Av",
+    "street": null,
+    "location": "French St from W 71st Av to W 72nd Av",
+    "comp_date": "2024-10-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f5fd9f71-235d-4070-b712-306f0fd605fe",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1392628316394,
+              49.206580013589075
+            ],
+            [
+              -123.13929021832394,
+              49.20577765400486
+            ]
+          ],
+          [
+            [
+              -123.13924737382892,
+              49.20705453411321
+            ],
+            [
+              -123.1392628316394,
+              49.206580013589075
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13926856419923,
+      "lat": 49.20641608632497
+    }
+  },
+  {
     "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
     "location": "Cypress St between W 35th Ave and Quilchena Street",
@@ -33,6 +341,114 @@
     "geo_point_2d": {
       "lon": -123.14871274786182,
       "lat": 49.24049562451019
+    }
+  },
+  {
+    "project": "intersection of St. George St & East Broadway",
+    "street": null,
+    "location": "intersection of St. George St & East Broadway",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ed724dbf-1ebb-4609-b644-53748442f32a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09298087020237,
+            49.263002781760235
+          ],
+          [
+            -123.09298896649051,
+            49.262505808060126
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09298491834645,
+      "lat": 49.26275429491018
+    }
+  },
+  {
+    "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "street": null,
+    "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "comp_date": "2024-11-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/368db2d6-752e-405a-96a8-02bfe5efc9d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07864258396474,
+              49.27587950583674
+            ],
+            [
+              -123.07798276054707,
+              49.27587250615579
+            ]
+          ],
+          [
+            [
+              -123.07862649071068,
+              49.27629948487723
+            ],
+            [
+              -123.07864258396476,
+              49.27539652551934
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07849865054656,
+      "lat": 49.27585982673097
+    }
+  },
+  {
+    "project": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "street": null,
+    "location": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "comp_date": "2024-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/522d344c-5d6c-4efb-8db6-519a833d1055",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0618873479701,
+              49.26952455580954
+            ],
+            [
+              -123.06186589029797,
+              49.270452124241075
+            ]
+          ],
+          [
+            [
+              -123.06187661913404,
+              49.269997092850076
+            ],
+            [
+              -123.06253107813366,
+              49.270000593107596
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06201196855633,
+      "lat": 49.26999268428123
     }
   },
   {
