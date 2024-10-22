@@ -1,73 +1,5 @@
 [
   {
-    "project": "Columbia St from W 42nd Av to W 43rd Av",
-    "street": null,
-    "location": "Columbia St from W 42nd Av to W 43rd Av",
-    "comp_date": "2024-10-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e00abf82-9ed6-4926-8a5e-332b7fb135e0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11078411823252,
-              49.23232851080206
-            ],
-            [
-              -123.11080419543734,
-              49.23186577560446
-            ]
-          ],
-          [
-            [
-              -123.11080419543734,
-              49.23186577560446
-            ],
-            [
-              -123.1108229748074,
-              49.2314370616713
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11080350033582,
-      "lat": 49.23188278422324
-    }
-  },
-  {
-    "project": "Both sides of 6100 Block Argyle St from E 45th Av to 15m South of E 46th Av.",
-    "street": null,
-    "location": "Both sides of 6100 Block Argyle St from E 45th Av to 15m South of E 46th Av.",
-    "comp_date": "2024-10-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8091c33a-65e5-43b8-ad66-11b4b2de2ca6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07165832530603,
-            49.22838245838679
-          ],
-          [
-            -123.07163757788847,
-            49.22894983554545
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07164795159724,
-      "lat": 49.22866614696612
-    }
-  },
-  {
     "project": "E 57th Av from Vivian Drive to Rosemont Drive",
     "street": null,
     "location": "E 57th Av from Vivian Drive to Rosemont Drive",
@@ -305,6 +237,114 @@
     "geo_point_2d": {
       "lon": -123.13926856419923,
       "lat": 49.20641608632497
+    }
+  },
+  {
+    "project": "Argyle St from E 32nd Av to E 33rd Av",
+    "street": null,
+    "location": "Argyle St from E 32nd Av to E 33rd Av",
+    "comp_date": "2024-10-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/77b221ad-0a11-4316-b609-65b4821cac6c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07081181623937,
+            49.24160221120019
+          ],
+          [
+            -123.07087440151713,
+            49.24012820374972
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07084310887825,
+      "lat": 49.240865207474954
+    }
+  },
+  {
+    "project": "Vanness Ave from Fairmont St to Killarney St",
+    "street": null,
+    "location": "Vanness Ave from Fairmont St to Killarney St",
+    "comp_date": "2024-10-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fc37f63f-fa7e-49de-855e-6bde6f7a92e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04159867602799,
+              49.242261939972934
+            ],
+            [
+              -123.04117436355213,
+              49.24208869078322
+            ]
+          ],
+          [
+            [
+              -123.04117436355213,
+              49.24208869078322
+            ],
+            [
+              -123.04067093441043,
+              49.241883139024424
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04113480531636,
+      "lat": 49.24207253926069
+    }
+  },
+  {
+    "project": "E 52nd Av from Commercial St to Victoria Dr",
+    "street": null,
+    "location": "E 52nd Av from Commercial St to Victoria Dr",
+    "comp_date": "2024-10-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/91c2ca72-120c-4f59-aef4-97a729df5f22",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06908902511127,
+              49.22265460799974
+            ],
+            [
+              -123.06648824791965,
+              49.222623778246
+            ]
+          ],
+          [
+            [
+              -123.06648824791965,
+              49.222623778246
+            ],
+            [
+              -123.06580665625657,
+              49.22261589289721
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06744784158518,
+      "lat": 49.22263517349216
     }
   },
   {
@@ -563,6 +603,100 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "W Pender St from Burrard St to Bute St",
+    "street": null,
+    "location": "W Pender St from Burrard St to Bute St",
+    "comp_date": "2024-12-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bbc9c96f-db00-461a-bccd-af60aab9561c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11784415294652,
+              49.28659405642375
+            ],
+            [
+              -123.118352576587,
+              49.286918910134034
+            ],
+            [
+              -123.120422371991,
+              49.287525942641196
+            ]
+          ],
+          [
+            [
+              -123.120422371991,
+              49.287525942641196
+            ],
+            [
+              -123.12338817881232,
+              49.28839717133752
+            ]
+          ],
+          [
+            [
+              -123.11760617322001,
+              49.28674235778331
+            ],
+            [
+              -123.11804764361557,
+              49.28646619265487
+            ]
+          ],
+          [
+            [
+              -123.11784664880955,
+              49.28659257348002
+            ],
+            [
+              -123.11750567615611,
+              49.286374917474376
+            ]
+          ],
+          [
+            [
+              -123.12337272983372,
+              49.28839156146529
+            ],
+            [
+              -123.12363530679258,
+              49.288217818005535
+            ]
+          ],
+          [
+            [
+              -123.1168090897909,
+              49.285928264137766
+            ],
+            [
+              -123.11782870533737,
+              49.28658844598908
+            ]
+          ],
+          [
+            [
+              -123.12337272983372,
+              49.28839156146529
+            ],
+            [
+              -123.12552165547461,
+              49.28902706754647
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12086863696994,
+      "lat": 49.28759073757523
     }
   },
   {
