@@ -148,6 +148,74 @@
     }
   },
   {
+    "project": "Vanness Ave from Fairmont St to Killarney St",
+    "street": null,
+    "location": "Vanness Ave from Fairmont St to Killarney St",
+    "comp_date": "2024-10-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fc37f63f-fa7e-49de-855e-6bde6f7a92e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04159867602799,
+              49.242261939972934
+            ],
+            [
+              -123.04117436355213,
+              49.24208869078322
+            ]
+          ],
+          [
+            [
+              -123.04117436355213,
+              49.24208869078322
+            ],
+            [
+              -123.04067093441043,
+              49.241883139024424
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04113480531636,
+      "lat": 49.24207253926069
+    }
+  },
+  {
+    "project": "Argyle St from E 32nd Av to E 33rd Av",
+    "street": null,
+    "location": "Argyle St from E 32nd Av to E 33rd Av",
+    "comp_date": "2024-10-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/77b221ad-0a11-4316-b609-65b4821cac6c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07081181623937,
+            49.24160221120019
+          ],
+          [
+            -123.07087440151713,
+            49.24012820374972
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07084310887825,
+      "lat": 49.240865207474954
+    }
+  },
+  {
     "project": "McHardy St from Kingsway to Collingwood Place",
     "street": null,
     "location": "McHardy St from Kingsway to Collingwood Place",
@@ -225,74 +293,6 @@
     "geo_point_2d": {
       "lon": -123.06744784158518,
       "lat": 49.22263517349216
-    }
-  },
-  {
-    "project": "Argyle St from E 32nd Av to E 33rd Av",
-    "street": null,
-    "location": "Argyle St from E 32nd Av to E 33rd Av",
-    "comp_date": "2024-10-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/77b221ad-0a11-4316-b609-65b4821cac6c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07081181623937,
-            49.24160221120019
-          ],
-          [
-            -123.07087440151713,
-            49.24012820374972
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07084310887825,
-      "lat": 49.240865207474954
-    }
-  },
-  {
-    "project": "Vanness Ave from Fairmont St to Killarney St",
-    "street": null,
-    "location": "Vanness Ave from Fairmont St to Killarney St",
-    "comp_date": "2024-10-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fc37f63f-fa7e-49de-855e-6bde6f7a92e2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04159867602799,
-              49.242261939972934
-            ],
-            [
-              -123.04117436355213,
-              49.24208869078322
-            ]
-          ],
-          [
-            [
-              -123.04117436355213,
-              49.24208869078322
-            ],
-            [
-              -123.04067093441043,
-              49.241883139024424
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04113480531636,
-      "lat": 49.24207253926069
     }
   },
   {
