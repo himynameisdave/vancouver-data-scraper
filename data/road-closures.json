@@ -1,45 +1,5 @@
 [
   {
-    "project": "French St from W 71st Av to W 72nd Av",
-    "street": null,
-    "location": "French St from W 71st Av to W 72nd Av",
-    "comp_date": "2024-10-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f5fd9f71-235d-4070-b712-306f0fd605fe",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1392628316394,
-              49.206580013589075
-            ],
-            [
-              -123.13929021832394,
-              49.20577765400486
-            ]
-          ],
-          [
-            [
-              -123.13924737382892,
-              49.20705453411321
-            ],
-            [
-              -123.1392628316394,
-              49.206580013589075
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13926856419923,
-      "lat": 49.20641608632497
-    }
-  },
-  {
     "project": "Both Sides of 700-900 Block of Evans Avenue From West PL of 810 to East PL of 81",
     "street": null,
     "location": "Both Sides of 700-900 Block of Evans Avenue From West PL of 810 to East PL of 81",
@@ -400,6 +360,60 @@
     }
   },
   {
+    "project": "Park Dr from Fremlin St to Oak St",
+    "street": null,
+    "location": "Park Dr from Fremlin St to Oak St",
+    "comp_date": "2024-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e22b3b2a-1068-4dba-a342-06cb8a76b3d9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12934695198106,
+              49.21425871499184
+            ],
+            [
+              -123.13004695791861,
+              49.21445868576524
+            ]
+          ],
+          [
+            [
+              -123.12867799276945,
+              49.214067610720804
+            ],
+            [
+              -123.12934695198106,
+              49.21425871499184
+            ]
+          ],
+          [
+            [
+              -123.127301163771,
+              49.21377657365835
+            ],
+            [
+              -123.12767825303203,
+              49.21378199540072
+            ],
+            [
+              -123.12867799276945,
+              49.214067610720804
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12868033321696,
+      "lat": 49.214075065091826
+    }
+  },
+  {
     "project": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
     "street": null,
     "location": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
@@ -437,100 +451,6 @@
     "geo_point_2d": {
       "lon": -123.06201196855633,
       "lat": 49.26999268428123
-    }
-  },
-  {
-    "project": "W Pender St from Burrard St to Bute St",
-    "street": null,
-    "location": "W Pender St from Burrard St to Bute St",
-    "comp_date": "2024-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bbc9c96f-db00-461a-bccd-af60aab9561c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11784415294652,
-              49.28659405642375
-            ],
-            [
-              -123.118352576587,
-              49.286918910134034
-            ],
-            [
-              -123.120422371991,
-              49.287525942641196
-            ]
-          ],
-          [
-            [
-              -123.120422371991,
-              49.287525942641196
-            ],
-            [
-              -123.12338817881232,
-              49.28839717133752
-            ]
-          ],
-          [
-            [
-              -123.11760617322001,
-              49.28674235778331
-            ],
-            [
-              -123.11804764361557,
-              49.28646619265487
-            ]
-          ],
-          [
-            [
-              -123.11784664880955,
-              49.28659257348002
-            ],
-            [
-              -123.11750567615611,
-              49.286374917474376
-            ]
-          ],
-          [
-            [
-              -123.12337272983372,
-              49.28839156146529
-            ],
-            [
-              -123.12363530679258,
-              49.288217818005535
-            ]
-          ],
-          [
-            [
-              -123.1168090897909,
-              49.285928264137766
-            ],
-            [
-              -123.11782870533737,
-              49.28658844598908
-            ]
-          ],
-          [
-            [
-              -123.12337272983372,
-              49.28839156146529
-            ],
-            [
-              -123.12552165547461,
-              49.28902706754647
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12086863696994,
-      "lat": 49.28759073757523
     }
   },
   {
