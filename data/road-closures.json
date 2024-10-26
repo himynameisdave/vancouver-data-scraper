@@ -1,49 +1,9 @@
 [
   {
-    "project": "Vanness Ave from Fairmont St to Killarney St",
-    "street": null,
-    "location": "Vanness Ave from Fairmont St to Killarney St",
-    "comp_date": "2024-10-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fc37f63f-fa7e-49de-855e-6bde6f7a92e2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04159867602799,
-              49.242261939972934
-            ],
-            [
-              -123.04117436355213,
-              49.24208869078322
-            ]
-          ],
-          [
-            [
-              -123.04117436355213,
-              49.24208869078322
-            ],
-            [
-              -123.04067093441043,
-              49.241883139024424
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04113480531636,
-      "lat": 49.24207253926069
-    }
-  },
-  {
     "project": "Argyle St from E 32nd Av to E 33rd Av",
     "street": null,
     "location": "Argyle St from E 32nd Av to E 33rd Av",
-    "comp_date": "2024-10-25",
+    "comp_date": "2024-10-28",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/77b221ad-0a11-4316-b609-65b4821cac6c",
     "geom": {
       "type": "Feature",
@@ -68,73 +28,71 @@
     }
   },
   {
-    "project": "McHardy St from Kingsway to Collingwood Place",
+    "project": "Laneway West of Argyle St from E 51st Av to E 53rd Av",
     "street": null,
-    "location": "McHardy St from Kingsway to Collingwood Place",
-    "comp_date": "2024-10-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2459df77-2c62-4a55-9b6c-018c06b96255",
+    "location": "Laneway West of Argyle St from E 51st Av to E 53rd Av",
+    "comp_date": "2024-10-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/099c135d-5d78-42d9-936c-e3c6c8e24bda",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.03834433847354,
-              49.23575174271866
-            ],
-            [
-              -123.0387036418649,
-              49.235384247981585
-            ]
+            -123.07253023033961,
+            49.22334486438626
           ],
           [
-            [
-              -123.03744164182915,
-              49.236654477960684
-            ],
-            [
-              -123.03834394041023,
-              49.23575213864166
-            ]
+            -123.07259660052324,
+            49.221748639191446
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03807402226774,
-      "lat": 49.23602089596138
+      "lon": -123.07256341543145,
+      "lat": 49.222546751788855
     }
   },
   {
-    "project": "E 52nd Av from Commercial St to Victoria Dr",
+    "project": "Normandy Dr from Worthington Dr to Boundary Rd",
     "street": null,
-    "location": "E 52nd Av from Commercial St to Victoria Dr",
-    "comp_date": "2024-10-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/91c2ca72-120c-4f59-aef4-97a729df5f22",
+    "location": "Normandy Dr from Worthington Dr to Boundary Rd",
+    "comp_date": "2024-10-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/32e1120a-7d03-408c-b950-746279ccd673",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.06908902511127,
-              49.22265460799974
+              -123.02623868003796,
+              49.2515207872392
             ],
             [
-              -123.06648824791965,
-              49.222623778246
+              -123.02462197838177,
+              49.25151905620359
             ]
           ],
           [
             [
-              -123.06648824791965,
-              49.222623778246
+              -123.02462197838177,
+              49.25151905620359
             ],
             [
-              -123.06580665625657,
-              49.22261589289721
+              -123.02398181389728,
+              49.25151844425565
+            ]
+          ],
+          [
+            [
+              -123.02398181389728,
+              49.25151844425565
+            ],
+            [
+              -123.02372904329721,
+              49.25151827156736
             ]
           ]
         ],
@@ -143,8 +101,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.06744784158518,
-      "lat": 49.22263517349216
+      "lon": -123.02498386172644,
+      "lat": 49.25151946538744
     }
   },
   {
