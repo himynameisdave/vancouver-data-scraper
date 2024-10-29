@@ -1,33 +1,5 @@
 [
   {
-    "project": "Argyle St from E 32nd Av to E 33rd Av",
-    "street": null,
-    "location": "Argyle St from E 32nd Av to E 33rd Av",
-    "comp_date": "2024-10-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/77b221ad-0a11-4316-b609-65b4821cac6c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07081181623937,
-            49.24160221120019
-          ],
-          [
-            -123.07087440151713,
-            49.24012820374972
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07084310887825,
-      "lat": 49.240865207474954
-    }
-  },
-  {
     "project": "Laneway West of Argyle St from E 51st Av to E 53rd Av",
     "street": null,
     "location": "Laneway West of Argyle St from E 51st Av to E 53rd Av",
@@ -170,6 +142,50 @@
     }
   },
   {
+    "project": "Killarney St from Euclid Av to Vanness Av",
+    "street": null,
+    "location": "Killarney St from Euclid Av to Vanness Av",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e51f62e9-bdd0-4fbd-950e-b81632c2dbb2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04241000048467,
+              49.24141119019592
+            ],
+            [
+              -123.04244631069388,
+              49.24139453566892
+            ],
+            [
+              -123.04339851063482,
+              49.24039280483112
+            ]
+          ],
+          [
+            [
+              -123.04159867602799,
+              49.242261939972934
+            ],
+            [
+              -123.04241000048467,
+              49.24141119019592
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04249932196906,
+      "lat": 49.24132822243426
+    }
+  },
+  {
     "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
     "street": null,
     "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
@@ -207,6 +223,46 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
+    }
+  },
+  {
+    "project": "E 3rd Av from Semlin Dr. to Victoria Dr.",
+    "street": null,
+    "location": "E 3rd Av from Semlin Dr. to Victoria Dr.",
+    "comp_date": "2024-11-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12285e94-77bf-4505-8021-1c7d1e6b6333",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06578923279781,
+              49.26776041563684
+            ],
+            [
+              -123.0643836586195,
+              49.267749756520146
+            ]
+          ],
+          [
+            [
+              -123.0643836586195,
+              49.267749756520146
+            ],
+            [
+              -123.06385610462077,
+              49.26774582153902
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06482266888894,
+      "lat": 49.26775309470268
     }
   },
   {
