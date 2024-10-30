@@ -78,6 +78,50 @@
     }
   },
   {
+    "project": "Killarney St from Euclid Av to Vanness Av",
+    "street": null,
+    "location": "Killarney St from Euclid Av to Vanness Av",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e51f62e9-bdd0-4fbd-950e-b81632c2dbb2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04241000048467,
+              49.24141119019592
+            ],
+            [
+              -123.04244631069388,
+              49.24139453566892
+            ],
+            [
+              -123.04339851063482,
+              49.24039280483112
+            ]
+          ],
+          [
+            [
+              -123.04159867602799,
+              49.242261939972934
+            ],
+            [
+              -123.04241000048467,
+              49.24141119019592
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04249932196906,
+      "lat": 49.24132822243426
+    }
+  },
+  {
     "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
     "location": "Cypress St between W 35th Ave and Quilchena Street",
@@ -139,50 +183,6 @@
     "geo_point_2d": {
       "lon": -123.09298491834645,
       "lat": 49.26275429491018
-    }
-  },
-  {
-    "project": "Killarney St from Euclid Av to Vanness Av",
-    "street": null,
-    "location": "Killarney St from Euclid Av to Vanness Av",
-    "comp_date": "2024-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e51f62e9-bdd0-4fbd-950e-b81632c2dbb2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04241000048467,
-              49.24141119019592
-            ],
-            [
-              -123.04244631069388,
-              49.24139453566892
-            ],
-            [
-              -123.04339851063482,
-              49.24039280483112
-            ]
-          ],
-          [
-            [
-              -123.04159867602799,
-              49.242261939972934
-            ],
-            [
-              -123.04241000048467,
-              49.24141119019592
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04249932196906,
-      "lat": 49.24132822243426
     }
   },
   {
