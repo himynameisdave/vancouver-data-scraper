@@ -1,55 +1,5 @@
 [
   {
-    "project": "Normandy Dr from Worthington Dr to Boundary Rd",
-    "street": null,
-    "location": "Normandy Dr from Worthington Dr to Boundary Rd",
-    "comp_date": "2024-10-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/32e1120a-7d03-408c-b950-746279ccd673",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.02623868003796,
-              49.2515207872392
-            ],
-            [
-              -123.02462197838177,
-              49.25151905620359
-            ]
-          ],
-          [
-            [
-              -123.02462197838177,
-              49.25151905620359
-            ],
-            [
-              -123.02398181389728,
-              49.25151844425565
-            ]
-          ],
-          [
-            [
-              -123.02398181389728,
-              49.25151844425565
-            ],
-            [
-              -123.02372904329721,
-              49.25151827156736
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02498386172644,
-      "lat": 49.25151946538744
-    }
-  },
-  {
     "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
     "location": "Cypress St between W 35th Ave and Quilchena Street",
@@ -289,6 +239,46 @@
     "geo_point_2d": {
       "lon": -123.12868033321696,
       "lat": 49.214075065091826
+    }
+  },
+  {
+    "project": "Venables St from Renfrew St to Nootka St",
+    "street": null,
+    "location": "Venables St from Renfrew St to Nootka St",
+    "comp_date": "2024-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e73da8a-0f75-4e8d-8c0a-b8b6286d63ef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04334761462034,
+              49.27641173160907
+            ],
+            [
+              -123.0413642640636,
+              49.27641488733232
+            ]
+          ],
+          [
+            [
+              -123.04410035452361,
+              49.276411437774925
+            ],
+            [
+              -123.04334761462034,
+              49.27641173160907
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04273230896905,
+      "lat": 49.27641283495838
     }
   },
   {
@@ -591,6 +581,34 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "comp_date": "2024-12-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07414952080866,
+            49.23640946597283
+          ],
+          [
+            -123.07420211439567,
+            49.23476416524147
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07417581760217,
+      "lat": 49.23558681560715
     }
   },
   {
