@@ -1,33 +1,5 @@
 [
   {
-    "project": "Laneway West of Argyle St from E 51st Av to E 53rd Av",
-    "street": null,
-    "location": "Laneway West of Argyle St from E 51st Av to E 53rd Av",
-    "comp_date": "2024-10-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/099c135d-5d78-42d9-936c-e3c6c8e24bda",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07253023033961,
-            49.22334486438626
-          ],
-          [
-            -123.07259660052324,
-            49.221748639191446
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07256341543145,
-      "lat": 49.222546751788855
-    }
-  },
-  {
     "project": "Normandy Dr from Worthington Dr to Boundary Rd",
     "street": null,
     "location": "Normandy Dr from Worthington Dr to Boundary Rd",
@@ -75,50 +47,6 @@
     "geo_point_2d": {
       "lon": -123.02498386172644,
       "lat": 49.25151946538744
-    }
-  },
-  {
-    "project": "Killarney St from Euclid Av to Vanness Av",
-    "street": null,
-    "location": "Killarney St from Euclid Av to Vanness Av",
-    "comp_date": "2024-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e51f62e9-bdd0-4fbd-950e-b81632c2dbb2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04241000048467,
-              49.24141119019592
-            ],
-            [
-              -123.04244631069388,
-              49.24139453566892
-            ],
-            [
-              -123.04339851063482,
-              49.24039280483112
-            ]
-          ],
-          [
-            [
-              -123.04159867602799,
-              49.242261939972934
-            ],
-            [
-              -123.04241000048467,
-              49.24141119019592
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04249932196906,
-      "lat": 49.24132822243426
     }
   },
   {
@@ -183,6 +111,50 @@
     "geo_point_2d": {
       "lon": -123.09298491834645,
       "lat": 49.26275429491018
+    }
+  },
+  {
+    "project": "Killarney St from Euclid Av to Vanness Av",
+    "street": null,
+    "location": "Killarney St from Euclid Av to Vanness Av",
+    "comp_date": "2024-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e51f62e9-bdd0-4fbd-950e-b81632c2dbb2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04241000048467,
+              49.24141119019592
+            ],
+            [
+              -123.04244631069388,
+              49.24139453566892
+            ],
+            [
+              -123.04339851063482,
+              49.24039280483112
+            ]
+          ],
+          [
+            [
+              -123.04159867602799,
+              49.242261939972934
+            ],
+            [
+              -123.04241000048467,
+              49.24141119019592
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04249932196906,
+      "lat": 49.24132822243426
     }
   },
   {
@@ -400,6 +372,114 @@
     }
   },
   {
+    "project": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
+    "street": null,
+    "location": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5f353263-5172-48a5-af88-bb88bb70c653",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05470785581163,
+              49.269775073911575
+            ],
+            [
+              -123.05470785581163,
+              49.27023430757535
+            ]
+          ],
+          [
+            [
+              -123.05467307778315,
+              49.274147508009634
+            ],
+            [
+              -123.05466878829105,
+              49.27442190454818
+            ]
+          ],
+          [
+            [
+              -123.054668788291,
+              49.27579908105554
+            ],
+            [
+              -123.0546730777831,
+              49.27550789297075
+            ]
+          ],
+          [
+            [
+              -123.06616752629964,
+              49.27573033708765
+            ],
+            [
+              -123.06708549168049,
+              49.27574433648894
+            ]
+          ],
+          [
+            [
+              -123.06372247849701,
+              49.27571353762997
+            ],
+            [
+              -123.06318628396707,
+              49.275705138005776
+            ]
+          ],
+          [
+            [
+              -123.05984471857131,
+              49.27569393854023
+            ],
+            [
+              -123.05890101558337,
+              49.27568553891271
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06055492792326,
+      "lat": 49.27482712263747
+    }
+  },
+  {
+    "project": "Both sides of 1100 Block Union St from Vernon Dr to 50m West of Vernon Dr.",
+    "street": null,
+    "location": "Both sides of 1100 Block Union St from Vernon Dr to 50m West of Vernon Dr.",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/860b3f75-40eb-4235-b9cb-57638ed38b4b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07933444854744,
+            49.27731614745974
+          ],
+          [
+            -123.08014984008797,
+            49.277333646148094
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07974214431772,
+      "lat": 49.27732489680392
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -593,7 +673,7 @@
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "comp_date": "2025-02-04",
+    "comp_date": "2025-01-31",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
     "geom": {
       "type": "Feature",
