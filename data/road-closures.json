@@ -1,41 +1,5 @@
 [
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2024-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": "E 3rd Av from Semlin Dr. to Victoria Dr.",
     "street": null,
     "location": "E 3rd Av from Semlin Dr. to Victoria Dr.",
@@ -73,6 +37,56 @@
     "geo_point_2d": {
       "lon": -123.06482266888894,
       "lat": 49.26775309470268
+    }
+  },
+  {
+    "project": "E 51st Av from Victoria Dr to Gladstone St",
+    "street": null,
+    "location": "E 51st Av from Victoria Dr to Gladstone St",
+    "comp_date": "2024-11-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7f1e9e5e-770a-430e-a858-a987a925a944",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06579212351701,
+              49.22314124283574
+            ],
+            [
+              -123.06508726041378,
+              49.22313330352691
+            ]
+          ],
+          [
+            [
+              -123.06508726041378,
+              49.22313330352691
+            ],
+            [
+              -123.06322606984827,
+              49.22311160617619
+            ]
+          ],
+          [
+            [
+              -123.06322606984827,
+              49.22311160617619
+            ],
+            [
+              -123.06254331889585,
+              49.223104115988946
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06416772205606,
+      "lat": 49.22312260291086
     }
   },
   {
