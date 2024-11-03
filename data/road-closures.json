@@ -90,60 +90,6 @@
     }
   },
   {
-    "project": "Park Dr from Fremlin St to Oak St",
-    "street": null,
-    "location": "Park Dr from Fremlin St to Oak St",
-    "comp_date": "2024-11-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e22b3b2a-1068-4dba-a342-06cb8a76b3d9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12934695198106,
-              49.21425871499184
-            ],
-            [
-              -123.13004695791861,
-              49.21445868576524
-            ]
-          ],
-          [
-            [
-              -123.12867799276945,
-              49.214067610720804
-            ],
-            [
-              -123.12934695198106,
-              49.21425871499184
-            ]
-          ],
-          [
-            [
-              -123.127301163771,
-              49.21377657365835
-            ],
-            [
-              -123.12767825303203,
-              49.21378199540072
-            ],
-            [
-              -123.12867799276945,
-              49.214067610720804
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12868033321696,
-      "lat": 49.214075065091826
-    }
-  },
-  {
     "project": "Venables St from Renfrew St to Nootka St",
     "street": null,
     "location": "Venables St from Renfrew St to Nootka St",
@@ -212,31 +158,57 @@
     }
   },
   {
-    "project": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
+    "project": "Park Dr from Fremlin St to Oak St",
     "street": null,
-    "location": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
-    "comp_date": "2024-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5fd2971-27eb-4fdc-add4-b45028777551",
+    "location": "Park Dr from Fremlin St to Oak St",
+    "comp_date": "2024-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e22b3b2a-1068-4dba-a342-06cb8a76b3d9",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.09697938618315,
-            49.239610131501365
+            [
+              -123.12934695198106,
+              49.21425871499184
+            ],
+            [
+              -123.13004695791861,
+              49.21445868576524
+            ]
           ],
           [
-            -123.09701799226652,
-            49.238862010169555
+            [
+              -123.12867799276945,
+              49.214067610720804
+            ],
+            [
+              -123.12934695198106,
+              49.21425871499184
+            ]
+          ],
+          [
+            [
+              -123.127301163771,
+              49.21377657365835
+            ],
+            [
+              -123.12767825303203,
+              49.21378199540072
+            ],
+            [
+              -123.12867799276945,
+              49.214067610720804
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09699868922483,
-      "lat": 49.23923607083546
+      "lon": -123.12868033321696,
+      "lat": 49.214075065091826
     }
   },
   {
@@ -317,6 +289,74 @@
     "geo_point_2d": {
       "lon": -123.21430126537928,
       "lat": 49.27085022080962
+    }
+  },
+  {
+    "project": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
+    "street": null,
+    "location": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
+    "comp_date": "2024-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5fd2971-27eb-4fdc-add4-b45028777551",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09697938618315,
+            49.239610131501365
+          ],
+          [
+            -123.09701799226652,
+            49.238862010169555
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09699868922483,
+      "lat": 49.23923607083546
+    }
+  },
+  {
+    "project": "Garden Dr from E 2nd Av to E 3rd Av",
+    "street": null,
+    "location": "Garden Dr from E 2nd Av to E 3rd Av",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05803863870094,
+              49.26860533188773
+            ],
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ]
+          ],
+          [
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ],
+            [
+              -123.0580581825921,
+              49.2677008010121
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05804844601579,
+      "lat": 49.26815306721412
     }
   },
   {
@@ -425,46 +465,6 @@
     "geo_point_2d": {
       "lon": -123.07974214431772,
       "lat": 49.27732489680392
-    }
-  },
-  {
-    "project": "Garden Dr from E 2nd Av to E 3rd Av",
-    "street": null,
-    "location": "Garden Dr from E 2nd Av to E 3rd Av",
-    "comp_date": "2024-11-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05803863870094,
-              49.26860533188773
-            ],
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ]
-          ],
-          [
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ],
-            [
-              -123.0580581825921,
-              49.2677008010121
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05804844601579,
-      "lat": 49.26815306721412
     }
   },
   {
