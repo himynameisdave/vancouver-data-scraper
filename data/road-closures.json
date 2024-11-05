@@ -1,30 +1,42 @@
 [
   {
-    "project": "600 Blk of E 65th Ave.",
+    "project": "Venables St from Renfrew St to Nootka St",
     "street": null,
-    "location": "600 Blk of E 65th Ave.",
-    "comp_date": "2024-11-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10b663bb-523a-42d0-a2f4-543d72f7114a",
+    "location": "Venables St from Renfrew St to Nootka St",
+    "comp_date": "2024-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e73da8a-0f75-4e8d-8c0a-b8b6286d63ef",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.09108508049243,
-            49.21182437282289
+            [
+              -123.04334761462034,
+              49.27641173160907
+            ],
+            [
+              -123.0413642640636,
+              49.27641488733232
+            ]
           ],
           [
-            -123.09331239609938,
-            49.211829406240184
+            [
+              -123.04410035452361,
+              49.276411437774925
+            ],
+            [
+              -123.04334761462034,
+              49.27641173160907
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09219873829589,
-      "lat": 49.21182688953154
+      "lon": -123.04273230896905,
+      "lat": 49.27641283495838
     }
   },
   {
@@ -56,6 +68,140 @@
     }
   },
   {
+    "project": "Park Dr from Fremlin St to Oak St",
+    "street": null,
+    "location": "Park Dr from Fremlin St to Oak St",
+    "comp_date": "2024-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e22b3b2a-1068-4dba-a342-06cb8a76b3d9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12934695198106,
+              49.21425871499184
+            ],
+            [
+              -123.13004695791861,
+              49.21445868576524
+            ]
+          ],
+          [
+            [
+              -123.12867799276945,
+              49.214067610720804
+            ],
+            [
+              -123.12934695198106,
+              49.21425871499184
+            ]
+          ],
+          [
+            [
+              -123.127301163771,
+              49.21377657365835
+            ],
+            [
+              -123.12767825303203,
+              49.21378199540072
+            ],
+            [
+              -123.12867799276945,
+              49.214067610720804
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12868033321696,
+      "lat": 49.214075065091826
+    }
+  },
+  {
+    "project": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "street": null,
+    "location": "Both Sides of 1600 Block of Lakewood Drive From E 1st Avenue to Graveley Street.",
+    "comp_date": "2024-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/522d344c-5d6c-4efb-8db6-519a833d1055",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0618873479701,
+              49.26952455580954
+            ],
+            [
+              -123.06186589029797,
+              49.270452124241075
+            ]
+          ],
+          [
+            [
+              -123.06187661913404,
+              49.269997092850076
+            ],
+            [
+              -123.06253107813366,
+              49.270000593107596
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06201196855633,
+      "lat": 49.26999268428123
+    }
+  },
+  {
+    "project": "Both Sides of 1800 Block of Blanca Street From W 2nd Avenue to W 3rd Avenue. Bot",
+    "street": null,
+    "location": "Both Sides of 1800 Block of Blanca Street From W 2nd Avenue to W 3rd Avenue. Bot",
+    "comp_date": "2024-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7b373fe4-06e6-4570-a78f-8f7b6a6ab822",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.21494290339152,
+              49.27143169028761
+            ],
+            [
+              -123.21499437827846,
+              49.270275225108975
+            ]
+          ],
+          [
+            [
+              -123.21496435150652,
+              49.27086381335951
+            ],
+            [
+              -123.21289249507966,
+              49.27083301155997
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21430126537928,
+      "lat": 49.27085022080962
+    }
+  },
+  {
     "project": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
     "street": null,
     "location": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
@@ -81,6 +227,290 @@
     "geo_point_2d": {
       "lon": -123.09699868922483,
       "lat": 49.23923607083546
+    }
+  },
+  {
+    "project": "Garden Dr from E 2nd Av to E 3rd Av",
+    "street": null,
+    "location": "Garden Dr from E 2nd Av to E 3rd Av",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05803863870094,
+              49.26860533188773
+            ],
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ]
+          ],
+          [
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ],
+            [
+              -123.0580581825921,
+              49.2677008010121
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05804844601579,
+      "lat": 49.26815306721412
+    }
+  },
+  {
+    "project": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
+    "street": null,
+    "location": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5f353263-5172-48a5-af88-bb88bb70c653",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05470785581163,
+              49.269775073911575
+            ],
+            [
+              -123.05470785581163,
+              49.27023430757535
+            ]
+          ],
+          [
+            [
+              -123.05467307778315,
+              49.274147508009634
+            ],
+            [
+              -123.05466878829105,
+              49.27442190454818
+            ]
+          ],
+          [
+            [
+              -123.054668788291,
+              49.27579908105554
+            ],
+            [
+              -123.0546730777831,
+              49.27550789297075
+            ]
+          ],
+          [
+            [
+              -123.06616752629964,
+              49.27573033708765
+            ],
+            [
+              -123.06708549168049,
+              49.27574433648894
+            ]
+          ],
+          [
+            [
+              -123.06372247849701,
+              49.27571353762997
+            ],
+            [
+              -123.06318628396707,
+              49.275705138005776
+            ]
+          ],
+          [
+            [
+              -123.05984471857131,
+              49.27569393854023
+            ],
+            [
+              -123.05890101558337,
+              49.27568553891271
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06055492792326,
+      "lat": 49.27482712263747
+    }
+  },
+  {
+    "project": "Both sides of 1100 Block Union St from Vernon Dr to 50m West of Vernon Dr.",
+    "street": null,
+    "location": "Both sides of 1100 Block Union St from Vernon Dr to 50m West of Vernon Dr.",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/860b3f75-40eb-4235-b9cb-57638ed38b4b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07933444854744,
+            49.27731614745974
+          ],
+          [
+            -123.08014984008797,
+            49.277333646148094
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07974214431772,
+      "lat": 49.27732489680392
+    }
+  },
+  {
+    "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "street": null,
+    "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
+    "comp_date": "2024-11-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/368db2d6-752e-405a-96a8-02bfe5efc9d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07864258396474,
+              49.27587950583674
+            ],
+            [
+              -123.07798276054707,
+              49.27587250615579
+            ]
+          ],
+          [
+            [
+              -123.07862649071068,
+              49.27629948487723
+            ],
+            [
+              -123.07864258396476,
+              49.27539652551934
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07849865054656,
+      "lat": 49.27585982673097
+    }
+  },
+  {
+    "project": "Both sides of 2800 Block W 43rd Ave from Mackenzie St to 25m East of Mackenzie S",
+    "street": null,
+    "location": "Both sides of 2800 Block W 43rd Ave from Mackenzie St to 25m East of Mackenzie S",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00bba480-5b21-43cf-a0f8-854d3e0d199f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17027231380425,
+            49.232798971452496
+          ],
+          [
+            -123.16982706710778,
+            49.23279546855633
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17004969045601,
+      "lat": 49.232797220004414
+    }
+  },
+  {
+    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "street": null,
+    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17305369353348,
+            49.23665570706581
+          ],
+          [
+            -123.17305369353348,
+            49.23693591607727
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17305369353348,
+      "lat": 49.23679581157154
+    }
+  },
+  {
+    "project": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
+    "street": null,
+    "location": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e74a69b-0254-4b50-8893-436f13c2b896",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08006061550527,
+              49.225352606877124
+            ],
+            [
+              -123.08053675632769,
+              49.225361015179686
+            ]
+          ],
+          [
+            [
+              -123.08004045318664,
+              49.22534508751369
+            ],
+            [
+              -123.08002758438306,
+              49.225776707474296
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08017282357675,
+      "lat": 49.225453864258675
     }
   },
   {
@@ -195,6 +625,34 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "comp_date": "2024-12-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07414952080866,
+            49.23640946597283
+          ],
+          [
+            -123.07420211439567,
+            49.23476416524147
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07417581760217,
+      "lat": 49.23558681560715
     }
   },
   {
