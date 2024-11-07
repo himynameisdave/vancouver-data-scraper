@@ -1,73 +1,5 @@
 [
   {
-    "project": "Venables St from Renfrew St to Nootka St",
-    "street": null,
-    "location": "Venables St from Renfrew St to Nootka St",
-    "comp_date": "2024-11-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e73da8a-0f75-4e8d-8c0a-b8b6286d63ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04334761462034,
-              49.27641173160907
-            ],
-            [
-              -123.0413642640636,
-              49.27641488733232
-            ]
-          ],
-          [
-            [
-              -123.04410035452361,
-              49.276411437774925
-            ],
-            [
-              -123.04334761462034,
-              49.27641173160907
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04273230896905,
-      "lat": 49.27641283495838
-    }
-  },
-  {
-    "project": "Both Sides of 2200 Block of E 39th Avenue From West PL of 2248 to East PL of 227",
-    "street": null,
-    "location": "Both Sides of 2200 Block of E 39th Avenue From West PL of 2248 to East PL of 227",
-    "comp_date": "2024-11-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eebdb65f-eb30-412c-985c-6e42881e2cd2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06062783025865,
-            49.23490110211952
-          ],
-          [
-            -123.05950825580393,
-            49.23490110211952
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0600680430313,
-      "lat": 49.23490110211952
-    }
-  },
-  {
     "project": "Park Dr from Fremlin St to Oak St",
     "street": null,
     "location": "Park Dr from Fremlin St to Oak St",
@@ -147,6 +79,74 @@
     "geo_point_2d": {
       "lon": -123.07385724409346,
       "lat": 49.23476032437177
+    }
+  },
+  {
+    "project": "Venables St from Renfrew St to Nootka St",
+    "street": null,
+    "location": "Venables St from Renfrew St to Nootka St",
+    "comp_date": "2024-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e73da8a-0f75-4e8d-8c0a-b8b6286d63ef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04334761462034,
+              49.27641173160907
+            ],
+            [
+              -123.0413642640636,
+              49.27641488733232
+            ]
+          ],
+          [
+            [
+              -123.04410035452361,
+              49.276411437774925
+            ],
+            [
+              -123.04334761462034,
+              49.27641173160907
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04273230896905,
+      "lat": 49.27641283495838
+    }
+  },
+  {
+    "project": "Both Sides of 2200 Block of E 39th Avenue From West PL of 2248 to East PL of 227",
+    "street": null,
+    "location": "Both Sides of 2200 Block of E 39th Avenue From West PL of 2248 to East PL of 227",
+    "comp_date": "2024-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eebdb65f-eb30-412c-985c-6e42881e2cd2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06062783025865,
+            49.23490110211952
+          ],
+          [
+            -123.05950825580393,
+            49.23490110211952
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0600680430313,
+      "lat": 49.23490110211952
     }
   },
   {
@@ -258,46 +258,6 @@
     }
   },
   {
-    "project": "Garden Dr from E 2nd Av to E 3rd Av",
-    "street": null,
-    "location": "Garden Dr from E 2nd Av to E 3rd Av",
-    "comp_date": "2024-11-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05803863870094,
-              49.26860533188773
-            ],
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ]
-          ],
-          [
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ],
-            [
-              -123.0580581825921,
-              49.2677008010121
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05804844601579,
-      "lat": 49.26815306721412
-    }
-  },
-  {
     "project": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
     "street": null,
     "location": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
@@ -406,6 +366,46 @@
     }
   },
   {
+    "project": "Garden Dr from E 2nd Av to E 3rd Av",
+    "street": null,
+    "location": "Garden Dr from E 2nd Av to E 3rd Av",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05803863870094,
+              49.26860533188773
+            ],
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ]
+          ],
+          [
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ],
+            [
+              -123.0580581825921,
+              49.2677008010121
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05804844601579,
+      "lat": 49.26815306721412
+    }
+  },
+  {
     "project": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
     "street": null,
     "location": "Both Sides of 900-1000 Block of Vernon Drive From 40m North of Parker Street to",
@@ -502,34 +502,6 @@
     }
   },
   {
-    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "street": null,
-    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "comp_date": "2024-11-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17305369353348,
-            49.23665570706581
-          ],
-          [
-            -123.17305369353348,
-            49.23693591607727
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17305369353348,
-      "lat": 49.23679581157154
-    }
-  },
-  {
     "project": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
     "street": null,
     "location": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
@@ -595,6 +567,34 @@
     "geo_point_2d": {
       "lon": -123.17004969045601,
       "lat": 49.232797220004414
+    }
+  },
+  {
+    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "street": null,
+    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17305369353348,
+            49.23665570706581
+          ],
+          [
+            -123.17305369353348,
+            49.23693591607727
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17305369353348,
+      "lat": 49.23679581157154
     }
   },
   {
