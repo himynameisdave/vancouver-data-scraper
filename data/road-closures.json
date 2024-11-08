@@ -1,113 +1,5 @@
 [
   {
-    "project": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
-    "street": null,
-    "location": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
-    "comp_date": "2024-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5fd2971-27eb-4fdc-add4-b45028777551",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09697938618315,
-            49.239610131501365
-          ],
-          [
-            -123.09701799226652,
-            49.238862010169555
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09699868922483,
-      "lat": 49.23923607083546
-    }
-  },
-  {
-    "project": "E 39th Av from Dumfries St to Fleming St",
-    "street": null,
-    "location": "E 39th Av from Dumfries St to Fleming St",
-    "comp_date": "2024-11-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/777fa73c-fd83-483a-98b2-a09705b0bae3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07420211439567,
-              49.23476416524147
-            ],
-            [
-              -123.07351237379123,
-              49.234756483502025
-            ]
-          ],
-          [
-            [
-              -123.07351237379123,
-              49.23475648350205
-            ],
-            [
-              -123.0728242680779,
-              49.234748814604444
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07351319122183,
-      "lat": 49.234756491265934
-    }
-  },
-  {
-    "project": "Garden Dr from E 2nd Av to E 3rd Av",
-    "street": null,
-    "location": "Garden Dr from E 2nd Av to E 3rd Av",
-    "comp_date": "2024-11-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05803863870094,
-              49.26860533188773
-            ],
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ]
-          ],
-          [
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ],
-            [
-              -123.0580581825921,
-              49.2677008010121
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05804844601579,
-      "lat": 49.26815306721412
-    }
-  },
-  {
     "project": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
     "street": null,
     "location": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
@@ -213,6 +105,86 @@
     "geo_point_2d": {
       "lon": -123.07974214431772,
       "lat": 49.27732489680392
+    }
+  },
+  {
+    "project": "E 39th Av from Dumfries St to Fleming St",
+    "street": null,
+    "location": "E 39th Av from Dumfries St to Fleming St",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/777fa73c-fd83-483a-98b2-a09705b0bae3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07420211439567,
+              49.23476416524147
+            ],
+            [
+              -123.07351237379123,
+              49.234756483502025
+            ]
+          ],
+          [
+            [
+              -123.07351237379123,
+              49.23475648350205
+            ],
+            [
+              -123.0728242680779,
+              49.234748814604444
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07351319122183,
+      "lat": 49.234756491265934
+    }
+  },
+  {
+    "project": "Garden Dr from E 2nd Av to E 3rd Av",
+    "street": null,
+    "location": "Garden Dr from E 2nd Av to E 3rd Av",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05803863870094,
+              49.26860533188773
+            ],
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ]
+          ],
+          [
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ],
+            [
+              -123.0580581825921,
+              49.2677008010121
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05804844601579,
+      "lat": 49.26815306721412
     }
   },
   {
@@ -340,34 +312,6 @@
     }
   },
   {
-    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "street": null,
-    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "comp_date": "2024-11-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17305369353348,
-            49.23665570706581
-          ],
-          [
-            -123.17305369353348,
-            49.23693591607727
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17305369353348,
-      "lat": 49.23679581157154
-    }
-  },
-  {
     "project": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
     "street": null,
     "location": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
@@ -433,6 +377,34 @@
     "geo_point_2d": {
       "lon": -123.17004969045601,
       "lat": 49.232797220004414
+    }
+  },
+  {
+    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "street": null,
+    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17305369353348,
+            49.23665570706581
+          ],
+          [
+            -123.17305369353348,
+            49.23693591607727
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17305369353348,
+      "lat": 49.23679581157154
     }
   },
   {
@@ -511,6 +483,46 @@
     "geo_point_2d": {
       "lon": -123.11948952392409,
       "lat": 49.24117718507583
+    }
+  },
+  {
+    "project": "Windermere St from E 7th Av to E 8th Av",
+    "street": null,
+    "location": "Windermere St from E 7th Av to E 8th Av",
+    "comp_date": "2024-11-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e7d2a17-3c6e-49e3-8061-56ebbb2a7068",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03649612687866,
+              49.26383092010147
+            ],
+            [
+              -123.03650069969753,
+              49.26337804611737
+            ]
+          ],
+          [
+            [
+              -123.03650069969753,
+              49.26337804611737
+            ],
+            [
+              -123.03650431059053,
+              49.26292553220955
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03650045838279,
+      "lat": 49.263378228321564
     }
   },
   {
