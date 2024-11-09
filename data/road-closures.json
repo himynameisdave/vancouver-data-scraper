@@ -1,5 +1,85 @@
 [
   {
+    "project": "E 39th Av from Dumfries St to Fleming St",
+    "street": null,
+    "location": "E 39th Av from Dumfries St to Fleming St",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/777fa73c-fd83-483a-98b2-a09705b0bae3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07420211439567,
+              49.23476416524147
+            ],
+            [
+              -123.07351237379123,
+              49.234756483502025
+            ]
+          ],
+          [
+            [
+              -123.07351237379123,
+              49.23475648350205
+            ],
+            [
+              -123.0728242680779,
+              49.234748814604444
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07351319122183,
+      "lat": 49.234756491265934
+    }
+  },
+  {
+    "project": "Garden Dr from E 2nd Av to E 3rd Av",
+    "street": null,
+    "location": "Garden Dr from E 2nd Av to E 3rd Av",
+    "comp_date": "2024-11-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05803863870094,
+              49.26860533188773
+            ],
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ]
+          ],
+          [
+            [
+              -123.05804848608305,
+              49.268152850545476
+            ],
+            [
+              -123.0580581825921,
+              49.2677008010121
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05804844601579,
+      "lat": 49.26815306721412
+    }
+  },
+  {
     "project": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
     "street": null,
     "location": "B/S of 1600 Blk of Kamloops St From 25m N of E 1st Av to 45m N of E 1st Av. B/S",
@@ -108,83 +188,31 @@
     }
   },
   {
-    "project": "E 39th Av from Dumfries St to Fleming St",
+    "project": "Both sides of 3900 Block W 19th Ave from W of PL 3958 to East of PL 3924.",
     "street": null,
-    "location": "E 39th Av from Dumfries St to Fleming St",
-    "comp_date": "2024-11-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/777fa73c-fd83-483a-98b2-a09705b0bae3",
+    "location": "Both sides of 3900 Block W 19th Ave from W of PL 3958 to East of PL 3924.",
+    "comp_date": "2024-11-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/710381c2-f20a-43f5-833f-9da2e7d4c7b1",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.07420211439567,
-              49.23476416524147
-            ],
-            [
-              -123.07351237379123,
-              49.234756483502025
-            ]
+            -123.19150622205053,
+            49.25562038375088
           ],
           [
-            [
-              -123.07351237379123,
-              49.23475648350205
-            ],
-            [
-              -123.0728242680779,
-              49.234748814604444
-            ]
+            -123.19247181729588,
+            49.25561338119536
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07351319122183,
-      "lat": 49.234756491265934
-    }
-  },
-  {
-    "project": "Garden Dr from E 2nd Av to E 3rd Av",
-    "street": null,
-    "location": "Garden Dr from E 2nd Av to E 3rd Av",
-    "comp_date": "2024-11-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e32e9d48-2eac-4870-9370-7a8c1c5bfb17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05803863870094,
-              49.26860533188773
-            ],
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ]
-          ],
-          [
-            [
-              -123.05804848608305,
-              49.268152850545476
-            ],
-            [
-              -123.0580581825921,
-              49.2677008010121
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05804844601579,
-      "lat": 49.26815306721412
+      "lon": -123.1919890196732,
+      "lat": 49.25561688247312
     }
   },
   {
@@ -225,34 +253,6 @@
     "geo_point_2d": {
       "lon": -123.07849865054656,
       "lat": 49.27585982673097
-    }
-  },
-  {
-    "project": "Both sides of 3900 Block W 19th Ave from W of PL 3958 to East of PL 3924.",
-    "street": null,
-    "location": "Both sides of 3900 Block W 19th Ave from W of PL 3958 to East of PL 3924.",
-    "comp_date": "2024-11-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/710381c2-f20a-43f5-833f-9da2e7d4c7b1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19150622205053,
-            49.25562038375088
-          ],
-          [
-            -123.19247181729588,
-            49.25561338119536
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1919890196732,
-      "lat": 49.25561688247312
     }
   },
   {
@@ -312,6 +312,62 @@
     }
   },
   {
+    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "street": null,
+    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17305369353348,
+            49.23665570706581
+          ],
+          [
+            -123.17305369353348,
+            49.23693591607727
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17305369353348,
+      "lat": 49.23679581157154
+    }
+  },
+  {
+    "project": "Both sides of 2800 Block W 43rd Ave from Mackenzie St to 25m East of Mackenzie S",
+    "street": null,
+    "location": "Both sides of 2800 Block W 43rd Ave from Mackenzie St to 25m East of Mackenzie S",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00bba480-5b21-43cf-a0f8-854d3e0d199f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17027231380425,
+            49.232798971452496
+          ],
+          [
+            -123.16982706710778,
+            49.23279546855633
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17004969045601,
+      "lat": 49.232797220004414
+    }
+  },
+  {
     "project": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
     "street": null,
     "location": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
@@ -349,62 +405,6 @@
     "geo_point_2d": {
       "lon": -123.08017282357675,
       "lat": 49.225453864258675
-    }
-  },
-  {
-    "project": "Both sides of 2800 Block W 43rd Ave from Mackenzie St to 25m East of Mackenzie S",
-    "street": null,
-    "location": "Both sides of 2800 Block W 43rd Ave from Mackenzie St to 25m East of Mackenzie S",
-    "comp_date": "2024-11-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/00bba480-5b21-43cf-a0f8-854d3e0d199f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17027231380425,
-            49.232798971452496
-          ],
-          [
-            -123.16982706710778,
-            49.23279546855633
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17004969045601,
-      "lat": 49.232797220004414
-    }
-  },
-  {
-    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "street": null,
-    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "comp_date": "2024-11-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17305369353348,
-            49.23665570706581
-          ],
-          [
-            -123.17305369353348,
-            49.23693591607727
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17305369353348,
-      "lat": 49.23679581157154
     }
   },
   {
