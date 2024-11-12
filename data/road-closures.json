@@ -1,114 +1,60 @@
 [
   {
-    "project": null,
+    "project": "E 7th Av from Slocan St to Kaslo St",
     "street": null,
-    "location": null,
-    "comp_date": "2024-11-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d6b80b2-af72-4087-840e-b08d7c61259e",
+    "location": "E 7th Av from Slocan St to Kaslo St",
+    "comp_date": "2024-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/44cab664-3f0e-4a15-94a6-8c3dd618d50a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04954919068666,
+            49.26387341043542
+          ],
+          [
+            -123.04701383667404,
+            49.263865060909495
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04828151368035,
+      "lat": 49.26386923567246
+    }
+  },
+  {
+    "project": "Laneway East of Oak St from W 52nd Av to W 54th Av",
+    "street": null,
+    "location": "Laneway East of Oak St from W 52nd Av to W 54th Av",
+    "comp_date": "2024-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8d1f71a6-5e41-45bc-b11e-05d4dd18da96",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10722086972392,
-              49.28201735994344
+              -123.12759973025929,
+              49.22390243446836
             ],
             [
-              -123.10949440933425,
-              49.282408508622524
-            ],
-            [
-              -123.11486595986378,
-              49.2859613039503
+              -123.12763883878719,
+              49.2227168236671
             ]
           ],
           [
             [
-              -123.108819843286,
-              49.284282721446374
+              -123.12763883878719,
+              49.2227168236671
             ],
             [
-              -123.10999408845328,
-              49.28147952505523
-            ],
-            [
-              -123.11144315866089,
-              49.28051792513398
-            ]
-          ],
-          [
-            [
-              -123.10757064548845,
-              49.28112096499706
-            ],
-            [
-              -123.10994412130383,
-              49.28149582167998
-            ],
-            [
-              -123.11189286872434,
-              49.28275076187106
-            ]
-          ],
-          [
-            [
-              -123.10999408845328,
-              49.28275076187106
-            ],
-            [
-              -123.1124924840484,
-              49.28112096499706
-            ]
-          ],
-          [
-            [
-              -123.10847006752147,
-              49.28125134936141
-            ],
-            [
-              -123.11051875114703,
-              49.27984968616704
-            ]
-          ],
-          [
-            [
-              -123.11001907202802,
-              49.28403826294394
-            ],
-            [
-              -123.11344187513701,
-              49.28177289021036
-            ]
-          ],
-          [
-            [
-              -123.10684611038465,
-              49.28293003599012
-            ],
-            [
-              -123.10921958620001,
-              49.28333747531107
-            ]
-          ],
-          [
-            [
-              -123.10911964999498,
-              49.28354934230319
-            ],
-            [
-              -123.11381663447627,
-              49.286564275383455
-            ]
-          ],
-          [
-            [
-              -123.11094347954189,
-              49.28473904123908
-            ],
-            [
-              -123.1119178542052,
-              49.28407085760526
+              -123.1276780802321,
+              49.22153020499016
             ]
           ]
         ],
@@ -117,8 +63,48 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11063660635017,
-      "lat": 49.28299178977074
+      "lon": -123.12763888036561,
+      "lat": 49.22271631890752
+    }
+  },
+  {
+    "project": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
+    "street": null,
+    "location": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e74a69b-0254-4b50-8893-436f13c2b896",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08006061550527,
+              49.225352606877124
+            ],
+            [
+              -123.08053675632769,
+              49.225361015179686
+            ]
+          ],
+          [
+            [
+              -123.08004045318664,
+              49.22534508751369
+            ],
+            [
+              -123.08002758438306,
+              49.225776707474296
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08017282357675,
+      "lat": 49.225453864258675
     }
   },
   {
@@ -1110,6 +1096,46 @@
     }
   },
   {
+    "project": "Windermere St from E 7th Av to E 8th Av",
+    "street": null,
+    "location": "Windermere St from E 7th Av to E 8th Av",
+    "comp_date": "2024-11-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e7d2a17-3c6e-49e3-8061-56ebbb2a7068",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03649612687866,
+              49.26383092010147
+            ],
+            [
+              -123.03650069969753,
+              49.26337804611737
+            ]
+          ],
+          [
+            [
+              -123.03650069969753,
+              49.26337804611737
+            ],
+            [
+              -123.03650431059053,
+              49.26292553220955
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03650045838279,
+      "lat": 49.263378228321564
+    }
+  },
+  {
     "project": "100 Block Terminal Avenue",
     "street": null,
     "location": "100 Block Terminal Avenue",
@@ -1143,6 +1169,34 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "comp_date": "2024-12-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07414952080866,
+            49.23640946597283
+          ],
+          [
+            -123.07420211439567,
+            49.23476416524147
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07417581760217,
+      "lat": 49.23558681560715
     }
   },
   {
