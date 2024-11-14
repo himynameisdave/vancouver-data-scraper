@@ -1,101 +1,5 @@
 [
   {
-    "project": "Osler St from Matthews Av to Balfour Av",
-    "street": null,
-    "location": "Osler St from Matthews Av to Balfour Av",
-    "comp_date": "2024-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a3b8bb4-6760-443e-ae3d-f2a10954779e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13079082673521,
-            49.25398702697967
-          ],
-          [
-            -123.13071376691643,
-            49.253879648268764
-          ],
-          [
-            -123.13063959094234,
-            49.25377140270231
-          ],
-          [
-            -123.13056831263468,
-            49.253662326251174
-          ],
-          [
-            -123.13049995955633,
-            49.253552454870345
-          ],
-          [
-            -123.1304345317622,
-            49.25344181555059
-          ],
-          [
-            -123.13037205681398,
-            49.25333044424664
-          ],
-          [
-            -123.13031257603801,
-            49.25321838589272
-          ],
-          [
-            -123.13025608946383,
-            49.25310565848383
-          ],
-          [
-            -123.13020262467475,
-            49.25299230696936
-          ],
-          [
-            -123.13015218172309,
-            49.252878358339046
-          ],
-          [
-            -123.13010478819113,
-            49.25276385754188
-          ],
-          [
-            -123.13006045784813,
-            49.25264882255655
-          ],
-          [
-            -123.13001919079228,
-            49.25253329836255
-          ],
-          [
-            -123.12998100086297,
-            49.25241732992362
-          ],
-          [
-            -123.12994592931113,
-            49.25230093518692
-          ],
-          [
-            -123.12991396249234,
-            49.25218415914662
-          ],
-          [
-            -123.12988511422111,
-            49.25206703777076
-          ],
-          [
-            -123.1298725830902,
-            49.25200981523986
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13026256176033,
-      "lat": 49.25303014901689
-    }
-  },
-  {
     "project": "E 7th Av from Slocan St to Kaslo St",
     "street": null,
     "location": "E 7th Av from Slocan St to Kaslo St",
@@ -325,6 +229,84 @@
     "geo_point_2d": {
       "lon": -123.17004969045601,
       "lat": 49.232797220004414
+    }
+  },
+  {
+    "project": "Both sides of 5700 Block McKinnon St form North of PL 5707 to South of PL 5739.",
+    "street": null,
+    "location": "Both sides of 5700 Block McKinnon St form North of PL 5707 to South of PL 5739.",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4d4e6eb5-98d5-49d0-8c4a-875559d847fe",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03880687666283,
+            49.23273110168651
+          ],
+          [
+            -123.03881760549888,
+            49.23210057550406
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03881224108083,
+      "lat": 49.23241583859529
+    }
+  },
+  {
+    "project": "E 13th Av from Commercial Dr to Victoria Dr",
+    "street": null,
+    "location": "E 13th Av from Commercial Dr to Victoria Dr",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5c220fbd-758c-49e9-ac6b-e768022fb919",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06983328316763,
+              49.258655218270974
+            ],
+            [
+              -123.06918415536148,
+              49.25865030161779
+            ]
+          ],
+          [
+            [
+              -123.06918415536148,
+              49.25865030161779
+            ],
+            [
+              -123.0666134284352,
+              49.258631141375076
+            ]
+          ],
+          [
+            [
+              -123.0666134284352,
+              49.258631141375076
+            ],
+            [
+              -123.06596419084556,
+              49.258625864876336
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06789873583384,
+      "lat": 49.25864069095472
     }
   },
   {
@@ -1263,6 +1245,46 @@
     "geo_point_2d": {
       "lon": -123.11603161685663,
       "lat": 49.28788367771289
+    }
+  },
+  {
+    "project": "W 17th Av from Laurel St to Willow St",
+    "street": null,
+    "location": "W 17th Av from Laurel St to Willow St",
+    "comp_date": "2024-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3c7ed8ee-4663-4f6c-9efe-140c28124cc4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12376303059968,
+              49.25617589403046
+            ],
+            [
+              -123.1244252468078,
+              49.25618821683375
+            ]
+          ],
+          [
+            [
+              -123.12206367140833,
+              49.256144275666486
+            ],
+            [
+              -123.12376303059968,
+              49.25617589403046
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1232444591186,
+      "lat": 49.25616624568376
     }
   },
   {
