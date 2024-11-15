@@ -108,62 +108,6 @@
     }
   },
   {
-    "project": "Both sides of 700 Block E 62nd St from Lane East of Fraser St to Lane West of Pr",
-    "street": null,
-    "location": "Both sides of 700 Block E 62nd St from Lane East of Fraser St to Lane West of Pr",
-    "comp_date": "2024-11-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/849468c5-79e4-4dd8-8723-d65a3e929da1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09042204742269,
-            49.21394646010498
-          ],
-          [
-            -123.08854886412209,
-            49.21390384575574
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08948545577239,
-      "lat": 49.21392515293035
-    }
-  },
-  {
-    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "street": null,
-    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
-    "comp_date": "2024-11-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17305369353348,
-            49.23665570706581
-          ],
-          [
-            -123.17305369353348,
-            49.23693591607727
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17305369353348,
-      "lat": 49.23679581157154
-    }
-  },
-  {
     "project": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
     "street": null,
     "location": "Both Sides of 6400 Block of Inverness Street From E 49th Avenue to Lane North of",
@@ -307,6 +251,62 @@
     "geo_point_2d": {
       "lon": -123.06789873583384,
       "lat": 49.25864069095472
+    }
+  },
+  {
+    "project": "Both sides of 700 Block E 62nd St from Lane East of Fraser St to Lane West of Pr",
+    "street": null,
+    "location": "Both sides of 700 Block E 62nd St from Lane East of Fraser St to Lane West of Pr",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/849468c5-79e4-4dd8-8723-d65a3e929da1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09042204742269,
+            49.21394646010498
+          ],
+          [
+            -123.08854886412209,
+            49.21390384575574
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08948545577239,
+      "lat": 49.21392515293035
+    }
+  },
+  {
+    "project": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "street": null,
+    "location": "Both sides of 5400 Block Carnarvon St from W 39th Ave to 20m North of W 39th Ave",
+    "comp_date": "2024-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3827f7c-b6f7-4704-97e8-515f91b9faa2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17305369353348,
+            49.23665570706581
+          ],
+          [
+            -123.17305369353348,
+            49.23693591607727
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17305369353348,
+      "lat": 49.23679581157154
     }
   },
   {
@@ -1574,6 +1574,34 @@
     }
   },
   {
+    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "comp_date": "2024-12-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07414952080866,
+            49.23640946597283
+          ],
+          [
+            -123.07420211439567,
+            49.23476416524147
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07417581760217,
+      "lat": 49.23558681560715
+    }
+  },
+  {
     "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
     "street": null,
     "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
@@ -1731,34 +1759,6 @@
     "geo_point_2d": {
       "lon": -123.03897035546358,
       "lat": 49.263904089013906
-    }
-  },
-  {
-    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "street": null,
-    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "comp_date": "2024-12-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07414952080866,
-            49.23640946597283
-          ],
-          [
-            -123.07420211439567,
-            49.23476416524147
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07417581760217,
-      "lat": 49.23558681560715
     }
   },
   {
