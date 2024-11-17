@@ -3,58 +3,104 @@
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2024-11-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/79a06ada-e000-494c-8161-a3dec12e4c39",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06593973539636,
-            49.2604481677711
-          ],
-          [
-            -123.06981670949094,
-            49.26047637059608
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06787822244365,
-      "lat": 49.26046226918359
-    }
-  },
-  {
-    "project": "Dumfries St from E 37th Av to E 39th Av",
-    "street": null,
-    "location": "Dumfries St from E 37th Av to E 39th Av",
     "comp_date": "2024-11-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b85f0b15-cf96-42c0-93b2-8ef330942097",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1eb0e476-4bec-430b-bebc-4dfefacb3030",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.07276145081562,
-              49.236806445278944
+              -123.11267824021576,
+              49.278442828547384
             ],
             [
-              -123.0727786366854,
-              49.23637680346374
+              -123.11398201313469,
+              49.277580764702776
             ]
           ],
           [
             [
-              -123.0727786366854,
-              49.23637680346374
+              -123.11445671074371,
+              49.277267155098144
             ],
             [
-              -123.0728242680779,
-              49.234748814604444
+              -123.1155764524893,
+              49.27652657329401
+            ]
+          ],
+          [
+            [
+              -123.11446846130269,
+              49.27789500733519
+            ],
+            [
+              -123.11398201313469,
+              49.277580764702776
+            ]
+          ],
+          [
+            [
+              -123.11398201313469,
+              49.277580764702776
+            ],
+            [
+              -123.11445671074371,
+              49.277267155098144
+            ]
+          ],
+          [
+            [
+              -123.1149548326998,
+              49.2782090500865
+            ],
+            [
+              -123.11446846130269,
+              49.27789500733519
+            ]
+          ],
+          [
+            [
+              -123.11232121521572,
+              49.27867692044384
+            ],
+            [
+              -123.11552424517116,
+              49.27656882390258
+            ]
+          ],
+          [
+            [
+              -123.11324504785219,
+              49.27933838349995
+            ],
+            [
+              -123.11350841873322,
+              49.279174520716595
+            ],
+            [
+              -123.1149548326998,
+              49.2782090500865
+            ]
+          ],
+          [
+            [
+              -123.1149548326998,
+              49.2782090500865
+            ],
+            [
+              -123.11542675555046,
+              49.27789655469422
+            ]
+          ],
+          [
+            [
+              -123.11542675555046,
+              49.27789655469422
+            ],
+            [
+              -123.11654524588734,
+              49.27715596483293
             ]
           ]
         ],
@@ -63,8 +109,56 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07279489201863,
-      "lat": 49.23577769907691
+      "lon": -123.1143409852504,
+      "lat": 49.277809166487394
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-11-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c4ca204f-114c-40d0-99dc-2c614b21d213",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11282569298972,
+              49.27493378097026
+            ],
+            [
+              -123.10966365625603,
+              49.276422138482786
+            ],
+            [
+              -123.10775777110148,
+              49.277062683588525
+            ]
+          ],
+          [
+            [
+              -123.10960590216044,
+              49.27745831023341
+            ],
+            [
+              -123.10920162349129,
+              49.27713804128936
+            ],
+            [
+              -123.10899948415673,
+              49.276638794376
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11014720281524,
+      "lat": 49.27623100071096
     }
   },
   {
@@ -978,290 +1072,6 @@
     }
   },
   {
-    "project": "Manitoba St from W 49th Av to Laneway north of W 49th Av",
-    "street": null,
-    "location": "Manitoba St from W 49th Av to Laneway north of W 49th Av",
-    "comp_date": "2024-11-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea213592-a503-4020-9488-132120f5564c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10839400369525,
-            49.226336382088476
-          ],
-          [
-            -123.10841439274239,
-            49.22581872144701
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10840419821884,
-      "lat": 49.226077551767744
-    }
-  },
-  {
-    "project": "W 17th Av from Laurel St to Willow St",
-    "street": null,
-    "location": "W 17th Av from Laurel St to Willow St",
-    "comp_date": "2024-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3c7ed8ee-4663-4f6c-9efe-140c28124cc4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12376303059968,
-              49.25617589403046
-            ],
-            [
-              -123.1244252468078,
-              49.25618821683375
-            ]
-          ],
-          [
-            [
-              -123.12206367140833,
-              49.256144275666486
-            ],
-            [
-              -123.12376303059968,
-              49.25617589403046
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1232444591186,
-      "lat": 49.25616624568376
-    }
-  },
-  {
-    "project": "Oliver Crescent from Alamein Av to Macdonald St",
-    "street": null,
-    "location": "Oliver Crescent from Alamein Av to Macdonald St",
-    "comp_date": "2024-11-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c91408e7-fd50-4f86-a4d8-4580ff529739",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16922985062484,
-              49.24960992729089
-            ],
-            [
-              -123.16923599695141,
-              49.24961518049801
-            ],
-            [
-              -123.16925152986032,
-              49.24962895642858
-            ],
-            [
-              -123.16926669239447,
-              49.24964291280432
-            ],
-            [
-              -123.16928148452303,
-              49.249657040630126
-            ],
-            [
-              -123.16929590621505,
-              49.24967133091104
-            ],
-            [
-              -123.16930992998903,
-              49.249685783687426
-            ],
-            [
-              -123.16932356958533,
-              49.24970039893927
-            ],
-            [
-              -123.16933187292602,
-              49.24970957989589
-            ],
-            [
-              -123.16966081466978,
-              49.250086941982914
-            ]
-          ],
-          [
-            [
-              -123.16785877633986,
-              49.24912890154104
-            ],
-            [
-              -123.16809231677271,
-              49.24911015774339
-            ],
-            [
-              -123.1681538946991,
-              49.24910796325008
-            ],
-            [
-              -123.16821706726714,
-              49.24911003014208
-            ],
-            [
-              -123.16827956751887,
-              49.24911642468547
-            ],
-            [
-              -123.16834070810711,
-              49.249127048935264
-            ],
-            [
-              -123.16839980168294,
-              49.24914180494798
-            ],
-            [
-              -123.16845622935318,
-              49.249160522719706
-            ],
-            [
-              -123.16850935835882,
-              49.24918299628692
-            ],
-            [
-              -123.16854623572029,
-              49.2492024531515
-            ],
-            [
-              -123.16900266428844,
-              49.24945383277233
-            ],
-            [
-              -123.16902254389574,
-              49.249464975767864
-            ],
-            [
-              -123.16904212195512,
-              49.24947633508677
-            ],
-            [
-              -123.1690613847566,
-              49.24948791974444
-            ],
-            [
-              -123.16908034604099,
-              49.249499729720924
-            ],
-            [
-              -123.16909897826548,
-              49.24951174706621
-            ],
-            [
-              -123.16911729517079,
-              49.2495239717604
-            ],
-            [
-              -123.16913528304698,
-              49.24953641281894
-            ],
-            [
-              -123.16915294183258,
-              49.249549052251524
-            ],
-            [
-              -123.16917024407698,
-              49.249561899093806
-            ],
-            [
-              -123.16918721719992,
-              49.24957493531531
-            ],
-            [
-              -123.16920383372005,
-              49.249588160956364
-            ],
-            [
-              -123.16922009363724,
-              49.249601576017255
-            ],
-            [
-              -123.16922985062484,
-              49.24960992729089
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1688351750889,
-      "lat": 49.24944390715841
-    }
-  },
-  {
-    "project": "W 24th Av from Crown St to Wallace St",
-    "street": null,
-    "location": "W 24th Av from Crown St to Wallace St",
-    "comp_date": "2024-11-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e32431f-6201-48a0-a39f-cc81a06da02c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19084030082473,
-            49.25107867997539
-          ],
-          [
-            -123.19360582944687,
-            49.25108877690124
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1922230651358,
-      "lat": 49.25108372843831
-    }
-  },
-  {
-    "project": "Both sides of 3100 Block E 62nd Av from E 63rd Av to 40m West of E 63rd Av.",
-    "street": null,
-    "location": "Both sides of 3100 Block E 62nd Av from E 63rd Av to 40m West of E 63rd Av.",
-    "comp_date": "2024-11-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b4c6be8d-9be7-45df-bc7a-ca74dd31ad72",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03965221463525,
-            49.21377981473546
-          ],
-          [
-            -123.03887580462076,
-            49.213764396025056
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.039264009628,
-      "lat": 49.21377210538026
-    }
-  },
-  {
     "project": "4950 Heather Street",
     "street": null,
     "location": "4950 Heather Street",
@@ -1312,93 +1122,31 @@
     }
   },
   {
-    "project": "Windermere St from E 7th Av to E 8th Av",
+    "project": "Alberni St - Nicola St to Cardero St",
     "street": null,
-    "location": "Windermere St from E 7th Av to E 8th Av",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e7d2a17-3c6e-49e3-8061-56ebbb2a7068",
+    "location": "Alberni St - Nicola St to Cardero St",
+    "comp_date": "2024-11-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5e33adfb-57f8-4424-8044-c7d74fe074bf",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.03649612687866,
-              49.26383092010147
-            ],
-            [
-              -123.03650069969753,
-              49.26337804611737
-            ]
+            -123.13004382164875,
+            49.2893796068187
           ],
           [
-            [
-              -123.03650069969753,
-              49.26337804611737
-            ],
-            [
-              -123.03650431059053,
-              49.26292553220955
-            ]
+            -123.13122603035521,
+            49.290144577560085
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03650045838279,
-      "lat": 49.263378228321564
-    }
-  },
-  {
-    "project": "W 27th Av from Collingwood St to Blenheim St",
-    "street": null,
-    "location": "W 27th Av from Collingwood St to Blenheim St",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9137866-504b-4fdb-9e1d-cf499b88c7d1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ],
-          [
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ],
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ]
-          ],
-          [
-            [
-              -123.17860524839084,
-              49.24804259797858
-            ],
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18020603669673,
-      "lat": 49.2480484241057
+      "lon": -123.13063492600199,
+      "lat": 49.28976209218939
     }
   },
   {
@@ -1435,34 +1183,6 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
-    }
-  },
-  {
-    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "street": null,
-    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "comp_date": "2024-12-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07414952080866,
-            49.23640946597283
-          ],
-          [
-            -123.07420211439567,
-            49.23476416524147
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07417581760217,
-      "lat": 49.23558681560715
     }
   },
   {
@@ -2007,94 +1727,6 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
-    }
-  },
-  {
-    "project": "E 22nd Av from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Av from Welwyn St to Commercial St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06986009176771,
-              49.25034580560083
-            ],
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ]
-          ],
-          [
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ],
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ]
-          ],
-          [
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ],
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ]
-          ],
-          [
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ],
-            [
-              -123.06777890090561,
-              49.250314131777344
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06881950144792,
-      "lat": 49.25032945584743
-    }
-  },
-  {
-    "project": "E 22nd Ave from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Ave from Welwyn St to Commercial St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0694098255357,
-            49.250352416228964
-          ],
-          [
-            -123.06815380101884,
-            49.25032711139531
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06878181327725,
-      "lat": 49.250339763812136
     }
   },
   {
