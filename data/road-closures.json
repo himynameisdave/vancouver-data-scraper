@@ -28,6 +28,46 @@
     }
   },
   {
+    "project": "Dumfries St from E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Dumfries St from E 37th Av to E 39th Av",
+    "comp_date": "2024-11-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b85f0b15-cf96-42c0-93b2-8ef330942097",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07276145081562,
+              49.236806445278944
+            ],
+            [
+              -123.0727786366854,
+              49.23637680346374
+            ]
+          ],
+          [
+            [
+              -123.0727786366854,
+              49.23637680346374
+            ],
+            [
+              -123.0728242680779,
+              49.234748814604444
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07279489201863,
+      "lat": 49.23577769907691
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -966,46 +1006,6 @@
     }
   },
   {
-    "project": "Dumfries St from E 37th Av to E 39th Av",
-    "street": null,
-    "location": "Dumfries St from E 37th Av to E 39th Av",
-    "comp_date": "2024-11-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b85f0b15-cf96-42c0-93b2-8ef330942097",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07276145081562,
-              49.236806445278944
-            ],
-            [
-              -123.0727786366854,
-              49.23637680346374
-            ]
-          ],
-          [
-            [
-              -123.0727786366854,
-              49.23637680346374
-            ],
-            [
-              -123.0728242680779,
-              49.234748814604444
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07279489201863,
-      "lat": 49.23577769907691
-    }
-  },
-  {
     "project": "W 17th Av from Laurel St to Willow St",
     "street": null,
     "location": "W 17th Av from Laurel St to Willow St",
@@ -1438,6 +1438,34 @@
     }
   },
   {
+    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "comp_date": "2024-12-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07414952080866,
+            49.23640946597283
+          ],
+          [
+            -123.07420211439567,
+            49.23476416524147
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07417581760217,
+      "lat": 49.23558681560715
+    }
+  },
+  {
     "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
     "street": null,
     "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
@@ -1595,34 +1623,6 @@
     "geo_point_2d": {
       "lon": -123.03897035546358,
       "lat": 49.263904089013906
-    }
-  },
-  {
-    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "street": null,
-    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "comp_date": "2024-12-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07414952080866,
-            49.23640946597283
-          ],
-          [
-            -123.07420211439567,
-            49.23476416524147
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07417581760217,
-      "lat": 49.23558681560715
     }
   },
   {
