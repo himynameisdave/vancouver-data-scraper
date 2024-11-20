@@ -1,45 +1,5 @@
 [
   {
-    "project": "W 17th Av from Laurel St to Willow St",
-    "street": null,
-    "location": "W 17th Av from Laurel St to Willow St",
-    "comp_date": "2024-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3c7ed8ee-4663-4f6c-9efe-140c28124cc4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12376303059968,
-              49.25617589403046
-            ],
-            [
-              -123.1244252468078,
-              49.25618821683375
-            ]
-          ],
-          [
-            [
-              -123.12206367140833,
-              49.256144275666486
-            ],
-            [
-              -123.12376303059968,
-              49.25617589403046
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1232444591186,
-      "lat": 49.25616624568376
-    }
-  },
-  {
     "project": "Oliver Crescent from Alamein Av to Macdonald St",
     "street": null,
     "location": "Oliver Crescent from Alamein Av to Macdonald St",
@@ -200,6 +160,34 @@
     }
   },
   {
+    "project": "Both sides of 700 Block E 10th Av from Fraser St to 30m East of Fraser St.",
+    "street": null,
+    "location": "Both sides of 700 Block E 10th Av from Fraser St to 30m East of Fraser St.",
+    "comp_date": "2024-11-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f0d7ce26-a324-4114-8d22-1136f29bda71",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08914683638875,
+            49.26153206653012
+          ],
+          [
+            -123.0885836500772,
+            49.26152722826674
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08886524323297,
+      "lat": 49.26152964739843
+    }
+  },
+  {
     "project": "W 24th Av from Crown St to Wallace St",
     "street": null,
     "location": "W 24th Av from Crown St to Wallace St",
@@ -303,6 +291,34 @@
     "geo_point_2d": {
       "lon": -123.11948952392409,
       "lat": 49.24117718507583
+    }
+  },
+  {
+    "project": "Ross St from E 29th Av to E 31st Av",
+    "street": null,
+    "location": "Ross St from E 29th Av to E 31st Av",
+    "comp_date": "2024-11-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/57012be5-a611-40ed-9211-0427601c570d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08134078779446,
+            49.244602475449625
+          ],
+          [
+            -123.08135595534998,
+            49.24249455704572
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08134837157223,
+      "lat": 49.24354851624767
     }
   },
   {
