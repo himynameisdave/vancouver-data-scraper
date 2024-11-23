@@ -1,21 +1,21 @@
 [
   {
-    "project": "W 24th Av from Crown St to Wallace St",
+    "project": "East side of 700 Block Granville St from Robson St to 20m North of Robson St.",
     "street": null,
-    "location": "W 24th Av from Crown St to Wallace St",
-    "comp_date": "2024-11-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e32431f-6201-48a0-a39f-cc81a06da02c",
+    "location": "East side of 700 Block Granville St from Robson St to 20m North of Robson St.",
+    "comp_date": "2024-11-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c58cadc9-b5f2-46b7-878f-d61f97e5ab2d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.19084030082473,
-            49.25107867997539
+            -123.11980793174581,
+            49.28140090317609
           ],
           [
-            -123.19360582944687,
-            49.25108877690124
+            -123.11948606666402,
+            49.28161436906922
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1922230651358,
-      "lat": 49.25108372843831
+      "lon": -123.11964699920492,
+      "lat": 49.281507636122655
     }
   },
   {
@@ -103,6 +103,38 @@
     "geo_point_2d": {
       "lon": -123.08134837157223,
       "lat": 49.24354851624767
+    }
+  },
+  {
+    "project": "East side of 500 Block Columbia St from Keefer St to Pender St.",
+    "street": null,
+    "location": "East side of 500 Block Columbia St from Keefer St to Pender St.",
+    "comp_date": "2024-11-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1272aabc-c494-4d25-97d8-2b0e8c67fc02",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10230359491864,
+            49.280407916434
+          ],
+          [
+            -123.10233578142682,
+            49.279585522633454
+          ],
+          [
+            -123.10221239981215,
+            49.27929155726699
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10230695698428,
+      "lat": 49.27984087149008
     }
   },
   {
@@ -381,6 +413,46 @@
     "geo_point_2d": {
       "lon": -123.10088224206491,
       "lat": 49.27286392941384
+    }
+  },
+  {
+    "project": "Fleming St from E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Fleming St from E 37th Av to E 39th Av",
+    "comp_date": "2024-12-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49b9d48e-a29c-48bd-8f43-c22dc30ff025",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0727786366854,
+              49.23637680346374
+            ],
+            [
+              -123.0728242680779,
+              49.234748814604444
+            ]
+          ],
+          [
+            [
+              -123.07276145081562,
+              49.236806445278944
+            ],
+            [
+              -123.0727786366854,
+              49.23637680346374
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07279489201863,
+      "lat": 49.23577769907691
     }
   },
   {
@@ -953,6 +1025,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
