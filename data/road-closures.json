@@ -1,315 +1,5 @@
 [
   {
-    "project": "W 28th Av from Camosun St to Crown St",
-    "street": null,
-    "location": "W 28th Av from Camosun St to Crown St",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0fa59b3b-1e0f-42b7-bc75-32f96dffe621",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19361848944565,
-            49.24715800038376
-          ],
-          [
-            -123.19675482069512,
-            49.24717104288729
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19518665507037,
-      "lat": 49.247164521635526
-    }
-  },
-  {
-    "project": "Both sides 400 block of E 19th Av from West PL of 409 to East PL of 451.",
-    "street": null,
-    "location": "Both sides 400 block of E 19th Av from West PL of 409 to East PL of 451.",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7349e1d7-3202-4ec2-9548-3a48a7bb4da8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09480198760163,
-            49.2538064702282
-          ],
-          [
-            -123.09591778655185,
-            49.25381697444564
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09535988707674,
-      "lat": 49.25381172233692
-    }
-  },
-  {
-    "project": "Windermere St from E 7th Av to E 8th Av",
-    "street": null,
-    "location": "Windermere St from E 7th Av to E 8th Av",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e7d2a17-3c6e-49e3-8061-56ebbb2a7068",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03649612687866,
-              49.26383092010147
-            ],
-            [
-              -123.03650069969753,
-              49.26337804611737
-            ]
-          ],
-          [
-            [
-              -123.03650069969753,
-              49.26337804611737
-            ],
-            [
-              -123.03650431059053,
-              49.26292553220955
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03650045838279,
-      "lat": 49.263378228321564
-    }
-  },
-  {
-    "project": "W 27th Av from Collingwood St to Blenheim St",
-    "street": null,
-    "location": "W 27th Av from Collingwood St to Blenheim St",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d9137866-504b-4fdb-9e1d-cf499b88c7d1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ],
-          [
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ],
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ]
-          ],
-          [
-            [
-              -123.17860524839084,
-              49.24804259797858
-            ],
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18020603669673,
-      "lat": 49.2480484241057
-    }
-  },
-  {
-    "project": "Shaughnessy St from Park Dr to W 64th Av",
-    "street": null,
-    "location": "Shaughnessy St from Park Dr to W 64th Av",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0eea739f-3a55-402e-a74b-4086dab6fc33",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12867799276945,
-              49.214067610720804
-            ],
-            [
-              -123.12869748901939,
-              49.21349047850069
-            ]
-          ],
-          [
-            [
-              -123.12869748901939,
-              49.21349047850069
-            ],
-            [
-              -123.12871514780728,
-              49.21296733797516
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12869657383933,
-      "lat": 49.213517474467885
-    }
-  },
-  {
-    "project": "Park Dr from Fremlin St to Oak St",
-    "street": null,
-    "location": "Park Dr from Fremlin St to Oak St",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e6b4336-aeeb-4c8f-b8cd-f84794a33de3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12934695198106,
-              49.21425871499184
-            ],
-            [
-              -123.13004695791861,
-              49.21445868576524
-            ]
-          ],
-          [
-            [
-              -123.12867799276945,
-              49.214067610720804
-            ],
-            [
-              -123.12934695198106,
-              49.21425871499184
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12936247516717,
-      "lat": 49.214263148862166
-    }
-  },
-  {
-    "project": "Both sides of 1000-1200 Block Nootka St from Lane North of Charles St to North o",
-    "street": null,
-    "location": "Both sides of 1000-1200 Block Nootka St from Lane North of Charles St to North o",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25e00b3c-378d-48f4-9917-3ece9938b79d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04142554514395,
-            49.273760966464806
-          ],
-          [
-            -123.04141481630788,
-            49.27420896322187
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04142018072591,
-      "lat": 49.273984964843336
-    }
-  },
-  {
-    "project": "Both Sides of 3100 Block of E Georgia Street From West PL of 3128 to East PL of",
-    "street": null,
-    "location": "Both Sides of 3100 Block of E Georgia Street From West PL of 3128 to East PL of",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e7705dd-ef61-4568-942f-b960d9345741",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03800017869422,
-            49.27825990133198
-          ],
-          [
-            -123.0362843556748,
-            49.27825990133198
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0371422671845,
-      "lat": 49.27825990133198
-    }
-  },
-  {
-    "project": "W 68th Av from Heather St to Ash St",
-    "street": null,
-    "location": "W 68th Av from Heather St to Ash St",
-    "comp_date": "2024-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8378dcdf-a143-4808-a1df-1f9850343658",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12027948189551,
-            49.21022376394788
-          ],
-          [
-            -123.12413487179153,
-            49.21027393554684
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12220717684352,
-      "lat": 49.21024884974736
-    }
-  },
-  {
     "project": "Both sides of 3400 block of Napier St from West PL of 3455 to the East PL of 349",
     "street": null,
     "location": "Both sides of 3400 block of Napier St from West PL of 3455 to the East PL of 349",
@@ -335,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.02891220613296,
       "lat": 49.274944280995584
+    }
+  },
+  {
+    "project": "Semlin Dr from Napier St to William St",
+    "street": null,
+    "location": "Semlin Dr from Napier St to William St",
+    "comp_date": "2024-12-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/898ecda5-534d-442e-9de6-2571121a9406",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06352541415129,
+            49.27480515206375
+          ],
+          [
+            -123.06354576922735,
+            49.273773617709736
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0635355916893,
+      "lat": 49.27428938488674
     }
   },
   {
@@ -366,6 +84,34 @@
     }
   },
   {
+    "project": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
+    "street": null,
+    "location": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
+    "comp_date": "2024-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/91c7ba92-ef68-41dd-8fc2-067d590295da",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19334535555905,
+            49.23954390455546
+          ],
+          [
+            -123.19161264853541,
+            49.23954390455546
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19247900204724,
+      "lat": 49.239543904555454
+    }
+  },
+  {
     "project": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
     "street": null,
     "location": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
@@ -391,6 +137,34 @@
     "geo_point_2d": {
       "lon": -123.09699018495212,
       "lat": 49.239240451669815
+    }
+  },
+  {
+    "project": "W 68th Av from Heather St and Ash St",
+    "street": null,
+    "location": "W 68th Av from Heather St and Ash St",
+    "comp_date": "2024-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70bd0f50-fa7a-48ca-aecf-3a278c751403",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12027948189551,
+            49.21022376394788
+          ],
+          [
+            -123.12413487179153,
+            49.21027393554684
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12220717684352,
+      "lat": 49.21024884974736
     }
   },
   {
@@ -1129,6 +903,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
