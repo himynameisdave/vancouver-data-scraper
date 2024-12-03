@@ -1,42 +1,256 @@
 [
   {
-    "project": "West Blvd - W 45th Av to W 46th",
+    "project": "Both sides of 2100 Block E 42nd Ave from West of PL 2136 to East of PL 2196.",
     "street": null,
-    "location": "West Blvd - W 45th Av to W 46th",
-    "comp_date": "2024-12-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6db8f784-b729-4ce4-8023-bf522f7102db",
+    "location": "Both sides of 2100 Block E 42nd Ave from West of PL 2136 to East of PL 2196.",
+    "comp_date": "2024-12-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/819ab485-a572-40e3-a399-a47f7aff8c22",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06233868276495,
+            49.23206299473776
+          ],
+          [
+            -123.06334182893652,
+            49.23205248589187
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06284025585073,
+      "lat": 49.232057740314815
+    }
+  },
+  {
+    "project": "Both sides of 3400 block of Napier St from West PL of 3455 to the East PL of 349",
+    "street": null,
+    "location": "Both sides of 3400 block of Napier St from West PL of 3455 to the East PL of 349",
+    "comp_date": "2024-12-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3dc2b8f4-84de-4a72-8bff-1694bde6b6b7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02938427491956,
+            49.274944280995584
+          ],
+          [
+            -123.02844013734634,
+            49.274944280995584
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02891220613296,
+      "lat": 49.274944280995584
+    }
+  },
+  {
+    "project": "Semlin Dr from Napier St to William St",
+    "street": null,
+    "location": "Semlin Dr from Napier St to William St",
+    "comp_date": "2024-12-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/898ecda5-534d-442e-9de6-2571121a9406",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06352541415129,
+            49.27480515206375
+          ],
+          [
+            -123.06354576922735,
+            49.273773617709736
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0635355916893,
+      "lat": 49.27428938488674
+    }
+  },
+  {
+    "project": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
+    "street": null,
+    "location": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
+    "comp_date": "2024-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/91c7ba92-ef68-41dd-8fc2-067d590295da",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19334535555905,
+            49.23954390455546
+          ],
+          [
+            -123.19161264853541,
+            49.23954390455546
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19247900204724,
+      "lat": 49.239543904555454
+    }
+  },
+  {
+    "project": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
+    "street": null,
+    "location": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
+    "comp_date": "2024-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d351c600-a9ba-40a7-8c0b-aa7651089614",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09697945611605,
+            49.23961346145319
+          ],
+          [
+            -123.09700091378818,
+            49.23886744188644
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09699018495212,
+      "lat": 49.239240451669815
+    }
+  },
+  {
+    "project": "W 68th Av from Heather St and Ash St",
+    "street": null,
+    "location": "W 68th Av from Heather St and Ash St",
+    "comp_date": "2024-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70bd0f50-fa7a-48ca-aecf-3a278c751403",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12027948189551,
+            49.21022376394788
+          ],
+          [
+            -123.12413487179153,
+            49.21027393554684
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12220717684352,
+      "lat": 49.21024884974736
+    }
+  },
+  {
+    "project": "Both sides of the 0 Block of W 14th Av from Manitoba St to East PL of 26",
+    "street": null,
+    "location": "Both sides of the 0 Block of W 14th Av from Manitoba St to East PL of 26",
+    "comp_date": "2024-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/43bbe9d8-4300-4329-9ef3-37a8cd56a5ed",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.107067753593,
+            49.258505319256614
+          ],
+          [
+            -123.10565691165118,
+            49.258480811740384
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1063623326221,
+      "lat": 49.2584930654985
+    }
+  },
+  {
+    "project": "W 36th Av from Wallace St to Crown St",
+    "street": null,
+    "location": "W 36th Av from Wallace St to Crown St",
+    "comp_date": "2024-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2af8ed4b-1c56-4fea-8d85-6e4b95d448a8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19094968035765,
+            49.239544982864174
+          ],
+          [
+            -123.19370921507863,
+            49.23955711089988
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19232944771814,
+      "lat": 49.239551046882035
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2024-12-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5d4f7918-9ea8-49e0-88be-6b1bfb01642b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.15569727667678,
-              49.23086009928156
+              -123.12085660665308,
+              49.28825507986997
             ],
             [
-              -123.15573191510182,
-              49.22988479543483
+              -123.11866035299187,
+              49.287614065815376
             ]
           ],
           [
             [
-              -123.1563662838906,
-              49.23087008892264
+              -123.11977468373367,
+              49.28795150412179
             ],
             [
-              -123.158657342171,
-              49.230903584773046
-            ]
-          ],
-          [
-            [
-              -123.15569727667678,
-              49.23086009928156
-            ],
-            [
-              -123.1563662838906,
-              49.23087008892264
+              -123.11913768433953,
+              49.28837277997698
             ]
           ]
         ],
@@ -45,8 +259,144 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15681466131063,
-      "lat": 49.23075560966926
+      "lon": -123.11968282612783,
+      "lat": 49.28799152517901
+    }
+  },
+  {
+    "project": "Fleming St from E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Fleming St from E 37th Av to E 39th Av",
+    "comp_date": "2024-12-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49b9d48e-a29c-48bd-8f43-c22dc30ff025",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0727786366854,
+              49.23637680346374
+            ],
+            [
+              -123.0728242680779,
+              49.234748814604444
+            ]
+          ],
+          [
+            [
+              -123.07276145081562,
+              49.236806445278944
+            ],
+            [
+              -123.0727786366854,
+              49.23637680346374
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07279489201863,
+      "lat": 49.23577769907691
+    }
+  },
+  {
+    "project": "B/S of 900 blk of Chilco St",
+    "street": null,
+    "location": "B/S of 900 blk of Chilco St",
+    "comp_date": "2024-12-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f7fb45de-b956-43ab-b17f-7b862cf86c22",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14155746088831,
+            49.29130086548585
+          ],
+          [
+            -123.1410532055935,
+            49.291626247778254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1413053332409,
+      "lat": 49.29146355663205
+    }
+  },
+  {
+    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
+    "comp_date": "2024-12-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07414952080866,
+            49.23640946597283
+          ],
+          [
+            -123.07420211439567,
+            49.23476416524147
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07417581760217,
+      "lat": 49.23558681560715
+    }
+  },
+  {
+    "project": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
+    "street": null,
+    "location": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
+    "comp_date": "2024-12-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1ffe75b-4f06-471a-ac87-64041613e3ef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07757332405141,
+              49.24900972736182
+            ],
+            [
+              -123.07614683948476,
+              49.24898720161016
+            ]
+          ],
+          [
+            [
+              -123.07678769556627,
+              49.24945187305548
+            ],
+            [
+              -123.07680485369828,
+              49.24899524726757
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07684460269402,
+      "lat": 49.249053070802226
     }
   },
   {
