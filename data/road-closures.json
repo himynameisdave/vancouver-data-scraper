@@ -1,89 +1,5 @@
 [
   {
-    "project": "Both sides of 2100 Block E 42nd Ave from West of PL 2136 to East of PL 2196.",
-    "street": null,
-    "location": "Both sides of 2100 Block E 42nd Ave from West of PL 2136 to East of PL 2196.",
-    "comp_date": "2024-12-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/819ab485-a572-40e3-a399-a47f7aff8c22",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06233868276495,
-            49.23206299473776
-          ],
-          [
-            -123.06334182893652,
-            49.23205248589187
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06284025585073,
-      "lat": 49.232057740314815
-    }
-  },
-  {
-    "project": "Both sides of 3400 block of Napier St from West PL of 3455 to the East PL of 349",
-    "street": null,
-    "location": "Both sides of 3400 block of Napier St from West PL of 3455 to the East PL of 349",
-    "comp_date": "2024-12-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3dc2b8f4-84de-4a72-8bff-1694bde6b6b7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02938427491956,
-            49.274944280995584
-          ],
-          [
-            -123.02844013734634,
-            49.274944280995584
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02891220613296,
-      "lat": 49.274944280995584
-    }
-  },
-  {
-    "project": "Semlin Dr from Napier St to William St",
-    "street": null,
-    "location": "Semlin Dr from Napier St to William St",
-    "comp_date": "2024-12-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/898ecda5-534d-442e-9de6-2571121a9406",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06352541415129,
-            49.27480515206375
-          ],
-          [
-            -123.06354576922735,
-            49.273773617709736
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0635355916893,
-      "lat": 49.27428938488674
-    }
-  },
-  {
     "project": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
     "street": null,
     "location": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
@@ -137,6 +53,94 @@
     "geo_point_2d": {
       "lon": -123.09699018495212,
       "lat": 49.239240451669815
+    }
+  },
+  {
+    "project": "Dumfries St from E 18th Av to E 20th Av",
+    "street": null,
+    "location": "Dumfries St from E 18th Av to E 20th Av",
+    "comp_date": "2024-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f23e4881-bdf2-4d76-8ec1-225665c1fe06",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07291016441462,
+              49.25435568227135
+            ],
+            [
+              -123.07292633257124,
+              49.25390368926736
+            ]
+          ],
+          [
+            [
+              -123.07292633257124,
+              49.25390368926736
+            ],
+            [
+              -123.0729424736163,
+              49.25345214600364
+            ]
+          ],
+          [
+            [
+              -123.0729424736163,
+              49.25345214600364
+            ],
+            [
+              -123.07295864111236,
+              49.253000098953066
+            ]
+          ],
+          [
+            [
+              -123.07295864111236,
+              49.253000098953066
+            ],
+            [
+              -123.07297463047327,
+              49.25254859169047
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07294245686005,
+      "lat": 49.25345213909547
+    }
+  },
+  {
+    "project": "Rupert St from E 7th Av to E 8th Av",
+    "street": null,
+    "location": "Rupert St from E 7th Av to E 8th Av",
+    "comp_date": "2024-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a0501c9-3118-4fd2-9a90-c02803b99108",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03375379498337,
+            49.263820797624334
+          ],
+          [
+            -123.033755266903,
+            49.26291584365987
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03375453094318,
+      "lat": 49.2633683206421
     }
   },
   {
@@ -479,7 +483,7 @@
     "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
     "street": null,
     "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
-    "comp_date": "2025-01-03",
+    "comp_date": "2025-01-07",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
     "geom": {
       "type": "Feature",
