@@ -1,177 +1,5 @@
 [
   {
-    "project": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
-    "street": null,
-    "location": "Both sides of 3900 Block of W 36th Av from West PL of 3981 to East PL of 3927",
-    "comp_date": "2024-12-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/91c7ba92-ef68-41dd-8fc2-067d590295da",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19334535555905,
-            49.23954390455546
-          ],
-          [
-            -123.19161264853541,
-            49.23954390455546
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19247900204724,
-      "lat": 49.239543904555454
-    }
-  },
-  {
-    "project": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
-    "street": null,
-    "location": "Both Sides of 5000 Block of Prince Edward Street From E 35th Avenue to E 34th Av",
-    "comp_date": "2024-12-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d351c600-a9ba-40a7-8c0b-aa7651089614",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09697945611605,
-            49.23961346145319
-          ],
-          [
-            -123.09700091378818,
-            49.23886744188644
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09699018495212,
-      "lat": 49.239240451669815
-    }
-  },
-  {
-    "project": "Dumfries St from E 18th Av to E 20th Av",
-    "street": null,
-    "location": "Dumfries St from E 18th Av to E 20th Av",
-    "comp_date": "2024-12-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f23e4881-bdf2-4d76-8ec1-225665c1fe06",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07291016441462,
-              49.25435568227135
-            ],
-            [
-              -123.07292633257124,
-              49.25390368926736
-            ]
-          ],
-          [
-            [
-              -123.07292633257124,
-              49.25390368926736
-            ],
-            [
-              -123.0729424736163,
-              49.25345214600364
-            ]
-          ],
-          [
-            [
-              -123.0729424736163,
-              49.25345214600364
-            ],
-            [
-              -123.07295864111236,
-              49.253000098953066
-            ]
-          ],
-          [
-            [
-              -123.07295864111236,
-              49.253000098953066
-            ],
-            [
-              -123.07297463047327,
-              49.25254859169047
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07294245686005,
-      "lat": 49.25345213909547
-    }
-  },
-  {
-    "project": "Rupert St from E 7th Av to E 8th Av",
-    "street": null,
-    "location": "Rupert St from E 7th Av to E 8th Av",
-    "comp_date": "2024-12-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a0501c9-3118-4fd2-9a90-c02803b99108",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03375379498337,
-            49.263820797624334
-          ],
-          [
-            -123.033755266903,
-            49.26291584365987
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03375453094318,
-      "lat": 49.2633683206421
-    }
-  },
-  {
-    "project": "W 68th Av from Heather St and Ash St",
-    "street": null,
-    "location": "W 68th Av from Heather St and Ash St",
-    "comp_date": "2024-12-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70bd0f50-fa7a-48ca-aecf-3a278c751403",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12027948189551,
-            49.21022376394788
-          ],
-          [
-            -123.12413487179153,
-            49.21027393554684
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12220717684352,
-      "lat": 49.21024884974736
-    }
-  },
-  {
     "project": "Both sides of the 0 Block of W 14th Av from Manitoba St to East PL of 26",
     "street": null,
     "location": "Both sides of the 0 Block of W 14th Av from Manitoba St to East PL of 26",
@@ -197,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.1063623326221,
       "lat": 49.2584930654985
+    }
+  },
+  {
+    "project": "West side of 1200-1300 Block Howe St from 25m North of Drake St to Pacific St.",
+    "street": null,
+    "location": "West side of 1200-1300 Block Howe St from 25m North of Drake St to Pacific St.",
+    "comp_date": "2024-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e4c176a-8460-40fd-8534-29d474350264",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13033757010348,
+            49.27571619715496
+          ],
+          [
+            -123.12840456954937,
+            49.27700376514906
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1293710698264,
+      "lat": 49.27635998115201
     }
   },
   {
