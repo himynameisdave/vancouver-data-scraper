@@ -1,61 +1,5 @@
 [
   {
-    "project": "Both sides of the 0 Block of W 14th Av from Manitoba St to East PL of 26",
-    "street": null,
-    "location": "Both sides of the 0 Block of W 14th Av from Manitoba St to East PL of 26",
-    "comp_date": "2024-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/43bbe9d8-4300-4329-9ef3-37a8cd56a5ed",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.107067753593,
-            49.258505319256614
-          ],
-          [
-            -123.10565691165118,
-            49.258480811740384
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1063623326221,
-      "lat": 49.2584930654985
-    }
-  },
-  {
-    "project": "West side of 1200-1300 Block Howe St from 25m North of Drake St to Pacific St.",
-    "street": null,
-    "location": "West side of 1200-1300 Block Howe St from 25m North of Drake St to Pacific St.",
-    "comp_date": "2024-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e4c176a-8460-40fd-8534-29d474350264",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13033757010348,
-            49.27571619715496
-          ],
-          [
-            -123.12840456954937,
-            49.27700376514906
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1293710698264,
-      "lat": 49.27635998115201
-    }
-  },
-  {
     "project": "W 36th Av from Wallace St to Crown St",
     "street": null,
     "location": "W 36th Av from Wallace St to Crown St",
@@ -81,6 +25,46 @@
     "geo_point_2d": {
       "lon": -123.19232944771814,
       "lat": 49.239551046882035
+    }
+  },
+  {
+    "project": "St. George St from E 19th Av to E 20th Av",
+    "street": null,
+    "location": "St. George St from E 19th Av to E 20th Av",
+    "comp_date": "2024-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0537d86-73c5-448b-8554-e87bec5837d9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09387537872269,
+              49.25378146972304
+            ],
+            [
+              -123.09389190404096,
+              49.25332899666762
+            ]
+          ],
+          [
+            [
+              -123.09389190404096,
+              49.25332899666762
+            ],
+            [
+              -123.09390863534087,
+              49.25287660436368
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09389195486486,
+      "lat": 49.253329035126065
     }
   },
   {
@@ -121,6 +105,34 @@
     "geo_point_2d": {
       "lon": -123.11968282612783,
       "lat": 49.28799152517901
+    }
+  },
+  {
+    "project": "Both sides of 700 Block of E 50th from Lane East of Fraser St to East PL of 745",
+    "street": null,
+    "location": "Both sides of 700 Block of E 50th from Lane East of Fraser St to East PL of 745",
+    "comp_date": "2024-12-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9dc04330-0185-4280-8533-6b7f6ae573bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09012671177855,
+            49.22451768661648
+          ],
+          [
+            -123.08926239027194,
+            49.22450378303202
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08969455102525,
+      "lat": 49.22451073482425
     }
   },
   {
