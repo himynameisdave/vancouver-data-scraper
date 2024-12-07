@@ -1,73 +1,5 @@
 [
   {
-    "project": "W 36th Av from Wallace St to Crown St",
-    "street": null,
-    "location": "W 36th Av from Wallace St to Crown St",
-    "comp_date": "2024-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2af8ed4b-1c56-4fea-8d85-6e4b95d448a8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19094968035765,
-            49.239544982864174
-          ],
-          [
-            -123.19370921507863,
-            49.23955711089988
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19232944771814,
-      "lat": 49.239551046882035
-    }
-  },
-  {
-    "project": "St. George St from E 19th Av to E 20th Av",
-    "street": null,
-    "location": "St. George St from E 19th Av to E 20th Av",
-    "comp_date": "2024-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0537d86-73c5-448b-8554-e87bec5837d9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09387537872269,
-              49.25378146972304
-            ],
-            [
-              -123.09389190404096,
-              49.25332899666762
-            ]
-          ],
-          [
-            [
-              -123.09389190404096,
-              49.25332899666762
-            ],
-            [
-              -123.09390863534087,
-              49.25287660436368
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09389195486486,
-      "lat": 49.253329035126065
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -269,6 +201,74 @@
     "geo_point_2d": {
       "lon": -123.07684460269402,
       "lat": 49.249053070802226
+    }
+  },
+  {
+    "project": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
+    "street": null,
+    "location": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
+    "comp_date": "2024-12-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a01def52-9859-4ec0-afad-c85ef38757d8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11602168424187,
+              49.23725052225083
+            ],
+            [
+              -123.1154745136028,
+              49.23721549643446
+            ],
+            [
+              -123.11447673184928,
+              49.23715244990234
+            ]
+          ],
+          [
+            [
+              -123.11606112883308,
+              49.23944013256741
+            ],
+            [
+              -123.11565281143169,
+              49.23908213875367
+            ],
+            [
+              -123.11536115614497,
+              49.238830779844506
+            ],
+            [
+              -123.11519782918442,
+              49.238564185664075
+            ],
+            [
+              -123.11518616297295,
+              49.23837376036846
+            ],
+            [
+              -123.11517449676148,
+              49.23800814174274
+            ],
+            [
+              -123.11517449676148,
+              49.23753588034535
+            ],
+            [
+              -123.11518616297295,
+              49.23719310714816
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11533182837431,
+      "lat": 49.237968388957285
     }
   },
   {
@@ -899,6 +899,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
