@@ -1,127 +1,5 @@
 [
   {
-    "project": "South laneway of E 21st Av from St. George St and Carolina St",
-    "street": null,
-    "location": "South laneway of E 21st Av from St. George St and Carolina St",
-    "comp_date": "2024-12-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59d348c1-a00e-4fc0-adc9-f15ec43c25ff",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0939564384277,
-            49.25152046361865
-          ],
-          [
-            -123.09202232480158,
-            49.251489241732855
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09298938161464,
-      "lat": 49.25150485267575
-    }
-  },
-  {
-    "project": "N/S 700 Blk of SW Marine Drive From Heather St to 20m E. B/S of 8700 Block of Fr",
-    "street": null,
-    "location": "N/S 700 Blk of SW Marine Drive From Heather St to 20m E. B/S of 8700 Block of Fr",
-    "comp_date": "2024-12-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a380b2aa-c2be-4e8f-b31b-5f46c748bbe8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12445390678751,
-              49.207084362958255
-            ],
-            [
-              -123.12417079589112,
-              49.207210532686275
-            ]
-          ],
-          [
-            [
-              -123.12762170700204,
-              49.205743782585586
-            ],
-            [
-              -123.12760454870637,
-              49.20609706654815
-            ]
-          ],
-          [
-            [
-              -123.13177917927248,
-              49.205089485145265
-            ],
-            [
-              -123.13176631046892,
-              49.205512870442874
-            ]
-          ],
-          [
-            [
-              -123.13343507853156,
-              49.20488994619956
-            ],
-            [
-              -123.13343078903947,
-              49.20519557058398
-            ]
-          ],
-          [
-            [
-              -123.13479057865145,
-              49.20441047695439
-            ],
-            [
-              -123.13477342068306,
-              49.20481143685879
-            ]
-          ],
-          [
-            [
-              -123.13696538452496,
-              49.20375154973496
-            ],
-            [
-              -123.1368409872906,
-              49.203902963617935
-            ]
-          ],
-          [
-            [
-              -123.14923876731132,
-              49.207416052447684
-            ],
-            [
-              -123.14886128611614,
-              49.20873940772063
-            ],
-            [
-              -123.14827361653562,
-              49.209002953118045
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14013346320166,
-      "lat": 49.20686379402292
-    }
-  },
-  {
     "project": "B/S 1300 Blk of E 61st Av From W PL 1363 to E PL 1371. B/S of 100 Blk W 62nd Av",
     "street": null,
     "location": "B/S 1300 Blk of E 61st Av From W PL 1363 to E PL 1371. B/S of 100 Blk W 62nd Av",
@@ -272,6 +150,100 @@
     }
   },
   {
+    "project": "N/S 700 Blk of SW Marine Drive From Heather St to 20m E. B/S of 8700 Block of Fr",
+    "street": null,
+    "location": "N/S 700 Blk of SW Marine Drive From Heather St to 20m E. B/S of 8700 Block of Fr",
+    "comp_date": "2024-12-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a380b2aa-c2be-4e8f-b31b-5f46c748bbe8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12445390678751,
+              49.207084362958255
+            ],
+            [
+              -123.12417079589112,
+              49.207210532686275
+            ]
+          ],
+          [
+            [
+              -123.12762170700204,
+              49.205743782585586
+            ],
+            [
+              -123.12760454870637,
+              49.20609706654815
+            ]
+          ],
+          [
+            [
+              -123.13177917927248,
+              49.205089485145265
+            ],
+            [
+              -123.13176631046892,
+              49.205512870442874
+            ]
+          ],
+          [
+            [
+              -123.13343507853156,
+              49.20488994619956
+            ],
+            [
+              -123.13343078903947,
+              49.20519557058398
+            ]
+          ],
+          [
+            [
+              -123.13479057865145,
+              49.20441047695439
+            ],
+            [
+              -123.13477342068306,
+              49.20481143685879
+            ]
+          ],
+          [
+            [
+              -123.13696538452496,
+              49.20375154973496
+            ],
+            [
+              -123.1368409872906,
+              49.203902963617935
+            ]
+          ],
+          [
+            [
+              -123.14923876731132,
+              49.207416052447684
+            ],
+            [
+              -123.14886128611614,
+              49.20873940772063
+            ],
+            [
+              -123.14827361653562,
+              49.209002953118045
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14013346320166,
+      "lat": 49.20686379402292
+    }
+  },
+  {
     "project": "Total Road Closure on the 3600 Block of Clark Dr from Kingsway to E 21st Av.",
     "street": null,
     "location": "Total Road Closure on the 3600 Block of Clark Dr from Kingsway to E 21st Av.",
@@ -393,6 +365,56 @@
     "geo_point_2d": {
       "lon": -123.07684460269402,
       "lat": 49.249053070802226
+    }
+  },
+  {
+    "project": "Both Sides of 1300 Block of Cypress Street From Greer Avenue to Creelman Avenue.",
+    "street": null,
+    "location": "Both Sides of 1300 Block of Cypress Street From Greer Avenue to Creelman Avenue.",
+    "comp_date": "2024-12-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d526e163-3409-49f2-8b3b-b1c3667920d9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14774176045219,
+              49.27443772884379
+            ],
+            [
+              -123.14778465602768,
+              49.27346333523846
+            ]
+          ],
+          [
+            [
+              -123.14773318114077,
+              49.27444332877289
+            ],
+            [
+              -123.14629617936201,
+              49.27442092915945
+            ]
+          ],
+          [
+            [
+              -123.14630475867348,
+              49.27441812908691
+            ],
+            [
+              -123.14634765424896,
+              49.27351933517983
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14704806065156,
+      "lat": 49.274164434740285
     }
   },
   {
@@ -543,7 +565,7 @@
     "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
     "street": null,
     "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
-    "comp_date": "2025-01-07",
+    "comp_date": "2025-01-13",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
     "geom": {
       "type": "Feature",
@@ -1003,7 +1025,7 @@
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
-    "comp_date": "2025-06-03",
+    "comp_date": "2025-06-05",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
     "geom": {
       "type": "Feature",
