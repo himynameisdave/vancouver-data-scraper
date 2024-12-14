@@ -244,6 +244,38 @@
     }
   },
   {
+    "project": "Both sides of the 900-1000 Block of Smithe St from 30m East of Burrard to 30m We",
+    "street": null,
+    "location": "Both sides of the 900-1000 Block of Smithe St from 30m East of Burrard to 30m We",
+    "comp_date": "2024-12-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5abe8064-7057-430b-baed-438c43993513",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1248095219295,
+            49.28250603402037
+          ],
+          [
+            -123.12444839918531,
+            49.282259914297924
+          ],
+          [
+            -123.12392557968995,
+            49.28191182859331
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12436833094954,
+      "lat": 49.28220777320086
+    }
+  },
+  {
     "project": "Total Road Closure on the 3600 Block of Clark Dr from Kingsway to E 21st Av.",
     "street": null,
     "location": "Total Road Closure on the 3600 Block of Clark Dr from Kingsway to E 21st Av.",
@@ -297,38 +329,6 @@
     "geo_point_2d": {
       "lon": -123.1413053332409,
       "lat": 49.29146355663205
-    }
-  },
-  {
-    "project": "Both sides of the 900-1000 Block of Smithe St from 30m East of Burrard to 30m We",
-    "street": null,
-    "location": "Both sides of the 900-1000 Block of Smithe St from 30m East of Burrard to 30m We",
-    "comp_date": "2024-12-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5abe8064-7057-430b-baed-438c43993513",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1248095219295,
-            49.28250603402037
-          ],
-          [
-            -123.12444839918531,
-            49.282259914297924
-          ],
-          [
-            -123.12392557968995,
-            49.28191182859331
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12436833094954,
-      "lat": 49.28220777320086
     }
   },
   {
