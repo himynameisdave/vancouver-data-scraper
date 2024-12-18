@@ -118,6 +118,34 @@
     }
   },
   {
+    "project": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
+    "street": null,
+    "location": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
+    "comp_date": "2024-12-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a588ae4-a707-4b5e-809e-8e84cae1de59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0758695221611,
+            49.25660683570976
+          ],
+          [
+            -123.07503803736648,
+            49.25657182362184
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07545377976379,
+      "lat": 49.2565893296658
+    }
+  },
+  {
     "project": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
     "street": null,
     "location": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
@@ -265,7 +293,7 @@
     "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
     "street": null,
     "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
-    "comp_date": "2025-01-13",
+    "comp_date": "2025-01-20",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
     "geom": {
       "type": "Feature",
