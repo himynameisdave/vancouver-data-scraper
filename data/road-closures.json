@@ -28,6 +28,46 @@
     }
   },
   {
+    "project": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
+    "street": null,
+    "location": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
+    "comp_date": "2024-12-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1ffe75b-4f06-471a-ac87-64041613e3ef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07757332405141,
+              49.24900972736182
+            ],
+            [
+              -123.07614683948476,
+              49.24898720161016
+            ]
+          ],
+          [
+            [
+              -123.07678769556627,
+              49.24945187305548
+            ],
+            [
+              -123.07680485369828,
+              49.24899524726757
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07684460269402,
+      "lat": 49.249053070802226
+    }
+  },
+  {
     "project": "Both Sides of 1300 Block of Cypress Street From Greer Avenue to Creelman Avenue.",
     "street": null,
     "location": "Both Sides of 1300 Block of Cypress Street From Greer Avenue to Creelman Avenue.",
@@ -75,46 +115,6 @@
     "geo_point_2d": {
       "lon": -123.14704806065156,
       "lat": 49.274164434740285
-    }
-  },
-  {
-    "project": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
-    "street": null,
-    "location": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
-    "comp_date": "2024-12-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1ffe75b-4f06-471a-ac87-64041613e3ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07757332405141,
-              49.24900972736182
-            ],
-            [
-              -123.07614683948476,
-              49.24898720161016
-            ]
-          ],
-          [
-            [
-              -123.07678769556627,
-              49.24945187305548
-            ],
-            [
-              -123.07680485369828,
-              49.24899524726757
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07684460269402,
-      "lat": 49.249053070802226
     }
   },
   {
@@ -287,6 +287,46 @@
     "geo_point_2d": {
       "lon": -123.15114314223422,
       "lat": 49.264197330553955
+    }
+  },
+  {
+    "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "street": null,
+    "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "comp_date": "2025-01-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8881d4b-07eb-462f-a0cf-fb6b24776154",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10829495659864,
+              49.22953390121478
+            ],
+            [
+              -123.10583275082757,
+              49.229455431008944
+            ]
+          ],
+          [
+            [
+              -123.10583703999241,
+              49.22945543079513
+            ],
+            [
+              -123.10586706676433,
+              49.228550212917156
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10673809214045,
+      "lat": 49.229362446344595
     }
   },
   {
