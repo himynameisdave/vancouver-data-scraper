@@ -1,151 +1,5 @@
 [
   {
-    "project": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "street": null,
-    "location": "Dumfries St from Lane south of E 37th Av to E 39th Av",
-    "comp_date": "2024-12-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/950a374b-63db-4bb0-b377-97c4cfc3c130",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07414952080866,
-            49.23640946597283
-          ],
-          [
-            -123.07420211439567,
-            49.23476416524147
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07417581760217,
-      "lat": 49.23558681560715
-    }
-  },
-  {
-    "project": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
-    "street": null,
-    "location": "- Both sides of 1300 Block E 24th Av from Knight St to 85m West of Knight St.",
-    "comp_date": "2024-12-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1ffe75b-4f06-471a-ac87-64041613e3ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07757332405141,
-              49.24900972736182
-            ],
-            [
-              -123.07614683948476,
-              49.24898720161016
-            ]
-          ],
-          [
-            [
-              -123.07678769556627,
-              49.24945187305548
-            ],
-            [
-              -123.07680485369828,
-              49.24899524726757
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07684460269402,
-      "lat": 49.249053070802226
-    }
-  },
-  {
-    "project": "Both Sides of 1300 Block of Cypress Street From Greer Avenue to Creelman Avenue.",
-    "street": null,
-    "location": "Both Sides of 1300 Block of Cypress Street From Greer Avenue to Creelman Avenue.",
-    "comp_date": "2024-12-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d526e163-3409-49f2-8b3b-b1c3667920d9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14774176045219,
-              49.27443772884379
-            ],
-            [
-              -123.14778465602768,
-              49.27346333523846
-            ]
-          ],
-          [
-            [
-              -123.14773318114077,
-              49.27444332877289
-            ],
-            [
-              -123.14629617936201,
-              49.27442092915945
-            ]
-          ],
-          [
-            [
-              -123.14630475867348,
-              49.27441812908691
-            ],
-            [
-              -123.14634765424896,
-              49.27351933517983
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14704806065156,
-      "lat": 49.274164434740285
-    }
-  },
-  {
-    "project": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "street": null,
-    "location": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "comp_date": "2024-12-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a588ae4-a707-4b5e-809e-8e84cae1de59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0758695221611,
-            49.25660683570976
-          ],
-          [
-            -123.07503803736648,
-            49.25657182362184
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07545377976379,
-      "lat": 49.2565893296658
-    }
-  },
-  {
     "project": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
     "street": null,
     "location": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
@@ -739,6 +593,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
