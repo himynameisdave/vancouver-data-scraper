@@ -1,5 +1,73 @@
 [
   {
+    "project": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
+    "street": null,
+    "location": "Both sides of Lane East of 5100-5200 Cambie from E 35th Av to E 37th Av. Both si",
+    "comp_date": "2024-12-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a01def52-9859-4ec0-afad-c85ef38757d8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11602168424187,
+              49.23725052225083
+            ],
+            [
+              -123.1154745136028,
+              49.23721549643446
+            ],
+            [
+              -123.11447673184928,
+              49.23715244990234
+            ]
+          ],
+          [
+            [
+              -123.11606112883308,
+              49.23944013256741
+            ],
+            [
+              -123.11565281143169,
+              49.23908213875367
+            ],
+            [
+              -123.11536115614497,
+              49.238830779844506
+            ],
+            [
+              -123.11519782918442,
+              49.238564185664075
+            ],
+            [
+              -123.11518616297295,
+              49.23837376036846
+            ],
+            [
+              -123.11517449676148,
+              49.23800814174274
+            ],
+            [
+              -123.11517449676148,
+              49.23753588034535
+            ],
+            [
+              -123.11518616297295,
+              49.23719310714816
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11533182837431,
+      "lat": 49.237968388957285
+    }
+  },
+  {
     "project": "W 10th Ave (Yew St to Cypress St)\r\nW 7th Ave (Yew St to Cypress St)",
     "street": null,
     "location": "W 10th Ave (Yew St to Cypress St)\r\nW 7th Ave (Yew St to Cypress St)",
@@ -73,6 +141,46 @@
     "geo_point_2d": {
       "lon": -123.15114314223422,
       "lat": 49.264197330553955
+    }
+  },
+  {
+    "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "street": null,
+    "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "comp_date": "2025-01-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8881d4b-07eb-462f-a0cf-fb6b24776154",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10829495659864,
+              49.22953390121478
+            ],
+            [
+              -123.10583275082757,
+              49.229455431008944
+            ]
+          ],
+          [
+            [
+              -123.10583703999241,
+              49.22945543079513
+            ],
+            [
+              -123.10586706676433,
+              49.228550212917156
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10673809214045,
+      "lat": 49.229362446344595
     }
   },
   {
