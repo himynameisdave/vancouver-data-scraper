@@ -76,22 +76,22 @@
     }
   },
   {
-    "project": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
+    "project": "Both Sides of 700 Block of E 51st Avenue From West PL of 721 to East PL of 759.",
     "street": null,
-    "location": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
-    "comp_date": "2025-01-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a07654cc-72ab-4665-9dcb-8c350f589fcc",
+    "location": "Both Sides of 700 Block of E 51st Avenue From West PL of 721 to East PL of 759.",
+    "comp_date": "2025-01-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bc50a67c-e1cf-49cc-a771-5543273db227",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1301652776535,
-            49.283892485506044
+            -123.08983240007326,
+            49.223570060952795
           ],
           [
-            -123.12806448809847,
-            49.28252126996284
+            -123.08901738413903,
+            49.22356165234552
           ]
         ],
         "type": "LineString"
@@ -99,8 +99,48 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.129114882876,
-      "lat": 49.28320687773444
+      "lon": -123.08942489210615,
+      "lat": 49.22356585664916
+    }
+  },
+  {
+    "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "street": null,
+    "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "comp_date": "2025-01-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8881d4b-07eb-462f-a0cf-fb6b24776154",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10829495659864,
+              49.22953390121478
+            ],
+            [
+              -123.10583275082757,
+              49.229455431008944
+            ]
+          ],
+          [
+            [
+              -123.10583703999241,
+              49.22945543079513
+            ],
+            [
+              -123.10586706676433,
+              49.228550212917156
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10673809214045,
+      "lat": 49.229362446344595
     }
   },
   {
