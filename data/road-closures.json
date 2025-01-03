@@ -1,5 +1,33 @@
 [
   {
+    "project": "Both sides of 3100 Block E 45th Av from McKinnon St to Joyce St.",
+    "street": null,
+    "location": "Both sides of 3100 Block E 45th Av from McKinnon St to Joyce St.",
+    "comp_date": "2025-01-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/22cc40e6-a198-4d86-9969-d64937b66248",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03864789269304,
+            49.22929267662775
+          ],
+          [
+            -123.03743550649338,
+            49.22928805798725
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03804169959321,
+      "lat": 49.2292903673075
+    }
+  },
+  {
     "project": "Both Sides of 700 Block of E 51st Avenue From West PL of 721 to East PL of 759.",
     "street": null,
     "location": "Both Sides of 700 Block of E 51st Avenue From West PL of 721 to East PL of 759.",
@@ -25,6 +53,46 @@
     "geo_point_2d": {
       "lon": -123.08942489210615,
       "lat": 49.22356585664916
+    }
+  },
+  {
+    "project": "E 37th Av from Dumfries St and Argyle St",
+    "street": null,
+    "location": "E 37th Av from Dumfries St and Argyle St",
+    "comp_date": "2025-01-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dc90e054-ddae-4c73-a3c6-233a0ceaa511",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0741339544697,
+              49.23682101751112
+            ],
+            [
+              -123.07276145081562,
+              49.236806445278944
+            ]
+          ],
+          [
+            [
+              -123.07276145081562,
+              49.236806445278944
+            ],
+            [
+              -123.07137979679293,
+              49.236780798241455
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07275683573272,
+      "lat": 49.23680364258902
     }
   },
   {
@@ -68,6 +136,94 @@
     }
   },
   {
+    "project": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
+    "street": null,
+    "location": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
+    "comp_date": "2025-01-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a07654cc-72ab-4665-9dcb-8c350f589fcc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1301652776535,
+            49.283892485506044
+          ],
+          [
+            -123.12806448809847,
+            49.28252126996284
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.129114882876,
+      "lat": 49.28320687773444
+    }
+  },
+  {
+    "project": "Euclid St from Slocan St to Duchess St",
+    "street": null,
+    "location": "Euclid St from Slocan St to Duchess St",
+    "comp_date": "2025-01-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7cc5c11d-8825-4fa7-8328-b0be77020e3f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05082884119429,
+              49.24328135693463
+            ],
+            [
+              -123.05028541281845,
+              49.243054411062474
+            ]
+          ],
+          [
+            [
+              -123.05028541281845,
+              49.243054411062474
+            ],
+            [
+              -123.04901315782539,
+              49.24252278162777
+            ]
+          ],
+          [
+            [
+              -123.04901315782539,
+              49.24252278162777
+            ],
+            [
+              -123.04890384831059,
+              49.242477105160276
+            ]
+          ],
+          [
+            [
+              -123.04890384831059,
+              49.242477105160276
+            ],
+            [
+              -123.04844585853637,
+              49.2422859244476
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04963735982831,
+      "lat": 49.24278361682663
+    }
+  },
+  {
     "project": "1300 Chestnut St., 1800 Creelman Ave, and 1300 Cypress St.",
     "street": null,
     "location": "1300 Chestnut St., 1800 Creelman Ave, and 1300 Cypress St.",
@@ -101,6 +257,76 @@
     "geo_point_2d": {
       "lon": -123.1469640028591,
       "lat": 49.27429866652904
+    }
+  },
+  {
+    "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
+    "street": null,
+    "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
+    "comp_date": "2025-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09387547854405,
+              49.25469861733043
+            ],
+            [
+              -123.09389579288475,
+              49.2510389640195
+            ]
+          ],
+          [
+            [
+              -123.09449773374766,
+              49.251084419015854
+            ],
+            [
+              -123.09452332821314,
+              49.25018642733778
+            ]
+          ],
+          [
+            [
+              -123.09675245840194,
+              49.249328722740614
+            ],
+            [
+              -123.09405224229359,
+              49.24927860092285
+            ]
+          ],
+          [
+            [
+              -123.09210346735965,
+              49.249235790454634
+            ],
+            [
+              -123.09016864701034,
+              49.24920421563448
+            ]
+          ],
+          [
+            [
+              -123.09202671349055,
+              49.25194535093735
+            ],
+            [
+              -123.090051584384,
+              49.251934826577155
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09332288380898,
+      "lat": 49.25103069508655
     }
   },
   {
@@ -187,6 +413,136 @@
     "geo_point_2d": {
       "lon": -123.13760720912488,
       "lat": 49.28101250466326
+    }
+  },
+  {
+    "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
+    "street": null,
+    "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
+    "comp_date": "2025-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06853355261237,
+              49.24010131373973
+            ],
+            [
+              -123.0685846455093,
+              49.23749931547866
+            ]
+          ],
+          [
+            [
+              -123.07133164888158,
+              49.238455064321045
+            ],
+            [
+              -123.07136383538975,
+              49.23761796092745
+            ]
+          ],
+          [
+            [
+              -123.07413187509313,
+              49.237663494112894
+            ],
+            [
+              -123.07137456422582,
+              49.23762496603564
+            ]
+          ],
+          [
+            [
+              -123.0741104174209,
+              49.23850059673475
+            ],
+            [
+              -123.0713370132995,
+              49.23845856681592
+            ]
+          ],
+          [
+            [
+              -123.074064906268,
+              49.23934549158258
+            ],
+            [
+              -123.0654001974905,
+              49.2392484101602
+            ]
+          ],
+          [
+            [
+              -123.07083980826012,
+              49.24162120145289
+            ],
+            [
+              -123.07089881685845,
+              49.240146454171736
+            ]
+          ],
+          [
+            [
+              -123.07133068613992,
+              49.23844249394392
+            ],
+            [
+              -123.06546201281533,
+              49.238351428967405
+            ]
+          ],
+          [
+            [
+              -123.0700627323123,
+              49.234726673936706
+            ],
+            [
+              -123.07014856300077,
+              49.232645212625386
+            ]
+          ],
+          [
+            [
+              -123.07422038799042,
+              49.234763296647515
+            ],
+            [
+              -123.07006296401741,
+              49.23472826906735
+            ]
+          ],
+          [
+            [
+              -123.0727731233691,
+              49.236799193374594
+            ],
+            [
+              -123.07283574242724,
+              49.234754422363665
+            ]
+          ],
+          [
+            [
+              -123.07417747264618,
+              49.236090823626256
+            ],
+            [
+              -123.07422038799042,
+              49.234763296647515
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07065086072781,
+      "lat": 49.23770531751831
     }
   },
   {
