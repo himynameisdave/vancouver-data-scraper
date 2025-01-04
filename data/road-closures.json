@@ -1,141 +1,5 @@
 [
   {
-    "project": "Both sides of 3100 Block E 45th Av from McKinnon St to Joyce St.",
-    "street": null,
-    "location": "Both sides of 3100 Block E 45th Av from McKinnon St to Joyce St.",
-    "comp_date": "2025-01-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/22cc40e6-a198-4d86-9969-d64937b66248",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03864789269304,
-            49.22929267662775
-          ],
-          [
-            -123.03743550649338,
-            49.22928805798725
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03804169959321,
-      "lat": 49.2292903673075
-    }
-  },
-  {
-    "project": "Both Sides of 700 Block of E 51st Avenue From West PL of 721 to East PL of 759.",
-    "street": null,
-    "location": "Both Sides of 700 Block of E 51st Avenue From West PL of 721 to East PL of 759.",
-    "comp_date": "2025-01-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bc50a67c-e1cf-49cc-a771-5543273db227",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08983240007326,
-            49.223570060952795
-          ],
-          [
-            -123.08901738413903,
-            49.22356165234552
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08942489210615,
-      "lat": 49.22356585664916
-    }
-  },
-  {
-    "project": "E 37th Av from Dumfries St and Argyle St",
-    "street": null,
-    "location": "E 37th Av from Dumfries St and Argyle St",
-    "comp_date": "2025-01-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dc90e054-ddae-4c73-a3c6-233a0ceaa511",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0741339544697,
-              49.23682101751112
-            ],
-            [
-              -123.07276145081562,
-              49.236806445278944
-            ]
-          ],
-          [
-            [
-              -123.07276145081562,
-              49.236806445278944
-            ],
-            [
-              -123.07137979679293,
-              49.236780798241455
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07275683573272,
-      "lat": 49.23680364258902
-    }
-  },
-  {
-    "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
-    "street": null,
-    "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
-    "comp_date": "2025-01-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8881d4b-07eb-462f-a0cf-fb6b24776154",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10829495659864,
-              49.22953390121478
-            ],
-            [
-              -123.10583275082757,
-              49.229455431008944
-            ]
-          ],
-          [
-            [
-              -123.10583703999241,
-              49.22945543079513
-            ],
-            [
-              -123.10586706676433,
-              49.228550212917156
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10673809214045,
-      "lat": 49.229362446344595
-    }
-  },
-  {
     "project": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
     "street": null,
     "location": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
@@ -543,6 +407,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
