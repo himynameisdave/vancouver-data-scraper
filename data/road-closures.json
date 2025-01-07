@@ -1,21 +1,121 @@
 [
   {
-    "project": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
+    "project": "Euclid St from Slocan St to Duchess St",
     "street": null,
-    "location": "Both sides of 1100 Block Nelson St from Bute St to Thurlow St",
-    "comp_date": "2025-01-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a07654cc-72ab-4665-9dcb-8c350f589fcc",
+    "location": "Euclid St from Slocan St to Duchess St",
+    "comp_date": "2025-01-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7cc5c11d-8825-4fa7-8328-b0be77020e3f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1301652776535,
-            49.283892485506044
+            [
+              -123.05082884119429,
+              49.24328135693463
+            ],
+            [
+              -123.05028541281845,
+              49.243054411062474
+            ]
           ],
           [
-            -123.12806448809847,
-            49.28252126996284
+            [
+              -123.05028541281845,
+              49.243054411062474
+            ],
+            [
+              -123.04901315782539,
+              49.24252278162777
+            ]
+          ],
+          [
+            [
+              -123.04901315782539,
+              49.24252278162777
+            ],
+            [
+              -123.04890384831059,
+              49.242477105160276
+            ]
+          ],
+          [
+            [
+              -123.04890384831059,
+              49.242477105160276
+            ],
+            [
+              -123.04844585853637,
+              49.2422859244476
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04963735982831,
+      "lat": 49.24278361682663
+    }
+  },
+  {
+    "project": "W 43rd Av from Montgomery St to Oak St",
+    "street": null,
+    "location": "W 43rd Av from Montgomery St to Oak St",
+    "comp_date": "2025-01-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7c5d2541-5ebf-4254-89a7-b070388c01be",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12893167562815,
+              49.23212283255464
+            ],
+            [
+              -123.13190235913959,
+              49.23222444446665
+            ]
+          ],
+          [
+            [
+              -123.12813765736735,
+              49.23209565981418
+            ],
+            [
+              -123.12893167562815,
+              49.23212283255464
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13002000807239,
+      "lat": 49.232160057433234
+    }
+  },
+  {
+    "project": "Lillooet St from E 24th Av to E 25th Av",
+    "street": null,
+    "location": "Lillooet St from E 24th Av to E 25th Av",
+    "comp_date": "2025-01-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f1b01e0-cecb-4bf3-89e6-170cb73ca02c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03909718509321,
+            49.248781991301485
+          ],
+          [
+            -123.03910134611209,
+            49.24789164223432
           ]
         ],
         "type": "LineString"
@@ -23,8 +123,384 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.129114882876,
-      "lat": 49.28320687773444
+      "lon": -123.03909926560266,
+      "lat": 49.2483368167679
+    }
+  },
+  {
+    "project": "Berkeley St from E 41st Av from E 45th Av",
+    "street": null,
+    "location": "Berkeley St from E 41st Av from E 45th Av",
+    "comp_date": "2025-01-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/72ffdf5f-a9e5-4c6a-bf0a-777516c8ae76",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05785565346453,
+              49.232848119797325
+            ],
+            [
+              -123.0578645094329,
+              49.2324097317134
+            ]
+          ],
+          [
+            [
+              -123.0578645094329,
+              49.2324097317134
+            ],
+            [
+              -123.05789905214571,
+              49.23082025294431
+            ]
+          ],
+          [
+            [
+              -123.05789905214571,
+              49.23082025294431
+            ],
+            [
+              -123.05791989408688,
+              49.22982596081732
+            ]
+          ],
+          [
+            [
+              -123.05791989408688,
+              49.22982596081732
+            ],
+            [
+              -123.05792902654346,
+              49.22940177587142
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05789226310186,
+      "lat": 49.23112494631474
+    }
+  },
+  {
+    "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "street": null,
+    "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
+    "comp_date": "2025-01-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0e428ea1-8fb1-4bc3-a5c0-5d866e154d4b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10439801453357,
+            49.28052337127107
+          ],
+          [
+            -123.1043898901384,
+            49.28076010397305
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10439395233598,
+      "lat": 49.28064173762206
+    }
+  },
+  {
+    "project": "Both Sides of 100 Block of Keefer Street From Laneway West of Main Street to 45m",
+    "street": null,
+    "location": "Both Sides of 100 Block of Keefer Street From Laneway West of Main Street to 45m",
+    "comp_date": "2025-01-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/198905c8-3898-41a9-861c-45ecd0840249",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10050650012683,
+              49.279498431029225
+            ],
+            [
+              -123.10113277546346,
+              49.279509629737674
+            ]
+          ],
+          [
+            [
+              -123.12331559428343,
+              49.27945338868753
+            ],
+            [
+              -123.1226507128634,
+              49.27902503744366
+            ]
+          ],
+          [
+            [
+              -123.12540249593302,
+              49.28079863312382
+            ],
+            [
+              -123.12425718387121,
+              49.28006233449017
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11889217101313,
+      "lat": 49.279882596154295
+    }
+  },
+  {
+    "project": "North side of the 0 Block of W Cordova St from Abbott St to 25m East of Abbott S",
+    "street": null,
+    "location": "North side of the 0 Block of W Cordova St from Abbott St to 25m East of Abbott S",
+    "comp_date": "2025-01-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e41bd2c4-a35f-480a-9214-4e16625389e3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10674441957399,
+              49.282936575822106
+            ],
+            [
+              -123.10629623922412,
+              49.28285500551942
+            ]
+          ],
+          [
+            [
+              -123.10683922697467,
+              49.282914073662766
+            ],
+            [
+              -123.10708055483641,
+              49.28236558113824
+            ]
+          ],
+          [
+            [
+              -123.10739083344528,
+              49.28154142451146
+            ],
+            [
+              -123.10584805903859,
+              49.28126295204416
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10668002032894,
+      "lat": 49.28194443656448
+    }
+  },
+  {
+    "project": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
+    "street": null,
+    "location": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
+    "comp_date": "2025-01-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd2e9cd2-50e6-4dd0-9aeb-59ee72dd2837",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14498229929322,
+            49.21015334788282
+          ],
+          [
+            -123.14440668115915,
+            49.209020412247924
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14469449022619,
+      "lat": 49.20958688006538
+    }
+  },
+  {
+    "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
+    "street": null,
+    "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
+    "comp_date": "2025-01-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03649805514345,
+              49.2651930108195
+            ],
+            [
+              -123.03650271110962,
+              49.26474089249274
+            ]
+          ],
+          [
+            [
+              -123.04156102693383,
+              49.264758793340434
+            ],
+            [
+              -123.03903086501592,
+              49.264749637061556
+            ]
+          ],
+          [
+            [
+              -123.036500262164,
+              49.26568812400441
+            ],
+            [
+              -123.03649805514345,
+              49.2651930108195
+            ]
+          ],
+          [
+            [
+              -123.0495436959967,
+              49.26477496525732
+            ],
+            [
+              -123.04431691465969,
+              49.26476997869088
+            ]
+          ],
+          [
+            [
+              -123.04429119263114,
+              49.264768150543745
+            ],
+            [
+              -123.04353110893598,
+              49.26476571385095
+            ]
+          ],
+          [
+            [
+              -123.04353110893598,
+              49.26476571385095
+            ],
+            [
+              -123.04156102693383,
+              49.264758793340434
+            ]
+          ],
+          [
+            [
+              -123.04431176951252,
+              49.262971581785706
+            ],
+            [
+              -123.03101786377984,
+              49.262920704157835
+            ]
+          ],
+          [
+            [
+              -123.03903404831173,
+              49.263857709963105
+            ],
+            [
+              -123.03903404831173,
+              49.262958373076145
+            ]
+          ],
+          [
+            [
+              -123.03651933222142,
+              49.26384249280778
+            ],
+            [
+              -123.03650239217212,
+              49.2647268594101
+            ]
+          ],
+          [
+            [
+              -123.03903086501592,
+              49.264749637061556
+            ],
+            [
+              -123.03650271110962,
+              49.26474089249274
+            ]
+          ],
+          [
+            [
+              -123.03298763729669,
+              49.263829458791946
+            ],
+            [
+              -123.03903404831173,
+              49.263857709963105
+            ]
+          ],
+          [
+            [
+              -123.0345217174447,
+              49.264733711479465
+            ],
+            [
+              -123.033762253404,
+              49.264731435217726
+            ]
+          ],
+          [
+            [
+              -123.03650271110962,
+              49.26474089249274
+            ],
+            [
+              -123.0345217174447,
+              49.264733711479465
+            ]
+          ],
+          [
+            [
+              -123.03648603460017,
+              49.262929592760685
+            ],
+            [
+              -123.0364741606871,
+              49.261929989700576
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03897035546358,
+      "lat": 49.263904089013906
     }
   },
   {
@@ -131,6 +607,130 @@
     "geo_point_2d": {
       "lon": -123.09332288380898,
       "lat": 49.25103069508655
+    }
+  },
+  {
+    "project": "Collingwood St from W 27th Av to W 28th Av",
+    "street": null,
+    "location": "Collingwood St from W 27th Av to W 28th Av",
+    "comp_date": "2025-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0004ce56-443e-4f97-a7a7-5de523d5ccd6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ],
+            [
+              -123.18191304269351,
+              49.24710596231108
+            ]
+          ],
+          [
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ],
+            [
+              -123.18190549151495,
+              49.24796403871079
+            ],
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18190210483795,
+      "lat": 49.2475989615513
+    }
+  },
+  {
+    "project": "W 27th Av from Dunbar St to Blenheim St",
+    "street": null,
+    "location": "W 27th Av from Dunbar St to Blenheim St",
+    "comp_date": "2025-02-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdef7bc-913b-441b-946d-95fcbbd1da3a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18456408929295,
+              49.248064535637354
+            ],
+            [
+              -123.18520431433123,
+              49.24806690228789
+            ]
+          ],
+          [
+            [
+              -123.18346586605529,
+              49.248060509922
+            ],
+            [
+              -123.18456408929295,
+              49.248064535637354
+            ]
+          ],
+          [
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ],
+            [
+              -123.18346586605529,
+              49.248060509922
+            ]
+          ],
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18190478147169,
+      "lat": 49.24805471737979
     }
   },
   {
