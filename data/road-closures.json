@@ -540,6 +540,50 @@
     }
   },
   {
+    "project": "Collingwood St from W 27th Av to W 28th Av",
+    "street": null,
+    "location": "Collingwood St from W 27th Av to W 28th Av",
+    "comp_date": "2025-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0004ce56-443e-4f97-a7a7-5de523d5ccd6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ],
+            [
+              -123.18191304269351,
+              49.24710596231108
+            ]
+          ],
+          [
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ],
+            [
+              -123.18190549151495,
+              49.24796403871079
+            ],
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18190210483795,
+      "lat": 49.2475989615513
+    }
+  },
+  {
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
@@ -607,50 +651,6 @@
     "geo_point_2d": {
       "lon": -123.09332288380898,
       "lat": 49.25103069508655
-    }
-  },
-  {
-    "project": "Collingwood St from W 27th Av to W 28th Av",
-    "street": null,
-    "location": "Collingwood St from W 27th Av to W 28th Av",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0004ce56-443e-4f97-a7a7-5de523d5ccd6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18190887521365,
-              49.24757979291908
-            ],
-            [
-              -123.18191304269351,
-              49.24710596231108
-            ]
-          ],
-          [
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ],
-            [
-              -123.18190549151495,
-              49.24796403871079
-            ],
-            [
-              -123.18190887521365,
-              49.24757979291908
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18190210483795,
-      "lat": 49.2475989615513
     }
   },
   {
