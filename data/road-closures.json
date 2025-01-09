@@ -1,65 +1,5 @@
 [
   {
-    "project": "Euclid St from Slocan St to Duchess St",
-    "street": null,
-    "location": "Euclid St from Slocan St to Duchess St",
-    "comp_date": "2025-01-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7cc5c11d-8825-4fa7-8328-b0be77020e3f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05082884119429,
-              49.24328135693463
-            ],
-            [
-              -123.05028541281845,
-              49.243054411062474
-            ]
-          ],
-          [
-            [
-              -123.05028541281845,
-              49.243054411062474
-            ],
-            [
-              -123.04901315782539,
-              49.24252278162777
-            ]
-          ],
-          [
-            [
-              -123.04901315782539,
-              49.24252278162777
-            ],
-            [
-              -123.04890384831059,
-              49.242477105160276
-            ]
-          ],
-          [
-            [
-              -123.04890384831059,
-              49.242477105160276
-            ],
-            [
-              -123.04844585853637,
-              49.2422859244476
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04963735982831,
-      "lat": 49.24278361682663
-    }
-  },
-  {
     "project": "W 43rd Av from Montgomery St to Oak St",
     "street": null,
     "location": "W 43rd Av from Montgomery St to Oak St",
@@ -540,6 +480,42 @@
     }
   },
   {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
     "project": "Collingwood St from W 27th Av to W 28th Av",
     "street": null,
     "location": "Collingwood St from W 27th Av to W 28th Av",
@@ -587,7 +563,7 @@
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "comp_date": "2025-02-07",
+    "comp_date": "2025-02-18",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
     "geom": {
       "type": "Feature",
