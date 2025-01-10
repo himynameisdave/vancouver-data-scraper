@@ -1,45 +1,5 @@
 [
   {
-    "project": "W 43rd Av from Montgomery St to Oak St",
-    "street": null,
-    "location": "W 43rd Av from Montgomery St to Oak St",
-    "comp_date": "2025-01-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7c5d2541-5ebf-4254-89a7-b070388c01be",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12893167562815,
-              49.23212283255464
-            ],
-            [
-              -123.13190235913959,
-              49.23222444446665
-            ]
-          ],
-          [
-            [
-              -123.12813765736735,
-              49.23209565981418
-            ],
-            [
-              -123.12893167562815,
-              49.23212283255464
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13002000807239,
-      "lat": 49.232160057433234
-    }
-  },
-  {
     "project": "Lillooet St from E 24th Av to E 25th Av",
     "street": null,
     "location": "Lillooet St from E 24th Av to E 25th Av",
@@ -253,6 +213,34 @@
     "geo_point_2d": {
       "lon": -123.10668002032894,
       "lat": 49.28194443656448
+    }
+  },
+  {
+    "project": "East side of 700 Block Granville St from Robson St to 20m North of Robson St.",
+    "street": null,
+    "location": "East side of 700 Block Granville St from Robson St to 20m North of Robson St.",
+    "comp_date": "2025-01-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8503a4b-2924-4c62-bc1f-9f811023dc30",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11980256732787,
+            49.28140090317609
+          ],
+          [
+            -123.11949143108214,
+            49.281607370202124
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.119646999205,
+      "lat": 49.2815041366891
     }
   },
   {
@@ -923,6 +911,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
