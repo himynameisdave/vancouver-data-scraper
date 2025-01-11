@@ -1,93 +1,5 @@
 [
   {
-    "project": "Lillooet St from E 24th Av to E 25th Av",
-    "street": null,
-    "location": "Lillooet St from E 24th Av to E 25th Av",
-    "comp_date": "2025-01-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f1b01e0-cecb-4bf3-89e6-170cb73ca02c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03909718509321,
-            49.248781991301485
-          ],
-          [
-            -123.03910134611209,
-            49.24789164223432
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03909926560266,
-      "lat": 49.2483368167679
-    }
-  },
-  {
-    "project": "Berkeley St from E 41st Av from E 45th Av",
-    "street": null,
-    "location": "Berkeley St from E 41st Av from E 45th Av",
-    "comp_date": "2025-01-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/72ffdf5f-a9e5-4c6a-bf0a-777516c8ae76",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05785565346453,
-              49.232848119797325
-            ],
-            [
-              -123.0578645094329,
-              49.2324097317134
-            ]
-          ],
-          [
-            [
-              -123.0578645094329,
-              49.2324097317134
-            ],
-            [
-              -123.05789905214571,
-              49.23082025294431
-            ]
-          ],
-          [
-            [
-              -123.05789905214571,
-              49.23082025294431
-            ],
-            [
-              -123.05791989408688,
-              49.22982596081732
-            ]
-          ],
-          [
-            [
-              -123.05791989408688,
-              49.22982596081732
-            ],
-            [
-              -123.05792902654346,
-              49.22940177587142
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05789226310186,
-      "lat": 49.23112494631474
-    }
-  },
-  {
     "project": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
     "street": null,
     "location": "East side of 500 Block Carrall St from Keefer St to 30m North of Keefer St.",
@@ -213,6 +125,94 @@
     "geo_point_2d": {
       "lon": -123.10668002032894,
       "lat": 49.28194443656448
+    }
+  },
+  {
+    "project": "Lillooet St from E 24th Av to E 25th Av",
+    "street": null,
+    "location": "Lillooet St from E 24th Av to E 25th Av",
+    "comp_date": "2025-01-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f1b01e0-cecb-4bf3-89e6-170cb73ca02c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03909718509321,
+            49.248781991301485
+          ],
+          [
+            -123.03910134611209,
+            49.24789164223432
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03909926560266,
+      "lat": 49.2483368167679
+    }
+  },
+  {
+    "project": "Berkeley St from E 41st Av from E 45th Av",
+    "street": null,
+    "location": "Berkeley St from E 41st Av from E 45th Av",
+    "comp_date": "2025-01-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/72ffdf5f-a9e5-4c6a-bf0a-777516c8ae76",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05785565346453,
+              49.232848119797325
+            ],
+            [
+              -123.0578645094329,
+              49.2324097317134
+            ]
+          ],
+          [
+            [
+              -123.0578645094329,
+              49.2324097317134
+            ],
+            [
+              -123.05789905214571,
+              49.23082025294431
+            ]
+          ],
+          [
+            [
+              -123.05789905214571,
+              49.23082025294431
+            ],
+            [
+              -123.05791989408688,
+              49.22982596081732
+            ]
+          ],
+          [
+            [
+              -123.05791989408688,
+              49.22982596081732
+            ],
+            [
+              -123.05792902654346,
+              49.22940177587142
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05789226310186,
+      "lat": 49.23112494631474
     }
   },
   {
