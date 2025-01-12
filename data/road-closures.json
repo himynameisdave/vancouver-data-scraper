@@ -1,5 +1,45 @@
 [
   {
+    "project": "Both Sides of 400 Block of Carrall Street From E Hastings Street to E Pender Str",
+    "street": null,
+    "location": "Both Sides of 400 Block of Carrall Street From E Hastings Street to E Pender Str",
+    "comp_date": "2025-01-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/981d87e4-99fd-4ead-b56b-86844c92febd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1043695988132,
+              49.281479430342074
+            ],
+            [
+              -123.10439962558513,
+              49.28047997930858
+            ]
+          ],
+          [
+            [
+              -123.10429701547828,
+              49.28295763258393
+            ],
+            [
+              -123.10548951228041,
+              49.28318998805673
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10466362864987,
+      "lat": 49.282128408162784
+    }
+  },
+  {
     "project": "East side of 700 Block Granville St from Robson St to 20m North of Robson St.",
     "street": null,
     "location": "East side of 700 Block Granville St from Robson St to 20m North of Robson St.",
@@ -25,94 +65,6 @@
     "geo_point_2d": {
       "lon": -123.119646999205,
       "lat": 49.2815041366891
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2025-01-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/879ebda2-2fb6-4bba-a00d-7fb6dcec22f2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11385607279098,
-              49.284017344527086
-            ],
-            [
-              -123.11484752827137,
-              49.284658600809564
-            ]
-          ],
-          [
-            [
-              -123.11583799343676,
-              49.28530049716551
-            ],
-            [
-              -123.1168090897909,
-              49.285928264137766
-            ]
-          ],
-          [
-            [
-              -123.11484752827137,
-              49.284658600809564
-            ],
-            [
-              -123.11583799343676,
-              49.28530049716551
-            ]
-          ],
-          [
-            [
-              -123.1168090897909,
-              49.285928264137766
-            ],
-            [
-              -123.11782870533737,
-              49.28658844598908
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11584241855755,
-      "lat": 49.2853028496523
-    }
-  },
-  {
-    "project": "E 16th Av - Main St to Watson St",
-    "street": null,
-    "location": "E 16th Av - Main St to Watson St",
-    "comp_date": "2025-01-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95964951-adbc-47c8-ba9c-7814f82176df",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10122753995721,
-            49.256584324897915
-          ],
-          [
-            -123.1006631227017,
-            49.25657474339229
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10094533132946,
-      "lat": 49.256579534145104
     }
   },
   {
@@ -312,42 +264,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
@@ -418,6 +334,42 @@
     }
   },
   {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -473,42 +425,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
     }
   },
   {
