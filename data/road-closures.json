@@ -334,42 +334,6 @@
     }
   },
   {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -425,6 +389,42 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
     }
   },
   {
