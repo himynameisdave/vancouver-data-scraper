@@ -1,5 +1,33 @@
 [
   {
+    "project": "Both Sides of the the 600 Block of E 50th Av from Fraser St to Frederick St.",
+    "street": null,
+    "location": "Both Sides of the the 600 Block of E 50th Av from Fraser St to Frederick St.",
+    "comp_date": "2025-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9ce9634-8e34-40bc-bd12-ebaa6ccc2a64",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0908100850562,
+            49.224520304420906
+          ],
+          [
+            -123.09200664101465,
+            49.22453438489828
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09140836303543,
+      "lat": 49.22452734465959
+    }
+  },
+  {
     "project": "W 21st Av from Camosun St to Crown St",
     "street": null,
     "location": "W 21st Av from Camosun St to Crown St",
@@ -50,6 +78,102 @@
     }
   },
   {
+    "project": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
+    "street": null,
+    "location": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
+    "comp_date": "2025-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e335c39-3a8e-4336-b0ee-19d7da32ca74",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06170140497193,
+            49.28117427953768
+          ],
+          [
+            -123.06171023830522,
+            49.280749459581415
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06170582163858,
+      "lat": 49.28096186955955
+    }
+  },
+  {
+    "project": "Laneway South of E 16th Av from St Catherine St to Laneway",
+    "street": null,
+    "location": "Laneway South of E 16th Av from St Catherine St to Laneway",
+    "comp_date": "2025-01-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ccc7dec5-180f-44f9-ae3c-40812c830a85",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08684968751407,
+            49.25592910411271
+          ],
+          [
+            -123.08555809171402,
+            49.25590856923074
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08620388961404,
+      "lat": 49.255918836671725
+    }
+  },
+  {
+    "project": "Woodland Dr from E Broadway to E 10th Av",
+    "street": null,
+    "location": "Woodland Dr from E Broadway to E 10th Av",
+    "comp_date": "2025-01-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0a7a866-f86d-49bb-b1ed-4e63550fd19a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07363084358012,
+              49.262350161566616
+            ],
+            [
+              -123.0736395591472,
+              49.26185251416658
+            ]
+          ],
+          [
+            [
+              -123.0736395591472,
+              49.26185251416658
+            ],
+            [
+              -123.07364933208568,
+              49.26140054371646
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0736396013495,
+      "lat": 49.26187534312194
+    }
+  },
+  {
     "project": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
     "street": null,
     "location": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
@@ -75,6 +199,34 @@
     "geo_point_2d": {
       "lon": -123.14469449022619,
       "lat": 49.20958688006538
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
+    "street": null,
+    "location": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
+    "comp_date": "2025-01-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec457649-6c58-44ee-bd3e-3c7b6531b4cd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07588464511642,
+            49.25660763868507
+          ],
+          [
+            -123.07504603656662,
+            49.25657402711377
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07546534084152,
+      "lat": 49.25659083289943
     }
   },
   {
