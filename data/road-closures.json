@@ -1,5 +1,33 @@
 [
   {
+    "project": "E 35th Av from Dumfries St to Argyle St",
+    "street": null,
+    "location": "E 35th Av from Dumfries St to Argyle St",
+    "comp_date": "2025-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c7d2d0c8-5bef-4812-afb2-6dd3567e16d9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07408234759318,
+            49.23850437586708
+          ],
+          [
+            -123.07132058772066,
+            49.23845868195377
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07270146765693,
+      "lat": 49.23848152891043
+    }
+  },
+  {
     "project": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
     "street": null,
     "location": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
@@ -25,34 +53,6 @@
     "geo_point_2d": {
       "lon": -123.06170582163858,
       "lat": 49.28096186955955
-    }
-  },
-  {
-    "project": "Both Sides of the the 600 Block of E 50th Av from Fraser St to Frederick St.",
-    "street": null,
-    "location": "Both Sides of the the 600 Block of E 50th Av from Fraser St to Frederick St.",
-    "comp_date": "2025-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9ce9634-8e34-40bc-bd12-ebaa6ccc2a64",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0908100850562,
-            49.224520304420906
-          ],
-          [
-            -123.09200664101465,
-            49.22453438489828
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09140836303543,
-      "lat": 49.22452734465959
     }
   },
   {
@@ -227,6 +227,34 @@
     "geo_point_2d": {
       "lon": -123.14469449022619,
       "lat": 49.20958688006538
+    }
+  },
+  {
+    "project": "W 3rd Av from Trafalgar St to Larch St",
+    "street": null,
+    "location": "W 3rd Av from Trafalgar St to Larch St",
+    "comp_date": "2025-01-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4f6a80a0-1abb-4e80-837d-9e41d3affac8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16221140732155,
+            49.26916310800533
+          ],
+          [
+            -123.16448699839802,
+            49.269202986915275
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1633492028598,
+      "lat": 49.2691830474603
     }
   },
   {
