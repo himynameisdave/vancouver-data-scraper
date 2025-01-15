@@ -1,5 +1,33 @@
 [
   {
+    "project": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
+    "street": null,
+    "location": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
+    "comp_date": "2025-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e335c39-3a8e-4336-b0ee-19d7da32ca74",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06170140497193,
+            49.28117427953768
+          ],
+          [
+            -123.06171023830522,
+            49.280749459581415
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06170582163858,
+      "lat": 49.28096186955955
+    }
+  },
+  {
     "project": "Both Sides of the the 600 Block of E 50th Av from Fraser St to Frederick St.",
     "street": null,
     "location": "Both Sides of the the 600 Block of E 50th Av from Fraser St to Frederick St.",
@@ -78,34 +106,6 @@
     }
   },
   {
-    "project": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
-    "street": null,
-    "location": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
-    "comp_date": "2025-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e335c39-3a8e-4336-b0ee-19d7da32ca74",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06170140497193,
-            49.28117427953768
-          ],
-          [
-            -123.06171023830522,
-            49.280749459581415
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06170582163858,
-      "lat": 49.28096186955955
-    }
-  },
-  {
     "project": "Laneway South of E 16th Av from St Catherine St to Laneway",
     "street": null,
     "location": "Laneway South of E 16th Av from St Catherine St to Laneway",
@@ -174,34 +174,6 @@
     }
   },
   {
-    "project": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
-    "street": null,
-    "location": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
-    "comp_date": "2025-01-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd2e9cd2-50e6-4dd0-9aeb-59ee72dd2837",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14498229929322,
-            49.21015334788282
-          ],
-          [
-            -123.14440668115915,
-            49.209020412247924
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14469449022619,
-      "lat": 49.20958688006538
-    }
-  },
-  {
     "project": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
     "street": null,
     "location": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
@@ -227,6 +199,34 @@
     "geo_point_2d": {
       "lon": -123.07546534084152,
       "lat": 49.25659083289943
+    }
+  },
+  {
+    "project": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
+    "street": null,
+    "location": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
+    "comp_date": "2025-01-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd2e9cd2-50e6-4dd0-9aeb-59ee72dd2837",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14498229929322,
+            49.21015334788282
+          ],
+          [
+            -123.14440668115915,
+            49.209020412247924
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14469449022619,
+      "lat": 49.20958688006538
     }
   },
   {
@@ -696,42 +696,6 @@
     }
   },
   {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -787,6 +751,42 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
     }
   },
   {
