@@ -1,111 +1,5 @@
 [
   {
-    "project": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
-    "street": null,
-    "location": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
-    "comp_date": "2025-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e335c39-3a8e-4336-b0ee-19d7da32ca74",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06170140497193,
-            49.28117427953768
-          ],
-          [
-            -123.06171023830522,
-            49.280749459581415
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06170582163858,
-      "lat": 49.28096186955955
-    }
-  },
-  {
-    "project": "E 35th Av from Dumfries St to Argyle St",
-    "street": null,
-    "location": "E 35th Av from Dumfries St to Argyle St",
-    "comp_date": "2025-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c7d2d0c8-5bef-4812-afb2-6dd3567e16d9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07408234759318,
-            49.23850437586708
-          ],
-          [
-            -123.07132058772066,
-            49.23845868195377
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07270146765693,
-      "lat": 49.23848152891043
-    }
-  },
-  {
-    "project": "W 21st Av from Camosun St to Crown St",
-    "street": null,
-    "location": "W 21st Av from Camosun St to Crown St",
-    "comp_date": "2025-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c05cacb0-3446-442a-9477-e8e92a24e08c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.19532084999773,
-              49.25380917773819
-            ],
-            [
-              -123.19601201094642,
-              49.25381210902668
-            ]
-          ],
-          [
-            [
-              -123.19601201094642,
-              49.25381210902668
-            ],
-            [
-              -123.19659642166111,
-              49.25381424639437
-            ]
-          ],
-          [
-            [
-              -123.1935801089117,
-              49.253802545572256
-            ],
-            [
-              -123.19532084999773,
-              49.25380917773819
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19508826538205,
-      "lat": 49.2538083748314
-    }
-  },
-  {
     "project": "Laneway South of E 16th Av from St Catherine St to Laneway",
     "street": null,
     "location": "Laneway South of E 16th Av from St Catherine St to Laneway",
@@ -131,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.08620388961404,
       "lat": 49.255918836671725
+    }
+  },
+  {
+    "project": "E 8th Av from St. George St to Carolina St",
+    "street": null,
+    "location": "E 8th Av from St. George St to Carolina St",
+    "comp_date": "2025-01-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/309ebcd5-fa86-40a3-8836-88fee33f7a23",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09297395470716,
+            49.26345528216996
+          ],
+          [
+            -123.09103947198413,
+            49.26343926398536
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09200671334565,
+      "lat": 49.26344727307766
     }
   },
   {
@@ -174,34 +96,6 @@
     }
   },
   {
-    "project": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
-    "street": null,
-    "location": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
-    "comp_date": "2025-01-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec457649-6c58-44ee-bd3e-3c7b6531b4cd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07588464511642,
-            49.25660763868507
-          ],
-          [
-            -123.07504603656662,
-            49.25657402711377
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07546534084152,
-      "lat": 49.25659083289943
-    }
-  },
-  {
     "project": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
     "street": null,
     "location": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
@@ -227,6 +121,34 @@
     "geo_point_2d": {
       "lon": -123.14469449022619,
       "lat": 49.20958688006538
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
+    "street": null,
+    "location": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
+    "comp_date": "2025-01-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec457649-6c58-44ee-bd3e-3c7b6531b4cd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07588464511642,
+            49.25660763868507
+          ],
+          [
+            -123.07504603656662,
+            49.25657402711377
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07546534084152,
+      "lat": 49.25659083289943
     }
   },
   {
@@ -494,6 +416,46 @@
     }
   },
   {
+    "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
+    "street": null,
+    "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb25ff8-f798-4d89-8efd-317d3827ff36",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1529336557959,
+              49.26475963281223
+            ],
+            [
+              -123.15182322126375,
+              49.26474913092352
+            ]
+          ],
+          [
+            [
+              -123.15287424918476,
+              49.26477369304459
+            ],
+            [
+              -123.15287424918476,
+              49.26506074372162
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15248027697936,
+      "lat": 49.26478782814031
+    }
+  },
+  {
     "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
     "location": "Cypress St between W 35th Ave and Quilchena Street",
@@ -724,6 +686,42 @@
     }
   },
   {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -779,42 +777,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
     }
   },
   {
