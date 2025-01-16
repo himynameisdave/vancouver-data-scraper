@@ -1,33 +1,5 @@
 [
   {
-    "project": "E 35th Av from Dumfries St to Argyle St",
-    "street": null,
-    "location": "E 35th Av from Dumfries St to Argyle St",
-    "comp_date": "2025-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c7d2d0c8-5bef-4812-afb2-6dd3567e16d9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07408234759318,
-            49.23850437586708
-          ],
-          [
-            -123.07132058772066,
-            49.23845868195377
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07270146765693,
-      "lat": 49.23848152891043
-    }
-  },
-  {
     "project": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
     "street": null,
     "location": "Lakewood Dr. from E Hastings St to Laneway south of E Hastings St",
@@ -53,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.06170582163858,
       "lat": 49.28096186955955
+    }
+  },
+  {
+    "project": "E 35th Av from Dumfries St to Argyle St",
+    "street": null,
+    "location": "E 35th Av from Dumfries St to Argyle St",
+    "comp_date": "2025-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c7d2d0c8-5bef-4812-afb2-6dd3567e16d9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07408234759318,
+            49.23850437586708
+          ],
+          [
+            -123.07132058772066,
+            49.23845868195377
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07270146765693,
+      "lat": 49.23848152891043
     }
   },
   {
