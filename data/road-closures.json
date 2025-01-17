@@ -1,61 +1,5 @@
 [
   {
-    "project": "Laneway South of E 16th Av from St Catherine St to Laneway",
-    "street": null,
-    "location": "Laneway South of E 16th Av from St Catherine St to Laneway",
-    "comp_date": "2025-01-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ccc7dec5-180f-44f9-ae3c-40812c830a85",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08684968751407,
-            49.25592910411271
-          ],
-          [
-            -123.08555809171402,
-            49.25590856923074
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08620388961404,
-      "lat": 49.255918836671725
-    }
-  },
-  {
-    "project": "E 8th Av from St. George St to Carolina St",
-    "street": null,
-    "location": "E 8th Av from St. George St to Carolina St",
-    "comp_date": "2025-01-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/309ebcd5-fa86-40a3-8836-88fee33f7a23",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09297395470716,
-            49.26345528216996
-          ],
-          [
-            -123.09103947198413,
-            49.26343926398536
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09200671334565,
-      "lat": 49.26344727307766
-    }
-  },
-  {
     "project": "Woodland Dr from E Broadway to E 10th Av",
     "street": null,
     "location": "Woodland Dr from E Broadway to E 10th Av",
@@ -93,6 +37,34 @@
     "geo_point_2d": {
       "lon": -123.0736396013495,
       "lat": 49.26187534312194
+    }
+  },
+  {
+    "project": "Both sides of 3100 Block E 45th Ave from McKinnon St to Joyce St.",
+    "street": null,
+    "location": "Both sides of 3100 Block E 45th Ave from McKinnon St to Joyce St.",
+    "comp_date": "2025-01-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70c5d1e5-c61f-4cf9-9472-a0f695887d13",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03860196183287,
+            49.22928678476046
+          ],
+          [
+            -123.0374539763745,
+            49.22928678476046
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0380279691037,
+      "lat": 49.22928678476046
     }
   },
   {
@@ -177,166 +149,6 @@
     "geo_point_2d": {
       "lon": -123.1633492028598,
       "lat": 49.2691830474603
-    }
-  },
-  {
-    "project": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
-    "street": null,
-    "location": "E 6th Av - Windermere St to Rupert St\\t            \r\nWindermere St - E 5th Av to",
-    "comp_date": "2025-01-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7490cc3-9749-4b7c-afde-d3f962ee1e8c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03649805514345,
-              49.2651930108195
-            ],
-            [
-              -123.03650271110962,
-              49.26474089249274
-            ]
-          ],
-          [
-            [
-              -123.04156102693383,
-              49.264758793340434
-            ],
-            [
-              -123.03903086501592,
-              49.264749637061556
-            ]
-          ],
-          [
-            [
-              -123.036500262164,
-              49.26568812400441
-            ],
-            [
-              -123.03649805514345,
-              49.2651930108195
-            ]
-          ],
-          [
-            [
-              -123.0495436959967,
-              49.26477496525732
-            ],
-            [
-              -123.04431691465969,
-              49.26476997869088
-            ]
-          ],
-          [
-            [
-              -123.04429119263114,
-              49.264768150543745
-            ],
-            [
-              -123.04353110893598,
-              49.26476571385095
-            ]
-          ],
-          [
-            [
-              -123.04353110893598,
-              49.26476571385095
-            ],
-            [
-              -123.04156102693383,
-              49.264758793340434
-            ]
-          ],
-          [
-            [
-              -123.04431176951252,
-              49.262971581785706
-            ],
-            [
-              -123.03101786377984,
-              49.262920704157835
-            ]
-          ],
-          [
-            [
-              -123.03903404831173,
-              49.263857709963105
-            ],
-            [
-              -123.03903404831173,
-              49.262958373076145
-            ]
-          ],
-          [
-            [
-              -123.03651933222142,
-              49.26384249280778
-            ],
-            [
-              -123.03650239217212,
-              49.2647268594101
-            ]
-          ],
-          [
-            [
-              -123.03903086501592,
-              49.264749637061556
-            ],
-            [
-              -123.03650271110962,
-              49.26474089249274
-            ]
-          ],
-          [
-            [
-              -123.03298763729669,
-              49.263829458791946
-            ],
-            [
-              -123.03903404831173,
-              49.263857709963105
-            ]
-          ],
-          [
-            [
-              -123.0345217174447,
-              49.264733711479465
-            ],
-            [
-              -123.033762253404,
-              49.264731435217726
-            ]
-          ],
-          [
-            [
-              -123.03650271110962,
-              49.26474089249274
-            ],
-            [
-              -123.0345217174447,
-              49.264733711479465
-            ]
-          ],
-          [
-            [
-              -123.03648603460017,
-              49.262929592760685
-            ],
-            [
-              -123.0364741606871,
-              49.261929989700576
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03897035546358,
-      "lat": 49.263904089013906
     }
   },
   {
@@ -449,6 +261,46 @@
     "geo_point_2d": {
       "lon": -123.14871274786182,
       "lat": 49.24049562451019
+    }
+  },
+  {
+    "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "street": null,
+    "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8881d4b-07eb-462f-a0cf-fb6b24776154",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10829495659864,
+              49.22953390121478
+            ],
+            [
+              -123.10583275082757,
+              49.229455431008944
+            ]
+          ],
+          [
+            [
+              -123.10583703999241,
+              49.22945543079513
+            ],
+            [
+              -123.10586706676433,
+              49.228550212917156
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10673809214045,
+      "lat": 49.229362446344595
     }
   },
   {
@@ -780,9 +632,45 @@
     }
   },
   {
-    "project": "Roadway improvements at 1200-1300 Block of Bidwell b/w Beach & Davie. Geometric",
+    "project": "900 W Waterfront Rd",
     "street": null,
-    "location": "Roadway improvements at 1200-1300 Block of Bidwell b/w Beach & Davie. Geometric",
+    "location": "900 W Waterfront Rd",
+    "comp_date": "2025-04-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f46efa2e-8397-4afe-9ae8-5608747c6de8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11135554766784,
+            49.28680420420096
+          ],
+          [
+            -123.11272160826356,
+            49.28742515018345
+          ],
+          [
+            -123.11378248495332,
+            49.28776643020052
+          ],
+          [
+            -123.11536653438016,
+            49.288221466299774
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11333618206096,
+      "lat": 49.28758037120826
+    }
+  },
+  {
+    "project": "1200-1300 Block of Bidwell b/w Beach & Davie.",
+    "street": null,
+    "location": "1200-1300 Block of Bidwell b/w Beach & Davie.",
     "comp_date": "2025-04-05",
     "url_link": "https://vancouver.ca/streets-transportation/improving-bus-stops.aspx",
     "geom": {
@@ -790,33 +678,71 @@
       "geometry": {
         "coordinates": [
           [
+            -123.14278256797127,
+            49.284562816914985
+          ],
+          [
+            -123.14024547041082,
+            49.286247971126784
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14151401919105,
+      "lat": 49.285405394020884
+    }
+  },
+  {
+    "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
+    "street": null,
+    "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
+    "comp_date": "2025-04-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
             [
-              -123.13274638717492,
-              49.27537936969799
+              -123.08332465041154,
+              49.26244633294803
             ],
             [
-              -123.13181536867882,
-              49.27476817419776
+              -123.08335871234284,
+              49.259656558281364
             ]
           ],
           [
             [
-              -123.14278256797127,
-              49.284562816914985
+              -123.08526701182154,
+              49.26246350296378
             ],
             [
-              -123.14024547041082,
-              49.286247971126784
+              -123.08529404679435,
+              49.25969349203285
             ]
           ],
           [
             [
-              -123.13811481404825,
-              49.28068540102444
+              -123.08525349433506,
+              49.26151077789254
             ],
             [
-              -123.13440176698383,
-              49.278280786909306
+              -123.08337456372655,
+              49.26151077789254
+            ]
+          ],
+          [
+            [
+              -123.08525349433506,
+              49.26061978687653
+            ],
+            [
+              -123.08340159869931,
+              49.26058449977245
             ]
           ]
         ],
@@ -825,8 +751,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13760720912488,
-      "lat": 49.28101250466326
+      "lon": -123.08431290414072,
+      "lat": 49.26106283037342
     }
   },
   {
@@ -1297,6 +1223,46 @@
     "geo_point_2d": {
       "lon": -123.11828769589711,
       "lat": 49.26301034265017
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2027-01-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/569cde2e-876f-4ecb-b13b-86beeeeadbd9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0249236046173,
+            49.29248448897795
+          ],
+          [
+            -123.0249287401899,
+            49.292528032815255
+          ],
+          [
+            -123.02412764229045,
+            49.29268211065113
+          ],
+          [
+            -123.02412764229045,
+            49.29263856694996
+          ],
+          [
+            -123.0249236046173,
+            49.29248448897795
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02452698146213,
+      "lat": 49.29258335033243
     }
   }
 ]
