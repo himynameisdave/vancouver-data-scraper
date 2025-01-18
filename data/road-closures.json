@@ -68,34 +68,6 @@
     }
   },
   {
-    "project": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
-    "street": null,
-    "location": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
-    "comp_date": "2025-01-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec457649-6c58-44ee-bd3e-3c7b6531b4cd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07588464511642,
-            49.25660763868507
-          ],
-          [
-            -123.07504603656662,
-            49.25657402711377
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07546534084152,
-      "lat": 49.25659083289943
-    }
-  },
-  {
     "project": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
     "street": null,
     "location": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
@@ -121,6 +93,34 @@
     "geo_point_2d": {
       "lon": -123.14469449022619,
       "lat": 49.20958688006538
+    }
+  },
+  {
+    "project": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
+    "street": null,
+    "location": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
+    "comp_date": "2025-01-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec457649-6c58-44ee-bd3e-3c7b6531b4cd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07588464511642,
+            49.25660763868507
+          ],
+          [
+            -123.07504603656662,
+            49.25657402711377
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07546534084152,
+      "lat": 49.25659083289943
     }
   },
   {
@@ -228,6 +228,46 @@
     }
   },
   {
+    "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
+    "street": null,
+    "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb25ff8-f798-4d89-8efd-317d3827ff36",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1529336557959,
+              49.26475963281223
+            ],
+            [
+              -123.15182322126375,
+              49.26474913092352
+            ]
+          ],
+          [
+            [
+              -123.15287424918476,
+              49.26477369304459
+            ],
+            [
+              -123.15287424918476,
+              49.26506074372162
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15248027697936,
+      "lat": 49.26478782814031
+    }
+  },
+  {
     "project": "Cypress St between W 35th Ave and Quilchena Street",
     "street": null,
     "location": "Cypress St between W 35th Ave and Quilchena Street",
@@ -301,46 +341,6 @@
     "geo_point_2d": {
       "lon": -123.10673809214045,
       "lat": 49.229362446344595
-    }
-  },
-  {
-    "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
-    "street": null,
-    "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb25ff8-f798-4d89-8efd-317d3827ff36",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1529336557959,
-              49.26475963281223
-            ],
-            [
-              -123.15182322126375,
-              49.26474913092352
-            ]
-          ],
-          [
-            [
-              -123.15287424918476,
-              49.26477369304459
-            ],
-            [
-              -123.15287424918476,
-              49.26506074372162
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15248027697936,
-      "lat": 49.26478782814031
     }
   },
   {
@@ -538,6 +538,42 @@
     }
   },
   {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -593,42 +629,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
     }
   },
   {
