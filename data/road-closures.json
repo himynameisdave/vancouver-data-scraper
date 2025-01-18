@@ -1,32 +1,82 @@
 [
   {
-    "project": "Woodland Dr from E Broadway to E 10th Av",
+    "project": null,
     "street": null,
-    "location": "Woodland Dr from E Broadway to E 10th Av",
-    "comp_date": "2025-01-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0a7a866-f86d-49bb-b1ed-4e63550fd19a",
+    "location": null,
+    "comp_date": "2025-01-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/21b62bee-9b36-43a8-913e-f7bc9f4b6713",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.07363084358012,
-              49.262350161566616
+              -123.11493464619492,
+              49.2826685835889
             ],
             [
-              -123.0736395591472,
-              49.26185251416658
+              -123.11542017325341,
+              49.282982391098784
             ]
           ],
           [
             [
-              -123.0736395591472,
-              49.26185251416658
+              -123.11444927637942,
+              49.28235470190623
             ],
             [
-              -123.07364933208568,
-              49.26140054371646
+              -123.11493464619492,
+              49.2826685835889
+            ]
+          ],
+          [
+            [
+              -123.11396311495145,
+              49.28204069301748
+            ],
+            [
+              -123.11444927637942,
+              49.28235470190623
+            ]
+          ],
+          [
+            [
+              -123.113478181969,
+              49.28172605119889
+            ],
+            [
+              -123.11396311495145,
+              49.28204069301748
+            ]
+          ],
+          [
+            [
+              -123.11444927637942,
+              49.28235470190623
+            ],
+            [
+              -123.1161586140664,
+              49.28122479403444
+            ]
+          ],
+          [
+            [
+              -123.1133653154862,
+              49.283071588583766
+            ],
+            [
+              -123.11444927637942,
+              49.28235470190623
+            ]
+          ],
+          [
+            [
+              -123.1128853114284,
+              49.28338899452052
+            ],
+            [
+              -123.1133653154862,
+              49.283071588583766
             ]
           ]
         ],
@@ -35,27 +85,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0736396013495,
-      "lat": 49.26187534312194
+      "lon": -123.11449486784619,
+      "lat": 49.28232450071889
     }
   },
   {
-    "project": "Both sides of 3100 Block E 45th Ave from McKinnon St to Joyce St.",
+    "project": "Glen Dr - E Hastings north to the lane north of E Hastings",
     "street": null,
-    "location": "Both sides of 3100 Block E 45th Ave from McKinnon St to Joyce St.",
-    "comp_date": "2025-01-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70c5d1e5-c61f-4cf9-9472-a0f695887d13",
+    "location": "Glen Dr - E Hastings north to the lane north of E Hastings",
+    "comp_date": "2025-01-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5e75876b-307d-4ca6-b83b-927ff188c803",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03860196183287,
-            49.22928678476046
+            -123.08127361259331,
+            49.28149131347578
           ],
           [
-            -123.0374539763745,
-            49.22928678476046
+            -123.08128205390987,
+            49.28099715746552
           ]
         ],
         "type": "LineString"
@@ -63,64 +113,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0380279691037,
-      "lat": 49.22928678476046
-    }
-  },
-  {
-    "project": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
-    "street": null,
-    "location": "Both Sides of 8400-8500 Block of East Boulevard From Lane North of SW Marine Dri",
-    "comp_date": "2025-01-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd2e9cd2-50e6-4dd0-9aeb-59ee72dd2837",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14498229929322,
-            49.21015334788282
-          ],
-          [
-            -123.14440668115915,
-            49.209020412247924
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14469449022619,
-      "lat": 49.20958688006538
-    }
-  },
-  {
-    "project": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
-    "street": null,
-    "location": "Both sides of 1400 Block E 15th Av from Knight St to Maddams St.",
-    "comp_date": "2025-01-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec457649-6c58-44ee-bd3e-3c7b6531b4cd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07588464511642,
-            49.25660763868507
-          ],
-          [
-            -123.07504603656662,
-            49.25657402711377
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07546534084152,
-      "lat": 49.25659083289943
+      "lon": -123.08127783325159,
+      "lat": 49.28124423547065
     }
   },
   {
@@ -185,6 +179,34 @@
     "geo_point_2d": {
       "lon": -123.1469640028591,
       "lat": 49.27429866652904
+    }
+  },
+  {
+    "project": "W 21st Av from Mcdonald St to MacKenzie St",
+    "street": null,
+    "location": "W 21st Av from Mcdonald St to MacKenzie St",
+    "comp_date": "2025-01-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c40db72-26b5-4017-8b9a-28ffeab9c6ee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16778846097563,
+            49.25369699657418
+          ],
+          [
+            -123.17012101500349,
+            49.25370734819728
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16895473798958,
+      "lat": 49.25370217238573
     }
   },
   {
@@ -268,42 +290,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
     "street": null,
     "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
@@ -341,6 +327,90 @@
     "geo_point_2d": {
       "lon": -123.10673809214045,
       "lat": 49.229362446344595
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
+    "project": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
+    "street": null,
+    "location": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
+    "comp_date": "2025-02-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a03e9963-a2c1-4ae1-be47-68f0efe60651",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11444796289045,
+              49.23711654681878
+            ],
+            [
+              -123.11586963183225,
+              49.23721148142931
+            ]
+          ],
+          [
+            [
+              -123.11603118512109,
+              49.239384379294904
+            ],
+            [
+              -123.11528803999244,
+              49.23874095833622
+            ],
+            [
+              -123.1151264867036,
+              49.238139721339905
+            ],
+            [
+              -123.1151264867036,
+              49.237232577984685
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11528404240882,
+      "lat": 49.237960095598055
     }
   },
   {
@@ -883,6 +953,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
