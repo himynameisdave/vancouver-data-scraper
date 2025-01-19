@@ -1,5 +1,33 @@
 [
   {
+    "project": "W 3rd Av from Trafalgar St to Larch St",
+    "street": null,
+    "location": "W 3rd Av from Trafalgar St to Larch St",
+    "comp_date": "2025-01-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4f6a80a0-1abb-4e80-837d-9e41d3affac8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16221140732155,
+            49.26916310800533
+          ],
+          [
+            -123.16448699839802,
+            49.269202986915275
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1633492028598,
+      "lat": 49.2691830474603
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -115,34 +143,6 @@
     "geo_point_2d": {
       "lon": -123.08127783325159,
       "lat": 49.28124423547065
-    }
-  },
-  {
-    "project": "W 3rd Av from Trafalgar St to Larch St",
-    "street": null,
-    "location": "W 3rd Av from Trafalgar St to Larch St",
-    "comp_date": "2025-01-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4f6a80a0-1abb-4e80-837d-9e41d3affac8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16221140732155,
-            49.26916310800533
-          ],
-          [
-            -123.16448699839802,
-            49.269202986915275
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1633492028598,
-      "lat": 49.2691830474603
     }
   },
   {
@@ -290,6 +290,42 @@
     }
   },
   {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
     "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
     "street": null,
     "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
@@ -327,42 +363,6 @@
     "geo_point_2d": {
       "lon": -123.10673809214045,
       "lat": 49.229362446344595
-    }
-  },
-  {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
     }
   },
   {
