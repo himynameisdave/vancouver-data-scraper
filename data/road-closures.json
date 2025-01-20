@@ -1,135 +1,5 @@
 [
   {
-    "project": "Granville St - Dunsmuir St to Pender St",
-    "street": null,
-    "location": "Granville St - Dunsmuir St to Pender St",
-    "comp_date": "2025-01-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f121215c-51b2-4c2b-ab70-592290989365",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11484752827137,
-              49.284658600809564
-            ],
-            [
-              -123.11532753213488,
-              49.28434123176791
-            ]
-          ],
-          [
-            [
-              -123.11532753213488,
-              49.28434123176791
-            ],
-            [
-              -123.11641171154618,
-              49.28362398480479
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11562964878391,
-      "lat": 49.28414133646681
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2025-01-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/21b62bee-9b36-43a8-913e-f7bc9f4b6713",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11493464619492,
-              49.2826685835889
-            ],
-            [
-              -123.11542017325341,
-              49.282982391098784
-            ]
-          ],
-          [
-            [
-              -123.11444927637942,
-              49.28235470190623
-            ],
-            [
-              -123.11493464619492,
-              49.2826685835889
-            ]
-          ],
-          [
-            [
-              -123.11396311495145,
-              49.28204069301748
-            ],
-            [
-              -123.11444927637942,
-              49.28235470190623
-            ]
-          ],
-          [
-            [
-              -123.113478181969,
-              49.28172605119889
-            ],
-            [
-              -123.11396311495145,
-              49.28204069301748
-            ]
-          ],
-          [
-            [
-              -123.11444927637942,
-              49.28235470190623
-            ],
-            [
-              -123.1161586140664,
-              49.28122479403444
-            ]
-          ],
-          [
-            [
-              -123.1133653154862,
-              49.283071588583766
-            ],
-            [
-              -123.11444927637942,
-              49.28235470190623
-            ]
-          ],
-          [
-            [
-              -123.1128853114284,
-              49.28338899452052
-            ],
-            [
-              -123.1133653154862,
-              49.283071588583766
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11449486784619,
-      "lat": 49.28232450071889
-    }
-  },
-  {
     "project": "Glen Dr - E Hastings north to the lane north of E Hastings",
     "street": null,
     "location": "Glen Dr - E Hastings north to the lane north of E Hastings",
@@ -234,42 +104,6 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
@@ -340,42 +174,6 @@
     }
   },
   {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -431,6 +229,42 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
     }
   },
   {
