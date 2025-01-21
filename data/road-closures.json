@@ -1,33 +1,5 @@
 [
   {
-    "project": "Glen Dr - E Hastings north to the lane north of E Hastings",
-    "street": null,
-    "location": "Glen Dr - E Hastings north to the lane north of E Hastings",
-    "comp_date": "2025-01-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5e75876b-307d-4ca6-b83b-927ff188c803",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08127361259331,
-            49.28149131347578
-          ],
-          [
-            -123.08128205390987,
-            49.28099715746552
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08127783325159,
-      "lat": 49.28124423547065
-    }
-  },
-  {
     "project": "1300 Chestnut St., 1800 Creelman Ave, and 1300 Cypress St.",
     "street": null,
     "location": "1300 Chestnut St., 1800 Creelman Ave, and 1300 Cypress St.",
@@ -61,6 +33,368 @@
     "geo_point_2d": {
       "lon": -123.1469640028591,
       "lat": 49.27429866652904
+    }
+  },
+  {
+    "project": "W 21st Av from Mcdonald St to MacKenzie St",
+    "street": null,
+    "location": "W 21st Av from Mcdonald St to MacKenzie St",
+    "comp_date": "2025-01-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c40db72-26b5-4017-8b9a-28ffeab9c6ee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16778846097563,
+            49.25369699657418
+          ],
+          [
+            -123.17012101500349,
+            49.25370734819728
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16895473798958,
+      "lat": 49.25370217238573
+    }
+  },
+  {
+    "project": "Intersection of E 20th Av and St. George St",
+    "street": null,
+    "location": "Intersection of E 20th Av and St. George St",
+    "comp_date": "2025-01-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/150afa18-9d53-4a9c-8b19-8383991ccb0b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09390863534087,
+              49.25287660436368
+            ],
+            [
+              -123.09197293128797,
+              49.25284623748635
+            ]
+          ],
+          [
+            [
+              -123.09662678410722,
+              49.25291734219124
+            ],
+            [
+              -123.09390863534087,
+              49.25287660436368
+            ]
+          ],
+          [
+            [
+              -123.09389190404096,
+              49.25332899666762
+            ],
+            [
+              -123.09390863534087,
+              49.25287660436368
+            ]
+          ],
+          [
+            [
+              -123.09390863534087,
+              49.25287660436368
+            ],
+            [
+              -123.09392451513611,
+              49.252424617499
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09423613315374,
+      "lat": 49.252881311371624
+    }
+  },
+  {
+    "project": "Both Sides of 100 Block of Keefer Street From Lane West of Main Street to 45m We",
+    "street": null,
+    "location": "Both Sides of 100 Block of Keefer Street From Lane West of Main Street to 45m We",
+    "comp_date": "2025-01-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2321e31b-7e9c-4175-a8a4-39f4af39d288",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10051163231576,
+              49.27949479942083
+            ],
+            [
+              -123.10117682015144,
+              49.279501798587745
+            ]
+          ],
+          [
+            [
+              -123.10444563247533,
+              49.27925442718379
+            ],
+            [
+              -123.10443490363929,
+              49.27962188389472
+            ]
+          ],
+          [
+            [
+              -123.10679382664752,
+              49.27958029682756
+            ],
+            [
+              -123.10499674660754,
+              49.279289831028336
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10453018141226,
+      "lat": 49.27945020532335
+    }
+  },
+  {
+    "project": "Both sides of 0 Block Expo Boulevard from Quebec St to 25m West of Quebec St.",
+    "street": null,
+    "location": "Both sides of 0 Block Expo Boulevard from Quebec St to 25m West of Quebec St.",
+    "comp_date": "2025-01-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cc106ebb-3908-47f8-81eb-3ac78aacdd07",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10213963897017,
+            49.277642981139195
+          ],
+          [
+            -123.1031336547924,
+            49.27760302640246
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10263664688128,
+      "lat": 49.27762300377083
+    }
+  },
+  {
+    "project": "Lane north of E 41st Av from Argyle St to Commercial St",
+    "street": null,
+    "location": "Lane north of E 41st Av from Argyle St to Commercial St",
+    "comp_date": "2025-01-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d2e9b115-3aa0-4f1b-bc6d-096ce39be0ef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07080450659087,
+              49.233067724330766
+            ],
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ]
+          ],
+          [
+            [
+              -123.07150498364632,
+              49.23307886077288
+            ],
+            [
+              -123.07080450659087,
+              49.233067724330766
+            ]
+          ],
+          [
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ],
+            [
+              -123.06941364525733,
+              49.23305223305135
+            ]
+          ],
+          [
+            [
+              -123.06941364525733,
+              49.23305223305135
+            ],
+            [
+              -123.06871778955201,
+              49.233044814209194
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07011140415437,
+      "lat": 49.233060525367335
+    }
+  },
+  {
+    "project": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
+    "street": null,
+    "location": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
+    "comp_date": "2025-01-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a2ab97a-e582-40fb-a9d7-54f65aace30c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08152001217606,
+            49.25784852573264
+          ],
+          [
+            -123.08223884419206,
+            49.25785902908993
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08187942818405,
+      "lat": 49.257853777411285
+    }
+  },
+  {
+    "project": "W 21st Av from Crown St to Wallace St",
+    "street": null,
+    "location": "W 21st Av from Crown St to Wallace St",
+    "comp_date": "2025-01-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/210f9030-ae27-49f5-a1c2-90fcb629bc62",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19081422225152,
+            49.253792367605314
+          ],
+          [
+            -123.1935801089117,
+            49.253802545572256
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1921971655816,
+      "lat": 49.253797456588785
+    }
+  },
+  {
+    "project": "Both Sides of 1500 Block of W 68th Avenue From Granville Street to 60m West of G",
+    "street": null,
+    "location": "Both Sides of 1500 Block of W 68th Avenue From Granville Street to 60m West of G",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/238d16fe-06b4-4644-841c-68b9a4bd0a6a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14048367016743,
+              49.21052087017887
+            ],
+            [
+              -123.14138876707197,
+              49.21053488807908
+            ]
+          ],
+          [
+            [
+              -123.14113139361905,
+              49.21010874190196
+            ],
+            [
+              -123.1411142353234,
+              49.210781602236494
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14101579474223,
+      "lat": 49.210492607674304
+    }
+  },
+  {
+    "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "street": null,
+    "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8881d4b-07eb-462f-a0cf-fb6b24776154",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10829495659864,
+              49.22953390121478
+            ],
+            [
+              -123.10583275082757,
+              49.229455431008944
+            ]
+          ],
+          [
+            [
+              -123.10583703999241,
+              49.22945543079513
+            ],
+            [
+              -123.10586706676433,
+              49.228550212917156
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10673809214045,
+      "lat": 49.229362446344595
     }
   },
   {
@@ -101,6 +435,134 @@
     "geo_point_2d": {
       "lon": -123.15248027697936,
       "lat": 49.26478782814031
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
+    "project": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
+    "street": null,
+    "location": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
+    "comp_date": "2025-02-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a03e9963-a2c1-4ae1-be47-68f0efe60651",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11444796289045,
+              49.23711654681878
+            ],
+            [
+              -123.11586963183225,
+              49.23721148142931
+            ]
+          ],
+          [
+            [
+              -123.11603118512109,
+              49.239384379294904
+            ],
+            [
+              -123.11528803999244,
+              49.23874095833622
+            ],
+            [
+              -123.1151264867036,
+              49.238139721339905
+            ],
+            [
+              -123.1151264867036,
+              49.237232577984685
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11528404240882,
+      "lat": 49.237960095598055
+    }
+  },
+  {
+    "project": "Collingwood St from W 27th Av to W 28th Av",
+    "street": null,
+    "location": "Collingwood St from W 27th Av to W 28th Av",
+    "comp_date": "2025-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0004ce56-443e-4f97-a7a7-5de523d5ccd6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ],
+            [
+              -123.18191304269351,
+              49.24710596231108
+            ]
+          ],
+          [
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ],
+            [
+              -123.18190549151495,
+              49.24796403871079
+            ],
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18190210483795,
+      "lat": 49.2475989615513
     }
   },
   {
@@ -174,6 +636,122 @@
     }
   },
   {
+    "project": "W 27th Av from Dunbar St to Blenheim St",
+    "street": null,
+    "location": "W 27th Av from Dunbar St to Blenheim St",
+    "comp_date": "2025-02-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdef7bc-913b-441b-946d-95fcbbd1da3a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18456408929295,
+              49.248064535637354
+            ],
+            [
+              -123.18520431433123,
+              49.24806690228789
+            ]
+          ],
+          [
+            [
+              -123.18346586605529,
+              49.248060509922
+            ],
+            [
+              -123.18456408929295,
+              49.248064535637354
+            ]
+          ],
+          [
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ],
+            [
+              -123.18346586605529,
+              49.248060509922
+            ]
+          ],
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18190478147169,
+      "lat": 49.24805471737979
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -229,42 +807,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
     }
   },
   {
