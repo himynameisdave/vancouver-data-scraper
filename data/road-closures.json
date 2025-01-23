@@ -1,5 +1,33 @@
 [
   {
+    "project": "W 21st Av from Mcdonald St to MacKenzie St",
+    "street": null,
+    "location": "W 21st Av from Mcdonald St to MacKenzie St",
+    "comp_date": "2025-01-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c40db72-26b5-4017-8b9a-28ffeab9c6ee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16778846097563,
+            49.25369699657418
+          ],
+          [
+            -123.17012101500349,
+            49.25370734819728
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16895473798958,
+      "lat": 49.25370217238573
+    }
+  },
+  {
     "project": "Intersection of E 20th Av and St. George St",
     "street": null,
     "location": "Intersection of E 20th Av and St. George St",
@@ -57,62 +85,6 @@
     "geo_point_2d": {
       "lon": -123.09423613315374,
       "lat": 49.252881311371624
-    }
-  },
-  {
-    "project": "W 21st Av from Mcdonald St to MacKenzie St",
-    "street": null,
-    "location": "W 21st Av from Mcdonald St to MacKenzie St",
-    "comp_date": "2025-01-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c40db72-26b5-4017-8b9a-28ffeab9c6ee",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16778846097563,
-            49.25369699657418
-          ],
-          [
-            -123.17012101500349,
-            49.25370734819728
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16895473798958,
-      "lat": 49.25370217238573
-    }
-  },
-  {
-    "project": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
-    "street": null,
-    "location": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
-    "comp_date": "2025-01-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a2ab97a-e582-40fb-a9d7-54f65aace30c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08152001217606,
-            49.25784852573264
-          ],
-          [
-            -123.08223884419206,
-            49.25785902908993
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08187942818405,
-      "lat": 49.257853777411285
     }
   },
   {
@@ -314,6 +286,34 @@
     }
   },
   {
+    "project": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
+    "street": null,
+    "location": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
+    "comp_date": "2025-01-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a2ab97a-e582-40fb-a9d7-54f65aace30c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08152001217606,
+            49.25784852573264
+          ],
+          [
+            -123.08223884419206,
+            49.25785902908993
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08187942818405,
+      "lat": 49.257853777411285
+    }
+  },
+  {
     "project": "W 3rd Av from Balsam St to Vine St",
     "street": null,
     "location": "W 3rd Av from Balsam St to Vine St",
@@ -339,34 +339,6 @@
     "geo_point_2d": {
       "lon": -123.1586572283781,
       "lat": 49.269108232364445
-    }
-  },
-  {
-    "project": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
-    "street": null,
-    "location": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
-    "comp_date": "2025-01-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5ab3d0f6-ac52-4fb6-913f-2684579c55fa",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07801990275011,
-            49.25117871473873
-          ],
-          [
-            -123.07800380949604,
-            49.2518019942834
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07801185612308,
-      "lat": 49.25149035451106
     }
   },
   {
@@ -398,30 +370,22 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "project": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
     "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "location": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
+    "comp_date": "2025-01-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5ab3d0f6-ac52-4fb6-913f-2684579c55fa",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14871563506094,
-            49.24001853227824
+            -123.07801990275011,
+            49.25117871473873
           ],
           [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
+            -123.07800380949604,
+            49.2518019942834
           ]
         ],
         "type": "LineString"
@@ -429,8 +393,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
+      "lon": -123.07801185612308,
+      "lat": 49.25149035451106
     }
   },
   {
@@ -551,6 +515,42 @@
     "geo_point_2d": {
       "lon": -123.15248027697936,
       "lat": 49.26478782814031
+    }
+  },
+  {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
     }
   },
   {
@@ -796,6 +796,42 @@
     }
   },
   {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -851,42 +887,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
     }
   },
   {
