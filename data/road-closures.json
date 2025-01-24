@@ -1,121 +1,5 @@
 [
   {
-    "project": "Intersection of E 20th Av and St. George St",
-    "street": null,
-    "location": "Intersection of E 20th Av and St. George St",
-    "comp_date": "2025-01-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/150afa18-9d53-4a9c-8b19-8383991ccb0b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09390863534087,
-              49.25287660436368
-            ],
-            [
-              -123.09197293128797,
-              49.25284623748635
-            ]
-          ],
-          [
-            [
-              -123.09662678410722,
-              49.25291734219124
-            ],
-            [
-              -123.09390863534087,
-              49.25287660436368
-            ]
-          ],
-          [
-            [
-              -123.09389190404096,
-              49.25332899666762
-            ],
-            [
-              -123.09390863534087,
-              49.25287660436368
-            ]
-          ],
-          [
-            [
-              -123.09390863534087,
-              49.25287660436368
-            ],
-            [
-              -123.09392451513611,
-              49.252424617499
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09423613315374,
-      "lat": 49.252881311371624
-    }
-  },
-  {
-    "project": "W 21st Av from Mcdonald St to MacKenzie St",
-    "street": null,
-    "location": "W 21st Av from Mcdonald St to MacKenzie St",
-    "comp_date": "2025-01-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c40db72-26b5-4017-8b9a-28ffeab9c6ee",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16778846097563,
-            49.25369699657418
-          ],
-          [
-            -123.17012101500349,
-            49.25370734819728
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16895473798958,
-      "lat": 49.25370217238573
-    }
-  },
-  {
-    "project": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
-    "street": null,
-    "location": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
-    "comp_date": "2025-01-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a2ab97a-e582-40fb-a9d7-54f65aace30c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08152001217606,
-            49.25784852573264
-          ],
-          [
-            -123.08223884419206,
-            49.25785902908993
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08187942818405,
-      "lat": 49.257853777411285
-    }
-  },
-  {
     "project": "Both Sides of 100 Block of Keefer Street From Lane West of Main Street to 45m We",
     "street": null,
     "location": "Both Sides of 100 Block of Keefer Street From Lane West of Main Street to 45m We",
@@ -163,66 +47,6 @@
     "geo_point_2d": {
       "lon": -123.10453018141226,
       "lat": 49.27945020532335
-    }
-  },
-  {
-    "project": "Intersection of E 19th Av and St. George St",
-    "street": null,
-    "location": "Intersection of E 19th Av and St. George St",
-    "comp_date": "2025-01-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e42c3b03-eda8-458c-add2-de7879025e46",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09659358204424,
-              49.25382471795811
-            ],
-            [
-              -123.09387537872269,
-              49.25378146972304
-            ]
-          ],
-          [
-            [
-              -123.09385871575641,
-              49.25423397883313
-            ],
-            [
-              -123.09387537872269,
-              49.25378146972304
-            ]
-          ],
-          [
-            [
-              -123.09387537872269,
-              49.25378146972304
-            ],
-            [
-              -123.09194203239618,
-              49.253752179836226
-            ]
-          ],
-          [
-            [
-              -123.09387537872269,
-              49.25378146972304
-            ],
-            [
-              -123.09389190404096,
-              49.25332899666762
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09420386357351,
-      "lat": 49.25378695519604
     }
   },
   {
@@ -314,6 +138,102 @@
     }
   },
   {
+    "project": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
+    "street": null,
+    "location": "Both sides of 1000 Block E 14th Ave from West of PL 1057 to Glen Dr.",
+    "comp_date": "2025-01-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a2ab97a-e582-40fb-a9d7-54f65aace30c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08152001217606,
+            49.25784852573264
+          ],
+          [
+            -123.08223884419206,
+            49.25785902908993
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08187942818405,
+      "lat": 49.257853777411285
+    }
+  },
+  {
+    "project": "Bruce St from E 39th Av to E 41st Av",
+    "street": null,
+    "location": "Bruce St from E 39th Av to E 41st Av",
+    "comp_date": "2025-01-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49e6351b-18b6-414d-bd57-ca4b9140eda0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07006203614223,
+              49.23471581018828
+            ],
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ]
+          ],
+          [
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ],
+            [
+              -123.07012182626308,
+              49.232635316154415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07009179920666,
+      "lat": 49.233675559347475
+    }
+  },
+  {
+    "project": "Both sides of 3200-3300 Block of Dumfries Street from North PL of 3266 Dumfries",
+    "street": null,
+    "location": "Both sides of 3200-3300 Block of Dumfries Street from North PL of 3266 Dumfries",
+    "comp_date": "2025-01-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d5b3fd13-562e-4a20-b02a-35cf8dd1bce3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.072907714201,
+            49.25499062242173
+          ],
+          [
+            -123.07286549338266,
+            49.255707106107764
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07288660379183,
+      "lat": 49.25534886426475
+    }
+  },
+  {
     "project": "W 3rd Av from Balsam St to Vine St",
     "street": null,
     "location": "W 3rd Av from Balsam St to Vine St",
@@ -342,31 +262,87 @@
     }
   },
   {
-    "project": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
+    "project": "Maple St from Whyte Av to Mcnicoll Av",
     "street": null,
-    "location": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
-    "comp_date": "2025-01-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5ab3d0f6-ac52-4fb6-913f-2684579c55fa",
+    "location": "Maple St from Whyte Av to Mcnicoll Av",
+    "comp_date": "2025-01-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fa002ce-767f-45d4-9ec2-dffdfcc081cf",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07801990275011,
-            49.25117871473873
+            [
+              -123.15006036883082,
+              49.276255093463305
+            ],
+            [
+              -123.15007683565543,
+              49.27581441576763
+            ]
           ],
           [
-            -123.07800380949604,
-            49.2518019942834
+            [
+              -123.15007683565543,
+              49.27581441576763
+            ],
+            [
+              -123.15009301130736,
+              49.2753730187988
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07801185612308,
-      "lat": 49.25149035451106
+      "lon": -123.15007676940805,
+      "lat": 49.27581405906713
+    }
+  },
+  {
+    "project": "Collingwood St from W 27th Av to W 28th Av",
+    "street": null,
+    "location": "Collingwood St from W 27th Av to W 28th Av",
+    "comp_date": "2025-01-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d5427884-9bc2-4d07-a6e0-52ef47b4236f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ],
+            [
+              -123.18190549151495,
+              49.24796403871079
+            ],
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ]
+          ],
+          [
+            [
+              -123.18190887521365,
+              49.24757979291908
+            ],
+            [
+              -123.18191304269351,
+              49.24710596231108
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18190210483795,
+      "lat": 49.2475989615513
     }
   },
   {
@@ -398,30 +374,22 @@
     }
   },
   {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "project": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
     "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "location": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
+    "comp_date": "2025-01-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5ab3d0f6-ac52-4fb6-913f-2684579c55fa",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14871563506094,
-            49.24001853227824
+            -123.07801990275011,
+            49.25117871473873
           ],
           [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
+            -123.07800380949604,
+            49.2518019942834
           ]
         ],
         "type": "LineString"
@@ -429,8 +397,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
+      "lon": -123.07801185612308,
+      "lat": 49.25149035451106
     }
   },
   {
@@ -471,6 +439,46 @@
     "geo_point_2d": {
       "lon": -123.14101579474223,
       "lat": 49.210492607674304
+    }
+  },
+  {
+    "project": "Both Sides of 1300 Block of E 54th Avenue From 70m East of Ross Street to 30m Ea",
+    "street": null,
+    "location": "Both Sides of 1300 Block of E 54th Avenue From 70m East of Ross Street to 30m Ea",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e68d095-caeb-46fd-8f6b-220c3519d514",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07887292228531,
+              49.220469581931354
+            ],
+            [
+              -123.07831099031192,
+              49.22045836992939
+            ]
+          ],
+          [
+            [
+              -123.08216970730412,
+              49.220517818395564
+            ],
+            [
+              -123.0796217103821,
+              49.220481379228346
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08047941159288,
+      "lat": 49.22049316161553
     }
   },
   {
@@ -554,6 +562,42 @@
     }
   },
   {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
     "project": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
     "street": null,
     "location": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
@@ -599,6 +643,42 @@
     "geo_point_2d": {
       "lon": -123.11528404240882,
       "lat": 49.237960095598055
+    }
+  },
+  {
+    "project": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
+    "street": null,
+    "location": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
+    "comp_date": "2025-02-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/855cd103-edc5-479e-9b52-43faaf4a74ad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08961275977477,
+            49.245102557046835
+          ],
+          [
+            -123.08962133892261,
+            49.24472153540495
+          ],
+          [
+            -123.09024975916893,
+            49.24472713870688
+          ],
+          [
+            -123.08786690981985,
+            49.24470472560213
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0892836001115,
+      "lat": 49.24473952072802
     }
   },
   {
@@ -649,7 +729,7 @@
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "comp_date": "2025-02-18",
+    "comp_date": "2025-02-21",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
     "geom": {
       "type": "Feature",
@@ -796,6 +876,42 @@
     }
   },
   {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -851,78 +967,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
-    }
-  },
-  {
-    "project": "900 W Waterfront Rd",
-    "street": null,
-    "location": "900 W Waterfront Rd",
-    "comp_date": "2025-04-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f46efa2e-8397-4afe-9ae8-5608747c6de8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11135554766784,
-            49.28680420420096
-          ],
-          [
-            -123.11272160826356,
-            49.28742515018345
-          ],
-          [
-            -123.11378248495332,
-            49.28776643020052
-          ],
-          [
-            -123.11536653438016,
-            49.288221466299774
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11333618206096,
-      "lat": 49.28758037120826
     }
   },
   {
@@ -1011,6 +1055,42 @@
     "geo_point_2d": {
       "lon": -123.08431290414072,
       "lat": 49.26106283037342
+    }
+  },
+  {
+    "project": "900 W Waterfront Rd",
+    "street": null,
+    "location": "900 W Waterfront Rd",
+    "comp_date": "2025-06-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f46efa2e-8397-4afe-9ae8-5608747c6de8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11135554766784,
+            49.28680420420096
+          ],
+          [
+            -123.11272160826356,
+            49.28742515018345
+          ],
+          [
+            -123.11378248495332,
+            49.28776643020052
+          ],
+          [
+            -123.11536653438016,
+            49.288221466299774
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11333618206096,
+      "lat": 49.28758037120826
     }
   },
   {
