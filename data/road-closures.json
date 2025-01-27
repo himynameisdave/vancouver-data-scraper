@@ -1,77 +1,5 @@
 [
   {
-    "project": "300 Block of Water St.",
-    "street": null,
-    "location": "300 Block of Water St.",
-    "comp_date": "2025-01-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dfa61130-3c7d-4a3f-bb6a-f0607bb499f0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10878779009835,
-            49.284303367399446
-          ],
-          [
-            -123.1108208286674,
-            49.28466495447091
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10980430938287,
-      "lat": 49.28448416093518
-    }
-  },
-  {
-    "project": "E 16th Av - Main St to Sophia St",
-    "street": null,
-    "location": "E 16th Av - Main St to Sophia St",
-    "comp_date": "2025-01-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f96559c4-e870-401e-a0dd-686477858c3a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10122753995721,
-              49.256584324897915
-            ],
-            [
-              -123.1006631227017,
-              49.25657474339229
-            ]
-          ],
-          [
-            [
-              -123.1006631227017,
-              49.25657474339229
-            ],
-            [
-              -123.10059276518214,
-              49.256597463622086
-            ],
-            [
-              -123.09843130713013,
-              49.2565647206973
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0998304480489,
-      "lat": 49.256580910389154
-    }
-  },
-  {
     "project": "Powell St - Heatley Av to Jackson Av",
     "street": null,
     "location": "Powell St - Heatley Av to Jackson Av",
@@ -538,6 +466,78 @@
     }
   },
   {
+    "project": "300 Block of Water St.",
+    "street": null,
+    "location": "300 Block of Water St.",
+    "comp_date": "2025-01-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dfa61130-3c7d-4a3f-bb6a-f0607bb499f0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10878779009835,
+            49.284303367399446
+          ],
+          [
+            -123.1108208286674,
+            49.28466495447091
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10980430938287,
+      "lat": 49.28448416093518
+    }
+  },
+  {
+    "project": "E 16th Av - Main St to Sophia St",
+    "street": null,
+    "location": "E 16th Av - Main St to Sophia St",
+    "comp_date": "2025-01-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f96559c4-e870-401e-a0dd-686477858c3a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10122753995721,
+              49.256584324897915
+            ],
+            [
+              -123.1006631227017,
+              49.25657474339229
+            ]
+          ],
+          [
+            [
+              -123.1006631227017,
+              49.25657474339229
+            ],
+            [
+              -123.10059276518214,
+              49.256597463622086
+            ],
+            [
+              -123.09843130713013,
+              49.2565647206973
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0998304480489,
+      "lat": 49.256580910389154
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -606,6 +606,42 @@
     }
   },
   {
+    "project": "Cypress St between W 35th Ave and Quilchena Street",
+    "street": null,
+    "location": "Cypress St between W 35th Ave and Quilchena Street",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14871563506094,
+            49.24001853227824
+          ],
+          [
+            -123.14871134556884,
+            49.24070219301893
+          ],
+          [
+            -123.14870276658465,
+            49.240892719687594
+          ],
+          [
+            -123.14873708317596,
+            49.24096556799779
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14871274786182,
+      "lat": 49.24049562451019
+    }
+  },
+  {
     "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
     "street": null,
     "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
@@ -643,42 +679,6 @@
     "geo_point_2d": {
       "lon": -123.15248027697936,
       "lat": 49.26478782814031
-    }
-  },
-  {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
     }
   },
   {
@@ -804,42 +804,6 @@
     }
   },
   {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -895,6 +859,42 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
     }
   },
   {
