@@ -1,73 +1,5 @@
 [
   {
-    "project": "Maple St from Whyte Av to Mcnicoll Av",
-    "street": null,
-    "location": "Maple St from Whyte Av to Mcnicoll Av",
-    "comp_date": "2025-01-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fa002ce-767f-45d4-9ec2-dffdfcc081cf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15006036883082,
-              49.276255093463305
-            ],
-            [
-              -123.15007683565543,
-              49.27581441576763
-            ]
-          ],
-          [
-            [
-              -123.15007683565543,
-              49.27581441576763
-            ],
-            [
-              -123.15009301130736,
-              49.2753730187988
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15007676940805,
-      "lat": 49.27581405906713
-    }
-  },
-  {
-    "project": "W 3rd Av from Balsam St to Vine St",
-    "street": null,
-    "location": "W 3rd Av from Balsam St to Vine St",
-    "comp_date": "2025-01-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f67e2148-8d0a-4e9b-860c-12d11e2eee61",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15747226228629,
-            49.26908910305613
-          ],
-          [
-            -123.15984219446989,
-            49.26912736167276
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1586572283781,
-      "lat": 49.269108232364445
-    }
-  },
-  {
     "project": "Collingwood St from W 27th Av to W 28th Av",
     "street": null,
     "location": "Collingwood St from W 27th Av to W 28th Av",
@@ -521,6 +453,46 @@
     "geo_point_2d": {
       "lon": -123.07009179920666,
       "lat": 49.233675559347475
+    }
+  },
+  {
+    "project": "Stephens St from W 1st Av to York St",
+    "street": null,
+    "location": "Stephens St from W 1st Av to York St",
+    "comp_date": "2025-02-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d8534ef-8df7-4a0f-97fc-8d1881fd919d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16623909469841,
+              49.27190962623999
+            ],
+            [
+              -123.16625921235857,
+              49.27133869914286
+            ]
+          ],
+          [
+            [
+              -123.16625921235857,
+              49.27133869914286
+            ],
+            [
+              -123.16627044406077,
+              49.27101573740242
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16625481672749,
+      "lat": 49.27146268347872
     }
   },
   {
