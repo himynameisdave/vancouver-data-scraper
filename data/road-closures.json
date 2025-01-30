@@ -44,6 +44,34 @@
     }
   },
   {
+    "project": "W 21st Av from Crown St to Wallace St",
+    "street": null,
+    "location": "W 21st Av from Crown St to Wallace St",
+    "comp_date": "2025-01-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/210f9030-ae27-49f5-a1c2-90fcb629bc62",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19081422225152,
+            49.253792367605314
+          ],
+          [
+            -123.1935801089117,
+            49.253802545572256
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1921971655816,
+      "lat": 49.253797456588785
+    }
+  },
+  {
     "project": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
     "street": null,
     "location": "Both Sides of 3600 Block of Clark Drive From Kingsway to Lane North of Kingsway.",
@@ -72,31 +100,43 @@
     }
   },
   {
-    "project": "W 21st Av from Crown St to Wallace St",
+    "project": "W 23rd Av from Dunbar St to Collingwood St",
     "street": null,
-    "location": "W 21st Av from Crown St to Wallace St",
-    "comp_date": "2025-01-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/210f9030-ae27-49f5-a1c2-90fcb629bc62",
+    "location": "W 23rd Av from Dunbar St to Collingwood St",
+    "comp_date": "2025-01-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/651ed426-6155-4021-bedd-db5a7aeffd29",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.19081422225152,
-            49.253792367605314
+            [
+              -123.18451551788179,
+              49.25195823529728
+            ],
+            [
+              -123.18516628041553,
+              49.251961259990054
+            ]
           ],
           [
-            -123.1935801089117,
-            49.253802545572256
+            [
+              -123.18186699999592,
+              49.251946594228826
+            ],
+            [
+              -123.18451551788179,
+              49.25195823529728
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1921971655816,
-      "lat": 49.253797456588785
+      "lon": -123.18351664050404,
+      "lat": 49.25195386112946
     }
   },
   {
@@ -140,33 +180,33 @@
     }
   },
   {
-    "project": "W 23rd Av from Dunbar St to Collingwood St",
+    "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
     "street": null,
-    "location": "W 23rd Av from Dunbar St to Collingwood St",
-    "comp_date": "2025-01-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/651ed426-6155-4021-bedd-db5a7aeffd29",
+    "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
+    "comp_date": "2025-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb25ff8-f798-4d89-8efd-317d3827ff36",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.18451551788179,
-              49.25195823529728
+              -123.1529336557959,
+              49.26475963281223
             ],
             [
-              -123.18516628041553,
-              49.251961259990054
+              -123.15182322126375,
+              49.26474913092352
             ]
           ],
           [
             [
-              -123.18186699999592,
-              49.251946594228826
+              -123.15287424918476,
+              49.26477369304459
             ],
             [
-              -123.18451551788179,
-              49.25195823529728
+              -123.15287424918476,
+              49.26506074372162
             ]
           ]
         ],
@@ -175,8 +215,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18351664050404,
-      "lat": 49.25195386112946
+      "lon": -123.15248027697936,
+      "lat": 49.26478782814031
     }
   },
   {
@@ -376,33 +416,33 @@
     }
   },
   {
-    "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
+    "project": "Stephens St from W 1st Av to York St",
     "street": null,
-    "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb25ff8-f798-4d89-8efd-317d3827ff36",
+    "location": "Stephens St from W 1st Av to York St",
+    "comp_date": "2025-02-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d8534ef-8df7-4a0f-97fc-8d1881fd919d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.1529336557959,
-              49.26475963281223
+              -123.16623909469841,
+              49.27190962623999
             ],
             [
-              -123.15182322126375,
-              49.26474913092352
+              -123.16625921235857,
+              49.27133869914286
             ]
           ],
           [
             [
-              -123.15287424918476,
-              49.26477369304459
+              -123.16625921235857,
+              49.27133869914286
             ],
             [
-              -123.15287424918476,
-              49.26506074372162
+              -123.16627044406077,
+              49.27101573740242
             ]
           ]
         ],
@@ -411,8 +451,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15248027697936,
-      "lat": 49.26478782814031
+      "lon": -123.16625481672749,
+      "lat": 49.27146268347872
     }
   },
   {
@@ -453,46 +493,6 @@
     "geo_point_2d": {
       "lon": -123.07009179920666,
       "lat": 49.233675559347475
-    }
-  },
-  {
-    "project": "Stephens St from W 1st Av to York St",
-    "street": null,
-    "location": "Stephens St from W 1st Av to York St",
-    "comp_date": "2025-02-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d8534ef-8df7-4a0f-97fc-8d1881fd919d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16623909469841,
-              49.27190962623999
-            ],
-            [
-              -123.16625921235857,
-              49.27133869914286
-            ]
-          ],
-          [
-            [
-              -123.16625921235857,
-              49.27133869914286
-            ],
-            [
-              -123.16627044406077,
-              49.27101573740242
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16625481672749,
-      "lat": 49.27146268347872
     }
   },
   {
@@ -864,6 +864,42 @@
     }
   },
   {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-03-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -919,42 +955,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
     }
   },
   {
