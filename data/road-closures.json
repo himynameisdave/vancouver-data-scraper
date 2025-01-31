@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 21st Av from Crown St to Wallace St",
-    "street": null,
-    "location": "W 21st Av from Crown St to Wallace St",
-    "comp_date": "2025-01-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/210f9030-ae27-49f5-a1c2-90fcb629bc62",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19081422225152,
-            49.253792367605314
-          ],
-          [
-            -123.1935801089117,
-            49.253802545572256
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1921971655816,
-      "lat": 49.253797456588785
-    }
-  },
-  {
     "project": "Both sides of 3500 Block W 12th Ave from Collingwood St to West of PL 3541.",
     "street": null,
     "location": "Both sides of 3500 Block W 12th Ave from Collingwood St to West of PL 3541.",
@@ -53,6 +25,46 @@
     "geo_point_2d": {
       "lon": -123.1824593444244,
       "lat": 49.261603040433044
+    }
+  },
+  {
+    "project": "E 21st Av from Carolina St to Fraser St",
+    "street": null,
+    "location": "E 21st Av from Carolina St to Fraser St",
+    "comp_date": "2025-01-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12bd5c77-d948-49f2-b95a-f5285a31ad13",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0920064701046,
+              49.25194174111388
+            ],
+            [
+              -123.0907934842254,
+              49.25192315410055
+            ]
+          ],
+          [
+            [
+              -123.0907934842254,
+              49.25192315410055
+            ],
+            [
+              -123.09003356533026,
+              49.251911740169646
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09102001879256,
+      "lat": 49.251926669776424
     }
   },
   {
@@ -525,6 +537,62 @@
     "geo_point_2d": {
       "lon": -123.11528404240882,
       "lat": 49.237960095598055
+    }
+  },
+  {
+    "project": "Both Sides of 2800 Block of W 31st Avenue From W PL of 2854 to East PL of 2822.",
+    "street": null,
+    "location": "Both Sides of 2800 Block of W 31st Avenue From W PL of 2854 to East PL of 2822.",
+    "comp_date": "2025-02-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bf195e0c-7130-4ffe-8395-88df0406fd34",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16834127568681,
+            49.24420378586285
+          ],
+          [
+            -123.16923350346056,
+            49.244206587489856
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16878738957368,
+      "lat": 49.24420518667635
+    }
+  },
+  {
+    "project": "Both sides of 1200-1300 Block E 27th Ave from West PL of 1215 to East PL of 1265",
+    "street": null,
+    "location": "Both sides of 1200-1300 Block E 27th Ave from West PL of 1215 to East PL of 1265",
+    "comp_date": "2025-02-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/88e55372-c5d1-492d-b1b5-cbf1d73ce2b4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07983446891483,
+            49.246461407506274
+          ],
+          [
+            -123.07886428840798,
+            49.246458475375704
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0793493786614,
+      "lat": 49.24645994144099
     }
   },
   {
