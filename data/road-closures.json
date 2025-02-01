@@ -1,273 +1,5 @@
 [
   {
-    "project": "Both sides of 3500 Block W 12th Ave from Collingwood St to West of PL 3541.",
-    "street": null,
-    "location": "Both sides of 3500 Block W 12th Ave from Collingwood St to West of PL 3541.",
-    "comp_date": "2025-01-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/631d2bc0-2fd6-42cb-8432-5e5003bbb4c7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18201141551891,
-            49.26159603872679
-          ],
-          [
-            -123.18290727332989,
-            49.261610042139296
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1824593444244,
-      "lat": 49.261603040433044
-    }
-  },
-  {
-    "project": "E 21st Av from Carolina St to Fraser St",
-    "street": null,
-    "location": "E 21st Av from Carolina St to Fraser St",
-    "comp_date": "2025-01-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12bd5c77-d948-49f2-b95a-f5285a31ad13",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0920064701046,
-              49.25194174111388
-            ],
-            [
-              -123.0907934842254,
-              49.25192315410055
-            ]
-          ],
-          [
-            [
-              -123.0907934842254,
-              49.25192315410055
-            ],
-            [
-              -123.09003356533026,
-              49.251911740169646
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09102001879256,
-      "lat": 49.251926669776424
-    }
-  },
-  {
-    "project": "W 23rd Av from Dunbar St to Collingwood St",
-    "street": null,
-    "location": "W 23rd Av from Dunbar St to Collingwood St",
-    "comp_date": "2025-01-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/651ed426-6155-4021-bedd-db5a7aeffd29",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18451551788179,
-              49.25195823529728
-            ],
-            [
-              -123.18516628041553,
-              49.251961259990054
-            ]
-          ],
-          [
-            [
-              -123.18186699999592,
-              49.251946594228826
-            ],
-            [
-              -123.18451551788179,
-              49.25195823529728
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18351664050404,
-      "lat": 49.25195386112946
-    }
-  },
-  {
-    "project": "Both Sides of 4400 Block of Slocan Street From E 28th Avenue to 35m South. East",
-    "street": null,
-    "location": "Both Sides of 4400 Block of Slocan Street From E 28th Avenue to 35m South. East",
-    "comp_date": "2025-01-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d473191c-7372-4766-a4e7-65c02b82203a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04966171920466,
-              49.24546237903408
-            ],
-            [
-              -123.04966171920466,
-              49.24500571640195
-            ]
-          ],
-          [
-            [
-              -123.048441595294,
-              49.242289783314106
-            ],
-            [
-              -123.04819709031736,
-              49.24253633917829
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04908189359578,
-      "lat": 49.24401555177312
-    }
-  },
-  {
-    "project": "Both Sides of 1500 Block of W 68th Avenue From Granville Street to 60m West of G",
-    "street": null,
-    "location": "Both Sides of 1500 Block of W 68th Avenue From Granville Street to 60m West of G",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/238d16fe-06b4-4644-841c-68b9a4bd0a6a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14048367016743,
-              49.21052087017887
-            ],
-            [
-              -123.14138876707197,
-              49.21053488807908
-            ]
-          ],
-          [
-            [
-              -123.14113139361905,
-              49.21010874190196
-            ],
-            [
-              -123.1411142353234,
-              49.210781602236494
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14101579474223,
-      "lat": 49.210492607674304
-    }
-  },
-  {
-    "project": "Both Sides of 1300 Block of E 54th Avenue From 70m East of Ross Street to 30m Ea",
-    "street": null,
-    "location": "Both Sides of 1300 Block of E 54th Avenue From 70m East of Ross Street to 30m Ea",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e68d095-caeb-46fd-8f6b-220c3519d514",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07887292228531,
-              49.220469581931354
-            ],
-            [
-              -123.07831099031192,
-              49.22045836992939
-            ]
-          ],
-          [
-            [
-              -123.08216970730412,
-              49.220517818395564
-            ],
-            [
-              -123.0796217103821,
-              49.220481379228346
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08047941159288,
-      "lat": 49.22049316161553
-    }
-  },
-  {
-    "project": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
-    "street": null,
-    "location": "Both Sides of 0 Block of W 45th Avenue From Manitoba Street to Ontario Street. B",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8881d4b-07eb-462f-a0cf-fb6b24776154",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10829495659864,
-              49.22953390121478
-            ],
-            [
-              -123.10583275082757,
-              49.229455431008944
-            ]
-          ],
-          [
-            [
-              -123.10583703999241,
-              49.22945543079513
-            ],
-            [
-              -123.10586706676433,
-              49.228550212917156
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10673809214045,
-      "lat": 49.229362446344595
-    }
-  },
-  {
     "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
     "street": null,
     "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
@@ -344,86 +76,6 @@
     }
   },
   {
-    "project": "Both sides of 3500 Block Yew St from W 19th Ave to W 20th Ave. Both sides of Lan",
-    "street": null,
-    "location": "Both sides of 3500 Block Yew St from W 19th Ave to W 20th Ave. Both sides of Lan",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f86929f7-5756-4dac-b6de-b1141d8d4532",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15564860493714,
-              49.25531601021734
-            ],
-            [
-              -123.15566469819125,
-              49.254461685840226
-            ]
-          ],
-          [
-            [
-              -123.15565396935506,
-              49.254895852535384
-            ],
-            [
-              -123.15465082318347,
-              49.25487834588773
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15538432642752,
-      "lat": 49.25488790357288
-    }
-  },
-  {
-    "project": "Bruce St from E 39th Av to E 41st Av",
-    "street": null,
-    "location": "Bruce St from E 39th Av to E 41st Av",
-    "comp_date": "2025-02-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49e6351b-18b6-414d-bd57-ca4b9140eda0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07006203614223,
-              49.23471581018828
-            ],
-            [
-              -123.07010935088393,
-              49.23306022348922
-            ]
-          ],
-          [
-            [
-              -123.07010935088393,
-              49.23306022348922
-            ],
-            [
-              -123.07012182626308,
-              49.232635316154415
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07009179920666,
-      "lat": 49.233675559347475
-    }
-  },
-  {
     "project": "Stephens St from W 1st Av to York St",
     "street": null,
     "location": "Stephens St from W 1st Av to York St",
@@ -489,6 +141,46 @@
     "geo_point_2d": {
       "lon": -123.0648561669023,
       "lat": 49.273785791054905
+    }
+  },
+  {
+    "project": "Bruce St from E 39th Av to E 41st Av",
+    "street": null,
+    "location": "Bruce St from E 39th Av to E 41st Av",
+    "comp_date": "2025-02-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49e6351b-18b6-414d-bd57-ca4b9140eda0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07006203614223,
+              49.23471581018828
+            ],
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ]
+          ],
+          [
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ],
+            [
+              -123.07012182626308,
+              49.232635316154415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07009179920666,
+      "lat": 49.233675559347475
     }
   },
   {
@@ -734,6 +426,34 @@
     }
   },
   {
+    "project": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
+    "street": null,
+    "location": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
+    "comp_date": "2025-02-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cbf786c6-c4c4-4e70-a056-52e02b6610f7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13570620835885,
+            49.284686246090814
+          ],
+          [
+            -123.13525753927814,
+            49.28440422121298
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1354818738185,
+      "lat": 49.2845452336519
+    }
+  },
+  {
     "project": "Both sides of 2600 Block Yew St from Marstrand Ave to 20m North of Marstrand Ave",
     "street": null,
     "location": "Both sides of 2600 Block Yew St from Marstrand Ave to 20m North of Marstrand Ave",
@@ -916,42 +636,6 @@
     }
   },
   {
-    "project": "100 Block Terminal Avenue",
-    "street": null,
-    "location": "100 Block Terminal Avenue",
-    "comp_date": "2025-03-01",
-    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10163182687499,
-            49.27294563042844
-          ],
-          [
-            -123.10103090141138,
-            49.27289498373639
-          ],
-          [
-            -123.1004577110221,
-            49.27280816067659
-          ],
-          [
-            -123.1001359852083,
-            49.272755102049985
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10088224206491,
-      "lat": 49.27286392941384
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -1007,6 +691,42 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
+    }
+  },
+  {
+    "project": "100 Block Terminal Avenue",
+    "street": null,
+    "location": "100 Block Terminal Avenue",
+    "comp_date": "2025-04-01",
+    "url_link": "https://vancouver.ca/streets-transportation/terminal-avenue-sewer-repairs.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10163182687499,
+            49.27294563042844
+          ],
+          [
+            -123.10103090141138,
+            49.27289498373639
+          ],
+          [
+            -123.1004577110221,
+            49.27280816067659
+          ],
+          [
+            -123.1001359852083,
+            49.272755102049985
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10088224206491,
+      "lat": 49.27286392941384
     }
   },
   {
@@ -1261,6 +981,94 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
