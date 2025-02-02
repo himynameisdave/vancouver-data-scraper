@@ -76,6 +76,46 @@
     }
   },
   {
+    "project": "Bruce St from E 39th Av to E 41st Av",
+    "street": null,
+    "location": "Bruce St from E 39th Av to E 41st Av",
+    "comp_date": "2025-02-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49e6351b-18b6-414d-bd57-ca4b9140eda0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07006203614223,
+              49.23471581018828
+            ],
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ]
+          ],
+          [
+            [
+              -123.07010935088393,
+              49.23306022348922
+            ],
+            [
+              -123.07012182626308,
+              49.232635316154415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07009179920666,
+      "lat": 49.233675559347475
+    }
+  },
+  {
     "project": "Stephens St from W 1st Av to York St",
     "street": null,
     "location": "Stephens St from W 1st Av to York St",
@@ -141,46 +181,6 @@
     "geo_point_2d": {
       "lon": -123.0648561669023,
       "lat": 49.273785791054905
-    }
-  },
-  {
-    "project": "Bruce St from E 39th Av to E 41st Av",
-    "street": null,
-    "location": "Bruce St from E 39th Av to E 41st Av",
-    "comp_date": "2025-02-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49e6351b-18b6-414d-bd57-ca4b9140eda0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07006203614223,
-              49.23471581018828
-            ],
-            [
-              -123.07010935088393,
-              49.23306022348922
-            ]
-          ],
-          [
-            [
-              -123.07010935088393,
-              49.23306022348922
-            ],
-            [
-              -123.07012182626308,
-              49.232635316154415
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07009179920666,
-      "lat": 49.233675559347475
     }
   },
   {
