@@ -1,32 +1,44 @@
 [
   {
-    "project": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
+    "project": "- Both sides of 1400 Block E 15th Av from Maddams St to Knight St. \r\n- Both side",
     "street": null,
-    "location": "North Side of 2000 Block of W 8th Avenue From Arbutus Street to E PL of 2090. Ea",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb25ff8-f798-4d89-8efd-317d3827ff36",
+    "location": "- Both sides of 1400 Block E 15th Av from Maddams St to Knight St. \r\n- Both side",
+    "comp_date": "2025-02-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/51c38e4f-b247-49c0-9dad-173989f033ba",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.1529336557959,
-              49.26475963281223
+              -123.07567568966984,
+              49.257486148636445
             ],
             [
-              -123.15182322126375,
-              49.26474913092352
+              -123.07567568966984,
+              49.25711642629062
+            ],
+            [
+              -123.07593306304733,
+              49.256984782099124
             ]
           ],
           [
             [
-              -123.15287424918476,
-              49.26477369304459
+              -123.075938123855,
+              49.256985411282244
             ],
             [
-              -123.15287424918476,
-              49.26506074372162
+              -123.07588450438566,
+              49.25685376671791
+            ],
+            [
+              -123.07586949083606,
+              49.256740327998386
+            ],
+            [
+              -123.0758802147299,
+              49.25661008326861
             ]
           ]
         ],
@@ -35,422 +47,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15248027697936,
-      "lat": 49.26478782814031
-    }
-  },
-  {
-    "project": "Cypress St between W 35th Ave and Quilchena Street",
-    "street": null,
-    "location": "Cypress St between W 35th Ave and Quilchena Street",
-    "comp_date": "2025-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80f5c87f-0b67-40be-b7f9-f486ce13199d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14871563506094,
-            49.24001853227824
-          ],
-          [
-            -123.14871134556884,
-            49.24070219301893
-          ],
-          [
-            -123.14870276658465,
-            49.240892719687594
-          ],
-          [
-            -123.14873708317596,
-            49.24096556799779
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14871274786182,
-      "lat": 49.24049562451019
-    }
-  },
-  {
-    "project": "Bruce St from E 39th Av to E 41st Av",
-    "street": null,
-    "location": "Bruce St from E 39th Av to E 41st Av",
-    "comp_date": "2025-02-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49e6351b-18b6-414d-bd57-ca4b9140eda0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07006203614223,
-              49.23471581018828
-            ],
-            [
-              -123.07010935088393,
-              49.23306022348922
-            ]
-          ],
-          [
-            [
-              -123.07010935088393,
-              49.23306022348922
-            ],
-            [
-              -123.07012182626308,
-              49.232635316154415
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07009179920666,
-      "lat": 49.233675559347475
-    }
-  },
-  {
-    "project": "Stephens St from W 1st Av to York St",
-    "street": null,
-    "location": "Stephens St from W 1st Av to York St",
-    "comp_date": "2025-02-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d8534ef-8df7-4a0f-97fc-8d1881fd919d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16623909469841,
-              49.27190962623999
-            ],
-            [
-              -123.16625921235857,
-              49.27133869914286
-            ]
-          ],
-          [
-            [
-              -123.16625921235857,
-              49.27133869914286
-            ],
-            [
-              -123.16627044406077,
-              49.27101573740242
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16625481672749,
-      "lat": 49.27146268347872
-    }
-  },
-  {
-    "project": "Both Sides of 1900 Block of William Street From Lane East of Victoria Drive to L",
-    "street": null,
-    "location": "Both Sides of 1900 Block of William Street From Lane East of Victoria Drive to L",
-    "comp_date": "2025-02-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a2649c9d-1e8b-4e37-97b5-d5a9856e86c3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06510281646135,
-            49.273788591056615
-          ],
-          [
-            -123.06460951734326,
-            49.273782991053196
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0648561669023,
-      "lat": 49.273785791054905
-    }
-  },
-  {
-    "project": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
-    "street": null,
-    "location": "B/S of Laneway East of 5100-5200 Cambie St\r\nB/S of 400 blk of W37th Ave",
-    "comp_date": "2025-02-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a03e9963-a2c1-4ae1-be47-68f0efe60651",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11444796289045,
-              49.23711654681878
-            ],
-            [
-              -123.11586963183225,
-              49.23721148142931
-            ]
-          ],
-          [
-            [
-              -123.11603118512109,
-              49.239384379294904
-            ],
-            [
-              -123.11528803999244,
-              49.23874095833622
-            ],
-            [
-              -123.1151264867036,
-              49.238139721339905
-            ],
-            [
-              -123.1151264867036,
-              49.237232577984685
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11528404240882,
-      "lat": 49.237960095598055
-    }
-  },
-  {
-    "project": "Both Sides of 2800 Block of W 31st Avenue From W PL of 2854 to East PL of 2822.",
-    "street": null,
-    "location": "Both Sides of 2800 Block of W 31st Avenue From W PL of 2854 to East PL of 2822.",
-    "comp_date": "2025-02-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bf195e0c-7130-4ffe-8395-88df0406fd34",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16834127568681,
-            49.24420378586285
-          ],
-          [
-            -123.16923350346056,
-            49.244206587489856
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16878738957368,
-      "lat": 49.24420518667635
-    }
-  },
-  {
-    "project": "Both sides of 1200-1300 Block E 27th Ave from West PL of 1215 to East PL of 1265",
-    "street": null,
-    "location": "Both sides of 1200-1300 Block E 27th Ave from West PL of 1215 to East PL of 1265",
-    "comp_date": "2025-02-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/88e55372-c5d1-492d-b1b5-cbf1d73ce2b4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07983446891483,
-            49.246461407506274
-          ],
-          [
-            -123.07886428840798,
-            49.246458475375704
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0793493786614,
-      "lat": 49.24645994144099
-    }
-  },
-  {
-    "project": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "street": null,
-    "location": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "comp_date": "2025-02-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/607a8713-4da2-4c6c-b5c8-a54e20ee5cad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07588015297146,
-              49.25661367854647
-            ],
-            [
-              -123.07503510993803,
-              49.25655765920163
-            ]
-          ],
-          [
-            [
-              -123.07586728416787,
-              49.256602474853565
-            ],
-            [
-              -123.07584154688803,
-              49.25677053254472
-            ],
-            [
-              -123.07590589025125,
-              49.25695259439769
-            ]
-          ],
-          [
-            [
-              -123.07593796454593,
-              49.25698415407632
-            ],
-            [
-              -123.07568059109302,
-              49.25711859932085
-            ],
-            [
-              -123.0756677224531,
-              49.25746871515037
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07563365542751,
-      "lat": 49.25683081034379
-    }
-  },
-  {
-    "project": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
-    "street": null,
-    "location": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
-    "comp_date": "2025-02-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/855cd103-edc5-479e-9b52-43faaf4a74ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08961275977477,
-            49.245102557046835
-          ],
-          [
-            -123.08962133892261,
-            49.24472153540495
-          ],
-          [
-            -123.09024975916893,
-            49.24472713870688
-          ],
-          [
-            -123.08786690981985,
-            49.24470472560213
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0892836001115,
-      "lat": 49.24473952072802
-    }
-  },
-  {
-    "project": "Collingwood St from W 27th Av to W 28th Av",
-    "street": null,
-    "location": "Collingwood St from W 27th Av to W 28th Av",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0004ce56-443e-4f97-a7a7-5de523d5ccd6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18190887521365,
-              49.24757979291908
-            ],
-            [
-              -123.18191304269351,
-              49.24710596231108
-            ]
-          ],
-          [
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ],
-            [
-              -123.18190549151495,
-              49.24796403871079
-            ],
-            [
-              -123.18190887521365,
-              49.24757979291908
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18190210483795,
-      "lat": 49.2475989615513
-    }
-  },
-  {
-    "project": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
-    "street": null,
-    "location": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
-    "comp_date": "2025-02-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cbf786c6-c4c4-4e70-a056-52e02b6610f7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13570620835885,
-            49.284686246090814
-          ],
-          [
-            -123.13525753927814,
-            49.28440422121298
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1354818738185,
-      "lat": 49.2845452336519
+      "lon": -123.07579017319134,
+      "lat": 49.25704676779924
     }
   },
   {
@@ -553,86 +151,6 @@
     "geo_point_2d": {
       "lon": -123.09332288380898,
       "lat": 49.25103069508655
-    }
-  },
-  {
-    "project": "W 27th Av from Dunbar St to Blenheim St",
-    "street": null,
-    "location": "W 27th Av from Dunbar St to Blenheim St",
-    "comp_date": "2025-02-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdef7bc-913b-441b-946d-95fcbbd1da3a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18456408929295,
-              49.248064535637354
-            ],
-            [
-              -123.18520431433123,
-              49.24806690228789
-            ]
-          ],
-          [
-            [
-              -123.18346586605529,
-              49.248060509922
-            ],
-            [
-              -123.18456408929295,
-              49.248064535637354
-            ]
-          ],
-          [
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ],
-            [
-              -123.18346586605529,
-              49.248060509922
-            ]
-          ],
-          [
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ],
-          [
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ],
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ]
-          ],
-          [
-            [
-              -123.17860524839084,
-              49.24804259797858
-            ],
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18190478147169,
-      "lat": 49.24805471737979
     }
   },
   {
@@ -981,94 +499,6 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
-    }
-  },
-  {
-    "project": "E 22nd Av from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Av from Welwyn St to Commercial St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06986009176771,
-              49.25034580560083
-            ],
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ]
-          ],
-          [
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ],
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ]
-          ],
-          [
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ],
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ]
-          ],
-          [
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ],
-            [
-              -123.06777890090561,
-              49.250314131777344
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06881950144792,
-      "lat": 49.25032945584743
-    }
-  },
-  {
-    "project": "E 22nd Ave from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Ave from Welwyn St to Commercial St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0694098255357,
-            49.250352416228964
-          ],
-          [
-            -123.06815380101884,
-            49.25032711139531
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06878181327725,
-      "lat": 49.250339763812136
     }
   },
   {
