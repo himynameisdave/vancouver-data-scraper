@@ -160,6 +160,34 @@
     }
   },
   {
+    "project": "Both sides of 2000 Block Cypress St from W 5th Ave to Lane North of W 5th Ave",
+    "street": null,
+    "location": "Both sides of 2000 Block Cypress St from W 5th Ave to Lane North of W 5th Ave",
+    "comp_date": "2025-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e41ccc76-596d-4042-9ce2-540577b7b3d9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14799897957829,
+            49.26764143825653
+          ],
+          [
+            -123.14802257211207,
+            49.26719618217763
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14801077584518,
+      "lat": 49.26741881021708
+    }
+  },
+  {
     "project": "Bruce St from Argyle St to Commercial St",
     "street": null,
     "location": "Bruce St from Argyle St to Commercial St",
@@ -395,100 +423,6 @@
     "geo_point_2d": {
       "lon": -123.09332288380898,
       "lat": 49.25103069508655
-    }
-  },
-  {
-    "project": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "street": null,
-    "location": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "comp_date": "2025-02-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/607a8713-4da2-4c6c-b5c8-a54e20ee5cad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07593796454593,
-              49.25698415407632
-            ],
-            [
-              -123.07568059109302,
-              49.25711859932085
-            ],
-            [
-              -123.0756677224531,
-              49.25746871515037
-            ]
-          ],
-          [
-            [
-              -123.0758833213036,
-              49.25660742021975
-            ],
-            [
-              -123.07504877822662,
-              49.25657604942043
-            ]
-          ],
-          [
-            [
-              -123.07588675579836,
-              49.256604058930094
-            ],
-            [
-              -123.07587816993004,
-              49.2567698758526
-            ],
-            [
-              -123.07593655363813,
-              49.25698386849692
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0756482695679,
-      "lat": 49.25683772122919
-    }
-  },
-  {
-    "project": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
-    "street": null,
-    "location": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
-    "comp_date": "2025-02-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/855cd103-edc5-479e-9b52-43faaf4a74ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08961275977477,
-            49.245102557046835
-          ],
-          [
-            -123.08962133892261,
-            49.24472153540495
-          ],
-          [
-            -123.09024975916893,
-            49.24472713870688
-          ],
-          [
-            -123.08786690981985,
-            49.24470472560213
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0892836001115,
-      "lat": 49.24473952072802
     }
   },
   {
