@@ -1,316 +1,66 @@
 [
   {
-    "project": "North side of 3400-3500 E 49th Ave from Tyne St to 120m East of Tyne St. \r\nBoth",
+    "project": "Hastings St - Main St to Carrell St",
     "street": null,
-    "location": "North side of 3400-3500 E 49th Ave from Tyne St to 120m East of Tyne St. \r\nBoth",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/87f6a772-0183-4ec9-9d8f-ca47f37dd874",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03218167936001,
-              49.224685559126954
-            ],
-            [
-              -123.0317420953034,
-              49.22466022766011
-            ],
-            [
-              -123.0313283691325,
-              49.224609564687455
-            ],
-            [
-              -123.0309792876758,
-              49.22455045782036
-            ],
-            [
-              -123.03065606410479,
-              49.224482907028516
-            ],
-            [
-              -123.03038455630512,
-              49.224381580667654
-            ]
-          ],
-          [
-            [
-              -123.03083706930455,
-              49.22453357013106
-            ],
-            [
-              -123.03073363776183,
-              49.224685559126954
-            ],
-            [
-              -123.02605336045346,
-              49.224694002946336
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.029247019332,
-      "lat": 49.22465756201458
-    }
-  },
-  {
-    "project": "Collingwood St from W 27th Av to W 28th Av",
-    "street": null,
-    "location": "Collingwood St from W 27th Av to W 28th Av",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0004ce56-443e-4f97-a7a7-5de523d5ccd6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18190887521365,
-              49.24757979291908
-            ],
-            [
-              -123.18191304269351,
-              49.24710596231108
-            ]
-          ],
-          [
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ],
-            [
-              -123.18190549151495,
-              49.24796403871079
-            ],
-            [
-              -123.18190887521365,
-              49.24757979291908
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18190210483795,
-      "lat": 49.2475989615513
-    }
-  },
-  {
-    "project": "Columbia St from W 49th Av to Laneway North of W 49th Av",
-    "street": null,
-    "location": "Columbia St from W 49th Av to Laneway North of W 49th Av",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5166c065-09b9-40d1-b26b-aacd06f3fc82",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11076159993041,
-            49.22637869877522
-          ],
-          [
-            -123.11075063725471,
-            49.22590431701104
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11075611859256,
-      "lat": 49.22614150789313
-    }
-  },
-  {
-    "project": "South side of the 2000 Block E Pender St from Semlin Dr to 30m East of Semlin Dr",
-    "street": null,
-    "location": "South side of the 2000 Block E Pender St from Semlin Dr to 30m East of Semlin Dr",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a10249fd-76b7-45d5-8c0a-e86ce19e5891",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06367090234461,
-            49.28026196818644
-          ],
-          [
-            -123.0631178994557,
-            49.28025974129312
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06339440090017,
-      "lat": 49.28026085473978
-    }
-  },
-  {
-    "project": "Both sides of the street of 3300 Block William St from Cassiar St to 30m West of",
-    "street": null,
-    "location": "Both sides of the street of 3300 Block William St from Cassiar St to 30m West of",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b4d57c85-befa-4b9b-b434-e668b717cd80",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0309548243005,
-            49.27412266832667
-          ],
-          [
-            -123.031443404037,
-            49.274126290705254
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03119911416874,
-      "lat": 49.27412447951596
-    }
-  },
-  {
-    "project": "Both sides of 2000 Block Cypress St from W 5th Ave to Lane North of W 5th Ave",
-    "street": null,
-    "location": "Both sides of 2000 Block Cypress St from W 5th Ave to Lane North of W 5th Ave",
-    "comp_date": "2025-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e41ccc76-596d-4042-9ce2-540577b7b3d9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14799897957829,
-            49.26764143825653
-          ],
-          [
-            -123.14802257211207,
-            49.26719618217763
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14801077584518,
-      "lat": 49.26741881021708
-    }
-  },
-  {
-    "project": "Bruce St from Argyle St to Commercial St",
-    "street": null,
-    "location": "Bruce St from Argyle St to Commercial St",
+    "location": "Hastings St - Main St to Carrell St",
     "comp_date": "2025-02-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/729af80c-d7f5-456b-9457-c8ba9c40dcee",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07012182626308,
-            49.232635316154415
-          ],
-          [
-            -123.07013273197457,
-            49.232207891068725
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07012727911882,
-      "lat": 49.23242160361157
-    }
-  },
-  {
-    "project": "Bruce St from E 39th Av to E 41st Av",
-    "street": null,
-    "location": "Bruce St from E 39th Av to E 41st Av",
-    "comp_date": "2025-02-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/49e6351b-18b6-414d-bd57-ca4b9140eda0",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4ae07eec-bb87-41b2-a5cc-a6c7e5dac724",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.07006203614223,
-              49.23471581018828
+              -123.10039966620734,
+              49.28135000395508
             ],
             [
-              -123.07010935088393,
-              49.23306022348922
+              -123.09964880177719,
+              49.281335658958966
             ]
           ],
           [
             [
-              -123.07010935088393,
-              49.23306022348922
+              -123.10225508772504,
+              49.281384213724095
             ],
             [
-              -123.07012182626308,
-              49.232635316154415
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07009179920666,
-      "lat": 49.233675559347475
-    }
-  },
-  {
-    "project": "Both sides of 3500 Block Yew St from W 19th Ave to W 20th Ave. Both sides of Lan",
-    "street": null,
-    "location": "Both sides of 3500 Block Yew St from W 19th Ave to W 20th Ave. Both sides of Lan",
-    "comp_date": "2025-02-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f86929f7-5756-4dac-b6de-b1141d8d4532",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15564860493714,
-              49.25531601021734
-            ],
-            [
-              -123.15566469819125,
-              49.254461685840226
+              -123.10039966620734,
+              49.28135000395508
             ]
           ],
           [
             [
-              -123.15565396935506,
-              49.254895852535384
+              -123.10434544245071,
+              49.28147314232797
             ],
             [
-              -123.15465082318347,
-              49.25487834588773
+              -123.10421142471526,
+              49.28142069545066
+            ],
+            [
+              -123.10225508772504,
+              49.281384213724095
+            ]
+          ],
+          [
+            [
+              -123.10225508772504,
+              49.281384213724095
+            ],
+            [
+              -123.10227809392099,
+              49.28088711080986
+            ]
+          ],
+          [
+            [
+              -123.10223404757525,
+              49.28188145877405
+            ],
+            [
+              -123.10225508772504,
+              49.281384213724095
             ]
           ]
         ],
@@ -319,296 +69,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15538432642752,
-      "lat": 49.25488790357288
-    }
-  },
-  {
-    "project": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
-    "street": null,
-    "location": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
-    "comp_date": "2025-02-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cbf786c6-c4c4-4e70-a056-52e02b6610f7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13570620835885,
-            49.284686246090814
-          ],
-          [
-            -123.13525753927814,
-            49.28440422121298
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1354818738185,
-      "lat": 49.2845452336519
-    }
-  },
-  {
-    "project": "Carnarvon St from SW Marine Dr to W 45th Av",
-    "street": null,
-    "location": "Carnarvon St from SW Marine Dr to W 45th Av",
-    "comp_date": "2025-02-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9fd81ac-0bfa-460c-8b29-e80577109bb0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1730876449411,
-            49.23101164085864
-          ],
-          [
-            -123.17313749085528,
-            49.230921091829316
-          ],
-          [
-            -123.1731620536386,
-            49.2308788942251
-          ],
-          [
-            -123.17320158446735,
-            49.23082779585192
-          ],
-          [
-            -123.17324906480805,
-            49.23077968996
-          ],
-          [
-            -123.17330394702223,
-            49.23073509009123
-          ],
-          [
-            -123.17332566324416,
-            49.23071949570863
-          ],
-          [
-            -123.1733273625038,
-            49.23071836875141
-          ],
-          [
-            -123.173337434158,
-            49.23071152623615
-          ],
-          [
-            -123.1733473268397,
-            49.23070456705011
-          ],
-          [
-            -123.17335702681356,
-            49.2306974912141
-          ],
-          [
-            -123.17336654787792,
-            49.23069031669783
-          ],
-          [
-            -123.17337587623446,
-            49.23068302553162
-          ],
-          [
-            -123.17338499821068,
-            49.23067563572653
-          ],
-          [
-            -123.17339392751063,
-            49.23066813826679
-          ],
-          [
-            -123.17340265043036,
-            49.23066054216824
-          ],
-          [
-            -123.17341118070534,
-            49.23065284741034
-          ],
-          [
-            -123.17341949083331,
-            49.230645045039125
-          ],
-          [
-            -123.17342759461269,
-            49.23063715302453
-          ],
-          [
-            -123.17343549207501,
-            49.23062918036169
-          ],
-          [
-            -123.17344318315737,
-            49.23062110906031
-          ],
-          [
-            -123.17345064045206,
-            49.23061295715209
-          ],
-          [
-            -123.17345789142983,
-            49.23060472459579
-          ],
-          [
-            -123.17346492232394,
-            49.23059640241692
-          ],
-          [
-            -123.1734717194621,
-            49.23058800862651
-          ],
-          [
-            -123.17347831028358,
-            49.230579534188195
-          ],
-          [
-            -123.17348465361388,
-            49.23057098815903
-          ],
-          [
-            -123.17349077689231,
-            49.23056236150265
-          ],
-          [
-            -123.17349668021349,
-            49.230553681204725
-          ],
-          [
-            -123.17350233601223,
-            49.23054492032088
-          ],
-          [
-            -123.17350777185393,
-            49.23053610579555
-          ],
-          [
-            -123.17351296023638,
-            49.230527228674816
-          ],
-          [
-            -123.17351791489513,
-            49.23051828893807
-          ],
-          [
-            -123.17352262212638,
-            49.23050929560114
-          ],
-          [
-            -123.17352709569712,
-            49.23050025763874
-          ],
-          [
-            -123.17353133557597,
-            49.23049116605563
-          ],
-          [
-            -123.17353532802771,
-            49.230482020872444
-          ],
-          [
-            -123.17353907311545,
-            49.23047284007964
-          ],
-          [
-            -123.17354257077632,
-            49.23046360568688
-          ],
-          [
-            -123.17354582110492,
-            49.23045434467974
-          ],
-          [
-            -123.1735488378053,
-            49.23044504804244
-          ],
-          [
-            -123.17355159337531,
-            49.23043570682108
-          ],
-          [
-            -123.17355410164501,
-            49.230426347980654
-          ],
-          [
-            -123.17355636255154,
-            49.23041695353072
-          ],
-          [
-            -123.17355836242264,
-            49.23040754148238
-          ],
-          [
-            -123.1735601286977,
-            49.23039810279917
-          ],
-          [
-            -123.17356163393764,
-            49.23038864651761
-          ],
-          [
-            -123.17356287814263,
-            49.23037917263761
-          ],
-          [
-            -123.17356388881495,
-            49.230369690113264
-          ],
-          [
-            -123.17356463848417,
-            49.23036019898578
-          ],
-          [
-            -123.17356512715033,
-            49.230350699255126
-          ],
-          [
-            -123.17356536854898,
-            49.23034119090073
-          ],
-          [
-            -123.17359701455622,
-            49.228188900627345
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17351570332163,
-      "lat": 49.229666842033396
-    }
-  },
-  {
-    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "street": null,
-    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "comp_date": "2025-02-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19401483310284,
-            49.26087797132729
-          ],
-          [
-            -123.19404717245307,
-            49.25997044047736
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19403100277796,
-      "lat": 49.260424205902325
+      "lon": -123.10204618086028,
+      "lat": 49.28138104755033
     }
   },
   {
@@ -711,86 +173,6 @@
     "geo_point_2d": {
       "lon": -123.09332288380898,
       "lat": 49.25103069508655
-    }
-  },
-  {
-    "project": "W 27th Av from Dunbar St to Blenheim St",
-    "street": null,
-    "location": "W 27th Av from Dunbar St to Blenheim St",
-    "comp_date": "2025-02-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdef7bc-913b-441b-946d-95fcbbd1da3a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18456408929295,
-              49.248064535637354
-            ],
-            [
-              -123.18520431433123,
-              49.24806690228789
-            ]
-          ],
-          [
-            [
-              -123.18346586605529,
-              49.248060509922
-            ],
-            [
-              -123.18456408929295,
-              49.248064535637354
-            ]
-          ],
-          [
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ],
-            [
-              -123.18346586605529,
-              49.248060509922
-            ]
-          ],
-          [
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ],
-          [
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ],
-            [
-              -123.18126440464864,
-              49.248052381069584
-            ]
-          ],
-          [
-            [
-              -123.17860524839084,
-              49.24804259797858
-            ],
-            [
-              -123.17924569207646,
-              49.24804479941619
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18190478147169,
-      "lat": 49.24805471737979
     }
   },
   {
