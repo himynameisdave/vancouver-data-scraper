@@ -1,45 +1,5 @@
 [
   {
-    "project": "Both sides of 3500 Block Yew St from W 19th Ave to W 20th Ave. Both sides of Lan",
-    "street": null,
-    "location": "Both sides of 3500 Block Yew St from W 19th Ave to W 20th Ave. Both sides of Lan",
-    "comp_date": "2025-02-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f86929f7-5756-4dac-b6de-b1141d8d4532",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15564860493714,
-              49.25531601021734
-            ],
-            [
-              -123.15566469819125,
-              49.254461685840226
-            ]
-          ],
-          [
-            [
-              -123.15565396935506,
-              49.254895852535384
-            ],
-            [
-              -123.15465082318347,
-              49.25487834588773
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15538432642752,
-      "lat": 49.25488790357288
-    }
-  },
-  {
     "project": "- South side of 1600 Block Venables St from Cotton Dr to 80m East of Cotton Dr.",
     "street": null,
     "location": "- South side of 1600 Block Venables St from Cotton Dr to 80m East of Cotton Dr.",
@@ -133,6 +93,102 @@
     "geo_point_2d": {
       "lon": -123.0955237497692,
       "lat": 49.242679222516315
+    }
+  },
+  {
+    "project": "Argyle St from E 49th Av to E 51st Av",
+    "street": null,
+    "location": "Argyle St from E 49th Av to E 51st Av",
+    "comp_date": "2025-02-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2161640e-1bf1-4997-9ad3-6d24790d62bf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0717635356113,
+              49.225233917379654
+            ],
+            [
+              -123.07177915458998,
+              49.22480962800506
+            ]
+          ],
+          [
+            [
+              -123.07177915458998,
+              49.22480962800506
+            ],
+            [
+              -123.07183941486612,
+              49.22333851363814
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07180079293963,
+      "lat": 49.2242861889763
+    }
+  },
+  {
+    "project": "Both sides of the 2900 Block Charles St from Renfrew St to Kelowna St",
+    "street": null,
+    "location": "Both sides of the 2900 Block Charles St from Renfrew St to Kelowna St",
+    "comp_date": "2025-02-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c39b99cd-8c16-4e8b-a416-b0de076563d0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04412913131692,
+            49.273267498235015
+          ],
+          [
+            -123.04280321795757,
+            49.273267498235015
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04346617463725,
+      "lat": 49.27326749823501
+    }
+  },
+  {
+    "project": "Both sides of the 5900-6000 Block Argyle St from E 43rd Ave to 35m South of E 43",
+    "street": null,
+    "location": "Both sides of the 5900-6000 Block Argyle St from E 43rd Ave to 35m South of E 43",
+    "comp_date": "2025-02-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/82831b0b-7043-4931-9c5f-963186f6fdd5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07159152786772,
+            49.23057625363475
+          ],
+          [
+            -123.0715942228136,
+            49.23016444837458
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07159287534066,
+      "lat": 49.23037035100466
     }
   },
   {
@@ -365,6 +421,62 @@
     "geo_point_2d": {
       "lon": -123.17351570332163,
       "lat": 49.229666842033396
+    }
+  },
+  {
+    "project": "Both sides of 5200 Block Pine Crescent from W 37th Ave to Angus Dr. \r\nSouth side",
+    "street": null,
+    "location": "Both sides of 5200 Block Pine Crescent from W 37th Ave to Angus Dr. \r\nSouth side",
+    "comp_date": "2025-02-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/54c30f9c-f2f5-4dfe-a396-6a9d51a69e2c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14793349529654,
+              49.238187370995945
+            ],
+            [
+              -123.14702167965027,
+              49.238176162960656
+            ],
+            [
+              -123.14704228563598,
+              49.23788811534138
+            ],
+            [
+              -123.14658551920962,
+              49.23817167974585
+            ]
+          ],
+          [
+            [
+              -123.14751450659263,
+              49.23748051092812
+            ],
+            [
+              -123.14743723410521,
+              49.23759371369536
+            ],
+            [
+              -123.14734278988115,
+              49.23769458721759
+            ],
+            [
+              -123.14703369976772,
+              49.23788624632621
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14722390295525,
+      "lat": 49.238000952791616
     }
   },
   {
