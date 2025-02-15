@@ -1,101 +1,5 @@
 [
   {
-    "project": "- South side of 1600 Block Venables St from Cotton Dr to 80m East of Cotton Dr.",
-    "street": null,
-    "location": "- South side of 1600 Block Venables St from Cotton Dr to 80m East of Cotton Dr.",
-    "comp_date": "2025-02-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/71e88292-beba-4480-84ba-3abb8fd4b4e0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07144462737922,
-              49.276687282109435
-            ],
-            [
-              -123.07050061015494,
-              49.2766717321654
-            ],
-            [
-              -123.06998542115493,
-              49.27666006964856
-            ]
-          ],
-          [
-            [
-              -123.07049763222851,
-              49.27713045393568
-            ],
-            [
-              -123.07091752621903,
-              49.27713045393568
-            ]
-          ],
-          [
-            [
-              -123.07143867107193,
-              49.27668533846867
-            ],
-            [
-              -123.07144462715205,
-              49.276494851067895
-            ]
-          ],
-          [
-            [
-              -123.0718406975038,
-              49.27668728218359
-            ],
-            [
-              -123.07141782558683,
-              49.27668339475363
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0709244033961,
-      "lat": 49.2767468057478
-    }
-  },
-  {
-    "project": "E 31st Av from Prince Edward St to St. George St",
-    "street": null,
-    "location": "E 31st Av from Prince Edward St to St. George St",
-    "comp_date": "2025-02-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9f579808-cfb3-42a2-89e2-facba277d28f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09682650752697,
-            49.242702056506914
-          ],
-          [
-            -123.09618649108053,
-            49.24269828242723
-          ],
-          [
-            -123.09422115096866,
-            49.242646524274534
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0955237497692,
-      "lat": 49.242679222516315
-    }
-  },
-  {
     "project": "Both sides of the 0-100 Block W 62nd Ave from West PL of 131 W 62nd Ave to East",
     "street": null,
     "location": "Both sides of the 0-100 Block W 62nd Ave from West PL of 131 W 62nd Ave to East",
@@ -728,34 +632,6 @@
     }
   },
   {
-    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "street": null,
-    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "comp_date": "2025-02-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19401483310284,
-            49.26087797132729
-          ],
-          [
-            -123.19404717245307,
-            49.25997044047736
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19403100277796,
-      "lat": 49.260424205902325
-    }
-  },
-  {
     "project": "Both sides of 2600 Block Yew St from Marstrand Ave to 20m North of Marstrand Ave",
     "street": null,
     "location": "Both sides of 2600 Block Yew St from Marstrand Ave to 20m North of Marstrand Ave",
@@ -878,73 +754,59 @@
     }
   },
   {
-    "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
+    "project": "Both sides of the 0 Block W 14th Ave from West PL of 44 W 14th Ave to Ontario St",
     "street": null,
-    "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "comp_date": "2025-02-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
+    "location": "Both sides of the 0 Block W 14th Ave from West PL of 44 W 14th Ave to Ontario St",
+    "comp_date": "2025-02-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d00b776a-4317-46d0-9e80-8dace9603a71",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.09387547854405,
-              49.25469861733043
-            ],
-            [
-              -123.09389579288475,
-              49.2510389640195
-            ]
+            -123.10520361119062,
+            49.258416878062405
           ],
           [
-            [
-              -123.09449773374766,
-              49.251084419015854
-            ],
-            [
-              -123.09452332821314,
-              49.25018642733778
-            ]
-          ],
-          [
-            [
-              -123.09675245840194,
-              49.249328722740614
-            ],
-            [
-              -123.09405224229359,
-              49.24927860092285
-            ]
-          ],
-          [
-            [
-              -123.09210346735965,
-              49.249235790454634
-            ],
-            [
-              -123.09016864701034,
-              49.24920421563448
-            ]
-          ],
-          [
-            [
-              -123.09202671349055,
-              49.25194535093735
-            ],
-            [
-              -123.090051584384,
-              49.251934826577155
-            ]
+            -123.10629668122832,
+            49.25843821879849
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09332288380898,
-      "lat": 49.25103069508655
+      "lon": -123.10575014620946,
+      "lat": 49.25842754843045
+    }
+  },
+  {
+    "project": "Both sides of the 4100 Block Balkan St from E 26th Ave to North PL of 4146 Balka",
+    "street": null,
+    "location": "Both sides of the 4100 Block Balkan St from E 26th Ave to North PL of 4146 Balka",
+    "comp_date": "2025-02-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/50c20bd0-f2c9-4308-b607-255e72a77e39",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09540616736457,
+            49.24811416059114
+          ],
+          [
+            -123.09540188940466,
+            49.247443935233946
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09540402838462,
+      "lat": 49.247779047912545
     }
   },
   {
@@ -1009,46 +871,6 @@
     "geo_point_2d": {
       "lon": -123.07546800006044,
       "lat": 49.25659325705032
-    }
-  },
-  {
-    "project": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
-    "street": null,
-    "location": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
-    "comp_date": "2025-02-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cb3259e7-28ed-490e-b203-ef87da2d5255",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1472357646413,
-              49.2512673517796
-            ],
-            [
-              -123.14545559825868,
-              49.25157549062547
-            ]
-          ],
-          [
-            [
-              -123.14545988775077,
-              49.25158669577996
-            ],
-            [
-              -123.14508240688285,
-              49.25248028682998
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14597028758338,
-      "lat": 49.251635250950045
     }
   },
   {
@@ -1246,6 +1068,144 @@
     }
   },
   {
+    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "street": null,
+    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "comp_date": "2025-03-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19401483310284,
+            49.26087797132729
+          ],
+          [
+            -123.19404717245307,
+            49.25997044047736
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19403100277796,
+      "lat": 49.260424205902325
+    }
+  },
+  {
+    "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
+    "street": null,
+    "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
+    "comp_date": "2025-03-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09387547854405,
+              49.25469861733043
+            ],
+            [
+              -123.09389579288475,
+              49.2510389640195
+            ]
+          ],
+          [
+            [
+              -123.09449773374766,
+              49.251084419015854
+            ],
+            [
+              -123.09452332821314,
+              49.25018642733778
+            ]
+          ],
+          [
+            [
+              -123.09675245840194,
+              49.249328722740614
+            ],
+            [
+              -123.09405224229359,
+              49.24927860092285
+            ]
+          ],
+          [
+            [
+              -123.09210346735965,
+              49.249235790454634
+            ],
+            [
+              -123.09016864701034,
+              49.24920421563448
+            ]
+          ],
+          [
+            [
+              -123.09202671349055,
+              49.25194535093735
+            ],
+            [
+              -123.090051584384,
+              49.251934826577155
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09332288380898,
+      "lat": 49.25103069508655
+    }
+  },
+  {
+    "project": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
+    "street": null,
+    "location": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
+    "comp_date": "2025-03-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cb3259e7-28ed-490e-b203-ef87da2d5255",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1472357646413,
+              49.2512673517796
+            ],
+            [
+              -123.14545559825868,
+              49.25157549062547
+            ]
+          ],
+          [
+            [
+              -123.14545988775077,
+              49.25158669577996
+            ],
+            [
+              -123.14508240688285,
+              49.25248028682998
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14597028758338,
+      "lat": 49.251635250950045
+    }
+  },
+  {
     "project": "100 Block Terminal Avenue",
     "street": null,
     "location": "100 Block Terminal Avenue",
@@ -1370,66 +1330,6 @@
     }
   },
   {
-    "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
-    "street": null,
-    "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
-    "comp_date": "2025-04-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03898276345957,
-              49.222039806083416
-            ],
-            [
-              -123.03906735582953,
-              49.220154372028816
-            ]
-          ],
-          [
-            [
-              -123.04118216507868,
-              49.222074337171904
-            ],
-            [
-              -123.03675163970172,
-              49.22204671230307
-            ]
-          ],
-          [
-            [
-              -123.04126675744865,
-              49.22117652103009
-            ],
-            [
-              -123.03903563369079,
-              49.22114889565938
-            ]
-          ],
-          [
-            [
-              -123.03897218941333,
-              49.22128702235855
-            ],
-            [
-              -123.0368150839792,
-              49.221273209706
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03900772610135,
-      "lat": 49.22154633882592
-    }
-  },
-  {
     "project": "900 W Waterfront Rd",
     "street": null,
     "location": "900 W Waterfront Rd",
@@ -1469,7 +1369,7 @@
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
-    "comp_date": "2025-06-05",
+    "comp_date": "2025-06-20",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
     "geom": {
       "type": "Feature",
