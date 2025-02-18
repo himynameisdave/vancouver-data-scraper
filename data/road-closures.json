@@ -1,140 +1,86 @@
 [
   {
-    "project": "E 33rd Av - Victoria Dr to Argyle",
+    "project": "Dumfries St from E 32nd Av to E 33rd Av",
     "street": null,
-    "location": "E 33rd Av - Victoria Dr to Argyle",
-    "comp_date": "2025-02-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0780a3df-f1cd-464f-b76c-4d153a3ca161",
+    "location": "Dumfries St from E 32nd Av to E 33rd Av",
+    "comp_date": "2025-02-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/db08e8a2-6532-4ed8-8fe4-6345e0b8bde0",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.06596407423054,
-              49.24006664294387
-            ],
-            [
-              -123.06576492381662,
-              49.240064291788485
-            ],
-            [
-              -123.06572734915548,
-              49.24006353958151
-            ],
-            [
-              -123.0656898014109,
-              49.24006236457063
-            ],
-            [
-              -123.06565228057191,
-              49.240060757760716
-            ],
-            [
-              -123.0656148141156,
-              49.2400587191361
-            ],
-            [
-              -123.06557742953105,
-              49.24005625767654
-            ],
-            [
-              -123.06554008559303,
-              49.240053364410215
-            ],
-            [
-              -123.06550283726678,
-              49.24005004830124
-            ],
-            [
-              -123.06546568454124,
-              49.24004630035455
-            ],
-            [
-              -123.06542862742931,
-              49.24004212956538
-            ],
-            [
-              -123.06539169341991,
-              49.24003754491355
-            ],
-            [
-              -123.06535488249017,
-              49.24003252840865
-            ],
-            [
-              -123.06532998423788,
-              49.24002884544703
-            ]
+            -123.07359836652495,
+            49.2416360727492
           ],
           [
-            [
-              -123.06661211000636,
-              49.24007427687087
-            ],
-            [
-              -123.06596407423054,
-              49.24006664294387
-            ]
-          ],
-          [
-            [
-              -123.06738401327338,
-              49.240085343124036
-            ],
-            [
-              -123.06661211000636,
-              49.24007427687087
-            ]
-          ],
-          [
-            [
-              -123.06801805122657,
-              49.24009358000947
-            ],
-            [
-              -123.06738401327338,
-              49.240085343124036
-            ]
-          ],
-          [
-            [
-              -123.06849934389072,
-              49.2400979461776
-            ],
-            [
-              -123.06801805122657,
-              49.24009358000947
-            ]
-          ],
-          [
-            [
-              -123.07019167408467,
-              49.240119454428736
-            ],
-            [
-              -123.06849934389072,
-              49.2400979461776
-            ]
-          ],
-          [
-            [
-              -123.07087440151713,
-              49.24012820374972
-            ],
-            [
-              -123.07019167408467,
-              49.240119454428736
-            ]
+            -123.07363920375167,
+            49.24017119882424
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.06810136059521,
-      "lat": 49.24009269083841
+      "lon": -123.07361878513831,
+      "lat": 49.24090363578672
+    }
+  },
+  {
+    "project": "Both sides of the 4100 Block Balkan St from E 26th Ave to North PL of 4146 Balka",
+    "street": null,
+    "location": "Both sides of the 4100 Block Balkan St from E 26th Ave to North PL of 4146 Balka",
+    "comp_date": "2025-02-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/50c20bd0-f2c9-4308-b607-255e72a77e39",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09540616736457,
+            49.24811416059114
+          ],
+          [
+            -123.09540188940466,
+            49.247443935233946
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09540402838462,
+      "lat": 49.247779047912545
+    }
+  },
+  {
+    "project": "Fleming St from E 51st Av to E 53rd Av",
+    "street": null,
+    "location": "Fleming St from E 51st Av to E 53rd Av",
+    "comp_date": "2025-02-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5cdb41be-9d82-42a9-8507-e927ad4d3fbc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07322082615754,
+            49.22335114817551
+          ],
+          [
+            -123.07328799718148,
+            49.221754310395596
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07325441166951,
+      "lat": 49.22255272928555
     }
   },
   {
@@ -163,6 +109,142 @@
     "geo_point_2d": {
       "lon": -123.07546800006044,
       "lat": 49.25659325705032
+    }
+  },
+  {
+    "project": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
+    "street": null,
+    "location": "- Both sides of 1400 Block Pendrell St from Broughton St to 30m West of Broughto",
+    "comp_date": "2025-02-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cbf786c6-c4c4-4e70-a056-52e02b6610f7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13570620835885,
+              49.284686246090814
+            ],
+            [
+              -123.13525753927814,
+              49.28440422121298
+            ]
+          ],
+          [
+            [
+              -123.1352691702683,
+              49.284405065802815
+            ],
+            [
+              -123.13520578590337,
+              49.28444164869845
+            ],
+            [
+              -123.13526673249623,
+              49.284408246915945
+            ],
+            [
+              -123.1352082238391,
+              49.28436689232217
+            ],
+            [
+              -123.13526673249623,
+              49.284405065802815
+            ],
+            [
+              -123.13530817609426,
+              49.28437007343777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1353896496459,
+      "lat": 49.28448966692715
+    }
+  },
+  {
+    "project": "W 27th Av from Dunbar St to Blenheim St",
+    "street": null,
+    "location": "W 27th Av from Dunbar St to Blenheim St",
+    "comp_date": "2025-02-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fdef7bc-913b-441b-946d-95fcbbd1da3a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18456408929295,
+              49.248064535637354
+            ],
+            [
+              -123.18520431433123,
+              49.24806690228789
+            ]
+          ],
+          [
+            [
+              -123.18346586605529,
+              49.248060509922
+            ],
+            [
+              -123.18456408929295,
+              49.248064535637354
+            ]
+          ],
+          [
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ],
+            [
+              -123.18346586605529,
+              49.248060509922
+            ]
+          ],
+          [
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ],
+          [
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ],
+            [
+              -123.18126440464864,
+              49.248052381069584
+            ]
+          ],
+          [
+            [
+              -123.17860524839084,
+              49.24804259797858
+            ],
+            [
+              -123.17924569207646,
+              49.24804479941619
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18190478147169,
+      "lat": 49.24805471737979
     }
   },
   {
@@ -221,6 +303,62 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
+    }
+  },
+  {
+    "project": "B/S of 1300 blk of Cypress St",
+    "street": null,
+    "location": "B/S of 1300 blk of Cypress St",
+    "comp_date": "2025-03-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd99ddba-f5a5-45b8-a747-0488a058e5d0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14774710439424,
+            49.27444556055167
+          ],
+          [
+            -123.14776866396106,
+            49.273474979908116
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14775788417765,
+      "lat": 49.27396027022989
+    }
+  },
+  {
+    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "street": null,
+    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "comp_date": "2025-03-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19401483310284,
+            49.26087797132729
+          ],
+          [
+            -123.19404717245307,
+            49.25997044047736
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19403100277796,
+      "lat": 49.260424205902325
     }
   },
   {
@@ -291,6 +429,122 @@
     "geo_point_2d": {
       "lon": -123.09332288380898,
       "lat": 49.25103069508655
+    }
+  },
+  {
+    "project": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
+    "street": null,
+    "location": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
+    "comp_date": "2025-03-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/855cd103-edc5-479e-9b52-43faaf4a74ad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08961275977477,
+            49.245102557046835
+          ],
+          [
+            -123.08962133892261,
+            49.24472153540495
+          ],
+          [
+            -123.09024975916893,
+            49.24472713870688
+          ],
+          [
+            -123.08786690981985,
+            49.24470472560213
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0892836001115,
+      "lat": 49.24473952072802
+    }
+  },
+  {
+    "project": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
+    "street": null,
+    "location": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
+    "comp_date": "2025-03-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cb3259e7-28ed-490e-b203-ef87da2d5255",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1472357646413,
+              49.2512673517796
+            ],
+            [
+              -123.14545559825868,
+              49.25157549062547
+            ]
+          ],
+          [
+            [
+              -123.14545988775077,
+              49.25158669577996
+            ],
+            [
+              -123.14508240688285,
+              49.25248028682998
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14597028758338,
+      "lat": 49.251635250950045
+    }
+  },
+  {
+    "project": "South Side of 300 Block of Dunsmuir Street From Hamilton Street to 50m West. Wes",
+    "street": null,
+    "location": "South Side of 300 Block of Dunsmuir Street From Hamilton Street to 50m West. Wes",
+    "comp_date": "2025-03-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6052d0f6-42c1-49a5-909f-b6a14e4b8b65",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11252698592502,
+              49.28109894158746
+            ],
+            [
+              -123.1130245745352,
+              49.28142649090114
+            ]
+          ],
+          [
+            [
+              -123.11255272320484,
+              49.28110734029309
+            ],
+            [
+              -123.11336344964698,
+              49.280567019298104
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11288891227531,
+      "lat": 49.28099864508351
     }
   },
   {
