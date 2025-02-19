@@ -1,5 +1,61 @@
 [
   {
+    "project": "Both sides of the 0 Block W 14th Ave from West PL of 44 W 14th Ave to Ontario St",
+    "street": null,
+    "location": "Both sides of the 0 Block W 14th Ave from West PL of 44 W 14th Ave to Ontario St",
+    "comp_date": "2025-02-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d00b776a-4317-46d0-9e80-8dace9603a71",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10520361119062,
+            49.258416878062405
+          ],
+          [
+            -123.10629668122832,
+            49.25843821879849
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10575014620946,
+      "lat": 49.25842754843045
+    }
+  },
+  {
+    "project": "Dumfries St from E 32nd Av to E 33rd Av",
+    "street": null,
+    "location": "Dumfries St from E 32nd Av to E 33rd Av",
+    "comp_date": "2025-02-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/db08e8a2-6532-4ed8-8fe4-6345e0b8bde0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07359836652495,
+            49.2416360727492
+          ],
+          [
+            -123.07363920375167,
+            49.24017119882424
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07361878513831,
+      "lat": 49.24090363578672
+    }
+  },
+  {
     "project": "Both sides of the 4100 Block Balkan St from E 26th Ave to North PL of 4146 Balka",
     "street": null,
     "location": "Both sides of the 4100 Block Balkan St from E 26th Ave to North PL of 4146 Balka",
@@ -56,22 +112,22 @@
     }
   },
   {
-    "project": "Dumfries St from E 32nd Av to E 33rd Av",
+    "project": "Both Sides of 4600 Block of Elgin Street From E 31st Avenue to North PL of 4610.",
     "street": null,
-    "location": "Dumfries St from E 32nd Av to E 33rd Av",
-    "comp_date": "2025-02-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/db08e8a2-6532-4ed8-8fe4-6345e0b8bde0",
+    "location": "Both Sides of 4600 Block of Elgin Street From E 31st Avenue to North PL of 4610.",
+    "comp_date": "2025-02-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9bfbf90e-9574-4491-8dbb-71fe99f957ee",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07359836652495,
-            49.2416360727492
+            -123.08276479205159,
+            49.24251226225266
           ],
           [
-            -123.07363920375167,
-            49.24017119882424
+            -123.08274763375594,
+            49.243344379598426
           ]
         ],
         "type": "LineString"
@@ -79,8 +135,64 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07361878513831,
-      "lat": 49.24090363578672
+      "lon": -123.08275621290377,
+      "lat": 49.24292832092554
+    }
+  },
+  {
+    "project": "Both Sides of 700 Block of E 61st Avenue From West PL of 757 to Prince Albert St",
+    "street": null,
+    "location": "Both Sides of 700 Block of E 61st Avenue From West PL of 757 to Prince Albert St",
+    "comp_date": "2025-02-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0dc32e6e-369c-4cd9-a957-31f5e34c6894",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08911707525166,
+            49.2148048311669
+          ],
+          [
+            -123.08792028863016,
+            49.214779601080295
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0885186819409,
+      "lat": 49.2147922161236
+    }
+  },
+  {
+    "project": "Both sides of 1600 Trafalgar St from W 1st Ave to Laneway North of W 1st Ave.",
+    "street": null,
+    "location": "Both sides of 1600 Trafalgar St from W 1st Ave to Laneway North of W 1st Ave.",
+    "comp_date": "2025-02-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/92dc4394-e1f4-4fba-984a-bc3a9990f76b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16442355120404,
+            49.2714072119351
+          ],
+          [
+            -123.16443641984397,
+            49.27099139145352
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16442998552401,
+      "lat": 49.27119930169431
     }
   },
   {
@@ -109,6 +221,46 @@
     "geo_point_2d": {
       "lon": -123.07546800006044,
       "lat": 49.25659325705032
+    }
+  },
+  {
+    "project": "E 37th Av. from St. Catherines St. to Somerville St.",
+    "street": null,
+    "location": "E 37th Av. from St. Catherines St. to Somerville St.",
+    "comp_date": "2025-02-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bf98faf8-31dc-45bf-a818-d76112af6af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0869276147779,
+              49.23650728622832
+            ],
+            [
+              -123.08637072865051,
+              49.23650064265303
+            ]
+          ],
+          [
+            [
+              -123.08637072865051,
+              49.23650064265303
+            ],
+            [
+              -123.0858150239175,
+              49.23649391455851
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08637131905112,
+      "lat": 49.236500625069304
     }
   },
   {
@@ -248,34 +400,6 @@
     }
   },
   {
-    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "street": null,
-    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "comp_date": "2025-03-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19401483310284,
-            49.26087797132729
-          ],
-          [
-            -123.19404717245307,
-            49.25997044047736
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19403100277796,
-      "lat": 49.260424205902325
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -359,6 +483,62 @@
     "geo_point_2d": {
       "lon": -123.14775788417765,
       "lat": 49.27396027022989
+    }
+  },
+  {
+    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "street": null,
+    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "comp_date": "2025-03-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19401483310284,
+            49.26087797132729
+          ],
+          [
+            -123.19404717245307,
+            49.25997044047736
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19403100277796,
+      "lat": 49.260424205902325
+    }
+  },
+  {
+    "project": "North Side of 900 Block of Union Street From Campbell Avenue to Raymur Avenue.",
+    "street": null,
+    "location": "North Side of 900 Block of Union Street From Campbell Avenue to Raymur Avenue.",
+    "comp_date": "2025-03-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb6a83ea-7f0d-422b-b392-e42e50da7136",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08498240151967,
+            49.277405373968804
+          ],
+          [
+            -123.0825931179324,
+            49.27736897676425
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08378775972604,
+      "lat": 49.27738717536653
     }
   },
   {
@@ -669,6 +849,66 @@
     "geo_point_2d": {
       "lon": -123.08431290414072,
       "lat": 49.26106283037342
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2025-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0eb290df-dd98-4298-b144-a4e5b5d0cf80",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12609895905958,
+              49.2791650238332
+            ],
+            [
+              -123.12658433022897,
+              49.27947889276945
+            ]
+          ],
+          [
+            [
+              -123.12561364915983,
+              49.27885119775203
+            ],
+            [
+              -123.12609895905958,
+              49.2791650238332
+            ]
+          ],
+          [
+            [
+              -123.12512822147508,
+              49.278537288788016
+            ],
+            [
+              -123.12561364915983,
+              49.27885119775203
+            ]
+          ],
+          [
+            [
+              -123.12462186783085,
+              49.2782098356017
+            ],
+            [
+              -123.12512822147508,
+              49.278537288788016
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12560309598337,
+      "lat": 49.27884436889673
     }
   },
   {
