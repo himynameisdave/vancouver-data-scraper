@@ -1,145 +1,5 @@
 [
   {
-    "project": "Both Sides of 4600 Block of Elgin Street From E 31st Avenue to North PL of 4610.",
-    "street": null,
-    "location": "Both Sides of 4600 Block of Elgin Street From E 31st Avenue to North PL of 4610.",
-    "comp_date": "2025-02-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9bfbf90e-9574-4491-8dbb-71fe99f957ee",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08276479205159,
-            49.24251226225266
-          ],
-          [
-            -123.08274763375594,
-            49.243344379598426
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08275621290377,
-      "lat": 49.24292832092554
-    }
-  },
-  {
-    "project": "Both sides of the 3100 Block E 45th Ave from McKinnon St to Joyce St.",
-    "street": null,
-    "location": "Both sides of the 3100 Block E 45th Ave from McKinnon St to Joyce St.",
-    "comp_date": "2025-02-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/149c3dd7-cdbe-4e82-bdb1-f86bb4cca313",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0388120031502,
-            49.22928631682208
-          ],
-          [
-            -123.03746453022403,
-            49.22928631682208
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03813826668711,
-      "lat": 49.22928631682208
-    }
-  },
-  {
-    "project": "McKinnon St from E 53rd Av to E 54th Av",
-    "street": null,
-    "location": "McKinnon St from E 53rd Av to E 54th Av",
-    "comp_date": "2025-02-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5dfcb124-5dd0-47f0-a4cf-e99791cc0b2b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03901162900841,
-            49.221142561963916
-          ],
-          [
-            -123.0390605805144,
-            49.22015907442545
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03903610476141,
-      "lat": 49.220650818194684
-    }
-  },
-  {
-    "project": "Both Sides of 700 Block of E 61st Avenue From West PL of 757 to Prince Albert St",
-    "street": null,
-    "location": "Both Sides of 700 Block of E 61st Avenue From West PL of 757 to Prince Albert St",
-    "comp_date": "2025-02-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0dc32e6e-369c-4cd9-a957-31f5e34c6894",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08911707525166,
-            49.2148048311669
-          ],
-          [
-            -123.08792028863016,
-            49.214779601080295
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0885186819409,
-      "lat": 49.2147922161236
-    }
-  },
-  {
-    "project": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "street": null,
-    "location": "Both Sides of 1400 Block of E 15th Avenue From Knight Street to Maddams Street.",
-    "comp_date": "2025-02-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d9d005f-41e3-43f3-a4be-354c9ac332e9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07589052141353,
-            49.25661006286185
-          ],
-          [
-            -123.07504547870735,
-            49.25657645123877
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07546800006044,
-      "lat": 49.25659325705032
-    }
-  },
-  {
     "project": "Both sides of 1500 Block E 3rd Ave from West PL of 1510 E 3rd Ave to East PL of",
     "street": null,
     "location": "Both sides of 1500 Block E 3rd Ave from West PL of 1510 E 3rd Ave to East PL of",
@@ -205,6 +65,34 @@
     "geo_point_2d": {
       "lon": -123.08637131905112,
       "lat": 49.236500625069304
+    }
+  },
+  {
+    "project": "Both sides of the 6500-6600 Block of Dumfries St from E 51st Ave to North PL of",
+    "street": null,
+    "location": "Both sides of the 6500-6600 Block of Dumfries St from E 51st Ave to North PL of",
+    "comp_date": "2025-02-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0590e134-34d3-4ea8-86ef-30fdaa232925",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07457761770365,
+            49.22406323399619
+          ],
+          [
+            -123.07458183978551,
+            49.22342901580174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07457972874458,
+      "lat": 49.223746124898966
     }
   },
   {
@@ -339,6 +227,34 @@
     "geo_point_2d": {
       "lon": -123.09685509919417,
       "lat": 49.24245219348546
+    }
+  },
+  {
+    "project": "McKinnon St from E 53rd Av to E 54th Av",
+    "street": null,
+    "location": "McKinnon St from E 53rd Av to E 54th Av",
+    "comp_date": "2025-02-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5dfcb124-5dd0-47f0-a4cf-e99791cc0b2b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03901162900841,
+            49.221142561963916
+          ],
+          [
+            -123.0390605805144,
+            49.22015907442545
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03903610476141,
+      "lat": 49.220650818194684
     }
   },
   {
@@ -506,10 +422,46 @@
     }
   },
   {
+    "project": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
+    "street": null,
+    "location": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
+    "comp_date": "2025-03-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/855cd103-edc5-479e-9b52-43faaf4a74ad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08961275977477,
+            49.245102557046835
+          ],
+          [
+            -123.08962133892261,
+            49.24472153540495
+          ],
+          [
+            -123.09024975916893,
+            49.24472713870688
+          ],
+          [
+            -123.08786690981985,
+            49.24470472560213
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0892836001115,
+      "lat": 49.24473952072802
+    }
+  },
+  {
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "comp_date": "2025-03-03",
+    "comp_date": "2025-03-07",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
     "geom": {
       "type": "Feature",
@@ -576,42 +528,6 @@
     }
   },
   {
-    "project": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
-    "street": null,
-    "location": "- Both sides of 700 Block E 29th Ave from Fraser St to Prince Albert St.\r\n- Both",
-    "comp_date": "2025-03-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/855cd103-edc5-479e-9b52-43faaf4a74ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08961275977477,
-            49.245102557046835
-          ],
-          [
-            -123.08962133892261,
-            49.24472153540495
-          ],
-          [
-            -123.09024975916893,
-            49.24472713870688
-          ],
-          [
-            -123.08786690981985,
-            49.24470472560213
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0892836001115,
-      "lat": 49.24473952072802
-    }
-  },
-  {
     "project": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
     "street": null,
     "location": "Both Sides of 1800 Block of Matthews Avenue From Pine Crescent to Angus Drive. W",
@@ -649,46 +565,6 @@
     "geo_point_2d": {
       "lon": -123.14597028758338,
       "lat": 49.251635250950045
-    }
-  },
-  {
-    "project": "South Side of 300 Block of Dunsmuir Street From Hamilton Street to 50m West. Wes",
-    "street": null,
-    "location": "South Side of 300 Block of Dunsmuir Street From Hamilton Street to 50m West. Wes",
-    "comp_date": "2025-03-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6052d0f6-42c1-49a5-909f-b6a14e4b8b65",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11252698592502,
-              49.28109894158746
-            ],
-            [
-              -123.1130245745352,
-              49.28142649090114
-            ]
-          ],
-          [
-            [
-              -123.11255272320484,
-              49.28110734029309
-            ],
-            [
-              -123.11336344964698,
-              49.280567019298104
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11288891227531,
-      "lat": 49.28099864508351
     }
   },
   {
@@ -781,7 +657,7 @@
     "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
     "street": null,
     "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "comp_date": "2025-04-07",
+    "comp_date": "2025-04-11",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
     "geom": {
       "type": "Feature",
@@ -901,7 +777,7 @@
     "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
     "street": null,
     "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
-    "comp_date": "2025-05-01",
+    "comp_date": "2025-05-02",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
     "geom": {
       "type": "Feature",
@@ -994,10 +870,98 @@
     }
   },
   {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
+    }
+  },
+  {
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
-    "comp_date": "2025-06-20",
+    "comp_date": "2025-06-26",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
     "geom": {
       "type": "Feature",
