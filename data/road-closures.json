@@ -68,34 +68,6 @@
     }
   },
   {
-    "project": "Both sides of the 6500-6600 Block of Dumfries St from E 51st Ave to North PL of",
-    "street": null,
-    "location": "Both sides of the 6500-6600 Block of Dumfries St from E 51st Ave to North PL of",
-    "comp_date": "2025-02-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0590e134-34d3-4ea8-86ef-30fdaa232925",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07457761770365,
-            49.22406323399619
-          ],
-          [
-            -123.07458183978551,
-            49.22342901580174
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07457972874458,
-      "lat": 49.223746124898966
-    }
-  },
-  {
     "project": "Graveley St from Cotton Dr to Commercial Dr",
     "street": null,
     "location": "Graveley St from Cotton Dr to Commercial Dr",
@@ -143,6 +115,34 @@
     "geo_point_2d": {
       "lon": -123.07057259298138,
       "lat": 49.27051455155213
+    }
+  },
+  {
+    "project": "Both sides of the 6500-6600 Block of Dumfries St from E 51st Ave to North PL of",
+    "street": null,
+    "location": "Both sides of the 6500-6600 Block of Dumfries St from E 51st Ave to North PL of",
+    "comp_date": "2025-02-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0590e134-34d3-4ea8-86ef-30fdaa232925",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07457761770365,
+            49.22406323399619
+          ],
+          [
+            -123.07458183978551,
+            49.22342901580174
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07457972874458,
+      "lat": 49.223746124898966
     }
   },
   {
@@ -199,34 +199,6 @@
     "geo_point_2d": {
       "lon": -123.1353896496459,
       "lat": 49.28448966692715
-    }
-  },
-  {
-    "project": "Both sides of the 4700 block Prince Edward St from E 31st Ave to E 32nd Ave",
-    "street": null,
-    "location": "Both sides of the 4700 block Prince Edward St from E 31st Ave to E 32nd Ave",
-    "comp_date": "2025-02-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/31b7da14-d18d-4563-bef6-5c232fcbdc0f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09684705256713,
-            49.24270610381981
-          ],
-          [
-            -123.09686314582122,
-            49.24219828315111
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09685509919417,
-      "lat": 49.24245219348546
     }
   },
   {
@@ -338,22 +310,22 @@
     }
   },
   {
-    "project": "B/S of 1300 blk of Cypress St",
+    "project": "Both sides of the 4700 block Prince Edward St from E 31st Ave to E 32nd Ave",
     "street": null,
-    "location": "B/S of 1300 blk of Cypress St",
-    "comp_date": "2025-03-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd99ddba-f5a5-45b8-a747-0488a058e5d0",
+    "location": "Both sides of the 4700 block Prince Edward St from E 31st Ave to E 32nd Ave",
+    "comp_date": "2025-02-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/31b7da14-d18d-4563-bef6-5c232fcbdc0f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14774710439424,
-            49.27444556055167
+            -123.09684705256713,
+            49.24270610381981
           ],
           [
-            -123.14776866396106,
-            49.273474979908116
+            -123.09686314582122,
+            49.24219828315111
           ]
         ],
         "type": "LineString"
@@ -361,8 +333,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14775788417765,
-      "lat": 49.27396027022989
+      "lon": -123.09685509919417,
+      "lat": 49.24245219348546
     }
   },
   {
@@ -419,6 +391,34 @@
     "geo_point_2d": {
       "lon": -123.08378775972604,
       "lat": 49.27738717536653
+    }
+  },
+  {
+    "project": "B/S of 1300 blk of Cypress St",
+    "street": null,
+    "location": "B/S of 1300 blk of Cypress St",
+    "comp_date": "2025-03-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd99ddba-f5a5-45b8-a747-0488a058e5d0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14774710439424,
+            49.27444556055167
+          ],
+          [
+            -123.14776866396106,
+            49.273474979908116
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14775788417765,
+      "lat": 49.27396027022989
     }
   },
   {
