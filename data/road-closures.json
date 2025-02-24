@@ -28,34 +28,6 @@
     }
   },
   {
-    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "street": null,
-    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
-    "comp_date": "2025-03-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19401483310284,
-            49.26087797132729
-          ],
-          [
-            -123.19404717245307,
-            49.25997044047736
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19403100277796,
-      "lat": 49.260424205902325
-    }
-  },
-  {
     "project": "B/S of 1300 blk of Cypress St",
     "street": null,
     "location": "B/S of 1300 blk of Cypress St",
@@ -81,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.14775788417765,
       "lat": 49.27396027022989
+    }
+  },
+  {
+    "project": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "street": null,
+    "location": "Both sides of the 2900 Block Crown St from W 13th Av to W 14th Av",
+    "comp_date": "2025-03-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7226f6cf-3cc2-440e-abde-dd08a9e4cd17",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19401483310284,
+            49.26087797132729
+          ],
+          [
+            -123.19404717245307,
+            49.25997044047736
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19403100277796,
+      "lat": 49.260424205902325
     }
   },
   {
