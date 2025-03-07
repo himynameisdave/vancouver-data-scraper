@@ -1,77 +1,5 @@
 [
   {
-    "project": "E 23th Av from Prince Albert St to St. Catherines St",
-    "street": null,
-    "location": "E 23th Av from Prince Albert St to St. Catherines St",
-    "comp_date": "2025-03-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/900e6013-f6e2-4f8b-94a1-1ea8a76aa0ee",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0877115349202,
-            49.250066114033956
-          ],
-          [
-            -123.08577799495417,
-            49.25003745876373
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08674476493718,
-      "lat": 49.25005178639884
-    }
-  },
-  {
-    "project": "- West side of 4000 Block Knight St from E King Edward Ave to 85m North of E Kin",
-    "street": null,
-    "location": "- West side of 4000 Block Knight St from E King Edward Ave to 85m North of E Kin",
-    "comp_date": "2025-03-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7fc41e41-6907-4a0f-917c-cf7fc0ad92c0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07388840069721,
-              49.24862635565452
-            ],
-            [
-              -123.07351091966568,
-              49.24846947593667
-            ],
-            [
-              -123.0733629298975,
-              49.24846807519069
-            ]
-          ],
-          [
-            [
-              -123.07617431876959,
-              49.248510839801185
-            ],
-            [
-              -123.07614214708799,
-              49.249223797424065
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07505015935223,
-      "lat": 49.248718121529635
-    }
-  },
-  {
     "project": "E 20th Av from Sophia St to Prince Edward St",
     "street": null,
     "location": "E 20th Av from Sophia St to Prince Edward St",
@@ -140,38 +68,6 @@
     }
   },
   {
-    "project": "Both sides of the 300 Block Glen Dr from E Cordova St to Lane South of E Cordova",
-    "street": null,
-    "location": "Both sides of the 300 Block Glen Dr from E Cordova St to Lane South of E Cordova",
-    "comp_date": "2025-03-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a96be99-d987-4950-8121-d73b1a511a77",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0823701814352,
-            49.28152509104129
-          ],
-          [
-            -123.08128656899318,
-            49.281502344678415
-          ],
-          [
-            -123.08128190173771,
-            49.281920526134314
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08167687422883,
-      "lat": 49.28156876694913
-    }
-  },
-  {
     "project": "St. George St from E 22nd Av to E 23rd Av",
     "street": null,
     "location": "St. George St from E 22nd Av to E 23rd Av",
@@ -209,6 +105,38 @@
     "geo_point_2d": {
       "lon": -123.09450051483516,
       "lat": 49.250624833543284
+    }
+  },
+  {
+    "project": "Both sides of the 300 Block Glen Dr from E Cordova St to Lane South of E Cordova",
+    "street": null,
+    "location": "Both sides of the 300 Block Glen Dr from E Cordova St to Lane South of E Cordova",
+    "comp_date": "2025-03-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a96be99-d987-4950-8121-d73b1a511a77",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0823701814352,
+            49.28152509104129
+          ],
+          [
+            -123.08128656899318,
+            49.281502344678415
+          ],
+          [
+            -123.08128190173771,
+            49.281920526134314
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08167687422883,
+      "lat": 49.28156876694913
     }
   },
   {
@@ -277,6 +205,34 @@
     "geo_point_2d": {
       "lon": -123.03903610476141,
       "lat": 49.220650818194684
+    }
+  },
+  {
+    "project": "Slocan St from E 17th Av to E 18th Av",
+    "street": null,
+    "location": "Slocan St from E 17th Av to E 18th Av",
+    "comp_date": "2025-03-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/86afc0e4-cee0-4b3f-8443-01ef067c25de",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04955114839396,
+            49.2544758336679
+          ],
+          [
+            -123.04954953881065,
+            49.25406219821619
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0495503436023,
+      "lat": 49.25426901594204
     }
   },
   {
@@ -488,6 +444,46 @@
     }
   },
   {
+    "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "street": null,
+    "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "comp_date": "2025-03-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e8a9c5a-0622-4621-b944-6ea82325fd41",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12034367473855,
+              49.20881450328241
+            ],
+            [
+              -123.12034796439423,
+              49.2087668407257
+            ]
+          ],
+          [
+            [
+              -123.11894141204304,
+              49.209382670438174
+            ],
+            [
+              -123.1190036106602,
+              49.20820977706023
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11902627454293,
+      "lat": 49.20879600640576
+    }
+  },
+  {
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
@@ -558,33 +554,33 @@
     }
   },
   {
-    "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
     "street": null,
-    "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e8a9c5a-0622-4621-b944-6ea82325fd41",
+    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "comp_date": "2025-03-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.12034367473855,
-              49.20881450328241
+              -123.1397018982616,
+              49.286592770706875
             ],
             [
-              -123.12034796439423,
-              49.2087668407257
+              -123.14025954074292,
+              49.28624286146467
             ]
           ],
           [
             [
-              -123.11894141204304,
-              49.209382670438174
+              -123.14026811972711,
+              49.286226065801316
             ],
             [
-              -123.1190036106602,
-              49.20820977706023
+              -123.13974050401772,
+              49.28588455163509
             ]
           ]
         ],
@@ -593,8 +589,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11902627454293,
-      "lat": 49.20879600640576
+      "lon": -123.13999224220326,
+      "lat": 49.28624076460772
     }
   },
   {
