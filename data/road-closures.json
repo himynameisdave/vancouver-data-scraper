@@ -1,185 +1,5 @@
 [
   {
-    "project": "E 20th Av from Sophia St to Prince Edward St",
-    "street": null,
-    "location": "E 20th Av from Sophia St to Prince Edward St",
-    "comp_date": "2025-03-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c1173261-c470-4534-8811-2b16e5206cd5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09856183409748,
-            49.25294764065006
-          ],
-          [
-            -123.09662678410722,
-            49.25291734219124
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09759430910235,
-      "lat": 49.25293249142065
-    }
-  },
-  {
-    "project": "Both sides of the 400 Block W 7th Ave from Yukon St to Cambie St\r\nBoth sides of",
-    "street": null,
-    "location": "Both sides of the 400 Block W 7th Ave from Yukon St to Cambie St\r\nBoth sides of",
-    "comp_date": "2025-03-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec3715cc-0bb6-4188-bb94-1abd1791f8f4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1128370225499,
-              49.26483140785189
-            ],
-            [
-              -123.11474035820032,
-              49.26487118872049
-            ]
-          ],
-          [
-            [
-              -123.11744814868902,
-              49.26501137656274
-            ],
-            [
-              -123.1178856188104,
-              49.26502979436893
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1145138740661,
-      "lat": 49.264882953309524
-    }
-  },
-  {
-    "project": "St. George St from E 22nd Av to E 23rd Av",
-    "street": null,
-    "location": "St. George St from E 22nd Av to E 23rd Av",
-    "comp_date": "2025-03-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/605d79a6-4208-4b94-804a-93b27e179506",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09448443736984,
-              49.251076442507525
-            ],
-            [
-              -123.09450028459325,
-              49.25062483324709
-            ]
-          ],
-          [
-            [
-              -123.09450028459325,
-              49.25062483324709
-            ],
-            [
-              -123.09451705220604,
-              49.25017324118633
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09450051483516,
-      "lat": 49.250624833543284
-    }
-  },
-  {
-    "project": "Both sides of the 300 Block Glen Dr from E Cordova St to Lane South of E Cordova",
-    "street": null,
-    "location": "Both sides of the 300 Block Glen Dr from E Cordova St to Lane South of E Cordova",
-    "comp_date": "2025-03-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a96be99-d987-4950-8121-d73b1a511a77",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0823701814352,
-            49.28152509104129
-          ],
-          [
-            -123.08128656899318,
-            49.281502344678415
-          ],
-          [
-            -123.08128190173771,
-            49.281920526134314
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08167687422883,
-      "lat": 49.28156876694913
-    }
-  },
-  {
-    "project": "Both Sides of 2900 Block of Vanness Avenue From Earles Street to Lane West of Ea",
-    "street": null,
-    "location": "Both Sides of 2900 Block of Vanness Avenue From Earles Street to Lane West of Ea",
-    "comp_date": "2025-03-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/51820f0e-50fa-40ed-b655-255687d381d3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04362222414206,
-              49.24309110884744
-            ],
-            [
-              -123.04421231012533,
-              49.2433257534251
-            ]
-          ],
-          [
-            [
-              -123.04420158128941,
-              49.24332925557451
-            ],
-            [
-              -123.04456636171545,
-              49.24295102200088
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04412859100974,
-      "lat": 49.24317750834066
-    }
-  },
-  {
     "project": "McKinnon St from E 53rd Av to E 54th Av",
     "street": null,
     "location": "McKinnon St from E 53rd Av to E 54th Av",
@@ -205,6 +25,134 @@
     "geo_point_2d": {
       "lon": -123.03903610476141,
       "lat": 49.220650818194684
+    }
+  },
+  {
+    "project": "Intersection of E 52nd Av and McKinnon St",
+    "street": null,
+    "location": "Intersection of E 52nd Av and McKinnon St",
+    "comp_date": "2025-03-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c7a40fdf-9e1c-4c26-a5fa-79cdf9e7ed51",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0389437592968,
+              49.22248570452402
+            ],
+            [
+              -123.0389674274775,
+              49.222039036473774
+            ]
+          ],
+          [
+            [
+              -123.04051455223053,
+              49.222051394433436
+            ],
+            [
+              -123.0389674274775,
+              49.222039036473774
+            ]
+          ],
+          [
+            [
+              -123.0389674274775,
+              49.222039036473774
+            ],
+            [
+              -123.03898623029805,
+              49.221657792622835
+            ]
+          ],
+          [
+            [
+              -123.0389674274775,
+              49.222039036473774
+            ],
+            [
+              -123.03738397265498,
+              49.22203581774494
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03895264423362,
+      "lat": 49.222047659984604
+    }
+  },
+  {
+    "project": "E 48th Av from Kerr St to McKinnon St",
+    "street": null,
+    "location": "E 48th Av from Kerr St to McKinnon St",
+    "comp_date": "2025-03-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d6bdbe3-f05e-4379-818a-ebe6d8bbab48",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0410054521629,
+              49.22549993438872
+            ],
+            [
+              -123.03942529539235,
+              49.22548288975713
+            ]
+          ],
+          [
+            [
+              -123.03942529539235,
+              49.22548288975713
+            ],
+            [
+              -123.0387852981237,
+              49.22547691766957
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0398953784769,
+      "lat": 49.225488094626556
+    }
+  },
+  {
+    "project": "W 15th Av from Carnarvon St to Mackenzie St",
+    "street": null,
+    "location": "W 15th Av from Carnarvon St to Mackenzie St",
+    "comp_date": "2025-03-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/db1fb74a-5239-4628-89df-a5096c3b7503",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17030562182724,
+            49.258691813994176
+          ],
+          [
+            -123.17223837279155,
+            49.25872189837784
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17127199730939,
+      "lat": 49.25870685618601
     }
   },
   {
@@ -273,56 +221,6 @@
     "geo_point_2d": {
       "lon": -123.14597028758338,
       "lat": 49.251635250950045
-    }
-  },
-  {
-    "project": "Both Sides of 1500-1600 Block of E 13th Avenue From Commercial Drive to 60m West",
-    "street": null,
-    "location": "Both Sides of 1500-1600 Block of E 13th Avenue From Commercial Drive to 60m West",
-    "comp_date": "2025-03-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4c6bcc3b-257b-4062-8a46-4591568d3aa7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06984718819099,
-              49.258656873950684
-            ],
-            [
-              -123.07536355946024,
-              49.258707289198185
-            ]
-          ],
-          [
-            [
-              -123.07442414596437,
-              49.258693285175696
-            ],
-            [
-              -123.07441127716083,
-              49.259161024535786
-            ]
-          ],
-          [
-            [
-              -123.06983860904325,
-              49.25912181287529
-            ],
-            [
-              -123.07166596049346,
-              49.25913301621003
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07228044840186,
-      "lat": 49.25880093466847
     }
   },
   {
@@ -444,46 +342,6 @@
     }
   },
   {
-    "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
-    "street": null,
-    "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e8a9c5a-0622-4621-b944-6ea82325fd41",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12034367473855,
-              49.20881450328241
-            ],
-            [
-              -123.12034796439423,
-              49.2087668407257
-            ]
-          ],
-          [
-            [
-              -123.11894141204304,
-              49.209382670438174
-            ],
-            [
-              -123.1190036106602,
-              49.20820977706023
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11902627454293,
-      "lat": 49.20879600640576
-    }
-  },
-  {
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
@@ -554,6 +412,96 @@
     }
   },
   {
+    "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "street": null,
+    "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "comp_date": "2025-03-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e8a9c5a-0622-4621-b944-6ea82325fd41",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12034367473855,
+              49.20881450328241
+            ],
+            [
+              -123.12034796439423,
+              49.2087668407257
+            ]
+          ],
+          [
+            [
+              -123.11894141204304,
+              49.209382670438174
+            ],
+            [
+              -123.1190036106602,
+              49.20820977706023
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11902627454293,
+      "lat": 49.20879600640576
+    }
+  },
+  {
+    "project": "Both Sides of 1500-1600 Block of E 13th Avenue From Commercial Drive to 60m West",
+    "street": null,
+    "location": "Both Sides of 1500-1600 Block of E 13th Avenue From Commercial Drive to 60m West",
+    "comp_date": "2025-03-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4c6bcc3b-257b-4062-8a46-4591568d3aa7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06984718819099,
+              49.258656873950684
+            ],
+            [
+              -123.07536355946024,
+              49.258707289198185
+            ]
+          ],
+          [
+            [
+              -123.07442414596437,
+              49.258693285175696
+            ],
+            [
+              -123.07441127716083,
+              49.259161024535786
+            ]
+          ],
+          [
+            [
+              -123.06983860904325,
+              49.25912181287529
+            ],
+            [
+              -123.07166596049346,
+              49.25913301621003
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07228044840186,
+      "lat": 49.25880093466847
+    }
+  },
+  {
     "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
     "street": null,
     "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
@@ -591,6 +539,46 @@
     "geo_point_2d": {
       "lon": -123.13999224220326,
       "lat": 49.28624076460772
+    }
+  },
+  {
+    "project": "- East side of 900 Block Thurlow St from Ted Northe Lane to Nelson St.\r\n- South",
+    "street": null,
+    "location": "- East side of 900 Block Thurlow St from Ted Northe Lane to Nelson St.\r\n- South",
+    "comp_date": "2025-03-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7b8f995-9749-4686-ba5a-c6339880208a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1274941250232,
+            49.28285448015049
+          ],
+          [
+            -123.12803251754224,
+            49.28249690934322
+          ],
+          [
+            -123.12753476219373,
+            49.28217433915623
+          ],
+          [
+            -123.12803661251198,
+            49.282506491463096
+          ],
+          [
+            -123.13018687592815,
+            49.28390437360699
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12855402525848,
+      "lat": 49.28289247713809
     }
   },
   {
@@ -893,6 +881,94 @@
     "geo_point_2d": {
       "lon": -123.11333618206096,
       "lat": 49.28758037120826
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
