@@ -180,43 +180,53 @@
     }
   },
   {
-    "project": "- East side of 900 Block Thurlow St from Ted Northe Lane to Nelson St.\r\n- South",
+    "project": "Both Sides of 1000-1400 Block of Richards Street From Beach Crescent to Helmcken",
     "street": null,
-    "location": "- East side of 900 Block Thurlow St from Ted Northe Lane to Nelson St.\r\n- South",
-    "comp_date": "2025-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7b8f995-9749-4686-ba5a-c6339880208a",
+    "location": "Both Sides of 1000-1400 Block of Richards Street From Beach Crescent to Helmcken",
+    "comp_date": "2025-03-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8f124f7-10a1-4cc8-98a3-3432c93e67b9",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1274941250232,
-            49.28285448015049
+            [
+              -123.12838342156785,
+              49.27317115631652
+            ],
+            [
+              -123.12265901186359,
+              49.27692584358792
+            ]
           ],
           [
-            -123.12803251754224,
-            49.28249690934322
+            [
+              -123.1242505930076,
+              49.27586509034629
+            ],
+            [
+              -123.12463665318695,
+              49.27610867871783
+            ]
           ],
           [
-            -123.12753476219373,
-            49.28217433915623
-          ],
-          [
-            -123.12803661251198,
-            49.282506491463096
-          ],
-          [
-            -123.13018687592815,
-            49.28390437360699
+            [
+              -123.12316104532474,
+              49.27725940742829
+            ],
+            [
+              -123.12216157861229,
+              49.27661265079573
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12855402525848,
-      "lat": 49.28289247713809
+      "lon": -123.12506241480287,
+      "lat": 49.275363518427106
     }
   },
   {
