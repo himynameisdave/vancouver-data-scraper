@@ -1,42 +1,60 @@
 [
   {
-    "project": "Both Sides of Lane West of 5300 Block of Willow Street From W 37th Avenue to 70m",
+    "project": "Dunlevy Av from Ln S of E Hastings St to E Pender St",
     "street": null,
-    "location": "Both Sides of Lane West of 5300 Block of Willow Street From W 37th Avenue to 70m",
+    "location": "Dunlevy Av from Ln S of E Hastings St to E Pender St",
     "comp_date": "2025-03-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a043ed38-8899-41cd-b594-300be82bce27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/87e7e333-0167-4d72-8e80-adec6a9d29d5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09540874407794,
+            49.28075851796925
+          ],
+          [
+            -123.09542720095605,
+            49.28030515469874
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.095417972517,
+      "lat": 49.28053183633399
+    }
+  },
+  {
+    "project": "E 6th Av from Kaslo St to Renfrew St",
+    "street": null,
+    "location": "E 6th Av from Kaslo St to Renfrew St",
+    "comp_date": "2025-03-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b5840c68-5507-46a1-8f2a-625fb7487391",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.12446330402493,
-              49.237543884079315
+              -123.04700815255707,
+              49.264768667348534
             ],
             [
-              -123.1245190680767,
-              49.23574773858331
+              -123.04503585938178,
+              49.26476426271205
             ]
           ],
           [
             [
-              -123.12448475164906,
-              49.23709275206534
+              -123.04503585938178,
+              49.26476426271205
             ],
             [
-              -123.12662953042332,
-              49.23716840800705
-            ]
-          ],
-          [
-            [
-              -123.12378555396495,
-              49.23660799092548
-            ],
-            [
-              -123.12586169955662,
-              49.236678043395074
+              -123.0442757626305,
+              49.2647625325624
             ]
           ]
         ],
@@ -45,8 +63,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12498587453435,
-      "lat": 49.23681765292938
+      "lon": -123.04564195756721,
+      "lat": 49.26476561174224
+    }
+  },
+  {
+    "project": "E 8th Av from Lakewood Dr to Garden Dr",
+    "street": null,
+    "location": "E 8th Av from Lakewood Dr to Garden Dr",
+    "comp_date": "2025-03-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0935f309-0e8e-476a-95c8-401bc01a6059",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.062008172512,
+            49.263210970669775
+          ],
+          [
+            -123.05813966442754,
+            49.26318251529429
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06007391846977,
+      "lat": 49.26319674298203
     }
   },
   {
@@ -75,6 +121,34 @@
     "geo_point_2d": {
       "lon": -123.09560403190221,
       "lat": 49.250642490533366
+    }
+  },
+  {
+    "project": "Laneway south of W 15th Av from Arbutus St to Maple St",
+    "street": null,
+    "location": "Laneway south of W 15th Av from Arbutus St to Maple St",
+    "comp_date": "2025-03-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26692f0e-aca6-40ad-97ee-b1d5a6eb20f2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15075643199313,
+            49.25772446501975
+          ],
+          [
+            -123.15315505905299,
+            49.25776249041945
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15195574552304,
+      "lat": 49.2577434777196
     }
   },
   {
@@ -131,6 +205,34 @@
     "geo_point_2d": {
       "lon": -123.14722390295525,
       "lat": 49.238000952791616
+    }
+  },
+  {
+    "project": "Both sides of the 800 Block E 23rd Ave from St. Catherines St to West PL of 837",
+    "street": null,
+    "location": "Both sides of the 800 Block E 23rd Ave from St. Catherines St to West PL of 837",
+    "comp_date": "2025-03-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8b7af5b8-8e6a-4b67-8af4-07fbf33eba3e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08581648513906,
+            49.250031142703705
+          ],
+          [
+            -123.08685933935242,
+            49.25005319072565
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08633791224574,
+      "lat": 49.25004216671468
     }
   },
   {
@@ -491,7 +593,7 @@
     "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
     "street": null,
     "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "comp_date": "2025-04-11",
+    "comp_date": "2025-04-19",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
     "geom": {
       "type": "Feature",
@@ -665,42 +767,6 @@
     "geo_point_2d": {
       "lon": -123.03900772610135,
       "lat": 49.22154633882592
-    }
-  },
-  {
-    "project": "900 W Waterfront Rd",
-    "street": null,
-    "location": "900 W Waterfront Rd",
-    "comp_date": "2025-06-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f46efa2e-8397-4afe-9ae8-5608747c6de8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11135554766784,
-            49.28680420420096
-          ],
-          [
-            -123.11272160826356,
-            49.28742515018345
-          ],
-          [
-            -123.11378248495332,
-            49.28776643020052
-          ],
-          [
-            -123.11536653438016,
-            49.288221466299774
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11333618206096,
-      "lat": 49.28758037120826
     }
   },
   {
