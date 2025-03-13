@@ -174,46 +174,6 @@
     }
   },
   {
-    "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
-    "street": null,
-    "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e8a9c5a-0622-4621-b944-6ea82325fd41",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12034367473855,
-              49.20881450328241
-            ],
-            [
-              -123.12034796439423,
-              49.2087668407257
-            ]
-          ],
-          [
-            [
-              -123.11894141204304,
-              49.209382670438174
-            ],
-            [
-              -123.1190036106602,
-              49.20820977706023
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11902627454293,
-      "lat": 49.20879600640576
-    }
-  },
-  {
     "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
     "street": null,
     "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
@@ -281,6 +241,46 @@
     "geo_point_2d": {
       "lon": -123.09332288380898,
       "lat": 49.25103069508655
+    }
+  },
+  {
+    "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "street": null,
+    "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "comp_date": "2025-03-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e8a9c5a-0622-4621-b944-6ea82325fd41",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12034367473855,
+              49.20881450328241
+            ],
+            [
+              -123.12034796439423,
+              49.2087668407257
+            ]
+          ],
+          [
+            [
+              -123.11894141204304,
+              49.209382670438174
+            ],
+            [
+              -123.1190036106602,
+              49.20820977706023
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11902627454293,
+      "lat": 49.20879600640576
     }
   },
   {
