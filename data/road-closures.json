@@ -96,34 +96,6 @@
     }
   },
   {
-    "project": "Laneway West of St. George St from E 22nd Av to E 23rd Av",
-    "street": null,
-    "location": "Laneway West of St. George St from E 22nd Av to E 23rd Av",
-    "comp_date": "2025-03-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/009d6da2-fb8b-4d89-91ba-6288427fa994",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09670777921116,
-            49.250660147819644
-          ],
-          [
-            -123.09450028459325,
-            49.25062483324709
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09560403190221,
-      "lat": 49.250642490533366
-    }
-  },
-  {
     "project": "Laneway south of W 15th Av from Arbutus St to Maple St",
     "street": null,
     "location": "Laneway south of W 15th Av from Arbutus St to Maple St",
@@ -205,6 +177,34 @@
     "geo_point_2d": {
       "lon": -123.14722390295525,
       "lat": 49.238000952791616
+    }
+  },
+  {
+    "project": "Laneway West of St. George St from E 22nd Av to E 23rd Av",
+    "street": null,
+    "location": "Laneway West of St. George St from E 22nd Av to E 23rd Av",
+    "comp_date": "2025-03-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/009d6da2-fb8b-4d89-91ba-6288427fa994",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09670777921116,
+            49.250660147819644
+          ],
+          [
+            -123.09450028459325,
+            49.25062483324709
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09560403190221,
+      "lat": 49.250642490533366
     }
   },
   {
