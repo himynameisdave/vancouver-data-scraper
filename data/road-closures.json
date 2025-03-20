@@ -1,121 +1,5 @@
 [
   {
-    "project": "Beatrice St from Kingsway to Ln N of Kingsway",
-    "street": null,
-    "location": "Beatrice St from Kingsway to Ln N of Kingsway",
-    "comp_date": "2025-03-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b1f2fca3-31c6-4573-9f1f-6c6ddb2f3dd2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06647088891702,
-            49.24731584682627
-          ],
-          [
-            -123.06651508439758,
-            49.245797237449665
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0664929866573,
-      "lat": 49.24655654213797
-    }
-  },
-  {
-    "project": "E 14th Av from Prince Albert St to St. Catherines St",
-    "street": null,
-    "location": "E 14th Av from Prince Albert St to St. Catherines St",
-    "comp_date": "2025-03-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d3da4f2f-59a2-47d4-852e-76b2f7dc7a1a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08726577670517,
-            49.25793691851504
-          ],
-          [
-            -123.08712790708809,
-            49.25789042735701
-          ],
-          [
-            -123.08533089808022,
-            49.25787594594482
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08630186338556,
-      "lat": 49.25788547006096
-    }
-  },
-  {
-    "project": "Both sides of the 800 Block E 23rd Ave from St. Catherines St to West PL of 837",
-    "street": null,
-    "location": "Both sides of the 800 Block E 23rd Ave from St. Catherines St to West PL of 837",
-    "comp_date": "2025-03-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8b7af5b8-8e6a-4b67-8af4-07fbf33eba3e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08581648513906,
-            49.250031142703705
-          ],
-          [
-            -123.08685933935242,
-            49.25005319072565
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08633791224574,
-      "lat": 49.25004216671468
-    }
-  },
-  {
-    "project": "Both sides of 4300 Block St Catherine's St from E 28th Avenue to Lane North of E",
-    "street": null,
-    "location": "Both sides of 4300 Block St Catherine's St from E 28th Avenue to Lane North of E",
-    "comp_date": "2025-03-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f3d4133a-7496-40f2-8073-344507cbb53c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08589330222546,
-            49.24603620596474
-          ],
-          [
-            -123.08591095098255,
-            49.24548090580245
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08590212660398,
-      "lat": 49.2457585558836
-    }
-  },
-  {
     "project": "Kitchener St from Kamloops St to Penticton St",
     "street": null,
     "location": "Kitchener St from Kamloops St to Penticton St",
@@ -156,76 +40,6 @@
     }
   },
   {
-    "project": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "street": null,
-    "location": "E 24th Av - Prince Edward St to St George St\r\nE 24th Av - Carolina St to Fraser",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08f2569-9587-48ae-94fe-a858786e6916",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09387547854405,
-              49.25469861733043
-            ],
-            [
-              -123.09389579288475,
-              49.2510389640195
-            ]
-          ],
-          [
-            [
-              -123.09449773374766,
-              49.251084419015854
-            ],
-            [
-              -123.09452332821314,
-              49.25018642733778
-            ]
-          ],
-          [
-            [
-              -123.09675245840194,
-              49.249328722740614
-            ],
-            [
-              -123.09405224229359,
-              49.24927860092285
-            ]
-          ],
-          [
-            [
-              -123.09210346735965,
-              49.249235790454634
-            ],
-            [
-              -123.09016864701034,
-              49.24920421563448
-            ]
-          ],
-          [
-            [
-              -123.09202671349055,
-              49.25194535093735
-            ],
-            [
-              -123.090051584384,
-              49.251934826577155
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09332288380898,
-      "lat": 49.25103069508655
-    }
-  },
-  {
     "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
     "street": null,
     "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
@@ -263,6 +77,98 @@
     "geo_point_2d": {
       "lon": -123.11902627454293,
       "lat": 49.20879600640576
+    }
+  },
+  {
+    "project": "E 53rd Av from Kerr St to McKinnon St",
+    "street": null,
+    "location": "E 53rd Av from Kerr St to McKinnon St",
+    "comp_date": "2025-03-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65d742ea-9cc6-41cc-9679-3dd9abed7ff0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04123827224156,
+              49.22116000394456
+            ],
+            [
+              -123.0406152504142,
+              49.221155223310205
+            ]
+          ],
+          [
+            [
+              -123.0406152504142,
+              49.221155223310205
+            ],
+            [
+              -123.0405288702956,
+              49.22115456101355
+            ]
+          ],
+          [
+            [
+              -123.0405288702956,
+              49.22115456101355
+            ],
+            [
+              -123.0396057566613,
+              49.22114738814341
+            ]
+          ],
+          [
+            [
+              -123.0396057566613,
+              49.22114738814341
+            ],
+            [
+              -123.03901162900841,
+              49.221142561963916
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04012494983253,
+      "lat": 49.22115138334459
+    }
+  },
+  {
+    "project": "Cypress St from W 49th Av to W 50th Av",
+    "street": null,
+    "location": "Cypress St from W 49th Av to W 50th Av",
+    "comp_date": "2025-03-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08ec8445-1002-4d88-a74c-1dd8c5a15893",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1495032283246,
+            49.2270886431603
+          ],
+          [
+            -123.1494267251481,
+            49.22699687349967
+          ],
+          [
+            -123.14946305481101,
+            49.225772669687046
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14944667531178,
+      "lat": 49.22644325415221
     }
   },
   {
@@ -331,46 +237,6 @@
     "geo_point_2d": {
       "lon": -123.13417633547635,
       "lat": 49.2784128858681
-    }
-  },
-  {
-    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "street": null,
-    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "comp_date": "2025-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1397018982616,
-              49.286592770706875
-            ],
-            [
-              -123.14025954074292,
-              49.28624286146467
-            ]
-          ],
-          [
-            [
-              -123.14026811972711,
-              49.286226065801316
-            ],
-            [
-              -123.13974050401772,
-              49.28588455163509
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13999224220326,
-      "lat": 49.28624076460772
     }
   },
   {
@@ -588,6 +454,46 @@
     }
   },
   {
+    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "comp_date": "2025-03-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1397018982616,
+              49.286592770706875
+            ],
+            [
+              -123.14025954074292,
+              49.28624286146467
+            ]
+          ],
+          [
+            [
+              -123.14026811972711,
+              49.286226065801316
+            ],
+            [
+              -123.13974050401772,
+              49.28588455163509
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13999224220326,
+      "lat": 49.28624076460772
+    }
+  },
+  {
     "project": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
     "street": null,
     "location": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
@@ -625,6 +531,62 @@
     "geo_point_2d": {
       "lon": -123.12012470707563,
       "lat": 49.257001673171196
+    }
+  },
+  {
+    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "street": null,
+    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10998404089081,
+            49.23475776621157
+          ],
+          [
+            -123.10907207121434,
+            49.234730197645035
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10952805605257,
+      "lat": 49.234743981928304
+    }
+  },
+  {
+    "project": "Kaslo St - E 20th Av to E 22nd Av",
+    "street": null,
+    "location": "Kaslo St - E 20th Av to E 22nd Av",
+    "comp_date": "2025-03-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c75607cd-525f-4ec8-8ced-2d383412a7e9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04708153308958,
+            49.252365875415734
+          ],
+          [
+            -123.04708689750761,
+            49.25152200468477
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0470842152986,
+      "lat": 49.25194394005025
     }
   },
   {
@@ -807,7 +769,7 @@
     "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
     "street": null,
     "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "comp_date": "2025-04-19",
+    "comp_date": "2025-04-11",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
     "geom": {
       "type": "Feature",
@@ -927,7 +889,7 @@
     "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
     "street": null,
     "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
-    "comp_date": "2025-05-02",
+    "comp_date": "2025-05-05",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
     "geom": {
       "type": "Feature",
@@ -987,7 +949,7 @@
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
-    "comp_date": "2025-07-08",
+    "comp_date": "2025-07-15",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
     "geom": {
       "type": "Feature",
@@ -1285,6 +1247,46 @@
     "geo_point_2d": {
       "lon": -123.02452698146213,
       "lat": 49.29258335033243
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2028-01-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d8e433d-215c-4c98-acdf-1f504e12625f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08745717210368,
+            49.27646261947456
+          ],
+          [
+            -123.08731300897043,
+            49.276458856839696
+          ],
+          [
+            -123.08731877585898,
+            49.27641370673874
+          ],
+          [
+            -123.08746293826577,
+            49.27641370673874
+          ],
+          [
+            -123.08745717210368,
+            49.27646261947456
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08738867600971,
+      "lat": 49.27643723467438
     }
   }
 ]
