@@ -1,45 +1,5 @@
 [
   {
-    "project": "Kitchener St from Kamloops St to Penticton St",
-    "street": null,
-    "location": "Kitchener St from Kamloops St to Penticton St",
-    "comp_date": "2025-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95f06501-542a-489c-a7d2-dab716c25f42",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05468419704395,
-              49.272296076956906
-            ],
-            [
-              -123.05412037511933,
-              49.2722950651025
-            ]
-          ],
-          [
-            [
-              -123.05412037511933,
-              49.2722950651025
-            ],
-            [
-              -123.05204716874805,
-              49.272292590399076
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05336568309501,
-      "lat": 49.272294200480786
-    }
-  },
-  {
     "project": "Cypress St from W 49th Av to W 50th Av",
     "street": null,
     "location": "Cypress St from W 49th Av to W 50th Av",
@@ -237,46 +197,6 @@
     "geo_point_2d": {
       "lon": -123.13417633547635,
       "lat": 49.2784128858681
-    }
-  },
-  {
-    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "street": null,
-    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "comp_date": "2025-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1397018982616,
-              49.286592770706875
-            ],
-            [
-              -123.14025954074292,
-              49.28624286146467
-            ]
-          ],
-          [
-            [
-              -123.14026811972711,
-              49.286226065801316
-            ],
-            [
-              -123.13974050401772,
-              49.28588455163509
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13999224220326,
-      "lat": 49.28624076460772
     }
   },
   {
@@ -494,6 +414,46 @@
     }
   },
   {
+    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "comp_date": "2025-03-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1397018982616,
+              49.286592770706875
+            ],
+            [
+              -123.14025954074292,
+              49.28624286146467
+            ]
+          ],
+          [
+            [
+              -123.14026811972711,
+              49.286226065801316
+            ],
+            [
+              -123.13974050401772,
+              49.28588455163509
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13999224220326,
+      "lat": 49.28624076460772
+    }
+  },
+  {
     "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
     "street": null,
     "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
@@ -519,6 +479,34 @@
     "geo_point_2d": {
       "lon": -123.10952805605257,
       "lat": 49.234743981928304
+    }
+  },
+  {
+    "project": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
+    "street": null,
+    "location": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7d319a8-7e46-48f6-ae04-a0cc0d3a4ce1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09818086398168,
+            49.252930923873635
+          ],
+          [
+            -123.09719408747505,
+            49.25291768915102
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09768747572836,
+      "lat": 49.25292430651233
     }
   },
   {
@@ -559,6 +547,34 @@
     "geo_point_2d": {
       "lon": -123.12012470707563,
       "lat": 49.257001673171196
+    }
+  },
+  {
+    "project": "W 1st Av from Cypress St to Maple St",
+    "street": null,
+    "location": "W 1st Av from Cypress St to Maple St",
+    "comp_date": "2025-03-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/656e36a0-08ec-49f6-a836-b99fce5cc8f7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14786840528188,
+            49.27069875533019
+          ],
+          [
+            -123.15026841598227,
+            49.270737063889214
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14906841063208,
+      "lat": 49.2707179096097
     }
   },
   {
