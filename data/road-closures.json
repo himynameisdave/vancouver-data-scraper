@@ -40,6 +40,38 @@
     }
   },
   {
+    "project": "Cypress St from W 49th Av to W 50th Av",
+    "street": null,
+    "location": "Cypress St from W 49th Av to W 50th Av",
+    "comp_date": "2025-03-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08ec8445-1002-4d88-a74c-1dd8c5a15893",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1495032283246,
+            49.2270886431603
+          ],
+          [
+            -123.1494267251481,
+            49.22699687349967
+          ],
+          [
+            -123.14946305481101,
+            49.225772669687046
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14944667531178,
+      "lat": 49.22644325415221
+    }
+  },
+  {
     "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
     "street": null,
     "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
@@ -140,38 +172,6 @@
     }
   },
   {
-    "project": "Cypress St from W 49th Av to W 50th Av",
-    "street": null,
-    "location": "Cypress St from W 49th Av to W 50th Av",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08ec8445-1002-4d88-a74c-1dd8c5a15893",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1495032283246,
-            49.2270886431603
-          ],
-          [
-            -123.1494267251481,
-            49.22699687349967
-          ],
-          [
-            -123.14946305481101,
-            49.225772669687046
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14944667531178,
-      "lat": 49.22644325415221
-    }
-  },
-  {
     "project": "B/S of 1300 blk of Cypress St",
     "street": null,
     "location": "B/S of 1300 blk of Cypress St",
@@ -237,6 +237,46 @@
     "geo_point_2d": {
       "lon": -123.13417633547635,
       "lat": 49.2784128858681
+    }
+  },
+  {
+    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "comp_date": "2025-03-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1397018982616,
+              49.286592770706875
+            ],
+            [
+              -123.14025954074292,
+              49.28624286146467
+            ]
+          ],
+          [
+            [
+              -123.14026811972711,
+              49.286226065801316
+            ],
+            [
+              -123.13974050401772,
+              49.28588455163509
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13999224220326,
+      "lat": 49.28624076460772
     }
   },
   {
@@ -454,43 +494,31 @@
     }
   },
   {
-    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
     "street": null,
-    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "comp_date": "2025-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
+    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.1397018982616,
-              49.286592770706875
-            ],
-            [
-              -123.14025954074292,
-              49.28624286146467
-            ]
+            -123.10998404089081,
+            49.23475776621157
           ],
           [
-            [
-              -123.14026811972711,
-              49.286226065801316
-            ],
-            [
-              -123.13974050401772,
-              49.28588455163509
-            ]
+            -123.10907207121434,
+            49.234730197645035
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13999224220326,
-      "lat": 49.28624076460772
+      "lon": -123.10952805605257,
+      "lat": 49.234743981928304
     }
   },
   {
@@ -531,34 +559,6 @@
     "geo_point_2d": {
       "lon": -123.12012470707563,
       "lat": 49.257001673171196
-    }
-  },
-  {
-    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "street": null,
-    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10998404089081,
-            49.23475776621157
-          ],
-          [
-            -123.10907207121434,
-            49.234730197645035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10952805605257,
-      "lat": 49.234743981928304
     }
   },
   {
