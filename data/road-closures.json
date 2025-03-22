@@ -1,25 +1,21 @@
 [
   {
-    "project": "Cypress St from W 49th Av to W 50th Av",
+    "project": "Alberni St - Nicola St to Cardero St",
     "street": null,
-    "location": "Cypress St from W 49th Av to W 50th Av",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08ec8445-1002-4d88-a74c-1dd8c5a15893",
+    "location": "Alberni St - Nicola St to Cardero St",
+    "comp_date": "2025-03-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e2feef9c-83ef-4963-a2e6-04d907ae0523",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1495032283246,
-            49.2270886431603
+            -123.13004382164875,
+            49.2893796068187
           ],
           [
-            -123.1494267251481,
-            49.22699687349967
-          ],
-          [
-            -123.14946305481101,
-            49.225772669687046
+            -123.13122603035521,
+            49.290144577560085
           ]
         ],
         "type": "LineString"
@@ -27,127 +23,35 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14944667531178,
-      "lat": 49.22644325415221
+      "lon": -123.13063492600199,
+      "lat": 49.28976209218939
     }
   },
   {
-    "project": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
+    "project": "Both sides of the 1400 Block E King Edward Ave from Kingsway to Knight St\r\nBoth",
     "street": null,
-    "location": "Both Sides of 8400 Block of Ash Street From SW Marine Drive to W 70th Avenue.",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e8a9c5a-0622-4621-b944-6ea82325fd41",
+    "location": "Both sides of the 1400 Block E King Edward Ave from Kingsway to Knight St\r\nBoth",
+    "comp_date": "2025-03-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0830fe04-e276-4c9c-8ae3-cd598daa54fa",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.12034367473855,
-              49.20881450328241
-            ],
-            [
-              -123.12034796439423,
-              49.2087668407257
-            ]
+            -123.07679045660261,
+            49.24849288358021
           ],
           [
-            [
-              -123.11894141204304,
-              49.209382670438174
-            ],
-            [
-              -123.1190036106602,
-              49.20820977706023
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11902627454293,
-      "lat": 49.20879600640576
-    }
-  },
-  {
-    "project": "E 53rd Av from Kerr St to McKinnon St",
-    "street": null,
-    "location": "E 53rd Av from Kerr St to McKinnon St",
-    "comp_date": "2025-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65d742ea-9cc6-41cc-9679-3dd9abed7ff0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04123827224156,
-              49.22116000394456
-            ],
-            [
-              -123.0406152504142,
-              49.221155223310205
-            ]
+            -123.07220204248839,
+            49.248433806158374
           ],
           [
-            [
-              -123.0406152504142,
-              49.221155223310205
-            ],
-            [
-              -123.0405288702956,
-              49.22115456101355
-            ]
+            -123.07342380956023,
+            49.24845152939233
           ],
           [
-            [
-              -123.0405288702956,
-              49.22115456101355
-            ],
-            [
-              -123.0396057566613,
-              49.22114738814341
-            ]
-          ],
-          [
-            [
-              -123.0396057566613,
-              49.22114738814341
-            ],
-            [
-              -123.03901162900841,
-              49.221142561963916
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04012494983253,
-      "lat": 49.22115138334459
-    }
-  },
-  {
-    "project": "B/S of 1300 blk of Cypress St",
-    "street": null,
-    "location": "B/S of 1300 blk of Cypress St",
-    "comp_date": "2025-03-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6a61366a-5dbf-47c1-9c91-f101ffadef2e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1477481885127,
-            49.274442617847114
-          ],
-          [
-            -123.14775355293072,
-            49.273445124236815
+            -123.07413876955042,
+            49.248746915688486
           ]
         ],
         "type": "LineString"
@@ -155,38 +59,78 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14775087072171,
-      "lat": 49.273943871041965
+      "lon": -123.07409986189744,
+      "lat": 49.248475471739084
     }
   },
   {
-    "project": "Thurlow St - Jung Lane to Pacific St",
+    "project": "Helmcken St - Burrard St to Granville St",
     "street": null,
-    "location": "Thurlow St - Jung Lane to Pacific St",
-    "comp_date": "2025-03-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d512cf8d-067b-42e5-8db6-ee14d5476389",
+    "location": "Helmcken St - Burrard St to Granville St",
+    "comp_date": "2025-03-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/81565885-adc8-452f-b9f3-9fc674b23e9a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.13385573257908,
-              49.278624814160565
+              -123.12705471478553,
+              49.279787437928974
             ],
             [
-              -123.13438712967454,
-              49.27827284546376
+              -123.12758941631283,
+              49.28013319922121
             ]
           ],
           [
             [
-              -123.1344888091117,
-              49.278205630931296
+              -123.12656888315884,
+              49.27947328366528
             ],
             [
-              -123.1343772806809,
-              49.27828402357173
+              -123.12705471478553,
+              49.279787437928974
+            ]
+          ],
+          [
+            [
+              -123.1260835121515,
+              49.279159414686745
+            ],
+            [
+              -123.12656888315884,
+              49.27947328366528
+            ]
+          ],
+          [
+            [
+              -123.12559820241383,
+              49.278845588563286
+            ],
+            [
+              -123.1260835121515,
+              49.279159414686745
+            ]
+          ],
+          [
+            [
+              -123.12511277489124,
+              49.278531679557034
+            ],
+            [
+              -123.12559820241383,
+              49.278845588563286
+            ]
+          ],
+          [
+            [
+              -123.12460642141606,
+              49.27820422632658
+            ],
+            [
+              -123.12511277489124,
+              49.278531679557034
             ]
           ]
         ],
@@ -195,8 +139,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13417633547635,
-      "lat": 49.2784128858681
+      "lon": -123.12609791280556,
+      "lat": 49.27916872214343
     }
   },
   {
@@ -414,170 +358,6 @@
     }
   },
   {
-    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "street": null,
-    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "comp_date": "2025-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1397018982616,
-              49.286592770706875
-            ],
-            [
-              -123.14025954074292,
-              49.28624286146467
-            ]
-          ],
-          [
-            [
-              -123.14026811972711,
-              49.286226065801316
-            ],
-            [
-              -123.13974050401772,
-              49.28588455163509
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13999224220326,
-      "lat": 49.28624076460772
-    }
-  },
-  {
-    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "street": null,
-    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10998404089081,
-            49.23475776621157
-          ],
-          [
-            -123.10907207121434,
-            49.234730197645035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10952805605257,
-      "lat": 49.234743981928304
-    }
-  },
-  {
-    "project": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "street": null,
-    "location": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7d319a8-7e46-48f6-ae04-a0cc0d3a4ce1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09818086398168,
-            49.252930923873635
-          ],
-          [
-            -123.09719408747505,
-            49.25291768915102
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09768747572836,
-      "lat": 49.25292430651233
-    }
-  },
-  {
-    "project": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
-    "street": null,
-    "location": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/30ef851c-5ced-44ce-8b8c-be56253de199",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12009241343489,
-              49.25767127833802
-            ],
-            [
-              -123.12012636762496,
-              49.25627958028784
-            ]
-          ],
-          [
-            [
-              -123.12103633991903,
-              49.2570374844106
-            ],
-            [
-              -123.11923676784494,
-              49.25700645932409
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12012470707563,
-      "lat": 49.257001673171196
-    }
-  },
-  {
-    "project": "W 1st Av from Cypress St to Maple St",
-    "street": null,
-    "location": "W 1st Av from Cypress St to Maple St",
-    "comp_date": "2025-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/656e36a0-08ec-49f6-a836-b99fce5cc8f7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14786840528188,
-            49.27069875533019
-          ],
-          [
-            -123.15026841598227,
-            49.270737063889214
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14906841063208,
-      "lat": 49.2707179096097
-    }
-  },
-  {
     "project": "Kaslo St - E 20th Av to E 22nd Av",
     "street": null,
     "location": "Kaslo St - E 20th Av to E 22nd Av",
@@ -661,96 +441,6 @@
     "geo_point_2d": {
       "lon": -123.14032199926656,
       "lat": 49.27430106812026
-    }
-  },
-  {
-    "project": "Both Sides of 1000 Block of Bute Street From Nelson Street to Comox Street. East",
-    "street": null,
-    "location": "Both Sides of 1000 Block of Bute Street From Nelson Street to Comox Street. East",
-    "comp_date": "2025-03-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f6d3ca29-eb3a-4e8d-a354-4ee2228e74af",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13017877676542,
-              49.283896563790705
-            ],
-            [
-              -123.13126403495613,
-              49.28318550652378
-            ]
-          ],
-          [
-            [
-              -123.13174446559792,
-              49.28283557331525
-            ],
-            [
-              -123.13213052577728,
-              49.28256962225365
-            ]
-          ],
-          [
-            [
-              -123.13230639757134,
-              49.28249403598616
-            ],
-            [
-              -123.13195036449116,
-              49.28225887766004
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13125513528482,
-      "lat": 49.28313520263504
-    }
-  },
-  {
-    "project": "Both sides of the 5700 Block Alberta St from W 41st Ave to W 42nd Ave.\r\nBoth sid",
-    "street": null,
-    "location": "Both sides of the 5700 Block Alberta St from W 41st Ave to W 42nd Ave.\r\nBoth sid",
-    "comp_date": "2025-04-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06f91809-9ef6-4305-8a9a-27d7af13d136",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11536373728072,
-              49.23297082337527
-            ],
-            [
-              -123.11075275826825,
-              49.2327757131489
-            ]
-          ],
-          [
-            [
-              -123.11342834844633,
-              49.23340095001598
-            ],
-            [
-              -123.11348946598848,
-              49.23245200584611
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11312669731329,
-      "lat": 49.23288235871875
     }
   },
   {
