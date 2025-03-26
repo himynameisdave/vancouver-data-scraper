@@ -1,246 +1,88 @@
 [
   {
-    "project": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
+    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
     "street": null,
-    "location": "Both Sides of 1100 Block of Bidwell Street From Davie Street to See-em-ia Lane.",
-    "comp_date": "2025-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b1b3eaa-d2e5-497a-80b0-66097f4e429c",
+    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.1397018982616,
-              49.286592770706875
-            ],
-            [
-              -123.14025954074292,
-              49.28624286146467
-            ]
+            -123.10998404089081,
+            49.23475776621157
           ],
           [
-            [
-              -123.14026811972711,
-              49.286226065801316
-            ],
-            [
-              -123.13974050401772,
-              49.28588455163509
-            ]
+            -123.10907207121434,
+            49.234730197645035
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13999224220326,
-      "lat": 49.28624076460772
+      "lon": -123.10952805605257,
+      "lat": 49.234743981928304
     }
   },
   {
-    "project": "Oak St and W 70th Av;\r\nW70th av East of Granville",
+    "project": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
     "street": null,
-    "location": "Oak St and W 70th Av;\r\nW70th av East of Granville",
-    "comp_date": "2025-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b904926a-d1ef-41c7-87dc-5a8a9d2c97b0",
+    "location": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7d319a8-7e46-48f6-ae04-a0cc0d3a4ce1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09818086398168,
+            49.252930923873635
+          ],
+          [
+            -123.09719408747505,
+            49.25291768915102
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09768747572836,
+      "lat": 49.25292430651233
+    }
+  },
+  {
+    "project": "W 61st Av from Ash St to Cambie St.",
+    "street": null,
+    "location": "W 61st Av from Ash St to Cambie St.",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bb6fdd66-2540-4659-8193-231b7c84ed31",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.1330028594197,
-              49.20851275340996
+              -123.11777984637027,
+              49.2150386740193
             ],
             [
-              -123.13327767669895,
-              49.20851673638893
+              -123.12008333534672,
+              49.21510347908463
             ]
           ],
           [
             [
-              -123.13240250518115,
-              49.20850343137923
+              -123.11692315915151,
+              49.21501509518001
             ],
             [
-              -123.1330028594197,
-              49.20851275340996
-            ]
-          ],
-          [
-            [
-              -123.13024569211605,
-              49.20847130563453
-            ],
-            [
-              -123.13094395289085,
-              49.2084819311911
-            ]
-          ],
-          [
-            [
-              -123.13094395289085,
-              49.2084819311911
-            ],
-            [
-              -123.13162450058327,
-              49.20849160122103
-            ]
-          ],
-          [
-            [
-              -123.13162450058327,
-              49.20849160122103
-            ],
-            [
-              -123.13240250518115,
-              49.20850343137923
-            ]
-          ],
-          [
-            [
-              -123.13689479466456,
-              49.20857074166841
-            ],
-            [
-              -123.13708417155831,
-              49.2085735664746
-            ]
-          ],
-          [
-            [
-              -123.13708417155831,
-              49.2085735664746
-            ],
-            [
-              -123.13766033436661,
-              49.20858215539201
-            ],
-            [
-              -123.1378404707124,
-              49.2085847021213
-            ]
-          ],
-          [
-            [
-              -123.1378404707124,
-              49.2085847021213
-            ],
-            [
-              -123.13842509206518,
-              49.20859364593676
-            ]
-          ],
-          [
-            [
-              -123.139872323203,
-              49.20861478651446
-            ],
-            [
-              -123.14051989586109,
-              49.20862421917869
-            ]
-          ],
-          [
-            [
-              -123.13919057589315,
-              49.20860446489149
-            ],
-            [
-              -123.139872323203,
-              49.20861478651446
-            ]
-          ],
-          [
-            [
-              -123.13853274827845,
-              49.20859516300854
-            ],
-            [
-              -123.13919057589315,
-              49.20860446489149
-            ]
-          ],
-          [
-            [
-              -123.13842509206518,
-              49.20859364593676
-            ],
-            [
-              -123.13853274827845,
-              49.20859516300854
-            ]
-          ],
-          [
-            [
-              -123.13327767669895,
-              49.20851673638893
-            ],
-            [
-              -123.13393841332466,
-              49.20852619975608
-            ]
-          ],
-          [
-            [
-              -123.13393841332466,
-              49.20852619975608
-            ],
-            [
-              -123.13438315262258,
-              49.20853292440415
-            ]
-          ],
-          [
-            [
-              -123.13438315262258,
-              49.20853292440415
-            ],
-            [
-              -123.13459923401145,
-              49.208536189968015
-            ]
-          ],
-          [
-            [
-              -123.13536418266595,
-              49.20854774553237
-            ],
-            [
-              -123.135798624862,
-              49.208554296891464
-            ]
-          ],
-          [
-            [
-              -123.13459923401145,
-              49.208536189968015
-            ],
-            [
-              -123.13536418266595,
-              49.20854774553237
-            ]
-          ],
-          [
-            [
-              -123.135798624862,
-              49.208554296891464
-            ],
-            [
-              -123.13612937886838,
-              49.20855932272505
-            ]
-          ],
-          [
-            [
-              -123.13612937886838,
-              49.20855932272505
-            ],
-            [
-              -123.13689479466456,
-              49.20857074166841
+              -123.11777984637027,
+              49.2150386740193
             ]
           ]
         ],
@@ -249,8 +91,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13538279078287,
-      "lat": 49.20854797586947
+      "lon": -123.1185032525465,
+      "lat": 49.21505909677293
     }
   },
   {
@@ -362,22 +204,22 @@
     }
   },
   {
-    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "project": "Franklin St from Nanaimo St to Kamloops St",
     "street": null,
-    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "location": "Franklin St from Nanaimo St to Kamloops St",
     "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/491cf39d-a262-4f8e-9013-c3e79436bdaa",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10998404089081,
-            49.23475776621157
+            -123.05654852249394,
+            49.28207986991342
           ],
           [
-            -123.10907207121434,
-            49.234730197645035
+            -123.05458183747143,
+            49.28207723554604
           ]
         ],
         "type": "LineString"
@@ -385,76 +227,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10952805605257,
-      "lat": 49.234743981928304
-    }
-  },
-  {
-    "project": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "street": null,
-    "location": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7d319a8-7e46-48f6-ae04-a0cc0d3a4ce1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09818086398168,
-            49.252930923873635
-          ],
-          [
-            -123.09719408747505,
-            49.25291768915102
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09768747572836,
-      "lat": 49.25292430651233
-    }
-  },
-  {
-    "project": "W 61st Av from Ash St to Cambie St.",
-    "street": null,
-    "location": "W 61st Av from Ash St to Cambie St.",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bb6fdd66-2540-4659-8193-231b7c84ed31",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11777984637027,
-              49.2150386740193
-            ],
-            [
-              -123.12008333534672,
-              49.21510347908463
-            ]
-          ],
-          [
-            [
-              -123.11692315915151,
-              49.21501509518001
-            ],
-            [
-              -123.11777984637027,
-              49.2150386740193
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1185032525465,
-      "lat": 49.21505909677293
+      "lon": -123.0555651799827,
+      "lat": 49.28207855272973
     }
   },
   {
@@ -483,6 +257,34 @@
     "geo_point_2d": {
       "lon": -123.14906841063208,
       "lat": 49.2707179096097
+    }
+  },
+  {
+    "project": "Both sides of 4700-4800 Block Moss St from Euclid Ave to North PL of 4845 Moss S",
+    "street": null,
+    "location": "Both sides of 4700-4800 Block Moss St from Euclid Ave to North PL of 4845 Moss S",
+    "comp_date": "2025-03-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0108736f-4826-406e-bd26-eff9912affe2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04381079849585,
+            49.24134762999509
+          ],
+          [
+            -123.04435653692252,
+            49.2407748844613
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04408366770917,
+      "lat": 49.241061257228196
     }
   },
   {
