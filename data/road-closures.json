@@ -254,102 +254,6 @@
     }
   },
   {
-    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "street": null,
-    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10998404089081,
-            49.23475776621157
-          ],
-          [
-            -123.10907207121434,
-            49.234730197645035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10952805605257,
-      "lat": 49.234743981928304
-    }
-  },
-  {
-    "project": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "street": null,
-    "location": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7d319a8-7e46-48f6-ae04-a0cc0d3a4ce1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09818086398168,
-            49.252930923873635
-          ],
-          [
-            -123.09719408747505,
-            49.25291768915102
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09768747572836,
-      "lat": 49.25292430651233
-    }
-  },
-  {
-    "project": "W 61st Av from Ash St to Cambie St.",
-    "street": null,
-    "location": "W 61st Av from Ash St to Cambie St.",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bb6fdd66-2540-4659-8193-231b7c84ed31",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11777984637027,
-              49.2150386740193
-            ],
-            [
-              -123.12008333534672,
-              49.21510347908463
-            ]
-          ],
-          [
-            [
-              -123.11692315915151,
-              49.21501509518001
-            ],
-            [
-              -123.11777984637027,
-              49.2150386740193
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1185032525465,
-      "lat": 49.21505909677293
-    }
-  },
-  {
     "project": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
     "street": null,
     "location": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
@@ -455,6 +359,102 @@
     "geo_point_2d": {
       "lon": -123.166486769869,
       "lat": 49.25369117884475
+    }
+  },
+  {
+    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "street": null,
+    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10998404089081,
+            49.23475776621157
+          ],
+          [
+            -123.10907207121434,
+            49.234730197645035
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10952805605257,
+      "lat": 49.234743981928304
+    }
+  },
+  {
+    "project": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
+    "street": null,
+    "location": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7d319a8-7e46-48f6-ae04-a0cc0d3a4ce1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09818086398168,
+            49.252930923873635
+          ],
+          [
+            -123.09719408747505,
+            49.25291768915102
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09768747572836,
+      "lat": 49.25292430651233
+    }
+  },
+  {
+    "project": "W 61st Av from Ash St to Cambie St.",
+    "street": null,
+    "location": "W 61st Av from Ash St to Cambie St.",
+    "comp_date": "2025-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bb6fdd66-2540-4659-8193-231b7c84ed31",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11777984637027,
+              49.2150386740193
+            ],
+            [
+              -123.12008333534672,
+              49.21510347908463
+            ]
+          ],
+          [
+            [
+              -123.11692315915151,
+              49.21501509518001
+            ],
+            [
+              -123.11777984637027,
+              49.2150386740193
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1185032525465,
+      "lat": 49.21505909677293
     }
   },
   {
