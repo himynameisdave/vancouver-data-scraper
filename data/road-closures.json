@@ -1,237 +1,5 @@
 [
   {
-    "project": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "street": null,
-    "location": "Both sides of the 100 Block W 40th Ave from Lane East of Columbia St to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/596cd79e-d2c9-40b5-a1d2-2d3f3a4cd890",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10998404089081,
-            49.23475776621157
-          ],
-          [
-            -123.10907207121434,
-            49.234730197645035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10952805605257,
-      "lat": 49.234743981928304
-    }
-  },
-  {
-    "project": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "street": null,
-    "location": "Both sides of the 300 Block E 20th Ave from West PL of 321 E 20th Ave to East PL",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7d319a8-7e46-48f6-ae04-a0cc0d3a4ce1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09818086398168,
-            49.252930923873635
-          ],
-          [
-            -123.09719408747505,
-            49.25291768915102
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09768747572836,
-      "lat": 49.25292430651233
-    }
-  },
-  {
-    "project": "W 61st Av from Ash St to Cambie St.",
-    "street": null,
-    "location": "W 61st Av from Ash St to Cambie St.",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bb6fdd66-2540-4659-8193-231b7c84ed31",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11777984637027,
-              49.2150386740193
-            ],
-            [
-              -123.12008333534672,
-              49.21510347908463
-            ]
-          ],
-          [
-            [
-              -123.11692315915151,
-              49.21501509518001
-            ],
-            [
-              -123.11777984637027,
-              49.2150386740193
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1185032525465,
-      "lat": 49.21505909677293
-    }
-  },
-  {
-    "project": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
-    "street": null,
-    "location": "Both sides of the 3100 Block Heather St from W 15th Ave to W 16th Ave.\r\nBoth sid",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/30ef851c-5ced-44ce-8b8c-be56253de199",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12009241343489,
-              49.25767127833802
-            ],
-            [
-              -123.12012636762496,
-              49.25627958028784
-            ]
-          ],
-          [
-            [
-              -123.12103633991903,
-              49.2570374844106
-            ],
-            [
-              -123.11923676784494,
-              49.25700645932409
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12012470707563,
-      "lat": 49.257001673171196
-    }
-  },
-  {
-    "project": "Both sides of the 5100 Block Pine Crescent from W 36th Ave to 20m North of W 36t",
-    "street": null,
-    "location": "Both sides of the 5100 Block Pine Crescent from W 36th Ave to 20m North of W 36t",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7c34504a-9f06-4d48-9de3-a87d1e08a885",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14698790982513,
-            49.23910159855737
-          ],
-          [
-            -123.14698790982513,
-            49.23934162350031
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14698790982513,
-      "lat": 49.23922161102884
-    }
-  },
-  {
-    "project": "W 21st Av from Macdonald St to Trafalgar St",
-    "street": null,
-    "location": "W 21st Av from Macdonald St to Trafalgar St",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/46b40b9f-8a67-4343-83d6-86e414869efe",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ],
-            [
-              -123.16778846097563,
-              49.25369699657418
-            ]
-          ],
-          [
-            [
-              -123.16518507881999,
-              49.253685348261115
-            ],
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.166486769869,
-      "lat": 49.25369117884475
-    }
-  },
-  {
-    "project": "Franklin St from Nanaimo St to Kamloops St",
-    "street": null,
-    "location": "Franklin St from Nanaimo St to Kamloops St",
-    "comp_date": "2025-03-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/491cf39d-a262-4f8e-9013-c3e79436bdaa",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05654852249394,
-            49.28207986991342
-          ],
-          [
-            -123.05458183747143,
-            49.28207723554604
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0555651799827,
-      "lat": 49.28207855272973
-    }
-  },
-  {
     "project": "W 1st Av from Cypress St to Maple St",
     "street": null,
     "location": "W 1st Av from Cypress St to Maple St",
@@ -257,6 +25,46 @@
     "geo_point_2d": {
       "lon": -123.14906841063208,
       "lat": 49.2707179096097
+    }
+  },
+  {
+    "project": "Ontario St from Lane N of E 50th Av to Lane S of E 50th Av",
+    "street": null,
+    "location": "Ontario St from Lane N of E 50th Av to Lane S of E 50th Av",
+    "comp_date": "2025-03-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f45a5bef-b601-4ac4-89c5-ce3c8d580996",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10597412167039,
+              49.22527774381763
+            ],
+            [
+              -123.10599045554137,
+              49.224804523852214
+            ]
+          ],
+          [
+            [
+              -123.10599045554137,
+              49.224804523852214
+            ],
+            [
+              -123.10600633518361,
+              49.22433097143738
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10599034467747,
+      "lat": 49.2248043615829
     }
   },
   {
@@ -477,6 +285,114 @@
     "geo_point_2d": {
       "lon": -123.10490914936557,
       "lat": 49.224782311569015
+    }
+  },
+  {
+    "project": "- Both sides of 1000 Block E 62nd Ave from Windsor St to Lane East of Windsor St",
+    "street": null,
+    "location": "- Both sides of 1000 Block E 62nd Ave from Windsor St to Lane East of Windsor St",
+    "comp_date": "2025-04-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/79940d00-3d72-42df-a965-3ac7567e110b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08571241098889,
+              49.21384027638584
+            ],
+            [
+              -123.0850328271974,
+              49.213819929600476
+            ]
+          ],
+          [
+            [
+              -123.08316571094942,
+              49.21427187334996
+            ],
+            [
+              -123.08316571094942,
+              49.21381129808833
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08448136108525,
+      "lat": 49.21391551011516
+    }
+  },
+  {
+    "project": "- Both sides of 700 Block E 62nd Ave from Fraser St to Lane East of Fraser St.",
+    "street": null,
+    "location": "- Both sides of 700 Block E 62nd Ave from Fraser St to Lane East of Fraser St.",
+    "comp_date": "2025-04-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b01d19ed-494f-4e87-970d-96938f6fc8ef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09103164046233,
+              49.213196208505536
+            ],
+            [
+              -123.0910285745911,
+              49.2139452383835
+            ]
+          ],
+          [
+            [
+              -123.09103164046235,
+              49.21396126028901
+            ],
+            [
+              -123.09042153208398,
+              49.2139452383835
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09089383354409,
+      "lat": 49.213742468671946
+    }
+  },
+  {
+    "project": "Both sides of 1300 Block E 62nd Ave from Knight St to 30m West of Knight St.",
+    "street": null,
+    "location": "Both sides of 1300 Block E 62nd Ave from Knight St to 30m West of Knight St.",
+    "comp_date": "2025-04-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f57acaa6-03fa-45c9-a23b-00915ea83c0d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07772983494053,
+            49.213772126807186
+          ],
+          [
+            -123.07708610477694,
+            49.213766870439315
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07740796985874,
+      "lat": 49.21376949862325
     }
   },
   {
