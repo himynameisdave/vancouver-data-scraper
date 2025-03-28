@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 1st Av from Cypress St to Maple St",
-    "street": null,
-    "location": "W 1st Av from Cypress St to Maple St",
-    "comp_date": "2025-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/656e36a0-08ec-49f6-a836-b99fce5cc8f7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14786840528188,
-            49.27069875533019
-          ],
-          [
-            -123.15026841598227,
-            49.270737063889214
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14906841063208,
-      "lat": 49.2707179096097
-    }
-  },
-  {
     "project": "Ontario St from Lane N of E 50th Av to Lane S of E 50th Av",
     "street": null,
     "location": "Ontario St from Lane N of E 50th Av to Lane S of E 50th Av",
@@ -65,6 +37,34 @@
     "geo_point_2d": {
       "lon": -123.10599034467747,
       "lat": 49.2248043615829
+    }
+  },
+  {
+    "project": "W 1st Av from Cypress St to Maple St",
+    "street": null,
+    "location": "W 1st Av from Cypress St to Maple St",
+    "comp_date": "2025-03-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/656e36a0-08ec-49f6-a836-b99fce5cc8f7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14786840528188,
+            49.27069875533019
+          ],
+          [
+            -123.15026841598227,
+            49.270737063889214
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14906841063208,
+      "lat": 49.2707179096097
     }
   },
   {
