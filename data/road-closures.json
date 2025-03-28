@@ -1,32 +1,32 @@
 [
   {
-    "project": "Ontario St from Lane N of E 50th Av to Lane S of E 50th Av",
+    "project": "Maple St from W 12th Av to W 13th Av",
     "street": null,
-    "location": "Ontario St from Lane N of E 50th Av to Lane S of E 50th Av",
-    "comp_date": "2025-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f45a5bef-b601-4ac4-89c5-ce3c8d580996",
+    "location": "Maple St from W 12th Av to W 13th Av",
+    "comp_date": "2025-03-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b94e85-d081-4f3f-8cae-cf94894350c1",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10597412167039,
-              49.22527774381763
+              -123.15063527005464,
+              49.26096551803994
             ],
             [
-              -123.10599045554137,
-              49.224804523852214
+              -123.15065290106848,
+              49.26048613116737
             ]
           ],
           [
             [
-              -123.10599045554137,
-              49.224804523852214
+              -123.15065290106848,
+              49.26048613116737
             ],
             [
-              -123.10600633518361,
-              49.22433097143738
+              -123.15067026088991,
+              49.26002612029643
             ]
           ]
         ],
@@ -35,36 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10599034467747,
-      "lat": 49.2248043615829
-    }
-  },
-  {
-    "project": "W 1st Av from Cypress St to Maple St",
-    "street": null,
-    "location": "W 1st Av from Cypress St to Maple St",
-    "comp_date": "2025-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/656e36a0-08ec-49f6-a836-b99fce5cc8f7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14786840528188,
-            49.27069875533019
-          ],
-          [
-            -123.15026841598227,
-            49.270737063889214
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14906841063208,
-      "lat": 49.2707179096097
+      "lon": -123.15065265299638,
+      "lat": 49.26049581497755
     }
   },
   {
@@ -285,6 +257,46 @@
     "geo_point_2d": {
       "lon": -123.10490914936557,
       "lat": 49.224782311569015
+    }
+  },
+  {
+    "project": "W 61st Av from Ash St to Cambie St",
+    "street": null,
+    "location": "W 61st Av from Ash St to Cambie St",
+    "comp_date": "2025-03-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3da1610d-1fa4-4201-a20f-7ba5d64e7df9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11777984637027,
+              49.2150386740193
+            ],
+            [
+              -123.12008333534672,
+              49.21510347908463
+            ]
+          ],
+          [
+            [
+              -123.11692315915151,
+              49.21501509518001
+            ],
+            [
+              -123.11777984637027,
+              49.2150386740193
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1185032525465,
+      "lat": 49.21505909677293
     }
   },
   {
@@ -571,6 +583,50 @@
     "geo_point_2d": {
       "lon": -123.08431290414072,
       "lat": 49.26106283037342
+    }
+  },
+  {
+    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "street": null,
+    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "comp_date": "2025-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14369929572406,
+            49.254777026300275
+          ],
+          [
+            -123.14360766756509,
+            49.25498458573563
+          ],
+          [
+            -123.14346753038076,
+            49.25513937525483
+          ],
+          [
+            -123.14321959536235,
+            49.25531175392081
+          ],
+          [
+            -123.14283152315961,
+            49.25545598866859
+          ],
+          [
+            -123.14220629572186,
+            49.25572334952531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14302604511185,
+      "lat": 49.25533516575979
     }
   },
   {
