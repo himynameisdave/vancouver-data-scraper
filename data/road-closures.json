@@ -1,45 +1,5 @@
 [
   {
-    "project": "Maple St from W 12th Av to W 13th Av",
-    "street": null,
-    "location": "Maple St from W 12th Av to W 13th Av",
-    "comp_date": "2025-03-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b94e85-d081-4f3f-8cae-cf94894350c1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15063527005464,
-              49.26096551803994
-            ],
-            [
-              -123.15065290106848,
-              49.26048613116737
-            ]
-          ],
-          [
-            [
-              -123.15065290106848,
-              49.26048613116737
-            ],
-            [
-              -123.15067026088991,
-              49.26002612029643
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15065265299638,
-      "lat": 49.26049581497755
-    }
-  },
-  {
     "project": "Both sides of 4700-4800 Block Moss St from Euclid Ave to North PL of 4845 Moss S",
     "street": null,
     "location": "Both sides of 4700-4800 Block Moss St from Euclid Ave to North PL of 4845 Moss S",
@@ -121,6 +81,46 @@
     "geo_point_2d": {
       "lon": -123.0470842152986,
       "lat": 49.25194394005025
+    }
+  },
+  {
+    "project": "Maple St from W 12th Av to W 13th Av",
+    "street": null,
+    "location": "Maple St from W 12th Av to W 13th Av",
+    "comp_date": "2025-03-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b94e85-d081-4f3f-8cae-cf94894350c1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15063527005464,
+              49.26096551803994
+            ],
+            [
+              -123.15065290106848,
+              49.26048613116737
+            ]
+          ],
+          [
+            [
+              -123.15065290106848,
+              49.26048613116737
+            ],
+            [
+              -123.15067026088991,
+              49.26002612029643
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15065265299638,
+      "lat": 49.26049581497755
     }
   },
   {
@@ -232,34 +232,6 @@
     }
   },
   {
-    "project": "E 50th Av from Ontario St to Quebec St",
-    "street": null,
-    "location": "E 50th Av from Ontario St to Quebec St",
-    "comp_date": "2025-03-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/45effe6f-375b-4e26-8891-c1382698516c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10599045554137,
-            49.224804523852214
-          ],
-          [
-            -123.10382784318975,
-            49.22476009928582
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10490914936557,
-      "lat": 49.224782311569015
-    }
-  },
-  {
     "project": "W 61st Av from Ash St to Cambie St",
     "street": null,
     "location": "W 61st Av from Ash St to Cambie St",
@@ -297,6 +269,34 @@
     "geo_point_2d": {
       "lon": -123.1185032525465,
       "lat": 49.21505909677293
+    }
+  },
+  {
+    "project": "E 50th Av from Ontario St to Quebec St",
+    "street": null,
+    "location": "E 50th Av from Ontario St to Quebec St",
+    "comp_date": "2025-03-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/45effe6f-375b-4e26-8891-c1382698516c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10599045554137,
+            49.224804523852214
+          ],
+          [
+            -123.10382784318975,
+            49.22476009928582
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10490914936557,
+      "lat": 49.224782311569015
     }
   },
   {
@@ -526,6 +526,50 @@
     }
   },
   {
+    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "street": null,
+    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "comp_date": "2025-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14369929572406,
+            49.254777026300275
+          ],
+          [
+            -123.14360766756509,
+            49.25498458573563
+          ],
+          [
+            -123.14346753038076,
+            49.25513937525483
+          ],
+          [
+            -123.14321959536235,
+            49.25531175392081
+          ],
+          [
+            -123.14283152315961,
+            49.25545598866859
+          ],
+          [
+            -123.14220629572186,
+            49.25572334952531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14302604511185,
+      "lat": 49.25533516575979
+    }
+  },
+  {
     "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
     "street": null,
     "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
@@ -583,50 +627,6 @@
     "geo_point_2d": {
       "lon": -123.08431290414072,
       "lat": 49.26106283037342
-    }
-  },
-  {
-    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
-    "street": null,
-    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
-    "comp_date": "2025-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14369929572406,
-            49.254777026300275
-          ],
-          [
-            -123.14360766756509,
-            49.25498458573563
-          ],
-          [
-            -123.14346753038076,
-            49.25513937525483
-          ],
-          [
-            -123.14321959536235,
-            49.25531175392081
-          ],
-          [
-            -123.14283152315961,
-            49.25545598866859
-          ],
-          [
-            -123.14220629572186,
-            49.25572334952531
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14302604511185,
-      "lat": 49.25533516575979
     }
   },
   {
