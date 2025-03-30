@@ -232,6 +232,34 @@
     }
   },
   {
+    "project": "E 50th Av from Ontario St to Quebec St",
+    "street": null,
+    "location": "E 50th Av from Ontario St to Quebec St",
+    "comp_date": "2025-03-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/45effe6f-375b-4e26-8891-c1382698516c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10599045554137,
+            49.224804523852214
+          ],
+          [
+            -123.10382784318975,
+            49.22476009928582
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10490914936557,
+      "lat": 49.224782311569015
+    }
+  },
+  {
     "project": "W 61st Av from Ash St to Cambie St",
     "street": null,
     "location": "W 61st Av from Ash St to Cambie St",
@@ -269,34 +297,6 @@
     "geo_point_2d": {
       "lon": -123.1185032525465,
       "lat": 49.21505909677293
-    }
-  },
-  {
-    "project": "E 50th Av from Ontario St to Quebec St",
-    "street": null,
-    "location": "E 50th Av from Ontario St to Quebec St",
-    "comp_date": "2025-03-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/45effe6f-375b-4e26-8891-c1382698516c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10599045554137,
-            49.224804523852214
-          ],
-          [
-            -123.10382784318975,
-            49.22476009928582
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10490914936557,
-      "lat": 49.224782311569015
     }
   },
   {
