@@ -84,6 +84,102 @@
     }
   },
   {
+    "project": "Culloden St from E 37th Av to E 39th Av",
+    "street": null,
+    "location": "Culloden St from E 37th Av to E 39th Av",
+    "comp_date": "2025-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/40986e2d-2ba8-40d0-9c5e-b7a3fb4720b8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07827362671041,
+              49.23687234827423
+            ],
+            [
+              -123.07829316909914,
+              49.23646028974764
+            ]
+          ],
+          [
+            [
+              -123.07829316909914,
+              49.23646028974764
+            ],
+            [
+              -123.07834791021925,
+              49.23480935463826
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07831311762595,
+      "lat": 49.23584094610371
+    }
+  },
+  {
+    "project": "Somerville St from E 35th Av to E 37th Av",
+    "street": null,
+    "location": "Somerville St from E 35th Av to E 37th Av",
+    "comp_date": "2025-04-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/45dd6b09-a7f1-4b32-8ff0-1025cc889446",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08576674564426,
+            49.238251675498105
+          ],
+          [
+            -123.0858150239175,
+            49.23649391455851
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08579088478089,
+      "lat": 49.23737279502831
+    }
+  },
+  {
+    "project": "W 35th Av from Collingwood St to Blenheim St",
+    "street": null,
+    "location": "W 35th Av from Collingwood St to Blenheim St",
+    "comp_date": "2025-04-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/149e3f4e-a007-4a18-85a0-c356f172aee8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17867719493198,
+            49.240450332912474
+          ],
+          [
+            -123.1819771600937,
+            49.24046001509163
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18032717751284,
+      "lat": 49.24045517400205
+    }
+  },
+  {
     "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
     "street": null,
     "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
