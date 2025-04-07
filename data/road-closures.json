@@ -1,69 +1,5 @@
 [
   {
-    "project": "Both sides of the 1400 Block E King Edward Ave from Kingsway to Knight St\r\nBoth",
-    "street": null,
-    "location": "Both sides of the 1400 Block E King Edward Ave from Kingsway to Knight St\r\nBoth",
-    "comp_date": "2025-04-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0830fe04-e276-4c9c-8ae3-cd598daa54fa",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07679045660261,
-            49.24849288358021
-          ],
-          [
-            -123.07220204248839,
-            49.248433806158374
-          ],
-          [
-            -123.07342380956023,
-            49.24845152939233
-          ],
-          [
-            -123.07413876955042,
-            49.248746915688486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07409986189744,
-      "lat": 49.248475471739084
-    }
-  },
-  {
-    "project": "E King Edward - Dumfries to Kingsway",
-    "street": null,
-    "location": "E King Edward - Dumfries to Kingsway",
-    "comp_date": "2025-04-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/abf14572-d6a6-4ebc-b233-2f2cc15ec645",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07335514493096,
-            49.24846602064031
-          ],
-          [
-            -123.0722098247414,
-            49.248436716096336
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0727824848362,
-      "lat": 49.24845136836832
-    }
-  },
-  {
     "project": "W 49th Ave - Main St to Cambie St",
     "street": null,
     "location": "W 49th Ave - Main St to Cambie St",
@@ -335,56 +271,6 @@
     "geo_point_2d": {
       "lon": -123.08431290414072,
       "lat": 49.26106283037342
-    }
-  },
-  {
-    "project": "- Both sides of 100 Block E 35th Ave from Lane East of Main St to Lane East of Q",
-    "street": null,
-    "location": "- Both sides of 100 Block E 35th Ave from Lane East of Main St to Lane East of Q",
-    "comp_date": "2025-04-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/543278c0-163e-48ff-a0c2-023cc88e55b1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10345265906416,
-              49.239093911856685
-            ],
-            [
-              -123.10348216336337,
-              49.23864559626381
-            ]
-          ],
-          [
-            [
-              -123.10345817061622,
-              49.239092496914395
-            ],
-            [
-              -123.10220289679727,
-              49.2390732334369
-            ]
-          ],
-          [
-            [
-              -123.10284655339383,
-              49.23909202828983
-            ],
-            [
-              -123.10283314234876,
-              49.23943876960345
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10297157319489,
-      "lat": 49.23906706936177
     }
   },
   {
