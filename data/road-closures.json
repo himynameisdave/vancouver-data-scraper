@@ -1,61 +1,5 @@
 [
   {
-    "project": "Both Sides of 0 Block of E 27th Avenue From Lane East of Ontario Street to Quebe",
-    "street": null,
-    "location": "Both Sides of 0 Block of E 27th Avenue From Lane East of Ontario Street to Quebe",
-    "comp_date": "2025-04-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8036c6bc-46bf-47bc-8fbe-4bb07fbc6755",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10447206739885,
-            49.247308877090575
-          ],
-          [
-            -123.10327528077734,
-            49.247283663705446
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10387367408809,
-      "lat": 49.24729627039801
-    }
-  },
-  {
-    "project": "W 35th Av from Collingwood St to Blenheim St",
-    "street": null,
-    "location": "W 35th Av from Collingwood St to Blenheim St",
-    "comp_date": "2025-04-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/149e3f4e-a007-4a18-85a0-c356f172aee8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17867719493198,
-            49.240450332912474
-          ],
-          [
-            -123.1819771600937,
-            49.24046001509163
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18032717751284,
-      "lat": 49.24045517400205
-    }
-  },
-  {
     "project": "Chester St from E 33rd Av to E 35th Av",
     "street": null,
     "location": "Chester St from E 33rd Av to E 35th Av",
@@ -213,6 +157,34 @@
     "geo_point_2d": {
       "lon": -123.04705045340152,
       "lat": 49.25152309343091
+    }
+  },
+  {
+    "project": "Kaslo St - E 20th Av to E 22nd Av",
+    "street": null,
+    "location": "Kaslo St - E 20th Av to E 22nd Av",
+    "comp_date": "2025-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c75607cd-525f-4ec8-8ced-2d383412a7e9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04708153308958,
+            49.252365875415734
+          ],
+          [
+            -123.04708689750761,
+            49.25152200468477
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0470842152986,
+      "lat": 49.25194394005025
     }
   },
   {
@@ -487,6 +459,54 @@
     "geo_point_2d": {
       "lon": -123.15867417677032,
       "lat": 49.23041719344515
+    }
+  },
+  {
+    "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "street": null,
+    "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "comp_date": "2025-04-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f971f2e6-1668-489a-b1ae-e2830291d869",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07196108561533,
+              49.220345509441074
+            ],
+            [
+              -123.07196108561533,
+              49.2199881226847
+            ],
+            [
+              -123.07148901682869,
+              49.219977611270394
+            ]
+          ],
+          [
+            [
+              -123.07057706576363,
+              49.21993556559079
+            ],
+            [
+              -123.07024447184578,
+              49.21993556559079
+            ],
+            [
+              -123.06999234419838,
+              49.22004067972273
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0711735117154,
+      "lat": 49.220018708580646
     }
   },
   {
