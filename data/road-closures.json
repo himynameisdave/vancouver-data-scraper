@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 35th Av from Collingwood St to Blenheim St",
-    "street": null,
-    "location": "W 35th Av from Collingwood St to Blenheim St",
-    "comp_date": "2025-04-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/149e3f4e-a007-4a18-85a0-c356f172aee8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17867719493198,
-            49.240450332912474
-          ],
-          [
-            -123.1819771600937,
-            49.24046001509163
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18032717751284,
-      "lat": 49.24045517400205
-    }
-  },
-  {
     "project": "Both Sides of 0 Block of E 27th Avenue From Lane East of Ontario Street to Quebe",
     "street": null,
     "location": "Both Sides of 0 Block of E 27th Avenue From Lane East of Ontario Street to Quebe",
@@ -53,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.10387367408809,
       "lat": 49.24729627039801
+    }
+  },
+  {
+    "project": "W 35th Av from Collingwood St to Blenheim St",
+    "street": null,
+    "location": "W 35th Av from Collingwood St to Blenheim St",
+    "comp_date": "2025-04-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/149e3f4e-a007-4a18-85a0-c356f172aee8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17867719493198,
+            49.240450332912474
+          ],
+          [
+            -123.1819771600937,
+            49.24046001509163
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18032717751284,
+      "lat": 49.24045517400205
     }
   },
   {
