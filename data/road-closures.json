@@ -1,201 +1,5 @@
 [
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2025-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fa7ea78-19b6-46f9-81d0-d06adcd92193",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18585678274799,
-            49.2643642616583
-          ],
-          [
-            -123.18778659094133,
-            49.264394621461605
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18682168684467,
-      "lat": 49.26437944155995
-    }
-  },
-  {
-    "project": "Kitchener St from Kamloops St to Penticton St",
-    "street": null,
-    "location": "Kitchener St from Kamloops St to Penticton St",
-    "comp_date": "2025-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a52d8778-f051-4d4a-8eaf-dcd5efd5774e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05468419704395,
-              49.272296076956906
-            ],
-            [
-              -123.05412037511933,
-              49.2722950651025
-            ]
-          ],
-          [
-            [
-              -123.05412037511933,
-              49.2722950651025
-            ],
-            [
-              -123.05204716874805,
-              49.272292590399076
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05336568309501,
-      "lat": 49.272294200480786
-    }
-  },
-  {
-    "project": "Chester St from E 33rd Av to E 35th Av",
-    "street": null,
-    "location": "Chester St from E 33rd Av to E 35th Av",
-    "comp_date": "2025-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f2595062-b60a-4955-97c8-246b45e86ffa",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08913056984593,
-              49.24029668046683
-            ],
-            [
-              -123.08914130787902,
-              49.23989686965152
-            ]
-          ],
-          [
-            [
-              -123.08914130787902,
-              49.23989686965152
-            ],
-            [
-              -123.08919014048439,
-              49.23829136986683
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08915978618779,
-      "lat": 49.23929400887319
-    }
-  },
-  {
-    "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "street": null,
-    "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "comp_date": "2025-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08332465041154,
-              49.26244633294803
-            ],
-            [
-              -123.08335871234284,
-              49.259656558281364
-            ]
-          ],
-          [
-            [
-              -123.08526701182154,
-              49.26246350296378
-            ],
-            [
-              -123.08529404679435,
-              49.25969349203285
-            ]
-          ],
-          [
-            [
-              -123.08525349433506,
-              49.26151077789254
-            ],
-            [
-              -123.08337456372655,
-              49.26151077789254
-            ]
-          ],
-          [
-            [
-              -123.08525349433506,
-              49.26061978687653
-            ],
-            [
-              -123.08340159869931,
-              49.26058449977245
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08431290414072,
-      "lat": 49.26106283037342
-    }
-  },
-  {
-    "project": "Kaslo St - E 20th Av to E 22nd Av",
-    "street": null,
-    "location": "Kaslo St - E 20th Av to E 22nd Av",
-    "comp_date": "2025-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c75607cd-525f-4ec8-8ced-2d383412a7e9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04708153308958,
-            49.252365875415734
-          ],
-          [
-            -123.04708689750761,
-            49.25152200468477
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0470842152986,
-      "lat": 49.25194394005025
-    }
-  },
-  {
     "project": "Stanley Park seawall",
     "street": null,
     "location": "Stanley Park seawall",
@@ -518,6 +322,66 @@
     }
   },
   {
+    "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
+    "street": null,
+    "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
+    "comp_date": "2025-04-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08332465041154,
+              49.26244633294803
+            ],
+            [
+              -123.08335871234284,
+              49.259656558281364
+            ]
+          ],
+          [
+            [
+              -123.08526701182154,
+              49.26246350296378
+            ],
+            [
+              -123.08529404679435,
+              49.25969349203285
+            ]
+          ],
+          [
+            [
+              -123.08525349433506,
+              49.26151077789254
+            ],
+            [
+              -123.08337456372655,
+              49.26151077789254
+            ]
+          ],
+          [
+            [
+              -123.08525349433506,
+              49.26061978687653
+            ],
+            [
+              -123.08340159869931,
+              49.26058449977245
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08431290414072,
+      "lat": 49.26106283037342
+    }
+  },
+  {
     "project": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
     "street": null,
     "location": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
@@ -775,7 +639,7 @@
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
-    "comp_date": "2025-05-22",
+    "comp_date": "2025-05-27",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
     "geom": {
       "type": "Feature",
@@ -800,10 +664,98 @@
     }
   },
   {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
+    }
+  },
+  {
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
-    "comp_date": "2025-07-15",
+    "comp_date": "2025-07-22",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
     "geom": {
       "type": "Feature",
