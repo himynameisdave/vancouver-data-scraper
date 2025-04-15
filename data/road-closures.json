@@ -1,5 +1,179 @@
 [
   {
+    "project": "E 25th Av from Skeena St to Kootenay St",
+    "street": null,
+    "location": "E 25th Av from Skeena St to Kootenay St",
+    "comp_date": "2025-04-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2d429aac-2665-4b4d-bea8-f4a95b1cd9f7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02854368889427,
+            49.24788832845661
+          ],
+          [
+            -123.02625563053682,
+            49.24790734729751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02739965971554,
+      "lat": 49.24789783787706
+    }
+  },
+  {
+    "project": "Cheyenne Ave from Duchess St to Earles St",
+    "street": null,
+    "location": "Cheyenne Ave from Duchess St to Earles St",
+    "comp_date": "2025-04-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/564acf68-4641-48e9-93f0-31be5af26976",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04906306502376,
+              49.24160170205306
+            ],
+            [
+              -123.04669595533122,
+              49.240648782931146
+            ]
+          ],
+          [
+            [
+              -123.04957010991774,
+              49.24180526373698
+            ],
+            [
+              -123.04906306502376,
+              49.24160170205306
+            ]
+          ],
+          [
+            [
+              -123.04669595533122,
+              49.240648782931146
+            ],
+            [
+              -123.04614876171318,
+              49.24042842153011
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04785934205586,
+      "lat": 49.24111707581222
+    }
+  },
+  {
+    "project": "B/S of 0 blk of Expo blvd\r\nB/S of 100 blk of Keefer St",
+    "street": null,
+    "location": "B/S of 0 blk of Expo blvd\r\nB/S of 100 blk of Keefer St",
+    "comp_date": "2025-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0fde648f-6404-431c-b4db-ba68fd2539bb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10213730929615,
+              49.27763713918867
+            ],
+            [
+              -123.10337648986103,
+              49.2776161408911
+            ]
+          ],
+          [
+            [
+              -123.10049315580157,
+              49.279506075554025
+            ],
+            [
+              -123.10123880990773,
+              49.279516574301596
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10204654786934,
+      "lat": 49.2783346506649
+    }
+  },
+  {
+    "project": "W 8th Av from Trimble St to Sasamat St",
+    "street": null,
+    "location": "W 8th Av from Trimble St to Sasamat St",
+    "comp_date": "2025-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08c5435-4216-4258-bb25-d9331058b1f8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20599895354319,
+            49.26553320603392
+          ],
+          [
+            -123.20903793448421,
+            49.26558043281224
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.2075184440137,
+      "lat": 49.26555681942308
+    }
+  },
+  {
+    "project": "Stairs at end of Balaclava Street stairs access to beach",
+    "street": null,
+    "location": "Stairs at end of Balaclava Street stairs access to beach",
+    "comp_date": "2025-04-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e1d83105-ce99-4555-b79b-88961e1c00aa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17373883556935,
+            49.27183237724199
+          ],
+          [
+            -123.17373529327833,
+            49.27115980114348
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17373706442385,
+      "lat": 49.27149608919274
+    }
+  },
+  {
     "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
     "street": null,
     "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
@@ -57,6 +231,240 @@
     "geo_point_2d": {
       "lon": -123.08431290414072,
       "lat": 49.26106283037342
+    }
+  },
+  {
+    "project": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
+    "street": null,
+    "location": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
+    "comp_date": "2025-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/107202d8-073f-4c9d-b830-8a37c7978bc3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11553821039351,
+              49.24611170568954
+            ],
+            [
+              -123.11390458895147,
+              49.24608312505097
+            ]
+          ],
+          [
+            [
+              -123.11443538702764,
+              49.24654713778361
+            ],
+            [
+              -123.1144714607043,
+              49.24566061927186
+            ]
+          ],
+          [
+            [
+              -123.11443039969944,
+              49.24654640171448
+            ],
+            [
+              -123.11232524390869,
+              49.24650437175282
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11405855850407,
+      "lat": 49.246293421293366
+    }
+  },
+  {
+    "project": "E 50th Av from Commercial St to Victoria Dr",
+    "street": null,
+    "location": "E 50th Av from Commercial St to Victoria Dr",
+    "comp_date": "2025-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/983cb7c9-a656-4bf2-97b6-9f96e5cf8700",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06903482773164,
+              49.224296753465154
+            ],
+            [
+              -123.06644306713136,
+              49.22427414796988
+            ]
+          ],
+          [
+            [
+              -123.06644306713136,
+              49.22427414796988
+            ],
+            [
+              -123.06576140065843,
+              49.22426838527883
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06739811481664,
+      "lat": 49.22428249699259
+    }
+  },
+  {
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "street": null,
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-04-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11780266271342,
+            49.2466217123158
+          ],
+          [
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
+    }
+  },
+  {
+    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "street": null,
+    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "comp_date": "2025-04-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14369929572406,
+            49.254777026300275
+          ],
+          [
+            -123.14360766756509,
+            49.25498458573563
+          ],
+          [
+            -123.14346753038076,
+            49.25513937525483
+          ],
+          [
+            -123.14321959536235,
+            49.25531175392081
+          ],
+          [
+            -123.14283152315961,
+            49.25545598866859
+          ],
+          [
+            -123.14220629572186,
+            49.25572334952531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14302604511185,
+      "lat": 49.25533516575979
+    }
+  },
+  {
+    "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
+    "street": null,
+    "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
+    "comp_date": "2025-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03898276345957,
+              49.222039806083416
+            ],
+            [
+              -123.03906735582953,
+              49.220154372028816
+            ]
+          ],
+          [
+            [
+              -123.04118216507868,
+              49.222074337171904
+            ],
+            [
+              -123.03675163970172,
+              49.22204671230307
+            ]
+          ],
+          [
+            [
+              -123.04126675744865,
+              49.22117652103009
+            ],
+            [
+              -123.03903563369079,
+              49.22114889565938
+            ]
+          ],
+          [
+            [
+              -123.03897218941333,
+              49.22128702235855
+            ],
+            [
+              -123.0368150839792,
+              49.221273209706
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03900772610135,
+      "lat": 49.22154633882592
     }
   },
   {
@@ -120,53 +528,41 @@
     }
   },
   {
-    "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
+    "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
     "street": null,
-    "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 52nd Av - Kerr St to Doman St\r\nE 53rd Av",
+    "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
     "comp_date": "2025-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f971f2e6-1668-489a-b1ae-e2830291d869",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.03898276345957,
-              49.222039806083416
+              -123.07196108561533,
+              49.220345509441074
             ],
             [
-              -123.03906735582953,
-              49.220154372028816
+              -123.07196108561533,
+              49.2199881226847
+            ],
+            [
+              -123.07148901682869,
+              49.219977611270394
             ]
           ],
           [
             [
-              -123.04118216507868,
-              49.222074337171904
+              -123.07057706576363,
+              49.21993556559079
             ],
             [
-              -123.03675163970172,
-              49.22204671230307
-            ]
-          ],
-          [
-            [
-              -123.04126675744865,
-              49.22117652103009
+              -123.07024447184578,
+              49.21993556559079
             ],
             [
-              -123.03903563369079,
-              49.22114889565938
-            ]
-          ],
-          [
-            [
-              -123.03897218941333,
-              49.22128702235855
-            ],
-            [
-              -123.0368150839792,
-              49.221273209706
+              -123.06999234419838,
+              49.22004067972273
             ]
           ]
         ],
@@ -175,8 +571,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03900772610135,
-      "lat": 49.22154633882592
+      "lon": -123.0711735117154,
+      "lat": 49.220018708580646
     }
   },
   {
