@@ -146,6 +146,46 @@
     }
   },
   {
+    "project": "Kaslo St from E Pender St to Turner St",
+    "street": null,
+    "location": "Kaslo St from E Pender St to Turner St",
+    "comp_date": "2025-04-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6cfec935-2d2b-43f5-857a-83ac864b8882",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04670562205827,
+              49.28021350470013
+            ],
+            [
+              -123.04670619417426,
+              49.27962546265698
+            ]
+          ],
+          [
+            [
+              -123.04670619417426,
+              49.27962546265698
+            ],
+            [
+              -123.04670645177471,
+              49.27908291830107
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04670610719785,
+      "lat": 49.27964821155147
+    }
+  },
+  {
     "project": "Stairs at end of Balaclava Street stairs access to beach",
     "street": null,
     "location": "Stairs at end of Balaclava Street stairs access to beach",
@@ -364,50 +404,6 @@
     }
   },
   {
-    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
-    "street": null,
-    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
-    "comp_date": "2025-04-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14369929572406,
-            49.254777026300275
-          ],
-          [
-            -123.14360766756509,
-            49.25498458573563
-          ],
-          [
-            -123.14346753038076,
-            49.25513937525483
-          ],
-          [
-            -123.14321959536235,
-            49.25531175392081
-          ],
-          [
-            -123.14283152315961,
-            49.25545598866859
-          ],
-          [
-            -123.14220629572186,
-            49.25572334952531
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14302604511185,
-      "lat": 49.25533516575979
-    }
-  },
-  {
     "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
     "street": null,
     "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
@@ -573,6 +569,50 @@
     "geo_point_2d": {
       "lon": -123.0711735117154,
       "lat": 49.220018708580646
+    }
+  },
+  {
+    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "street": null,
+    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14369929572406,
+            49.254777026300275
+          ],
+          [
+            -123.14360766756509,
+            49.25498458573563
+          ],
+          [
+            -123.14346753038076,
+            49.25513937525483
+          ],
+          [
+            -123.14321959536235,
+            49.25531175392081
+          ],
+          [
+            -123.14283152315961,
+            49.25545598866859
+          ],
+          [
+            -123.14220629572186,
+            49.25572334952531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14302604511185,
+      "lat": 49.25533516575979
     }
   },
   {
