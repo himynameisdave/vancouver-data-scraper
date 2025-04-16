@@ -1,33 +1,5 @@
 [
   {
-    "project": "E 25th Av from Skeena St to Kootenay St",
-    "street": null,
-    "location": "E 25th Av from Skeena St to Kootenay St",
-    "comp_date": "2025-04-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2d429aac-2665-4b4d-bea8-f4a95b1cd9f7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02854368889427,
-            49.24788832845661
-          ],
-          [
-            -123.02625563053682,
-            49.24790734729751
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02739965971554,
-      "lat": 49.24789783787706
-    }
-  },
-  {
     "project": "Cheyenne Ave from Duchess St to Earles St",
     "street": null,
     "location": "Cheyenne Ave from Duchess St to Earles St",
@@ -75,6 +47,34 @@
     "geo_point_2d": {
       "lon": -123.04785934205586,
       "lat": 49.24111707581222
+    }
+  },
+  {
+    "project": "E 25th Av from Skeena St to Kootenay St",
+    "street": null,
+    "location": "E 25th Av from Skeena St to Kootenay St",
+    "comp_date": "2025-04-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2d429aac-2665-4b4d-bea8-f4a95b1cd9f7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02854368889427,
+            49.24788832845661
+          ],
+          [
+            -123.02625563053682,
+            49.24790734729751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02739965971554,
+      "lat": 49.24789783787706
     }
   },
   {
