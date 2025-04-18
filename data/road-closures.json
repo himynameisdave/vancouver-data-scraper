@@ -1,113 +1,5 @@
 [
   {
-    "project": "B/S of 0 blk of Expo blvd\r\nB/S of 100 blk of Keefer St",
-    "street": null,
-    "location": "B/S of 0 blk of Expo blvd\r\nB/S of 100 blk of Keefer St",
-    "comp_date": "2025-04-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0fde648f-6404-431c-b4db-ba68fd2539bb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10213730929615,
-              49.27763713918867
-            ],
-            [
-              -123.10337648986103,
-              49.2776161408911
-            ]
-          ],
-          [
-            [
-              -123.10049315580157,
-              49.279506075554025
-            ],
-            [
-              -123.10123880990773,
-              49.279516574301596
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10204654786934,
-      "lat": 49.2783346506649
-    }
-  },
-  {
-    "project": "W 8th Av from Trimble St to Sasamat St",
-    "street": null,
-    "location": "W 8th Av from Trimble St to Sasamat St",
-    "comp_date": "2025-04-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f08c5435-4216-4258-bb25-d9331058b1f8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.20599895354319,
-            49.26553320603392
-          ],
-          [
-            -123.20903793448421,
-            49.26558043281224
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.2075184440137,
-      "lat": 49.26555681942308
-    }
-  },
-  {
-    "project": "Kaslo St from E Pender St to Turner St",
-    "street": null,
-    "location": "Kaslo St from E Pender St to Turner St",
-    "comp_date": "2025-04-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6cfec935-2d2b-43f5-857a-83ac864b8882",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04670562205827,
-              49.28021350470013
-            ],
-            [
-              -123.04670619417426,
-              49.27962546265698
-            ]
-          ],
-          [
-            [
-              -123.04670619417426,
-              49.27962546265698
-            ],
-            [
-              -123.04670645177471,
-              49.27908291830107
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04670610719785,
-      "lat": 49.27964821155147
-    }
-  },
-  {
     "project": "Stairs at end of Balaclava Street stairs access to beach",
     "street": null,
     "location": "Stairs at end of Balaclava Street stairs access to beach",
@@ -136,10 +28,88 @@
     }
   },
   {
+    "project": "Graveley St from Renfrew St to Nootka St",
+    "street": null,
+    "location": "Graveley St from Renfrew St to Nootka St",
+    "comp_date": "2025-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fcfdd372-a76c-4a27-a04f-9704a947ca3b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04419984704187,
+            49.270422699932084
+          ],
+          [
+            -123.04146696516914,
+            49.27041494271808
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04283340610552,
+      "lat": 49.27041882132508
+    }
+  },
+  {
+    "project": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
+    "street": null,
+    "location": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
+    "comp_date": "2025-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/107202d8-073f-4c9d-b830-8a37c7978bc3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11553821039351,
+              49.24611170568954
+            ],
+            [
+              -123.11390458895147,
+              49.24608312505097
+            ]
+          ],
+          [
+            [
+              -123.11443538702764,
+              49.24654713778361
+            ],
+            [
+              -123.1144714607043,
+              49.24566061927186
+            ]
+          ],
+          [
+            [
+              -123.11443039969944,
+              49.24654640171448
+            ],
+            [
+              -123.11232524390869,
+              49.24650437175282
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11405855850407,
+      "lat": 49.246293421293366
+    }
+  },
+  {
     "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
     "street": null,
     "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "comp_date": "2025-04-21",
+    "comp_date": "2025-04-22",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
     "geom": {
       "type": "Feature",
@@ -196,56 +166,6 @@
     }
   },
   {
-    "project": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
-    "street": null,
-    "location": "- Both sides of 400 Block W 28 Ave from Cambie St to 30 meters east of the Lane",
-    "comp_date": "2025-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/107202d8-073f-4c9d-b830-8a37c7978bc3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11553821039351,
-              49.24611170568954
-            ],
-            [
-              -123.11390458895147,
-              49.24608312505097
-            ]
-          ],
-          [
-            [
-              -123.11443538702764,
-              49.24654713778361
-            ],
-            [
-              -123.1144714607043,
-              49.24566061927186
-            ]
-          ],
-          [
-            [
-              -123.11443039969944,
-              49.24654640171448
-            ],
-            [
-              -123.11232524390869,
-              49.24650437175282
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11405855850407,
-      "lat": 49.246293421293366
-    }
-  },
-  {
     "project": "E 50th Av from Commercial St to Victoria Dr",
     "street": null,
     "location": "E 50th Av from Commercial St to Victoria Dr",
@@ -286,93 +206,33 @@
     }
   },
   {
-    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "project": "Kaslo St from E Pender St to Turner St",
     "street": null,
-    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "comp_date": "2025-04-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11780266271342,
-            49.2466217123158
-          ],
-          [
-            -123.11661149664668,
-            49.246597082493764
-          ],
-          [
-            -123.11662227643009,
-            49.24584762632085
-          ],
-          [
-            -123.11661688653838,
-            49.24613615070126
-          ],
-          [
-            -123.11762479628717,
-            49.2461572621751
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11699123050276,
-      "lat": 49.246320685102106
-    }
-  },
-  {
-    "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
-    "street": null,
-    "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
-    "comp_date": "2025-04-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
+    "location": "Kaslo St from E Pender St to Turner St",
+    "comp_date": "2025-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6cfec935-2d2b-43f5-857a-83ac864b8882",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.03898276345957,
-              49.222039806083416
+              -123.04670562205827,
+              49.28021350470013
             ],
             [
-              -123.03906735582953,
-              49.220154372028816
+              -123.04670619417426,
+              49.27962546265698
             ]
           ],
           [
             [
-              -123.04118216507868,
-              49.222074337171904
+              -123.04670619417426,
+              49.27962546265698
             ],
             [
-              -123.03675163970172,
-              49.22204671230307
-            ]
-          ],
-          [
-            [
-              -123.04126675744865,
-              49.22117652103009
-            ],
-            [
-              -123.03903563369079,
-              49.22114889565938
-            ]
-          ],
-          [
-            [
-              -123.03897218941333,
-              49.22128702235855
-            ],
-            [
-              -123.0368150839792,
-              49.221273209706
+              -123.04670645177471,
+              49.27908291830107
             ]
           ]
         ],
@@ -381,8 +241,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03900772610135,
-      "lat": 49.22154633882592
+      "lon": -123.04670610719785,
+      "lat": 49.27964821155147
     }
   },
   {
@@ -446,6 +306,66 @@
     }
   },
   {
+    "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
+    "street": null,
+    "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
+    "comp_date": "2025-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03898276345957,
+              49.222039806083416
+            ],
+            [
+              -123.03906735582953,
+              49.220154372028816
+            ]
+          ],
+          [
+            [
+              -123.04118216507868,
+              49.222074337171904
+            ],
+            [
+              -123.03675163970172,
+              49.22204671230307
+            ]
+          ],
+          [
+            [
+              -123.04126675744865,
+              49.22117652103009
+            ],
+            [
+              -123.03903563369079,
+              49.22114889565938
+            ]
+          ],
+          [
+            [
+              -123.03897218941333,
+              49.22128702235855
+            ],
+            [
+              -123.0368150839792,
+              49.221273209706
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03900772610135,
+      "lat": 49.22154633882592
+    }
+  },
+  {
     "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
     "street": null,
     "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
@@ -491,6 +411,46 @@
     "geo_point_2d": {
       "lon": -123.0711735117154,
       "lat": 49.220018708580646
+    }
+  },
+  {
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "street": null,
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11780266271342,
+            49.2466217123158
+          ],
+          [
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
     }
   },
   {
