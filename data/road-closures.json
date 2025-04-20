@@ -28,31 +28,63 @@
     }
   },
   {
-    "project": "Graveley St from Renfrew St to Nootka St",
+    "project": "N/S & S/S of 800-900 Canada Place \r\nE/S & W/S of 200 Howe St.",
     "street": null,
-    "location": "Graveley St from Renfrew St to Nootka St",
-    "comp_date": "2025-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fcfdd372-a76c-4a27-a04f-9704a947ca3b",
+    "location": "N/S & S/S of 800-900 Canada Place \r\nE/S & W/S of 200 Howe St.",
+    "comp_date": "2025-04-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a443ea8b-214d-43f5-99d5-d1998101958b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.04419984704187,
-            49.270422699932084
+            [
+              -123.11525014474933,
+              49.288294537449644
+            ],
+            [
+              -123.11279729486606,
+              49.28755040189333
+            ]
           ],
           [
-            -123.04146696516914,
-            49.27041494271808
+            [
+              -123.1154669082274,
+              49.28800432591862
+            ],
+            [
+              -123.11316237019751,
+              49.287334600481216
+            ]
+          ],
+          [
+            [
+              -123.11382406923578,
+              49.286724398273435
+            ],
+            [
+              -123.11339054227967,
+              49.28709647368888
+            ]
+          ],
+          [
+            [
+              -123.11272884324138,
+              49.28727506889095
+            ],
+            [
+              -123.11369857459061,
+              49.28650115167642
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.04283340610552,
-      "lat": 49.27041882132508
+      "lon": -123.11394332219427,
+      "lat": 49.287558094225176
     }
   },
   {
@@ -206,6 +238,34 @@
     }
   },
   {
+    "project": "Graveley St from Renfrew St to Nootka St",
+    "street": null,
+    "location": "Graveley St from Renfrew St to Nootka St",
+    "comp_date": "2025-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fcfdd372-a76c-4a27-a04f-9704a947ca3b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04419984704187,
+            49.270422699932084
+          ],
+          [
+            -123.04146696516914,
+            49.27041494271808
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04283340610552,
+      "lat": 49.27041882132508
+    }
+  },
+  {
     "project": "Kaslo St from E Pender St to Turner St",
     "street": null,
     "location": "Kaslo St from E Pender St to Turner St",
@@ -306,6 +366,54 @@
     }
   },
   {
+    "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "street": null,
+    "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "comp_date": "2025-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f971f2e6-1668-489a-b1ae-e2830291d869",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07196108561533,
+              49.220345509441074
+            ],
+            [
+              -123.07196108561533,
+              49.2199881226847
+            ],
+            [
+              -123.07148901682869,
+              49.219977611270394
+            ]
+          ],
+          [
+            [
+              -123.07057706576363,
+              49.21993556559079
+            ],
+            [
+              -123.07024447184578,
+              49.21993556559079
+            ],
+            [
+              -123.06999234419838,
+              49.22004067972273
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0711735117154,
+      "lat": 49.220018708580646
+    }
+  },
+  {
     "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
     "street": null,
     "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
@@ -366,94 +474,6 @@
     }
   },
   {
-    "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
-    "street": null,
-    "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
-    "comp_date": "2025-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f971f2e6-1668-489a-b1ae-e2830291d869",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07196108561533,
-              49.220345509441074
-            ],
-            [
-              -123.07196108561533,
-              49.2199881226847
-            ],
-            [
-              -123.07148901682869,
-              49.219977611270394
-            ]
-          ],
-          [
-            [
-              -123.07057706576363,
-              49.21993556559079
-            ],
-            [
-              -123.07024447184578,
-              49.21993556559079
-            ],
-            [
-              -123.06999234419838,
-              49.22004067972273
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0711735117154,
-      "lat": 49.220018708580646
-    }
-  },
-  {
-    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "street": null,
-    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "comp_date": "2025-05-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11780266271342,
-            49.2466217123158
-          ],
-          [
-            -123.11661149664668,
-            49.246597082493764
-          ],
-          [
-            -123.11662227643009,
-            49.24584762632085
-          ],
-          [
-            -123.11661688653838,
-            49.24613615070126
-          ],
-          [
-            -123.11762479628717,
-            49.2461572621751
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11699123050276,
-      "lat": 49.246320685102106
-    }
-  },
-  {
     "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
     "street": null,
     "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
@@ -498,6 +518,46 @@
     }
   },
   {
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "street": null,
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11780266271342,
+            49.2466217123158
+          ],
+          [
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
+    }
+  },
+  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -523,6 +583,94 @@
     "geo_point_2d": {
       "lon": -123.14318513635435,
       "lat": 49.26842864151578
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
