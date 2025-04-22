@@ -1,65 +1,5 @@
 [
   {
-    "project": "N/S & S/S of 800-900 Canada Place \r\nE/S & W/S of 200 Howe St.",
-    "street": null,
-    "location": "N/S & S/S of 800-900 Canada Place \r\nE/S & W/S of 200 Howe St.",
-    "comp_date": "2025-04-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a443ea8b-214d-43f5-99d5-d1998101958b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11525014474933,
-              49.288294537449644
-            ],
-            [
-              -123.11279729486606,
-              49.28755040189333
-            ]
-          ],
-          [
-            [
-              -123.1154669082274,
-              49.28800432591862
-            ],
-            [
-              -123.11316237019751,
-              49.287334600481216
-            ]
-          ],
-          [
-            [
-              -123.11382406923578,
-              49.286724398273435
-            ],
-            [
-              -123.11339054227967,
-              49.28709647368888
-            ]
-          ],
-          [
-            [
-              -123.11272884324138,
-              49.28727506889095
-            ],
-            [
-              -123.11369857459061,
-              49.28650115167642
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11394332219427,
-      "lat": 49.287558094225176
-    }
-  },
-  {
     "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
     "street": null,
     "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
@@ -117,6 +57,114 @@
     "geo_point_2d": {
       "lon": -123.08431290414072,
       "lat": 49.26106283037342
+    }
+  },
+  {
+    "project": "E 50th Av from Commercial St to Victoria Dr",
+    "street": null,
+    "location": "E 50th Av from Commercial St to Victoria Dr",
+    "comp_date": "2025-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/983cb7c9-a656-4bf2-97b6-9f96e5cf8700",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06903482773164,
+              49.224296753465154
+            ],
+            [
+              -123.06644306713136,
+              49.22427414796988
+            ]
+          ],
+          [
+            [
+              -123.06644306713136,
+              49.22427414796988
+            ],
+            [
+              -123.06576140065843,
+              49.22426838527883
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06739811481664,
+      "lat": 49.22428249699259
+    }
+  },
+  {
+    "project": "Graveley St from Renfrew St to Nootka St",
+    "street": null,
+    "location": "Graveley St from Renfrew St to Nootka St",
+    "comp_date": "2025-04-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fcfdd372-a76c-4a27-a04f-9704a947ca3b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04419984704187,
+            49.270422699932084
+          ],
+          [
+            -123.04146696516914,
+            49.27041494271808
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04283340610552,
+      "lat": 49.27041882132508
+    }
+  },
+  {
+    "project": "Kaslo St from E Pender St to Turner St",
+    "street": null,
+    "location": "Kaslo St from E Pender St to Turner St",
+    "comp_date": "2025-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6cfec935-2d2b-43f5-857a-83ac864b8882",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04670562205827,
+              49.28021350470013
+            ],
+            [
+              -123.04670619417426,
+              49.27962546265698
+            ]
+          ],
+          [
+            [
+              -123.04670619417426,
+              49.27962546265698
+            ],
+            [
+              -123.04670645177471,
+              49.27908291830107
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04670610719785,
+      "lat": 49.27964821155147
     }
   },
   {
@@ -180,6 +228,54 @@
     }
   },
   {
+    "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "street": null,
+    "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "comp_date": "2025-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f971f2e6-1668-489a-b1ae-e2830291d869",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07196108561533,
+              49.220345509441074
+            ],
+            [
+              -123.07196108561533,
+              49.2199881226847
+            ],
+            [
+              -123.07148901682869,
+              49.219977611270394
+            ]
+          ],
+          [
+            [
+              -123.07057706576363,
+              49.21993556559079
+            ],
+            [
+              -123.07024447184578,
+              49.21993556559079
+            ],
+            [
+              -123.06999234419838,
+              49.22004067972273
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0711735117154,
+      "lat": 49.220018708580646
+    }
+  },
+  {
     "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
     "street": null,
     "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
@@ -237,6 +333,90 @@
     "geo_point_2d": {
       "lon": -123.03900772610135,
       "lat": 49.22154633882592
+    }
+  },
+  {
+    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "street": null,
+    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14369929572406,
+            49.254777026300275
+          ],
+          [
+            -123.14360766756509,
+            49.25498458573563
+          ],
+          [
+            -123.14346753038076,
+            49.25513937525483
+          ],
+          [
+            -123.14321959536235,
+            49.25531175392081
+          ],
+          [
+            -123.14283152315961,
+            49.25545598866859
+          ],
+          [
+            -123.14220629572186,
+            49.25572334952531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14302604511185,
+      "lat": 49.25533516575979
+    }
+  },
+  {
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "street": null,
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11780266271342,
+            49.2466217123158
+          ],
+          [
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
     }
   },
   {
