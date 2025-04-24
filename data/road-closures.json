@@ -1,105 +1,5 @@
 [
   {
-    "project": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "street": null,
-    "location": "Windsor St - E Broadway to E 12th Av\r\nSt Catherines St - E Broadway to E 12th Av",
-    "comp_date": "2025-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b6edbba-34ac-4ca6-9726-a846e6d8a404",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08332465041154,
-              49.26244633294803
-            ],
-            [
-              -123.08335871234284,
-              49.259656558281364
-            ]
-          ],
-          [
-            [
-              -123.08526701182154,
-              49.26246350296378
-            ],
-            [
-              -123.08529404679435,
-              49.25969349203285
-            ]
-          ],
-          [
-            [
-              -123.08525349433506,
-              49.26151077789254
-            ],
-            [
-              -123.08337456372655,
-              49.26151077789254
-            ]
-          ],
-          [
-            [
-              -123.08525349433506,
-              49.26061978687653
-            ],
-            [
-              -123.08340159869931,
-              49.26058449977245
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08431290414072,
-      "lat": 49.26106283037342
-    }
-  },
-  {
-    "project": "1200 block of S.E. Kent Av",
-    "street": null,
-    "location": "1200 block of S.E. Kent Av",
-    "comp_date": "2025-04-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9a305dda-d168-4db6-8c76-65f8310226fe",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08172703889045,
-              49.20871002453984
-            ],
-            [
-              -123.08082810747601,
-              49.20878632546777
-            ]
-          ],
-          [
-            [
-              -123.0841152130149,
-              49.20850800295389
-            ],
-            [
-              -123.08172703889045,
-              49.20871002453984
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08247165235781,
-      "lat": 49.20864707112573
-    }
-  },
-  {
     "project": "Kaslo St from E Pender St to Turner St",
     "street": null,
     "location": "Kaslo St from E Pender St to Turner St",
@@ -165,6 +65,102 @@
     "geo_point_2d": {
       "lon": -123.03129938654186,
       "lat": 49.233620453543864
+    }
+  },
+  {
+    "project": "W 3rd Av from Jericho Circle to Discovery St",
+    "street": null,
+    "location": "W 3rd Av from Jericho Circle to Discovery St",
+    "comp_date": "2025-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f384332-b8bf-488e-a80c-0651ca59cb3e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20279111317024,
+            49.27011283476236
+          ],
+          [
+            -123.20399587631142,
+            49.27013230249503
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.20339349474082,
+      "lat": 49.27012256862869
+    }
+  },
+  {
+    "project": "Euclid Av from Spencer St to Taunton St",
+    "street": null,
+    "location": "Euclid Av from Spencer St to Taunton St",
+    "comp_date": "2025-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a5795c2-ff2d-407d-9dc7-b4cacba329b6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0383205775574,
+            49.23833154205926
+          ],
+          [
+            -123.03716213602111,
+            49.237867963824385
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03774135678925,
+      "lat": 49.23809975294182
+    }
+  },
+  {
+    "project": "Kitchener St from Kaslo St to Renfrew St",
+    "street": null,
+    "location": "Kitchener St from Kaslo St to Renfrew St",
+    "comp_date": "2025-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/249b4988-b1db-42fe-93f4-a3af45298d91",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04690006950527,
+              49.272288110815
+            ],
+            [
+              -123.04492420717118,
+              49.27228633229214
+            ]
+          ],
+          [
+            [
+              -123.04492420717118,
+              49.27228633229214
+            ],
+            [
+              -123.04417053974407,
+              49.272286056162045
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04553530471686,
+      "lat": 49.27228693789214
     }
   },
   {
