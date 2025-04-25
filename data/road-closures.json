@@ -1,129 +1,5 @@
 [
   {
-    "project": "Kaslo St from E Pender St to Turner St",
-    "street": null,
-    "location": "Kaslo St from E Pender St to Turner St",
-    "comp_date": "2025-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6cfec935-2d2b-43f5-857a-83ac864b8882",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04670562205827,
-              49.28021350470013
-            ],
-            [
-              -123.04670619417426,
-              49.27962546265698
-            ]
-          ],
-          [
-            [
-              -123.04670619417426,
-              49.27962546265698
-            ],
-            [
-              -123.04670645177471,
-              49.27908291830107
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04670610719785,
-      "lat": 49.27964821155147
-    }
-  },
-  {
-    "project": "Stamford St from Cherry St to Church St",
-    "street": null,
-    "location": "Stamford St from Cherry St to Church St",
-    "comp_date": "2025-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/51ec12b8-1485-49b9-9586-13f5cef2edab",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03097419542276,
-            49.233949704864386
-          ],
-          [
-            -123.03162457766096,
-            49.23329120222334
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03129938654186,
-      "lat": 49.233620453543864
-    }
-  },
-  {
-    "project": "W 3rd Av from Jericho Circle to Discovery St",
-    "street": null,
-    "location": "W 3rd Av from Jericho Circle to Discovery St",
-    "comp_date": "2025-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f384332-b8bf-488e-a80c-0651ca59cb3e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.20279111317024,
-            49.27011283476236
-          ],
-          [
-            -123.20399587631142,
-            49.27013230249503
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.20339349474082,
-      "lat": 49.27012256862869
-    }
-  },
-  {
-    "project": "Euclid Av from Spencer St to Taunton St",
-    "street": null,
-    "location": "Euclid Av from Spencer St to Taunton St",
-    "comp_date": "2025-04-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a5795c2-ff2d-407d-9dc7-b4cacba329b6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0383205775574,
-            49.23833154205926
-          ],
-          [
-            -123.03716213602111,
-            49.237867963824385
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03774135678925,
-      "lat": 49.23809975294182
-    }
-  },
-  {
     "project": "Kitchener St from Kaslo St to Renfrew St",
     "street": null,
     "location": "Kitchener St from Kaslo St to Renfrew St",
@@ -161,6 +37,34 @@
     "geo_point_2d": {
       "lon": -123.04553530471686,
       "lat": 49.27228693789214
+    }
+  },
+  {
+    "project": "Euclid Av from Spencer St to Taunton St",
+    "street": null,
+    "location": "Euclid Av from Spencer St to Taunton St",
+    "comp_date": "2025-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a5795c2-ff2d-407d-9dc7-b4cacba329b6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0383205775574,
+            49.23833154205926
+          ],
+          [
+            -123.03716213602111,
+            49.237867963824385
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03774135678925,
+      "lat": 49.23809975294182
     }
   },
   {
@@ -224,54 +128,6 @@
     }
   },
   {
-    "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
-    "street": null,
-    "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
-    "comp_date": "2025-05-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f971f2e6-1668-489a-b1ae-e2830291d869",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07196108561533,
-              49.220345509441074
-            ],
-            [
-              -123.07196108561533,
-              49.2199881226847
-            ],
-            [
-              -123.07148901682869,
-              49.219977611270394
-            ]
-          ],
-          [
-            [
-              -123.07057706576363,
-              49.21993556559079
-            ],
-            [
-              -123.07024447184578,
-              49.21993556559079
-            ],
-            [
-              -123.06999234419838,
-              49.22004067972273
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0711735117154,
-      "lat": 49.220018708580646
-    }
-  },
-  {
     "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
     "street": null,
     "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
@@ -329,6 +185,54 @@
     "geo_point_2d": {
       "lon": -123.03900772610135,
       "lat": 49.22154633882592
+    }
+  },
+  {
+    "project": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "street": null,
+    "location": "East side of the 6900 Block Argyle St from E 55th Ave to 20m North of E 55th Ave",
+    "comp_date": "2025-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f971f2e6-1668-489a-b1ae-e2830291d869",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07196108561533,
+              49.220345509441074
+            ],
+            [
+              -123.07196108561533,
+              49.2199881226847
+            ],
+            [
+              -123.07148901682869,
+              49.219977611270394
+            ]
+          ],
+          [
+            [
+              -123.07057706576363,
+              49.21993556559079
+            ],
+            [
+              -123.07024447184578,
+              49.21993556559079
+            ],
+            [
+              -123.06999234419838,
+              49.22004067972273
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0711735117154,
+      "lat": 49.220018708580646
     }
   },
   {
