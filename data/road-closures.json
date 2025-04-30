@@ -340,6 +340,46 @@
     }
   },
   {
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "street": null,
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11780266271342,
+            49.2466217123158
+          ],
+          [
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
+    }
+  },
+  {
     "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
     "street": null,
     "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
@@ -381,46 +421,6 @@
     "geo_point_2d": {
       "lon": -123.14302604511185,
       "lat": 49.25533516575979
-    }
-  },
-  {
-    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "street": null,
-    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "comp_date": "2025-05-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11780266271342,
-            49.2466217123158
-          ],
-          [
-            -123.11661149664668,
-            49.246597082493764
-          ],
-          [
-            -123.11662227643009,
-            49.24584762632085
-          ],
-          [
-            -123.11661688653838,
-            49.24613615070126
-          ],
-          [
-            -123.11762479628717,
-            49.2461572621751
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11699123050276,
-      "lat": 49.246320685102106
     }
   },
   {
