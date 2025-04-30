@@ -1,5 +1,45 @@
 [
   {
+    "project": "Laneway East 3600 block of Galiano Rd from Galiano Rd to Blenheim St",
+    "street": null,
+    "location": "Laneway East 3600 block of Galiano Rd from Galiano Rd to Blenheim St",
+    "comp_date": "2025-04-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0c0e63e3-eab1-48dd-b0ec-be3c0e7dca13",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17847609055711,
+            49.256684000107185
+          ],
+          [
+            -123.17665075925687,
+            49.25531374773823
+          ],
+          [
+            -123.17644686500607,
+            49.25505175860053
+          ],
+          [
+            -123.17619444231947,
+            49.254710595187646
+          ],
+          [
+            -123.17603417274557,
+            49.25451110953847
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.177188556181,
+      "lat": 49.255664861973315
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -57,6 +97,154 @@
     "geo_point_2d": {
       "lon": -123.12560309598337,
       "lat": 49.27884436889673
+    }
+  },
+  {
+    "project": "E Georgia St from Lillooet St to Windermere St",
+    "street": null,
+    "location": "E Georgia St from Lillooet St to Windermere St",
+    "comp_date": "2025-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b19663e6-eac3-418c-b9a6-63a4a593fd0b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03883320339467,
+            49.27826163110751
+          ],
+          [
+            -123.03620652742003,
+            49.278258382205024
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03751986540736,
+      "lat": 49.278260006656275
+    }
+  },
+  {
+    "project": "Galiano Rd from Puget Dr to Quesnel Dr",
+    "street": null,
+    "location": "Galiano Rd from Puget Dr to Quesnel Dr",
+    "comp_date": "2025-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e78b0c8-1b88-4388-a113-c4c4e307dca0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17670597809213,
+              49.25473304861066
+            ],
+            [
+              -123.17670007461258,
+              49.254730781848
+            ],
+            [
+              -123.17668635545023,
+              49.254725675551754
+            ],
+            [
+              -123.17667258161127,
+              49.2547206502945
+            ],
+            [
+              -123.17665908351566,
+              49.254715876480276
+            ],
+            [
+              -123.17664564045515,
+              49.25471112057073
+            ],
+            [
+              -123.17663153748845,
+              49.25470628471149
+            ],
+            [
+              -123.17661349992498,
+              49.25470023151482
+            ],
+            [
+              -123.1766054236005,
+              49.25469751830761
+            ],
+            [
+              -123.17603417274557,
+              49.25451110953847
+            ]
+          ],
+          [
+            [
+              -123.17603417274557,
+              49.25451110953847
+            ],
+            [
+              -123.17562361388022,
+              49.2543717146944
+            ],
+            [
+              -123.17556470007557,
+              49.25434802086062
+            ],
+            [
+              -123.17550641606637,
+              49.254323651398124
+            ],
+            [
+              -123.17544878940174,
+              49.254298624256506
+            ],
+            [
+              -123.17539184759883,
+              49.25427294839031
+            ],
+            [
+              -123.17533560436884,
+              49.254246614784364
+            ],
+            [
+              -123.1752800598085,
+              49.254219650425256
+            ],
+            [
+              -123.17522524140266,
+              49.254192055272284
+            ],
+            [
+              -123.17517117666793,
+              49.25416383828002
+            ],
+            [
+              -123.17511786563686,
+              49.25413500844468
+            ],
+            [
+              -123.17506533579395,
+              49.25410556572561
+            ],
+            [
+              -123.17501360097707,
+              49.254075537088625
+            ],
+            [
+              -123.17496295033874,
+              49.25404508401087
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17582063667142,
+      "lat": 49.25442123971231
     }
   },
   {
@@ -340,46 +528,6 @@
     }
   },
   {
-    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "street": null,
-    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "comp_date": "2025-05-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11780266271342,
-            49.2466217123158
-          ],
-          [
-            -123.11661149664668,
-            49.246597082493764
-          ],
-          [
-            -123.11662227643009,
-            49.24584762632085
-          ],
-          [
-            -123.11661688653838,
-            49.24613615070126
-          ],
-          [
-            -123.11762479628717,
-            49.2461572621751
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11699123050276,
-      "lat": 49.246320685102106
-    }
-  },
-  {
     "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
     "street": null,
     "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
@@ -421,6 +569,46 @@
     "geo_point_2d": {
       "lon": -123.14302604511185,
       "lat": 49.25533516575979
+    }
+  },
+  {
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "street": null,
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11780266271342,
+            49.2466217123158
+          ],
+          [
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
     }
   },
   {
