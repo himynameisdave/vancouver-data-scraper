@@ -1,5 +1,61 @@
 [
   {
+    "project": "E Georgia St from Lillooet St to Windermere St",
+    "street": null,
+    "location": "E Georgia St from Lillooet St to Windermere St",
+    "comp_date": "2025-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b19663e6-eac3-418c-b9a6-63a4a593fd0b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03883320339467,
+            49.27826163110751
+          ],
+          [
+            -123.03620652742003,
+            49.278258382205024
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03751986540736,
+      "lat": 49.278260006656275
+    }
+  },
+  {
+    "project": "Both sides of the Street of 2600 Block of Tolmie St. From W 10th Av to W 11th Av",
+    "street": null,
+    "location": "Both sides of the Street of 2600 Block of Tolmie St. From W 10th Av to W 11th Av",
+    "comp_date": "2025-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e60fbb5b-ada4-4c43-bf69-2de680bd7c8f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.21215294158331,
+            49.26386838960178
+          ],
+          [
+            -123.21217989104184,
+            49.26297146588601
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21216641631258,
+      "lat": 49.2634199277439
+    }
+  },
+  {
     "project": "Galiano Rd from Puget Dr to Quesnel Dr",
     "street": null,
     "location": "Galiano Rd from Puget Dr to Quesnel Dr",
@@ -148,22 +204,22 @@
     }
   },
   {
-    "project": "E Georgia St from Lillooet St to Windermere St",
+    "project": "W 5th Ave from Sasamat St to Tolmie St",
     "street": null,
-    "location": "E Georgia St from Lillooet St to Windermere St",
-    "comp_date": "2025-05-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b19663e6-eac3-418c-b9a6-63a4a593fd0b",
+    "location": "W 5th Ave from Sasamat St to Tolmie St",
+    "comp_date": "2025-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76b19d21-3579-4f7c-b652-651e015594f9",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03883320339467,
-            49.27826163110751
+            -123.2089445860048,
+            49.26813780420218
           ],
           [
-            -123.03620652742003,
-            49.278258382205024
+            -123.21198205785748,
+            49.26818620666066
           ]
         ],
         "type": "LineString"
@@ -171,36 +227,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03751986540736,
-      "lat": 49.278260006656275
-    }
-  },
-  {
-    "project": "Both sides of the Street of 2600 Block of Tolmie St. From W 10th Av to W 11th Av",
-    "street": null,
-    "location": "Both sides of the Street of 2600 Block of Tolmie St. From W 10th Av to W 11th Av",
-    "comp_date": "2025-05-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e60fbb5b-ada4-4c43-bf69-2de680bd7c8f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21215294158331,
-            49.26386838960178
-          ],
-          [
-            -123.21217989104184,
-            49.26297146588601
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21216641631258,
-      "lat": 49.2634199277439
+      "lon": -123.21046332193114,
+      "lat": 49.268162005431414
     }
   },
   {
@@ -285,34 +313,6 @@
     "geo_point_2d": {
       "lon": -123.18057365627422,
       "lat": 49.27184154105579
-    }
-  },
-  {
-    "project": "W 5th Ave from Sasamat St to Tolmie St",
-    "street": null,
-    "location": "W 5th Ave from Sasamat St to Tolmie St",
-    "comp_date": "2025-05-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76b19d21-3579-4f7c-b652-651e015594f9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.2089445860048,
-            49.26813780420218
-          ],
-          [
-            -123.21198205785748,
-            49.26818620666066
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21046332193114,
-      "lat": 49.268162005431414
     }
   },
   {
@@ -596,46 +596,6 @@
     }
   },
   {
-    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "street": null,
-    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "comp_date": "2025-05-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11780266271342,
-            49.2466217123158
-          ],
-          [
-            -123.11661149664668,
-            49.246597082493764
-          ],
-          [
-            -123.11662227643009,
-            49.24584762632085
-          ],
-          [
-            -123.11661688653838,
-            49.24613615070126
-          ],
-          [
-            -123.11762479628717,
-            49.2461572621751
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11699123050276,
-      "lat": 49.246320685102106
-    }
-  },
-  {
     "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
     "street": null,
     "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
@@ -677,6 +637,46 @@
     "geo_point_2d": {
       "lon": -123.14302604511185,
       "lat": 49.25533516575979
+    }
+  },
+  {
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "street": null,
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11780266271342,
+            49.2466217123158
+          ],
+          [
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
     }
   },
   {
