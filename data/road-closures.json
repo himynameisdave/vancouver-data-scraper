@@ -1,209 +1,5 @@
 [
   {
-    "project": "E Georgia St from Lillooet St to Windermere St",
-    "street": null,
-    "location": "E Georgia St from Lillooet St to Windermere St",
-    "comp_date": "2025-05-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b19663e6-eac3-418c-b9a6-63a4a593fd0b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03883320339467,
-            49.27826163110751
-          ],
-          [
-            -123.03620652742003,
-            49.278258382205024
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03751986540736,
-      "lat": 49.278260006656275
-    }
-  },
-  {
-    "project": "Both sides of the Street of 2600 Block of Tolmie St. From W 10th Av to W 11th Av",
-    "street": null,
-    "location": "Both sides of the Street of 2600 Block of Tolmie St. From W 10th Av to W 11th Av",
-    "comp_date": "2025-05-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e60fbb5b-ada4-4c43-bf69-2de680bd7c8f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21215294158331,
-            49.26386838960178
-          ],
-          [
-            -123.21217989104184,
-            49.26297146588601
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21216641631258,
-      "lat": 49.2634199277439
-    }
-  },
-  {
-    "project": "Galiano Rd from Puget Dr to Quesnel Dr",
-    "street": null,
-    "location": "Galiano Rd from Puget Dr to Quesnel Dr",
-    "comp_date": "2025-05-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e78b0c8-1b88-4388-a113-c4c4e307dca0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.17670597809213,
-              49.25473304861066
-            ],
-            [
-              -123.17670007461258,
-              49.254730781848
-            ],
-            [
-              -123.17668635545023,
-              49.254725675551754
-            ],
-            [
-              -123.17667258161127,
-              49.2547206502945
-            ],
-            [
-              -123.17665908351566,
-              49.254715876480276
-            ],
-            [
-              -123.17664564045515,
-              49.25471112057073
-            ],
-            [
-              -123.17663153748845,
-              49.25470628471149
-            ],
-            [
-              -123.17661349992498,
-              49.25470023151482
-            ],
-            [
-              -123.1766054236005,
-              49.25469751830761
-            ],
-            [
-              -123.17603417274557,
-              49.25451110953847
-            ]
-          ],
-          [
-            [
-              -123.17603417274557,
-              49.25451110953847
-            ],
-            [
-              -123.17562361388022,
-              49.2543717146944
-            ],
-            [
-              -123.17556470007557,
-              49.25434802086062
-            ],
-            [
-              -123.17550641606637,
-              49.254323651398124
-            ],
-            [
-              -123.17544878940174,
-              49.254298624256506
-            ],
-            [
-              -123.17539184759883,
-              49.25427294839031
-            ],
-            [
-              -123.17533560436884,
-              49.254246614784364
-            ],
-            [
-              -123.1752800598085,
-              49.254219650425256
-            ],
-            [
-              -123.17522524140266,
-              49.254192055272284
-            ],
-            [
-              -123.17517117666793,
-              49.25416383828002
-            ],
-            [
-              -123.17511786563686,
-              49.25413500844468
-            ],
-            [
-              -123.17506533579395,
-              49.25410556572561
-            ],
-            [
-              -123.17501360097707,
-              49.254075537088625
-            ],
-            [
-              -123.17496295033874,
-              49.25404508401087
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17582063667142,
-      "lat": 49.25442123971231
-    }
-  },
-  {
-    "project": "Both sides of the street of 500 Block of Union St. From Princess Av to West PL o",
-    "street": null,
-    "location": "Both sides of the street of 500 Block of Union St. From Princess Av to West PL o",
-    "comp_date": "2025-05-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ab85ca43-145c-4001-bea1-9b2b32b1b958",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09273652218299,
-            49.27754392977013
-          ],
-          [
-            -123.09167201857132,
-            49.27751755720524
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09220427037714,
-      "lat": 49.27753074348769
-    }
-  },
-  {
     "project": "W 5th Ave from Sasamat St to Tolmie St",
     "street": null,
     "location": "W 5th Ave from Sasamat St to Tolmie St",
@@ -229,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.21046332193114,
       "lat": 49.268162005431414
+    }
+  },
+  {
+    "project": "Point Grey Rd from Collingwood St to Waterloo St",
+    "street": null,
+    "location": "Point Grey Rd from Collingwood St to Waterloo St",
+    "comp_date": "2025-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e6a91f9-566a-4edb-b54e-9cc03390c9fc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1795772514569,
+            49.27173961747812
+          ],
+          [
+            -123.18157006109153,
+            49.271943464633466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18057365627422,
+      "lat": 49.27184154105579
     }
   },
   {
@@ -260,6 +84,34 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 2000 Block of Cypress St. From W5th Av to Laneway No",
+    "street": null,
+    "location": "Both Sides of the Street of 2000 Block of Cypress St. From W5th Av to Laneway No",
+    "comp_date": "2025-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4f4a23cd-26e8-40d1-a617-76d675a02e20",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1480040225655,
+            49.267639371507755
+          ],
+          [
+            -123.14801480234891,
+            49.26721380696904
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1480094124572,
+      "lat": 49.267426589238404
+    }
+  },
+  {
     "project": "W 6th Ave from Blanca St to Tolmie St",
     "street": null,
     "location": "W 6th Ave from Blanca St to Tolmie St",
@@ -285,34 +137,6 @@
     "geo_point_2d": {
       "lon": -123.21354975798913,
       "lat": 49.26735644775239
-    }
-  },
-  {
-    "project": "Point Grey Rd from Collingwood St to Waterloo St",
-    "street": null,
-    "location": "Point Grey Rd from Collingwood St to Waterloo St",
-    "comp_date": "2025-05-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e6a91f9-566a-4edb-b54e-9cc03390c9fc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1795772514569,
-            49.27173961747812
-          ],
-          [
-            -123.18157006109153,
-            49.271943464633466
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18057365627422,
-      "lat": 49.27184154105579
     }
   },
   {
@@ -680,46 +504,6 @@
     }
   },
   {
-    "project": "E 43rd Avenue - Fraser St and St. George St",
-    "street": null,
-    "location": "E 43rd Avenue - Fraser St and St. George St",
-    "comp_date": "2025-05-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07ebd669-bda3-4ccf-9c08-dca369867c8f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0939178115659,
-              49.231046680183226
-            ],
-            [
-              -123.09125243190911,
-              49.231000322948915
-            ]
-          ],
-          [
-            [
-              -123.09125243190911,
-              49.231000322948915
-            ],
-            [
-              -123.09060449185188,
-              49.2309897418034
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09226115637395,
-      "lat": 49.231017934320974
-    }
-  },
-  {
     "project": "B/S of 4200 blk Rupert St & 3300 blk E27th Ave",
     "street": null,
     "location": "B/S of 4200 blk Rupert St & 3300 blk E27th Ave",
@@ -785,6 +569,94 @@
     "geo_point_2d": {
       "lon": -123.14318513635435,
       "lat": 49.26842864151578
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
