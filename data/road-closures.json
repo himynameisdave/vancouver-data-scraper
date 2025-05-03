@@ -1,61 +1,5 @@
 [
   {
-    "project": "W 5th Ave from Sasamat St to Tolmie St",
-    "street": null,
-    "location": "W 5th Ave from Sasamat St to Tolmie St",
-    "comp_date": "2025-05-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76b19d21-3579-4f7c-b652-651e015594f9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.2089445860048,
-            49.26813780420218
-          ],
-          [
-            -123.21198205785748,
-            49.26818620666066
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21046332193114,
-      "lat": 49.268162005431414
-    }
-  },
-  {
-    "project": "Point Grey Rd from Collingwood St to Waterloo St",
-    "street": null,
-    "location": "Point Grey Rd from Collingwood St to Waterloo St",
-    "comp_date": "2025-05-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e6a91f9-566a-4edb-b54e-9cc03390c9fc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1795772514569,
-            49.27173961747812
-          ],
-          [
-            -123.18157006109153,
-            49.271943464633466
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18057365627422,
-      "lat": 49.27184154105579
-    }
-  },
-  {
     "project": "W 29th Av from Heather St to Ash St",
     "street": null,
     "location": "W 29th Av from Heather St to Ash St",
@@ -137,6 +81,62 @@
     "geo_point_2d": {
       "lon": -123.21354975798913,
       "lat": 49.26735644775239
+    }
+  },
+  {
+    "project": "W 5th Ave from Sasamat St to Tolmie St",
+    "street": null,
+    "location": "W 5th Ave from Sasamat St to Tolmie St",
+    "comp_date": "2025-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/76b19d21-3579-4f7c-b652-651e015594f9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.2089445860048,
+            49.26813780420218
+          ],
+          [
+            -123.21198205785748,
+            49.26818620666066
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21046332193114,
+      "lat": 49.268162005431414
+    }
+  },
+  {
+    "project": "Point Grey Rd from Collingwood St to Waterloo St",
+    "street": null,
+    "location": "Point Grey Rd from Collingwood St to Waterloo St",
+    "comp_date": "2025-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e6a91f9-566a-4edb-b54e-9cc03390c9fc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1795772514569,
+            49.27173961747812
+          ],
+          [
+            -123.18157006109153,
+            49.271943464633466
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18057365627422,
+      "lat": 49.27184154105579
     }
   },
   {
