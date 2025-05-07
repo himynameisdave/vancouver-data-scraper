@@ -1,21 +1,21 @@
 [
   {
-    "project": "W 6th Ave from Tolmie St to Blanca St",
+    "project": "Both Sides of the Street of 2100 Block of Columbia St. From W 5th Av to Lane Sou",
     "street": null,
-    "location": "W 6th Ave from Tolmie St to Blanca St",
-    "comp_date": "2025-05-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0e618677-5496-4985-a9c9-ce991336d617",
+    "location": "Both Sides of the Street of 2100 Block of Columbia St. From W 5th Av to Lane Sou",
+    "comp_date": "2025-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07842271-ca43-4304-91c9-ecfc68a17095",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.21201284673012,
-            49.267332424137294
+            -123.1094511153485,
+            49.2665654972549
           ],
           [
-            -123.21508666924817,
-            49.26738047136749
+            -123.1094511153485,
+            49.26612831684406
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.21354975798913,
-      "lat": 49.26735644775239
+      "lon": -123.1094511153485,
+      "lat": 49.26634690704948
     }
   },
   {
@@ -88,6 +88,34 @@
     }
   },
   {
+    "project": "W 6th Ave from Tolmie St to Blanca St",
+    "street": null,
+    "location": "W 6th Ave from Tolmie St to Blanca St",
+    "comp_date": "2025-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0e618677-5496-4985-a9c9-ce991336d617",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.21201284673012,
+            49.267332424137294
+          ],
+          [
+            -123.21508666924817,
+            49.26738047136749
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21354975798913,
+      "lat": 49.26735644775239
+    }
+  },
+  {
     "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
     "street": null,
     "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
@@ -129,6 +157,62 @@
     "geo_point_2d": {
       "lon": -123.14302604511185,
       "lat": 49.25533516575979
+    }
+  },
+  {
+    "project": "Inverness St from E 35th Av to E 37th Av",
+    "street": null,
+    "location": "Inverness St from E 35th Av to E 37th Av",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e75b4982-6ad8-404a-92b2-a61dfaff0cef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08020193326763,
+            49.23818014875451
+          ],
+          [
+            -123.0802489582131,
+            49.23642571926695
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08022544574037,
+      "lat": 49.23730293401073
+    }
+  },
+  {
+    "project": "W 11th Av from Alma St to Dunbar St",
+    "street": null,
+    "location": "W 11th Av from Alma St to Dunbar St",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c7749f7-07d0-4181-b181-0f581ad94263",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18385071541186,
+            49.26252337199773
+          ],
+          [
+            -123.18590720711059,
+            49.26255540553731
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18487896126122,
+      "lat": 49.26253938876752
     }
   },
   {
@@ -268,6 +352,34 @@
     }
   },
   {
+    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "street": null,
+    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "comp_date": "2025-05-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11827306447398,
+            49.2533240999291
+          ],
+          [
+            -123.11829479330822,
+            49.252487792303015
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1182839288911,
+      "lat": 49.25290594611606
+    }
+  },
+  {
     "project": "Ash St from W 20th Av to W 21st Av",
     "street": null,
     "location": "Ash St from W 20th Av to W 21st Av",
@@ -333,34 +445,6 @@
     "geo_point_2d": {
       "lon": -123.13007613138299,
       "lat": 49.26605217109261
-    }
-  },
-  {
-    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "street": null,
-    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11827306447398,
-            49.2533240999291
-          ],
-          [
-            -123.11829479330822,
-            49.252487792303015
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1182839288911,
-      "lat": 49.25290594611606
     }
   },
   {
@@ -457,34 +541,6 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
-    }
-  },
-  {
-    "project": "Bayswater St between W 6th and W 7thAv",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17113818591342,
-            49.266648429690406
-          ],
-          [
-            -123.1711589768034,
-            49.26587894302486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
     }
   },
   {
