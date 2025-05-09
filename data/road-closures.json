@@ -1,125 +1,21 @@
 [
   {
-    "project": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
+    "project": "Both Sides of the Street of 3100 Block of E 46th Av. From Kerr St to East PL of",
     "street": null,
-    "location": "McKinnon St - E 52nd Av to E 54th Av\r\nE 53rd Av - Kerr St to Doman St\r\nE 52nd Av",
-    "comp_date": "2025-05-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b812f-9c33-4b69-8938-98c18b115d26",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03898276345957,
-              49.222039806083416
-            ],
-            [
-              -123.03906735582953,
-              49.220154372028816
-            ]
-          ],
-          [
-            [
-              -123.04118216507868,
-              49.222074337171904
-            ],
-            [
-              -123.03675163970172,
-              49.22204671230307
-            ]
-          ],
-          [
-            [
-              -123.04126675744865,
-              49.22117652103009
-            ],
-            [
-              -123.03903563369079,
-              49.22114889565938
-            ]
-          ],
-          [
-            [
-              -123.03897218941333,
-              49.22128702235855
-            ],
-            [
-              -123.0368150839792,
-              49.221273209706
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03900772610135,
-      "lat": 49.22154633882592
-    }
-  },
-  {
-    "project": "W 6th Ave from Tolmie St to Blanca St",
-    "street": null,
-    "location": "W 6th Ave from Tolmie St to Blanca St",
-    "comp_date": "2025-05-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0e618677-5496-4985-a9c9-ce991336d617",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21201284673012,
-            49.267332424137294
-          ],
-          [
-            -123.21508666924817,
-            49.26738047136749
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21354975798913,
-      "lat": 49.26735644775239
-    }
-  },
-  {
-    "project": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
-    "street": null,
-    "location": "Both sides of 3400 Block Marpole Ave from Pine Crescent to 100m South of Pine Cr",
+    "location": "Both Sides of the Street of 3100 Block of E 46th Av. From Kerr St to East PL of",
     "comp_date": "2025-05-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fdad2d3-d27e-4140-b84d-84e335ce9684",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9f567747-fbae-4d5a-ae2c-932b545e6a2e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14369929572406,
-            49.254777026300275
+            -123.04083500917011,
+            49.22846854776239
           ],
           [
-            -123.14360766756509,
-            49.25498458573563
-          ],
-          [
-            -123.14346753038076,
-            49.25513937525483
-          ],
-          [
-            -123.14321959536235,
-            49.25531175392081
-          ],
-          [
-            -123.14283152315961,
-            49.25545598866859
-          ],
-          [
-            -123.14220629572186,
-            49.25572334952531
+            -123.03960611386144,
+            49.22846854776239
           ]
         ],
         "type": "LineString"
@@ -127,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14302604511185,
-      "lat": 49.25533516575979
+      "lon": -123.04022056151578,
+      "lat": 49.22846854776239
     }
   },
   {
@@ -185,6 +81,50 @@
     "geo_point_2d": {
       "lon": -123.18487896126122,
       "lat": 49.26253938876752
+    }
+  },
+  {
+    "project": "Laneway East of Prince Edward St from E 16th Ave to E 17th Ave",
+    "street": null,
+    "location": "Laneway East of Prince Edward St from E 16th Ave to E 17th Ave",
+    "comp_date": "2025-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0c5cee9-173d-43d5-a65d-6149e0d86db0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09605364938737,
+              49.256530381204016
+            ],
+            [
+              -123.09606949179356,
+              49.25607572277946
+            ]
+          ],
+          [
+            [
+              -123.09606949179356,
+              49.25607572277946
+            ],
+            [
+              -123.0960244993506,
+              49.256047695104144
+            ],
+            [
+              -123.09603948342368,
+              49.25562514129223
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09604730350908,
+      "lat": 49.25607732834528
     }
   },
   {
@@ -513,6 +453,150 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
+    }
+  },
+  {
+    "project": "W 22nd Av - Balsam St to Arbutus St - 2025",
+    "street": null,
+    "location": "W 22nd Av - Balsam St to Arbutus St - 2025",
+    "comp_date": "2025-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d511636-261e-4c73-80e8-0e1c35a17d0b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15307461507084,
+            49.252588440722946
+          ],
+          [
+            -123.16046521182771,
+            49.252711258902536
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15676991344927,
+      "lat": 49.25264984981274
+    }
+  },
+  {
+    "project": "Vine St from W 22nd Av to Laneway North",
+    "street": null,
+    "location": "Vine St from W 22nd Av to Laneway North",
+    "comp_date": "2025-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15806921093802,
+            49.25311818739479
+          ],
+          [
+            -123.15808534300737,
+            49.25266611926014
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15807727697269,
+      "lat": 49.252892153327466
     }
   },
   {
