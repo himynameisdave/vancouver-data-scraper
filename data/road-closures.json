@@ -28,62 +28,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 2700 Block of William St. From Slocan St to East PL",
-    "street": null,
-    "location": "Both Sides of the Street of 2700 Block of William St. From Slocan St to East PL",
-    "comp_date": "2025-05-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/856d1269-2275-41d0-988e-b8e09946a656",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04938876730547,
-            49.27414313529789
-          ],
-          [
-            -123.0482784496143,
-            49.27413961871429
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04883360845987,
-      "lat": 49.27414137700609
-    }
-  },
-  {
-    "project": "[Working under permits for Holborn and Brighouse Developments]\r\nBoth sides of 10",
-    "street": null,
-    "location": "[Working under permits for Holborn and Brighouse Developments]\r\nBoth sides of 10",
-    "comp_date": "2025-05-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ddcc76f-56ab-4acc-9295-f88945e18c25",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10345089498873,
-            49.2390933375396
-          ],
-          [
-            -123.1022009855878,
-            49.239070571611194
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10282594028826,
-      "lat": 49.2390819545754
-    }
-  },
-  {
     "project": "Lane south of E 45th Av from Nanaimo St to Berkeley St",
     "street": null,
     "location": "Lane south of E 45th Av from Nanaimo St to Berkeley St",
@@ -152,6 +96,62 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 2700 Block of William St. From Slocan St to East PL",
+    "street": null,
+    "location": "Both Sides of the Street of 2700 Block of William St. From Slocan St to East PL",
+    "comp_date": "2025-05-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/856d1269-2275-41d0-988e-b8e09946a656",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04938876730547,
+            49.27414313529789
+          ],
+          [
+            -123.0482784496143,
+            49.27413961871429
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04883360845987,
+      "lat": 49.27414137700609
+    }
+  },
+  {
+    "project": "[Working under permits for Holborn and Brighouse Developments]\r\nBoth sides of 10",
+    "street": null,
+    "location": "[Working under permits for Holborn and Brighouse Developments]\r\nBoth sides of 10",
+    "comp_date": "2025-05-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ddcc76f-56ab-4acc-9295-f88945e18c25",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10345089498873,
+            49.2390933375396
+          ],
+          [
+            -123.1022009855878,
+            49.239070571611194
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10282594028826,
+      "lat": 49.2390819545754
+    }
+  },
+  {
     "project": "Trinity St from North Kaslo St to North Renfrew St",
     "street": null,
     "location": "Trinity St from North Kaslo St to North Renfrew St",
@@ -177,46 +177,6 @@
     "geo_point_2d": {
       "lon": -123.04536974406555,
       "lat": 49.28970512198929
-    }
-  },
-  {
-    "project": "Larch St from W 3rd Av to W 4th Av",
-    "street": null,
-    "location": "Larch St from W 3rd Av to W 4th Av",
-    "comp_date": "2025-05-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/151a4081-2fe4-48f0-acd7-2c554698b05b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16221140732155,
-              49.26916310800533
-            ],
-            [
-              -123.16222800543737,
-              49.26871649997449
-            ]
-          ],
-          [
-            [
-              -123.16222800543737,
-              49.26871649997449
-            ],
-            [
-              -123.16224450226156,
-              49.26828101011802
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16222787594133,
-      "lat": 49.26872205610299
     }
   },
   {
@@ -260,6 +220,46 @@
     }
   },
   {
+    "project": "Larch St from W 3rd Av to W 4th Av",
+    "street": null,
+    "location": "Larch St from W 3rd Av to W 4th Av",
+    "comp_date": "2025-05-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/151a4081-2fe4-48f0-acd7-2c554698b05b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16221140732155,
+              49.26916310800533
+            ],
+            [
+              -123.16222800543737,
+              49.26871649997449
+            ]
+          ],
+          [
+            [
+              -123.16222800543737,
+              49.26871649997449
+            ],
+            [
+              -123.16224450226156,
+              49.26828101011802
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16222787594133,
+      "lat": 49.26872205610299
+    }
+  },
+  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -285,6 +285,34 @@
     "geo_point_2d": {
       "lon": -123.14318513635435,
       "lat": 49.26842864151578
+    }
+  },
+  {
+    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "street": null,
+    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "comp_date": "2025-05-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11827306447398,
+            49.2533240999291
+          ],
+          [
+            -123.11829479330822,
+            49.252487792303015
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1182839288911,
+      "lat": 49.25290594611606
     }
   },
   {
@@ -384,34 +412,6 @@
     }
   },
   {
-    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "street": null,
-    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11827306447398,
-            49.2533240999291
-          ],
-          [
-            -123.11829479330822,
-            49.252487792303015
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1182839288911,
-      "lat": 49.25290594611606
-    }
-  },
-  {
     "project": "1847 Larch St",
     "street": null,
     "location": "1847 Larch St",
@@ -508,6 +508,34 @@
     }
   },
   {
+    "project": "Bayswater St between W 6th and W 7thAv",
+    "street": null,
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17113818591342,
+            49.266648429690406
+          ],
+          [
+            -123.1711589768034,
+            49.26587894302486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
+    }
+  },
+  {
     "project": "Bayswater St from W 6th Av to W 7th Av",
     "street": null,
     "location": "Bayswater St from W 6th Av to W 7th Av",
@@ -545,34 +573,6 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
-    }
-  },
-  {
-    "project": "Bayswater St between W 6th and W 7thAv",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17113818591342,
-            49.266648429690406
-          ],
-          [
-            -123.1711589768034,
-            49.26587894302486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
     }
   },
   {
