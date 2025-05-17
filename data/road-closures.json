@@ -1,88 +1,46 @@
 [
   {
-    "project": "E 40th Av from Gladstone St to Nanaimo St",
+    "project": "Carrall St from E Hastings St to Cordova St",
     "street": null,
-    "location": "E 40th Av from Gladstone St to Nanaimo St",
-    "comp_date": "2025-05-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/591ae037-dec4-4817-9523-f07d0eed9f5c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06211731615166,
-            49.233900995928934
-          ],
-          [
-            -123.05886867513766,
-            49.23388783691496
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06049299564467,
-      "lat": 49.23389441642195
-    }
-  },
-  {
-    "project": "Lane south of E 45th Av from Nanaimo St to Berkeley St",
-    "street": null,
-    "location": "Lane south of E 45th Av from Nanaimo St to Berkeley St",
-    "comp_date": "2025-05-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f084c24-8279-48c2-91c3-181d8ea5a5d4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0590355924126,
-            49.22940932939093
-          ],
-          [
-            -123.05792902654346,
-            49.22940177587142
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05848230947802,
-      "lat": 49.22940555263118
-    }
-  },
-  {
-    "project": "B/S of 4200 blk Rupert St & 3300 blk E27th Ave",
-    "street": null,
-    "location": "B/S of 4200 blk Rupert St & 3300 blk E27th Ave",
-    "comp_date": "2025-05-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9a7ad581-454b-4266-bab6-eee499edfd91",
+    "location": "Carrall St from E Hastings St to Cordova St",
+    "comp_date": "2025-05-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d4141fe-1c87-4a6f-9e51-9a847cb5ac32",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.03383626383383,
-              49.247078762829915
+              -123.10430442445526,
+              49.282475700850796
             ],
             [
-              -123.03383626383383,
-              49.246280326963785
+              -123.10431200797473,
+              49.28230317551484
+            ],
+            [
+              -123.10432436930398,
+              49.28198390753673
             ]
           ],
           [
             [
-              -123.03386845034198,
-              49.246259315319264
+              -123.10432914511547,
+              49.28192093698448
             ],
             [
-              -123.03743042391378,
-              49.246266319201794
+              -123.10434544245071,
+              49.28147314232797
+            ]
+          ],
+          [
+            [
+              -123.10432436930398,
+              49.28198390753673
+            ],
+            [
+              -123.10432914511547,
+              49.28192093698448
             ]
           ]
         ],
@@ -91,27 +49,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03531742695225,
-      "lat": 49.246339124261176
+      "lon": -123.10432554313324,
+      "lat": 49.28197444488847
     }
   },
   {
-    "project": "Both Sides of the Street of 2700 Block of William St. From Slocan St to East PL",
+    "project": "W 2nd Av from Maple St to Cypress St",
     "street": null,
-    "location": "Both Sides of the Street of 2700 Block of William St. From Slocan St to East PL",
-    "comp_date": "2025-05-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/856d1269-2275-41d0-988e-b8e09946a656",
+    "location": "W 2nd Av from Maple St to Cypress St",
+    "comp_date": "2025-05-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/72971ade-6aa0-4017-b1a5-ede898bac31e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.04938876730547,
-            49.27414313529789
+            -123.14790092059201,
+            49.26981740022319
           ],
           [
-            -123.0482784496143,
-            49.27413961871429
+            -123.15030033799825,
+            49.269855474995126
           ]
         ],
         "type": "LineString"
@@ -119,36 +77,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.04883360845987,
-      "lat": 49.27414137700609
-    }
-  },
-  {
-    "project": "[Working under permits for Holborn and Brighouse Developments]\r\nBoth sides of 10",
-    "street": null,
-    "location": "[Working under permits for Holborn and Brighouse Developments]\r\nBoth sides of 10",
-    "comp_date": "2025-05-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ddcc76f-56ab-4acc-9295-f88945e18c25",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10345089498873,
-            49.2390933375396
-          ],
-          [
-            -123.1022009855878,
-            49.239070571611194
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10282594028826,
-      "lat": 49.2390819545754
+      "lon": -123.14910062929513,
+      "lat": 49.26983643760916
     }
   },
   {
@@ -177,6 +107,86 @@
     "geo_point_2d": {
       "lon": -123.04536974406555,
       "lat": 49.28970512198929
+    }
+  },
+  {
+    "project": "Nanton Av from Granville St to Alexandra St",
+    "street": null,
+    "location": "Nanton Av from Granville St to Alexandra St",
+    "comp_date": "2025-05-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25cd7522-648c-4646-a2b6-ba5b9ab3ed2d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13990383971345,
+              49.24742570246809
+            ],
+            [
+              -123.14155500933019,
+              49.24745119857877
+            ]
+          ],
+          [
+            [
+              -123.13915022796996,
+              49.24741353354074
+            ],
+            [
+              -123.13990383971345,
+              49.24742570246809
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14035261576485,
+      "lat": 49.247432548732775
+    }
+  },
+  {
+    "project": "Culloden St from E 39th Av to E 41st Av",
+    "street": null,
+    "location": "Culloden St from E 39th Av to E 41st Av",
+    "comp_date": "2025-05-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d042a361-fcd8-490e-a386-434db8ad2554",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07834791021925,
+              49.23480935463826
+            ],
+            [
+              -123.07840315996522,
+              49.23316092835839
+            ]
+          ],
+          [
+            [
+              -123.07840315996522,
+              49.23316092835839
+            ],
+            [
+              -123.07841175164774,
+              49.2327311563279
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07838213441238,
+      "lat": 49.23377031710745
     }
   },
   {
@@ -260,62 +270,6 @@
     }
   },
   {
-    "project": "Pine St - W 1st Av to W 6th Av",
-    "street": null,
-    "location": "Pine St - W 1st Av to W 6th Av",
-    "comp_date": "2025-05-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14310073067321,
-            49.27061103047308
-          ],
-          [
-            -123.14326954203545,
-            49.26624625255849
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14318513635435,
-      "lat": 49.26842864151578
-    }
-  },
-  {
-    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "street": null,
-    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11827306447398,
-            49.2533240999291
-          ],
-          [
-            -123.11829479330822,
-            49.252487792303015
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1182839288911,
-      "lat": 49.25290594611606
-    }
-  },
-  {
     "project": "Ash St from W 20th Av to W 21st Av",
     "street": null,
     "location": "Ash St from W 20th Av to W 21st Av",
@@ -366,12 +320,12 @@
       "geometry": {
         "coordinates": [
           [
-            -123.12889129816155,
-            49.266033157815286
+            -123.12916201934432,
+            49.258758160154116
           ],
           [
-            -123.13126096460442,
-            49.266071184369935
+            -123.13153170809912,
+            49.258795947203
           ]
         ],
         "type": "LineString"
@@ -379,8 +333,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13007613138299,
-      "lat": 49.26605217109261
+      "lon": -123.13034686372173,
+      "lat": 49.25877705367856
     }
   },
   {
@@ -508,6 +462,34 @@
     }
   },
   {
+    "project": "Pine St - W 1st Av to W 6th Av",
+    "street": null,
+    "location": "Pine St - W 1st Av to W 6th Av",
+    "comp_date": "2025-06-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14310073067321,
+            49.27061103047308
+          ],
+          [
+            -123.14326954203545,
+            49.26624625255849
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14318513635435,
+      "lat": 49.26842864151578
+    }
+  },
+  {
     "project": "Bayswater St between W 6th and W 7thAv",
     "street": null,
     "location": "Bayswater St between W 6th and W 7thAv",
@@ -573,6 +555,94 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
@@ -987,7 +1057,7 @@
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
-    "comp_date": "2025-07-23",
+    "comp_date": "2025-07-30",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
     "geom": {
       "type": "Feature",
