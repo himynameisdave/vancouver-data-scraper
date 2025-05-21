@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 2nd Av from Maple St to Cypress St",
-    "street": null,
-    "location": "W 2nd Av from Maple St to Cypress St",
-    "comp_date": "2025-05-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/72971ade-6aa0-4017-b1a5-ede898bac31e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14790092059201,
-            49.26981740022319
-          ],
-          [
-            -123.15030033799825,
-            49.269855474995126
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14910062929513,
-      "lat": 49.26983643760916
-    }
-  },
-  {
     "project": "Trinity St from North Kaslo St to North Renfrew St",
     "street": null,
     "location": "Trinity St from North Kaslo St to North Renfrew St",
@@ -53,46 +25,6 @@
     "geo_point_2d": {
       "lon": -123.04536974406555,
       "lat": 49.28970512198929
-    }
-  },
-  {
-    "project": "Culloden St from E 39th Av to E 41st Av",
-    "street": null,
-    "location": "Culloden St from E 39th Av to E 41st Av",
-    "comp_date": "2025-05-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d042a361-fcd8-490e-a386-434db8ad2554",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07834791021925,
-              49.23480935463826
-            ],
-            [
-              -123.07840315996522,
-              49.23316092835839
-            ]
-          ],
-          [
-            [
-              -123.07840315996522,
-              49.23316092835839
-            ],
-            [
-              -123.07841175164774,
-              49.2327311563279
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07838213441238,
-      "lat": 49.23377031710745
     }
   },
   {
@@ -136,33 +68,33 @@
     }
   },
   {
-    "project": "Larch St from W 3rd Av to W 4th Av",
+    "project": "Culloden St from E 39th Av to E 41st Av",
     "street": null,
-    "location": "Larch St from W 3rd Av to W 4th Av",
-    "comp_date": "2025-05-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/151a4081-2fe4-48f0-acd7-2c554698b05b",
+    "location": "Culloden St from E 39th Av to E 41st Av",
+    "comp_date": "2025-05-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d042a361-fcd8-490e-a386-434db8ad2554",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.16221140732155,
-              49.26916310800533
+              -123.07834791021925,
+              49.23480935463826
             ],
             [
-              -123.16222800543737,
-              49.26871649997449
+              -123.07840315996522,
+              49.23316092835839
             ]
           ],
           [
             [
-              -123.16222800543737,
-              49.26871649997449
+              -123.07840315996522,
+              49.23316092835839
             ],
             [
-              -123.16224450226156,
-              49.26828101011802
+              -123.07841175164774,
+              49.2327311563279
             ]
           ]
         ],
@@ -171,8 +103,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.16222787594133,
-      "lat": 49.26872205610299
+      "lon": -123.07838213441238,
+      "lat": 49.23377031710745
     }
   },
   {
@@ -213,6 +145,96 @@
     "geo_point_2d": {
       "lon": -123.11699123050276,
       "lat": 49.246320685102106
+    }
+  },
+  {
+    "project": "Both Sides of 1700-1800 Block of E 13th Ave from Victoria Dr to 20m West, from W",
+    "street": null,
+    "location": "Both Sides of 1700-1800 Block of E 13th Ave from Victoria Dr to 20m West, from W",
+    "comp_date": "2025-05-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ab1768f7-596e-4d33-81a4-7359d8d21091",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06665106329966,
+              49.25863901876994
+            ],
+            [
+              -123.06689684236137,
+              49.2586412466394
+            ]
+          ],
+          [
+            [
+              -123.06891427882645,
+              49.258650158116154
+            ],
+            [
+              -123.06862753658777,
+              49.25864793024712
+            ]
+          ],
+          [
+            [
+              -123.06735767810216,
+              49.258643474508744
+            ],
+            [
+              -123.06775706907749,
+              49.258643474508744
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06772415166489,
+      "lat": 49.2586443068981
+    }
+  },
+  {
+    "project": "Larch St from W 3rd Av to W 4th Av",
+    "street": null,
+    "location": "Larch St from W 3rd Av to W 4th Av",
+    "comp_date": "2025-05-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/151a4081-2fe4-48f0-acd7-2c554698b05b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16221140732155,
+              49.26916310800533
+            ],
+            [
+              -123.16222800543737,
+              49.26871649997449
+            ]
+          ],
+          [
+            [
+              -123.16222800543737,
+              49.26871649997449
+            ],
+            [
+              -123.16224450226156,
+              49.26828101011802
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16222787594133,
+      "lat": 49.26872205610299
     }
   },
   {
@@ -408,6 +430,34 @@
     }
   },
   {
+    "project": "Jackson Av between E Pender and Keefer St",
+    "street": null,
+    "location": "Jackson Av between E Pender and Keefer St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/64b2512d-f6b2-4bd1-9bcd-a6f6d5ed9450",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09349093037973,
+            49.280231053620724
+          ],
+          [
+            -123.0935299285846,
+            49.27941232249327
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09351042948217,
+      "lat": 49.279821688057005
+    }
+  },
+  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -433,6 +483,34 @@
     "geo_point_2d": {
       "lon": -123.14318513635435,
       "lat": 49.26842864151578
+    }
+  },
+  {
+    "project": "Bayswater St between W 6th and W 7thAv",
+    "street": null,
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17113818591342,
+            49.266648429690406
+          ],
+          [
+            -123.1711589768034,
+            49.26587894302486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
     }
   },
   {
@@ -476,31 +554,43 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th and W 7thAv",
+    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
     "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.17113818591342,
-            49.266648429690406
+            [
+              -123.1389720963772,
+              49.28194649366418
+            ],
+            [
+              -123.13768013933559,
+              49.282797540693565
+            ]
           ],
           [
-            -123.1711589768034,
-            49.26587894302486
+            [
+              -123.1388538780858,
+              49.28255792699605
+            ],
+            [
+              -123.13795879673671,
+              49.28197403586924
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
+      "lon": -123.13835889218282,
+      "lat": 49.282328695445585
     }
   },
   {
