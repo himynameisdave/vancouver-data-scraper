@@ -56,46 +56,6 @@
     }
   },
   {
-    "project": "Nanton Av from Granville St to Alexandra St",
-    "street": null,
-    "location": "Nanton Av from Granville St to Alexandra St",
-    "comp_date": "2025-05-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25cd7522-648c-4646-a2b6-ba5b9ab3ed2d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13990383971345,
-              49.24742570246809
-            ],
-            [
-              -123.14155500933019,
-              49.24745119857877
-            ]
-          ],
-          [
-            [
-              -123.13915022796996,
-              49.24741353354074
-            ],
-            [
-              -123.13990383971345,
-              49.24742570246809
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14035261576485,
-      "lat": 49.247432548732775
-    }
-  },
-  {
     "project": "Culloden St from E 39th Av to E 41st Av",
     "street": null,
     "location": "Culloden St from E 39th Av to E 41st Av",
@@ -136,43 +96,43 @@
     }
   },
   {
-    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "project": "Nanton Av from Granville St to Alexandra St",
     "street": null,
-    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
-    "comp_date": "2025-05-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
+    "location": "Nanton Av from Granville St to Alexandra St",
+    "comp_date": "2025-05-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25cd7522-648c-4646-a2b6-ba5b9ab3ed2d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.11780266271342,
-            49.2466217123158
+            [
+              -123.13990383971345,
+              49.24742570246809
+            ],
+            [
+              -123.14155500933019,
+              49.24745119857877
+            ]
           ],
           [
-            -123.11661149664668,
-            49.246597082493764
-          ],
-          [
-            -123.11662227643009,
-            49.24584762632085
-          ],
-          [
-            -123.11661688653838,
-            49.24613615070126
-          ],
-          [
-            -123.11762479628717,
-            49.2461572621751
+            [
+              -123.13915022796996,
+              49.24741353354074
+            ],
+            [
+              -123.13990383971345,
+              49.24742570246809
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11699123050276,
-      "lat": 49.246320685102106
+      "lon": -123.14035261576485,
+      "lat": 49.247432548732775
     }
   },
   {
@@ -216,22 +176,34 @@
     }
   },
   {
-    "project": "Jackson Av from E Pender St to Keefer St",
+    "project": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
     "street": null,
-    "location": "Jackson Av from E Pender St to Keefer St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a301dcaa-5522-4113-b56a-c63eec5f42d6",
+    "location": "Both sides of the Lane West of 4300-4400 Block Cambie St from Lane North of W 28",
+    "comp_date": "2025-05-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3554894-9083-404c-a85b-7b9914512077",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.09347648547548,
-            49.28026993195084
+            -123.11780266271342,
+            49.2466217123158
           ],
           [
-            -123.0935158157768,
-            49.27936491304723
+            -123.11661149664668,
+            49.246597082493764
+          ],
+          [
+            -123.11662227643009,
+            49.24584762632085
+          ],
+          [
+            -123.11661688653838,
+            49.24613615070126
+          ],
+          [
+            -123.11762479628717,
+            49.2461572621751
           ]
         ],
         "type": "LineString"
@@ -239,8 +211,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09349615062614,
-      "lat": 49.279817422499036
+      "lon": -123.11699123050276,
+      "lat": 49.246320685102106
     }
   },
   {
@@ -309,6 +281,34 @@
     "geo_point_2d": {
       "lon": -123.13034686372173,
       "lat": 49.25877705367856
+    }
+  },
+  {
+    "project": "Jackson Av from E Pender St to Keefer St",
+    "street": null,
+    "location": "Jackson Av from E Pender St to Keefer St",
+    "comp_date": "2025-05-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a301dcaa-5522-4113-b56a-c63eec5f42d6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09347648547548,
+            49.28026993195084
+          ],
+          [
+            -123.0935158157768,
+            49.27936491304723
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09349615062614,
+      "lat": 49.279817422499036
     }
   },
   {
@@ -436,34 +436,6 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th and W 7thAv",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17113818591342,
-            49.266648429690406
-          ],
-          [
-            -123.1711589768034,
-            49.26587894302486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
-    }
-  },
-  {
     "project": "Bayswater St from W 6th Av to W 7th Av",
     "street": null,
     "location": "Bayswater St from W 6th Av to W 7th Av",
@@ -501,6 +473,34 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
+    }
+  },
+  {
+    "project": "Bayswater St between W 6th and W 7thAv",
+    "street": null,
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17113818591342,
+            49.266648429690406
+          ],
+          [
+            -123.1711589768034,
+            49.26587894302486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
     }
   },
   {
