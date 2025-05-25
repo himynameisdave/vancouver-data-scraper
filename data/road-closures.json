@@ -176,6 +176,34 @@
     }
   },
   {
+    "project": "Jackson Av from E Pender St to Keefer St",
+    "street": null,
+    "location": "Jackson Av from E Pender St to Keefer St",
+    "comp_date": "2025-05-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a301dcaa-5522-4113-b56a-c63eec5f42d6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09347648547548,
+            49.28026993195084
+          ],
+          [
+            -123.0935158157768,
+            49.27936491304723
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09349615062614,
+      "lat": 49.279817422499036
+    }
+  },
+  {
     "project": "lane south of W 26th Av from Dunbar St to Collingwood St",
     "street": null,
     "location": "lane south of W 26th Av from Dunbar St to Collingwood St",
@@ -341,34 +369,6 @@
     "geo_point_2d": {
       "lon": -123.17570268476152,
       "lat": 49.248030803284756
-    }
-  },
-  {
-    "project": "Jackson Av from E Pender St to Keefer St",
-    "street": null,
-    "location": "Jackson Av from E Pender St to Keefer St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a301dcaa-5522-4113-b56a-c63eec5f42d6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09347648547548,
-            49.28026993195084
-          ],
-          [
-            -123.0935158157768,
-            49.27936491304723
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09349615062614,
-      "lat": 49.279817422499036
     }
   },
   {
