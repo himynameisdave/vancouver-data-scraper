@@ -100,62 +100,6 @@
     }
   },
   {
-    "project": "W 15th Av from Balaclava St to Carnarvon St",
-    "street": null,
-    "location": "W 15th Av from Balaclava St to Carnarvon St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4009fdc1-08b2-47d2-84e2-85bb0202275b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17223837279155,
-            49.25872189837784
-          ],
-          [
-            -123.17417152460511,
-            49.25875195882128
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17320494869833,
-      "lat": 49.25873692859956
-    }
-  },
-  {
-    "project": "Jackson Av from E Pender St to Keefer St",
-    "street": null,
-    "location": "Jackson Av from E Pender St to Keefer St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a301dcaa-5522-4113-b56a-c63eec5f42d6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09347648547548,
-            49.28026993195084
-          ],
-          [
-            -123.0935158157768,
-            49.27936491304723
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09349615062614,
-      "lat": 49.279817422499036
-    }
-  },
-  {
     "project": "lane south of W 26th Av from Dunbar St to Collingwood St",
     "street": null,
     "location": "lane south of W 26th Av from Dunbar St to Collingwood St",
@@ -352,43 +296,59 @@
     }
   },
   {
-    "project": "1847 Larch St",
+    "project": "W 15th Av from Balaclava St to Carnarvon St",
     "street": null,
-    "location": "1847 Larch St",
-    "comp_date": "2025-05-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be066dd0-b0ae-414d-b2a8-18ae5bede434",
+    "location": "W 15th Av from Balaclava St to Carnarvon St",
+    "comp_date": "2025-05-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4009fdc1-08b2-47d2-84e2-85bb0202275b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.16221414090087,
-              49.26929902583049
-            ],
-            [
-              -123.1622373631512,
-              49.26858402789452
-            ]
+            -123.17223837279155,
+            49.25872189837784
           ],
           [
-            [
-              -123.1622124984998,
-              49.26916159761737
-            ],
-            [
-              -123.16187644860513,
-              49.26916159761737
-            ]
+            -123.17417152460511,
+            49.25875195882128
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.16216781292354,
-      "lat": 49.2690118645136
+      "lon": -123.17320494869833,
+      "lat": 49.25873692859956
+    }
+  },
+  {
+    "project": "Jackson Av from E Pender St to Keefer St",
+    "street": null,
+    "location": "Jackson Av from E Pender St to Keefer St",
+    "comp_date": "2025-05-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a301dcaa-5522-4113-b56a-c63eec5f42d6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09347648547548,
+            49.28026993195084
+          ],
+          [
+            -123.0935158157768,
+            49.27936491304723
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09349615062614,
+      "lat": 49.279817422499036
     }
   },
   {
@@ -439,6 +399,46 @@
     "geo_point_2d": {
       "lon": -123.15385183599902,
       "lat": 49.253920008693136
+    }
+  },
+  {
+    "project": "1847 Larch St",
+    "street": null,
+    "location": "1847 Larch St",
+    "comp_date": "2025-05-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be066dd0-b0ae-414d-b2a8-18ae5bede434",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16221414090087,
+              49.26929902583049
+            ],
+            [
+              -123.1622373631512,
+              49.26858402789452
+            ]
+          ],
+          [
+            [
+              -123.1622124984998,
+              49.26916159761737
+            ],
+            [
+              -123.16187644860513,
+              49.26916159761737
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16216781292354,
+      "lat": 49.2690118645136
     }
   },
   {
