@@ -1,53 +1,21 @@
 [
   {
-    "project": "E 51st Av from Tyne St to Toderick St",
+    "project": "W 17th Av from Manitoba St to Ontario St",
     "street": null,
-    "location": "E 51st Av from Tyne St to Toderick St",
-    "comp_date": "2025-05-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ff49ae2-8045-4024-a3e7-b6a275cea256",
+    "location": "W 17th Av from Manitoba St to Ontario St",
+    "comp_date": "2025-06-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4b8c9e02-c766-4eb2-8829-5820d492b5bc",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0322663162298,
-            49.22284588230329
+            -123.1049835759306,
+            49.25566371264969
           ],
           [
-            -123.03191956099946,
-            49.22284141803914
-          ],
-          [
-            -123.03173794775866,
-            49.22283523435959
-          ],
-          [
-            -123.03150866884248,
-            49.22281151363853
-          ],
-          [
-            -123.03128443416779,
-            49.22277222028771
-          ],
-          [
-            -123.03106768873279,
-            49.222717794446794
-          ],
-          [
-            -123.03086082266725,
-            49.22264882920675
-          ],
-          [
-            -123.03066608882371,
-            49.222566070629284
-          ],
-          [
-            -123.03066346491956,
-            49.22256468605454
-          ],
-          [
-            -123.03054231645446,
-            49.222507751116325
+            -123.10714854922202,
+            49.25570494715035
           ]
         ],
         "type": "LineString"
@@ -55,147 +23,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0313888942644,
-      "lat": 49.22274999238813
+      "lon": -123.1060660625763,
+      "lat": 49.25568432990002
     }
   },
   {
-    "project": "E 22nd Av from Carolina St to Fraser St",
+    "project": "W 9th Av from Trimble St to Sasamat St",
     "street": null,
-    "location": "E 22nd Av from Carolina St to Fraser St",
-    "comp_date": "2025-05-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eac8bdd4-4d04-4d35-a19f-ee2dc53982d3",
+    "location": "W 9th Av from Trimble St to Sasamat St",
+    "comp_date": "2025-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11dda38b-1672-4a1f-852d-844f0e47ca1b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.09203910080531,
-              49.251037245312546
-            ],
-            [
-              -123.09082788227829,
-              49.25101870223014
-            ]
+            -123.20602961127096,
+            49.26466640892252
           ],
           [
-            [
-              -123.09082788227829,
-              49.25101870223014
-            ],
-            [
-              -123.09006832070415,
-              49.251007243271715
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09105371154618,
-      "lat": 49.251022192215636
-    }
-  },
-  {
-    "project": "lane south of W 26th Av from Dunbar St to Collingwood St",
-    "street": null,
-    "location": "lane south of W 26th Av from Dunbar St to Collingwood St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5985a7f5-409c-4dd3-9200-ab32f9e8f3ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18346127832153,
-              49.24853559151825
-            ],
-            [
-              -123.1852000896466,
-              49.24854274797235
-            ]
-          ],
-          [
-            [
-              -123.18180221728677,
-              49.24852849931054
-            ],
-            [
-              -123.18346127832153,
-              49.24853559151825
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18350115318331,
-      "lat": 49.24853569118502
-    }
-  },
-  {
-    "project": "Ash St from W 20th Av to W 21st Av",
-    "street": null,
-    "location": "Ash St from W 20th Av to W 21st Av",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2788beb5-c1ce-4675-a1dd-5edfcdb0782b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11827016415977,
-              49.25335468357201
-            ],
-            [
-              -123.11828191789542,
-              49.25290221182652
-            ]
-          ],
-          [
-            [
-              -123.11828191789542,
-              49.25290221182652
-            ],
-            [
-              -123.11829992451139,
-              49.25245003048414
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11828348041968,
-      "lat": 49.252902305578964
-    }
-  },
-  {
-    "project": "W 14th Av from Alder St to Spruce St",
-    "street": null,
-    "location": "W 14th Av from Alder St to Spruce St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/67f90391-63e1-4257-8eeb-24ffbf8d28ca",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12916201934432,
-            49.258758160154116
-          ],
-          [
-            -123.13153170809912,
-            49.258795947203
+            -123.20906860970415,
+            49.2647141025964
           ]
         ],
         "type": "LineString"
@@ -203,326 +51,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13034686372173,
-      "lat": 49.25877705367856
-    }
-  },
-  {
-    "project": "Balaclava St from W 27th Av to W 28th Av",
-    "street": null,
-    "location": "Balaclava St from W 27th Av to W 28th Av",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b6e941f5-4fce-4f6b-b5d0-71c8d0f39aa0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1756944764875,
-              49.24898030770862
-            ],
-            [
-              -123.17569857848385,
-              49.24850609076822
-            ]
-          ],
-          [
-            [
-              -123.17569857848385,
-              49.24850609076822
-            ],
-            [
-              -123.17570269153639,
-              49.24803113616258
-            ]
-          ],
-          [
-            [
-              -123.17570269153639,
-              49.24803113616258
-            ],
-            [
-              -123.17570677704191,
-              49.24755618155939
-            ]
-          ],
-          [
-            [
-              -123.17570677704191,
-              49.24755618155939
-            ],
-            [
-              -123.17571089021637,
-              49.24708129883663
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17570268476152,
-      "lat": 49.248030803284756
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 900 Block of Mainland St. From Smithe St to 20m Sout",
-    "street": null,
-    "location": "Both Sides of the Street of 900 Block of Mainland St. From Smithe St to 20m Sout",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cf4bc519-8dae-4c4a-9960-6a061103aa50",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11741996155244,
-            49.27769710098195
-          ],
-          [
-            -123.11768945613767,
-            49.27750721878965
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11755470884506,
-      "lat": 49.27760215988581
-    }
-  },
-  {
-    "project": "W 15th Av from Balaclava St to Carnarvon St",
-    "street": null,
-    "location": "W 15th Av from Balaclava St to Carnarvon St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4009fdc1-08b2-47d2-84e2-85bb0202275b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17223837279155,
-            49.25872189837784
-          ],
-          [
-            -123.17417152460511,
-            49.25875195882128
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17320494869833,
-      "lat": 49.25873692859956
-    }
-  },
-  {
-    "project": "Jackson Av from E Pender St to Keefer St",
-    "street": null,
-    "location": "Jackson Av from E Pender St to Keefer St",
-    "comp_date": "2025-05-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a301dcaa-5522-4113-b56a-c63eec5f42d6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09347648547548,
-            49.28026993195084
-          ],
-          [
-            -123.0935158157768,
-            49.27936491304723
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09349615062614,
-      "lat": 49.279817422499036
-    }
-  },
-  {
-    "project": "Both Sides of Lane West of 3600 Block of Arbutus Street from W 20th Avenue to La",
-    "street": null,
-    "location": "Both Sides of Lane West of 3600 Block of Arbutus Street from W 20th Avenue to La",
-    "comp_date": "2025-05-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e074bf1-8a9d-4d42-8d54-65a76e40b159",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15371716236915,
-              49.25440563718021
-            ],
-            [
-              -123.15376785294313,
-              49.253055717526195
-            ]
-          ],
-          [
-            [
-              -123.15303905856229,
-              49.25349254001205
-            ],
-            [
-              -123.15465439818615,
-              49.25352342066631
-            ]
-          ],
-          [
-            [
-              -123.1548657526631,
-              49.25442773002868
-            ],
-            [
-              -123.15300556555172,
-              49.25440290546834
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15385183599902,
-      "lat": 49.253920008693136
-    }
-  },
-  {
-    "project": "1847 Larch St",
-    "street": null,
-    "location": "1847 Larch St",
-    "comp_date": "2025-05-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be066dd0-b0ae-414d-b2a8-18ae5bede434",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16221414090087,
-              49.26929902583049
-            ],
-            [
-              -123.1622373631512,
-              49.26858402789452
-            ]
-          ],
-          [
-            [
-              -123.1622124984998,
-              49.26916159761737
-            ],
-            [
-              -123.16187644860513,
-              49.26916159761737
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16216781292354,
-      "lat": 49.2690118645136
-    }
-  },
-  {
-    "project": "W 14th Av from Alder St to Spruce St",
-    "street": null,
-    "location": "W 14th Av from Alder St to Spruce St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5a23530-2fa8-4fb1-b74f-6521841a42b4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12916201934432,
-            49.258758160154116
-          ],
-          [
-            -123.13153170809912,
-            49.258795947203
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13034686372173,
-      "lat": 49.25877705367856
-    }
-  },
-  {
-    "project": "E 22nd Ave from Welwyn to Commercial St",
-    "street": null,
-    "location": "E 22nd Ave from Welwyn to Commercial St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c12af037-707a-4c67-a9d1-67d4c61acc15",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06939529979155,
-            49.25034476317285
-          ],
-          [
-            -123.06815875347702,
-            49.250324275565845
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06877702663427,
-      "lat": 49.250334519369346
-    }
-  },
-  {
-    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "street": null,
-    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11827306447398,
-            49.2533240999291
-          ],
-          [
-            -123.11829479330822,
-            49.252487792303015
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1182839288911,
-      "lat": 49.25290594611606
+      "lon": -123.20754911048753,
+      "lat": 49.26469025575947
     }
   },
   {
@@ -610,6 +140,90 @@
     }
   },
   {
+    "project": "W 14th Av from Alder St to Spruce St",
+    "street": null,
+    "location": "W 14th Av from Alder St to Spruce St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5a23530-2fa8-4fb1-b74f-6521841a42b4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12916201934432,
+            49.258758160154116
+          ],
+          [
+            -123.13153170809912,
+            49.258795947203
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13034686372173,
+      "lat": 49.25877705367856
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn to Commercial St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c12af037-707a-4c67-a9d1-67d4c61acc15",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06939529979155,
+            49.25034476317285
+          ],
+          [
+            -123.06815875347702,
+            49.250324275565845
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06877702663427,
+      "lat": 49.250334519369346
+    }
+  },
+  {
+    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "street": null,
+    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11827306447398,
+            49.2533240999291
+          ],
+          [
+            -123.11829479330822,
+            49.252487792303015
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1182839288911,
+      "lat": 49.25290594611606
+    }
+  },
+  {
     "project": "B/S of the Street of 3400 Block of Wellington Ave from McGeer St to Joyce St\r\nB/",
     "street": null,
     "location": "B/S of the Street of 3400 Block of Wellington Ave from McGeer St to Joyce St\r\nB/",
@@ -677,6 +291,46 @@
     "geo_point_2d": {
       "lon": -123.03004741318728,
       "lat": 49.240059762873095
+    }
+  },
+  {
+    "project": "1847 Larch St",
+    "street": null,
+    "location": "1847 Larch St",
+    "comp_date": "2025-06-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be066dd0-b0ae-414d-b2a8-18ae5bede434",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16221414090087,
+              49.26929902583049
+            ],
+            [
+              -123.1622373631512,
+              49.26858402789452
+            ]
+          ],
+          [
+            [
+              -123.1622124984998,
+              49.26916159761737
+            ],
+            [
+              -123.16187644860513,
+              49.26916159761737
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16216781292354,
+      "lat": 49.2690118645136
     }
   },
   {
@@ -808,34 +462,6 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th and W 7thAv",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17113818591342,
-            49.266648429690406
-          ],
-          [
-            -123.1711589768034,
-            49.26587894302486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
-    }
-  },
-  {
     "project": "Bayswater St from W 6th Av to W 7th Av",
     "street": null,
     "location": "Bayswater St from W 6th Av to W 7th Av",
@@ -876,43 +502,31 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "project": "Bayswater St between W 6th and W 7thAv",
     "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.1389720963772,
-              49.28194649366418
-            ],
-            [
-              -123.13768013933559,
-              49.282797540693565
-            ]
+            -123.17113818591342,
+            49.266648429690406
           ],
           [
-            [
-              -123.1388538780858,
-              49.28255792699605
-            ],
-            [
-              -123.13795879673671,
-              49.28197403586924
-            ]
+            -123.1711589768034,
+            49.26587894302486
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13835889218282,
-      "lat": 49.282328695445585
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
     }
   },
   {
@@ -973,6 +587,134 @@
     "geo_point_2d": {
       "lon": -123.06881950144792,
       "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29e8c77d-8d01-4891-bc69-ed2a84a45100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1389720963772,
+              49.28194649366418
+            ],
+            [
+              -123.13768013933559,
+              49.282797540693565
+            ]
+          ],
+          [
+            [
+              -123.1388538780858,
+              49.28255792699605
+            ],
+            [
+              -123.13795879673671,
+              49.28197403586924
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13835889218282,
+      "lat": 49.282328695445585
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6ea68898-f8c2-4136-beda-0843ecf59af8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0694098255357,
+            49.250352416228964
+          ],
+          [
+            -123.06815380101884,
+            49.25032711139531
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878181327725,
+      "lat": 49.250339763812136
     }
   },
   {
@@ -1511,50 +1253,6 @@
     "geo_point_2d": {
       "lon": -123.12959382976895,
       "lat": 49.28227240769172
-    }
-  },
-  {
-    "project": "Path between Creekside Community Centre and Science World",
-    "street": null,
-    "location": "Path between Creekside Community Centre and Science World",
-    "comp_date": "2026-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/64b4b3ce-a7a1-44af-bdd1-87d56ceb39d1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10370951239136,
-              49.27416759796921
-            ],
-            [
-              -123.10369034436268,
-              49.27390484635771
-            ]
-          ],
-          [
-            [
-              -123.10259774991069,
-              49.27288510684218
-            ],
-            [
-              -123.10258816589635,
-              49.27225948931459
-            ],
-            [
-              -123.10410246282876,
-              49.27222195186744
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10318835311112,
-      "lat": 49.2725237976014
     }
   },
   {
