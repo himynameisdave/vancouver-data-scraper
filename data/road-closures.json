@@ -56,90 +56,6 @@
     }
   },
   {
-    "project": "Jackson Av between E Pender and Keefer St",
-    "street": null,
-    "location": "Jackson Av between E Pender and Keefer St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/64b2512d-f6b2-4bd1-9bcd-a6f6d5ed9450",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09349093037973,
-            49.280231053620724
-          ],
-          [
-            -123.0935299285846,
-            49.27941232249327
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09351042948217,
-      "lat": 49.279821688057005
-    }
-  },
-  {
-    "project": "W 14th Ave between Alder St and Spruce St",
-    "street": null,
-    "location": "W 14th Ave between Alder St and Spruce St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/859a81e0-91c0-499d-bb3f-2b0a3cc6ad90",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13148317785232,
-            49.25880406198789
-          ],
-          [
-            -123.12924508956179,
-            49.258769577712286
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13036413370705,
-      "lat": 49.25878681985009
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
-    "street": null,
-    "location": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd6f9ed5-c289-4126-8de4-571ba8dae6b5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17494969118191,
-            49.2214239356673
-          ],
-          [
-            -123.17384236415317,
-            49.221410159726105
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17439602766754,
-      "lat": 49.221417047696704
-    }
-  },
-  {
     "project": "W 14th Av from Alder St to Spruce St",
     "street": null,
     "location": "W 14th Av from Alder St to Spruce St",
@@ -224,6 +140,130 @@
     }
   },
   {
+    "project": "Jackson Av between E Pender and Keefer St",
+    "street": null,
+    "location": "Jackson Av between E Pender and Keefer St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/64b2512d-f6b2-4bd1-9bcd-a6f6d5ed9450",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09349093037973,
+            49.280231053620724
+          ],
+          [
+            -123.0935299285846,
+            49.27941232249327
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09351042948217,
+      "lat": 49.279821688057005
+    }
+  },
+  {
+    "project": "W 14th Ave between Alder St and Spruce St",
+    "street": null,
+    "location": "W 14th Ave between Alder St and Spruce St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/859a81e0-91c0-499d-bb3f-2b0a3cc6ad90",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13148317785232,
+            49.25880406198789
+          ],
+          [
+            -123.12924508956179,
+            49.258769577712286
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13036413370705,
+      "lat": 49.25878681985009
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
+    "street": null,
+    "location": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd6f9ed5-c289-4126-8de4-571ba8dae6b5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17494969118191,
+            49.2214239356673
+          ],
+          [
+            -123.17384236415317,
+            49.221410159726105
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17439602766754,
+      "lat": 49.221417047696704
+    }
+  },
+  {
+    "project": "1847 Larch St",
+    "street": null,
+    "location": "1847 Larch St",
+    "comp_date": "2025-06-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be066dd0-b0ae-414d-b2a8-18ae5bede434",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16221414090087,
+              49.26929902583049
+            ],
+            [
+              -123.1622373631512,
+              49.26858402789452
+            ]
+          ],
+          [
+            [
+              -123.1622124984998,
+              49.26916159761737
+            ],
+            [
+              -123.16187644860513,
+              49.26916159761737
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16216781292354,
+      "lat": 49.2690118645136
+    }
+  },
+  {
     "project": "B/S of the Street of 3400 Block of Wellington Ave from McGeer St to Joyce St\r\nB/",
     "street": null,
     "location": "B/S of the Street of 3400 Block of Wellington Ave from McGeer St to Joyce St\r\nB/",
@@ -291,46 +331,6 @@
     "geo_point_2d": {
       "lon": -123.03004741318728,
       "lat": 49.240059762873095
-    }
-  },
-  {
-    "project": "1847 Larch St",
-    "street": null,
-    "location": "1847 Larch St",
-    "comp_date": "2025-06-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be066dd0-b0ae-414d-b2a8-18ae5bede434",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16221414090087,
-              49.26929902583049
-            ],
-            [
-              -123.1622373631512,
-              49.26858402789452
-            ]
-          ],
-          [
-            [
-              -123.1622124984998,
-              49.26916159761737
-            ],
-            [
-              -123.16187644860513,
-              49.26916159761737
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16216781292354,
-      "lat": 49.2690118645136
     }
   },
   {
@@ -462,6 +462,34 @@
     }
   },
   {
+    "project": "Bayswater St between W 6th and W 7thAv",
+    "street": null,
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17113818591342,
+            49.266648429690406
+          ],
+          [
+            -123.1711589768034,
+            49.26587894302486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
+    }
+  },
+  {
     "project": "Bayswater St from W 6th Av to W 7th Av",
     "street": null,
     "location": "Bayswater St from W 6th Av to W 7th Av",
@@ -499,94 +527,6 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
-    }
-  },
-  {
-    "project": "Bayswater St between W 6th and W 7thAv",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17113818591342,
-            49.266648429690406
-          ],
-          [
-            -123.1711589768034,
-            49.26587894302486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
-    }
-  },
-  {
-    "project": "E 22nd Av from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Av from Welwyn St to Commercial St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fe11fb09-483b-4366-ad20-674e51a79b01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06986009176771,
-              49.25034580560083
-            ],
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ]
-          ],
-          [
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ],
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ]
-          ],
-          [
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ],
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ]
-          ],
-          [
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ],
-            [
-              -123.06777890090561,
-              49.250314131777344
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06881950144792,
-      "lat": 49.25032945584743
     }
   },
   {
@@ -715,6 +655,66 @@
     "geo_point_2d": {
       "lon": -123.06878181327725,
       "lat": 49.250339763812136
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fe11fb09-483b-4366-ad20-674e51a79b01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
     }
   },
   {
