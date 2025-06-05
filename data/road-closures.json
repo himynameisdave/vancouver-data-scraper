@@ -96,6 +96,130 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 900 Block of W 26th Avenue from Laurel Street to 60m",
+    "street": null,
+    "location": "Both Sides of the Street of 900 Block of W 26th Avenue from Laurel Street to 60m",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07d82298-acab-4fac-8d66-3afcb0a9d486",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12479333230858,
+            49.24811267102041
+          ],
+          [
+            -123.12584126704935,
+            49.248126560881815
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12531729967898,
+      "lat": 49.24811961595111
+    }
+  },
+  {
+    "project": "W 37th Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 37th Av from Wallace St to Highbury St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7cc7b07e-6a74-4abe-820e-81ff33e8f41a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18819664546643,
+            49.23858567752836
+          ],
+          [
+            -123.19095214128048,
+            49.23859403700919
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18957439337345,
+      "lat": 49.23858985726878
+    }
+  },
+  {
+    "project": "E 25th Av from Victoria Dr to Sidney St",
+    "street": null,
+    "location": "E 25th Av from Victoria Dr to Sidney St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d792299-8ff2-4f56-8c6f-c26aeb926f98",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06505903684683,
+              49.24850635052036
+            ],
+            [
+              -123.06440034447537,
+              49.248503454303034
+            ]
+          ],
+          [
+            [
+              -123.06440034447537,
+              49.248503454303034
+            ],
+            [
+              -123.06269429617241,
+              49.24849597316992
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06387666652196,
+      "lat": 49.24850115902853
+    }
+  },
+  {
+    "project": "East Side of 500 Block of Carrall St from Keefer St to 30m North of Keefer St.",
+    "street": null,
+    "location": "East Side of 500 Block of Carrall St from Keefer St to 30m North of Keefer St.",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d91a04a5-d9d4-48e0-88dc-64937c717e35",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10441798816456,
+            49.2792772938393
+          ],
+          [
+            -123.10440001507479,
+            49.279729711816145
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10440900161967,
+      "lat": 49.27950350282772
+    }
+  },
+  {
     "project": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
     "street": null,
     "location": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
@@ -245,130 +369,6 @@
     "geo_point_2d": {
       "lon": -123.17439602766754,
       "lat": 49.221417047696704
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 900 Block of W 26th Avenue from Laurel Street to 60m",
-    "street": null,
-    "location": "Both Sides of the Street of 900 Block of W 26th Avenue from Laurel Street to 60m",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07d82298-acab-4fac-8d66-3afcb0a9d486",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12479333230858,
-            49.24811267102041
-          ],
-          [
-            -123.12584126704935,
-            49.248126560881815
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12531729967898,
-      "lat": 49.24811961595111
-    }
-  },
-  {
-    "project": "W 37th Av from Wallace St to Highbury St",
-    "street": null,
-    "location": "W 37th Av from Wallace St to Highbury St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7cc7b07e-6a74-4abe-820e-81ff33e8f41a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18819664546643,
-            49.23858567752836
-          ],
-          [
-            -123.19095214128048,
-            49.23859403700919
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18957439337345,
-      "lat": 49.23858985726878
-    }
-  },
-  {
-    "project": "E 25th Av from Victoria Dr to Sidney St",
-    "street": null,
-    "location": "E 25th Av from Victoria Dr to Sidney St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d792299-8ff2-4f56-8c6f-c26aeb926f98",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06505903684683,
-              49.24850635052036
-            ],
-            [
-              -123.06440034447537,
-              49.248503454303034
-            ]
-          ],
-          [
-            [
-              -123.06440034447537,
-              49.248503454303034
-            ],
-            [
-              -123.06269429617241,
-              49.24849597316992
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06387666652196,
-      "lat": 49.24850115902853
-    }
-  },
-  {
-    "project": "East Side of 500 Block of Carrall St from Keefer St to 30m North of Keefer St.",
-    "street": null,
-    "location": "East Side of 500 Block of Carrall St from Keefer St to 30m North of Keefer St.",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d91a04a5-d9d4-48e0-88dc-64937c717e35",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10441798816456,
-            49.2792772938393
-          ],
-          [
-            -123.10440001507479,
-            49.279729711816145
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10440900161967,
-      "lat": 49.27950350282772
     }
   },
   {
@@ -624,6 +624,34 @@
     }
   },
   {
+    "project": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
+    "street": null,
+    "location": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d88daa67-05b7-419f-b763-70d76d708a77",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10949906853007,
+            49.26216260448996
+          ],
+          [
+            -123.10905113962478,
+            49.262159103676254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10927510407743,
+      "lat": 49.262160854083106
+    }
+  },
+  {
     "project": "Bayswater St from W 6th Av to W 7th Av",
     "street": null,
     "location": "Bayswater St from W 6th Av to W 7th Av",
@@ -661,34 +689,6 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
-    }
-  },
-  {
-    "project": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
-    "street": null,
-    "location": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d88daa67-05b7-419f-b763-70d76d708a77",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10949906853007,
-            49.26216260448996
-          ],
-          [
-            -123.10905113962478,
-            49.262159103676254
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10927510407743,
-      "lat": 49.262160854083106
     }
   },
   {
