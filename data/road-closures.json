@@ -1,73 +1,5 @@
 [
   {
-    "project": "Graveley St from Windermere St to Rupert St",
-    "street": null,
-    "location": "Graveley St from Windermere St to Rupert St",
-    "comp_date": "2025-06-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4c974058-091e-4b84-8414-1f68c1428db8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03641564401583,
-              49.27041346082956
-            ],
-            [
-              -123.03443595221205,
-              49.270410613643435
-            ]
-          ],
-          [
-            [
-              -123.03443595221205,
-              49.270410613643435
-            ],
-            [
-              -123.03367872513009,
-              49.27040965846865
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03504718463832,
-      "lat": 49.27041151123441
-    }
-  },
-  {
-    "project": "W 17th Av from Manitoba St to Ontario St",
-    "street": null,
-    "location": "W 17th Av from Manitoba St to Ontario St",
-    "comp_date": "2025-06-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4b8c9e02-c766-4eb2-8829-5820d492b5bc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1049835759306,
-            49.25566371264969
-          ],
-          [
-            -123.10714854922202,
-            49.25570494715035
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1060660625763,
-      "lat": 49.25568432990002
-    }
-  },
-  {
     "project": "W 9th Av from Trimble St to Sasamat St",
     "street": null,
     "location": "W 9th Av from Trimble St to Sasamat St",
@@ -96,6 +28,90 @@
     }
   },
   {
+    "project": "W 14th Av from Alder St to Spruce St",
+    "street": null,
+    "location": "W 14th Av from Alder St to Spruce St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5a23530-2fa8-4fb1-b74f-6521841a42b4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12916201934432,
+            49.258758160154116
+          ],
+          [
+            -123.13153170809912,
+            49.258795947203
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13034686372173,
+      "lat": 49.25877705367856
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn to Commercial St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c12af037-707a-4c67-a9d1-67d4c61acc15",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06939529979155,
+            49.25034476317285
+          ],
+          [
+            -123.06815875347702,
+            49.250324275565845
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06877702663427,
+      "lat": 49.250334519369346
+    }
+  },
+  {
+    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "street": null,
+    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11827306447398,
+            49.2533240999291
+          ],
+          [
+            -123.11829479330822,
+            49.252487792303015
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1182839288911,
+      "lat": 49.25290594611606
+    }
+  },
+  {
     "project": "Both Sides of the Street of 900 Block of W 26th Avenue from Laurel Street to 60m",
     "street": null,
     "location": "Both Sides of the Street of 900 Block of W 26th Avenue from Laurel Street to 60m",
@@ -121,6 +137,34 @@
     "geo_point_2d": {
       "lon": -123.12531729967898,
       "lat": 49.24811961595111
+    }
+  },
+  {
+    "project": "Nicola St from Comox St to Henshaw Ln",
+    "street": null,
+    "location": "Nicola St from Comox St to Henshaw Ln",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19e32eab-e6bb-48a1-bbd2-1f1dc23c6cf3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13482838783705,
+            49.28621381447107
+          ],
+          [
+            -123.13535946101509,
+            49.28586196809988
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13509392442606,
+      "lat": 49.28603789128548
     }
   },
   {
@@ -189,6 +233,34 @@
     "geo_point_2d": {
       "lon": -123.06387666652196,
       "lat": 49.24850115902853
+    }
+  },
+  {
+    "project": "W 15th Av from Blenheim St to Trutch St",
+    "street": null,
+    "location": "W 15th Av from Blenheim St to Trutch St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d5a3f4cf-db6d-449f-a205-5ce0f5d42a2a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17610716633051,
+            49.258782019105894
+          ],
+          [
+            -123.17803970406106,
+            49.2588119707888
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17707343519578,
+      "lat": 49.258796994947346
     }
   },
   {
@@ -344,6 +416,34 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 3800 Block of W 37th Av. From Wallace St to East PL",
+    "street": null,
+    "location": "Both Sides of the Street of 3800 Block of W 37th Av. From Wallace St to East PL",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ea08858-26e5-460c-a71d-4965290f12e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19096190851586,
+            49.23860282918653
+          ],
+          [
+            -123.18937285242022,
+            49.23859396156777
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19016738046804,
+      "lat": 49.23859839537715
+    }
+  },
+  {
     "project": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
     "street": null,
     "location": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
@@ -369,90 +469,6 @@
     "geo_point_2d": {
       "lon": -123.17439602766754,
       "lat": 49.221417047696704
-    }
-  },
-  {
-    "project": "W 14th Av from Alder St to Spruce St",
-    "street": null,
-    "location": "W 14th Av from Alder St to Spruce St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5a23530-2fa8-4fb1-b74f-6521841a42b4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12916201934432,
-            49.258758160154116
-          ],
-          [
-            -123.13153170809912,
-            49.258795947203
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13034686372173,
-      "lat": 49.25877705367856
-    }
-  },
-  {
-    "project": "E 22nd Ave from Welwyn to Commercial St",
-    "street": null,
-    "location": "E 22nd Ave from Welwyn to Commercial St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c12af037-707a-4c67-a9d1-67d4c61acc15",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06939529979155,
-            49.25034476317285
-          ],
-          [
-            -123.06815875347702,
-            49.250324275565845
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06877702663427,
-      "lat": 49.250334519369346
-    }
-  },
-  {
-    "project": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "street": null,
-    "location": "3600 Ash St between W 20th and W 21st Ave.\r\nTime : 8:40-9:10AM, 2:45-3:30PM\r\nPla",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ea50690c-6e83-44be-84d5-e4cdb6162750",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11827306447398,
-            49.2533240999291
-          ],
-          [
-            -123.11829479330822,
-            49.252487792303015
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1182839288911,
-      "lat": 49.25290594611606
     }
   },
   {
@@ -624,6 +640,34 @@
     }
   },
   {
+    "project": "Bayswater St between W 6th and W 7thAv",
+    "street": null,
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17113818591342,
+            49.266648429690406
+          ],
+          [
+            -123.1711589768034,
+            49.26587894302486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
+    }
+  },
+  {
     "project": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
     "street": null,
     "location": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
@@ -692,62 +736,6 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th and W 7thAv",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17113818591342,
-            49.266648429690406
-          ],
-          [
-            -123.1711589768034,
-            49.26587894302486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
-    }
-  },
-  {
-    "project": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
-    "street": null,
-    "location": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
-    "comp_date": "2025-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb7e2e05-a628-48e6-ac67-90d0fa8b59ce",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18348239161115,
-            49.272139795903314
-          ],
-          [
-            -123.18282457251058,
-            49.27207649478899
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18315348206087,
-      "lat": 49.27210814534615
-    }
-  },
-  {
     "project": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
     "street": null,
     "location": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
@@ -785,6 +773,114 @@
     "geo_point_2d": {
       "lon": -123.05846871742068,
       "lat": 49.269065589085166
+    }
+  },
+  {
+    "project": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "street": null,
+    "location": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "comp_date": "2025-06-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb7e2e05-a628-48e6-ac67-90d0fa8b59ce",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18348239161115,
+            49.272139795903314
+          ],
+          [
+            -123.18282457251058,
+            49.27207649478899
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18315348206087,
+      "lat": 49.27210814534615
+    }
+  },
+  {
+    "project": "Both Sides of 1500 Block of W 61st Ave from Granville St to 20m West of Granvill",
+    "street": null,
+    "location": "Both Sides of 1500 Block of W 61st Ave from Granville St to 20m West of Granvill",
+    "comp_date": "2025-06-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f3a9f7da-290b-4178-be7f-eb6e9f09b4da",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14030366395008,
+              49.21589291103041
+            ],
+            [
+              -123.14089655203759,
+              49.21589643176466
+            ]
+          ],
+          [
+            [
+              -123.1409294940174,
+              49.21680584284698
+            ],
+            [
+              -123.14095516177669,
+              49.215897668435815
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14080718944639,
+      "lat": 49.21617125866866
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1389720963772,
+              49.28194649366418
+            ],
+            [
+              -123.13768013933559,
+              49.282797540693565
+            ]
+          ],
+          [
+            [
+              -123.1388538780858,
+              49.28255792699605
+            ],
+            [
+              -123.13795879673671,
+              49.28197403586924
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13835889218282,
+      "lat": 49.282328695445585
     }
   },
   {
@@ -845,46 +941,6 @@
     "geo_point_2d": {
       "lon": -123.06881950144792,
       "lat": 49.25032945584743
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1389720963772,
-              49.28194649366418
-            ],
-            [
-              -123.13768013933559,
-              49.282797540693565
-            ]
-          ],
-          [
-            [
-              -123.1388538780858,
-              49.28255792699605
-            ],
-            [
-              -123.13795879673671,
-              49.28197403586924
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13835889218282,
-      "lat": 49.282328695445585
     }
   },
   {
