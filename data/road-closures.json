@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 9th Av from Trimble St to Sasamat St",
-    "street": null,
-    "location": "W 9th Av from Trimble St to Sasamat St",
-    "comp_date": "2025-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11dda38b-1672-4a1f-852d-844f0e47ca1b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.20602961127096,
-            49.26466640892252
-          ],
-          [
-            -123.20906860970415,
-            49.2647141025964
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.20754911048753,
-      "lat": 49.26469025575947
-    }
-  },
-  {
     "project": "W 14th Av from Alder St to Spruce St",
     "street": null,
     "location": "W 14th Av from Alder St to Spruce St",
@@ -109,6 +81,158 @@
     "geo_point_2d": {
       "lon": -123.1182839288911,
       "lat": 49.25290594611606
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e0c21d9-dfff-4334-8ce1-b5ca4514bddd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05205830493664,
+            49.272295665638836
+          ],
+          [
+            -123.05206366935468,
+            49.271984156242524
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05206098714567,
+      "lat": 49.27213991094068
+    }
+  },
+  {
+    "project": "Jackson Av between E Pender and Keefer St",
+    "street": null,
+    "location": "Jackson Av between E Pender and Keefer St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/64b2512d-f6b2-4bd1-9bcd-a6f6d5ed9450",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09349093037973,
+            49.280231053620724
+          ],
+          [
+            -123.0935299285846,
+            49.27941232249327
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09351042948217,
+      "lat": 49.279821688057005
+    }
+  },
+  {
+    "project": "South Side of 1300-1400 Block of E Georgia St from Clark Dr to 20m East of Clark",
+    "street": null,
+    "location": "South Side of 1300-1400 Block of E Georgia St from Clark Dr to 20m East of Clark",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6a7f1401-6302-4ad2-a15f-5f7ac5437230",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07715546248171,
+              49.278539540197585
+            ],
+            [
+              -123.07665940217639,
+              49.278532507656934
+            ]
+          ],
+          [
+            [
+              -123.06839172995427,
+              49.27843639613209
+            ],
+            [
+              -123.06900641337613,
+              49.278443428686415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07236501255588,
+      "lat": 49.27848283683209
+    }
+  },
+  {
+    "project": "W 14th Ave between Alder St and Spruce St",
+    "street": null,
+    "location": "W 14th Ave between Alder St and Spruce St",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/859a81e0-91c0-499d-bb3f-2b0a3cc6ad90",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13148317785232,
+            49.25880406198789
+          ],
+          [
+            -123.12924508956179,
+            49.258769577712286
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13036413370705,
+      "lat": 49.25878681985009
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3800 Block of W 37th Av. From Wallace St to East PL",
+    "street": null,
+    "location": "Both Sides of the Street of 3800 Block of W 37th Av. From Wallace St to East PL",
+    "comp_date": "2025-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ea08858-26e5-460c-a71d-4965290f12e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19096190851586,
+            49.23860282918653
+          ],
+          [
+            -123.18937285242022,
+            49.23859396156777
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19016738046804,
+      "lat": 49.23859839537715
     }
   },
   {
@@ -292,186 +416,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1e0c21d9-dfff-4334-8ce1-b5ca4514bddd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05205830493664,
-            49.272295665638836
-          ],
-          [
-            -123.05206366935468,
-            49.271984156242524
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05206098714567,
-      "lat": 49.27213991094068
-    }
-  },
-  {
-    "project": "Jackson Av between E Pender and Keefer St",
-    "street": null,
-    "location": "Jackson Av between E Pender and Keefer St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/64b2512d-f6b2-4bd1-9bcd-a6f6d5ed9450",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09349093037973,
-            49.280231053620724
-          ],
-          [
-            -123.0935299285846,
-            49.27941232249327
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09351042948217,
-      "lat": 49.279821688057005
-    }
-  },
-  {
-    "project": "South Side of 1300-1400 Block of E Georgia St from Clark Dr to 20m East of Clark",
-    "street": null,
-    "location": "South Side of 1300-1400 Block of E Georgia St from Clark Dr to 20m East of Clark",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6a7f1401-6302-4ad2-a15f-5f7ac5437230",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07715546248171,
-              49.278539540197585
-            ],
-            [
-              -123.07665940217639,
-              49.278532507656934
-            ]
-          ],
-          [
-            [
-              -123.06839172995427,
-              49.27843639613209
-            ],
-            [
-              -123.06900641337613,
-              49.278443428686415
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07236501255588,
-      "lat": 49.27848283683209
-    }
-  },
-  {
-    "project": "W 14th Ave between Alder St and Spruce St",
-    "street": null,
-    "location": "W 14th Ave between Alder St and Spruce St",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/859a81e0-91c0-499d-bb3f-2b0a3cc6ad90",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13148317785232,
-            49.25880406198789
-          ],
-          [
-            -123.12924508956179,
-            49.258769577712286
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13036413370705,
-      "lat": 49.25878681985009
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3800 Block of W 37th Av. From Wallace St to East PL",
-    "street": null,
-    "location": "Both Sides of the Street of 3800 Block of W 37th Av. From Wallace St to East PL",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8ea08858-26e5-460c-a71d-4965290f12e2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19096190851586,
-            49.23860282918653
-          ],
-          [
-            -123.18937285242022,
-            49.23859396156777
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19016738046804,
-      "lat": 49.23859839537715
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
-    "street": null,
-    "location": "Both Sides of the Street of 3000-3100 Block of W 55th Av. From 60m West of Carna",
-    "comp_date": "2025-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd6f9ed5-c289-4126-8de4-571ba8dae6b5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17494969118191,
-            49.2214239356673
-          ],
-          [
-            -123.17384236415317,
-            49.221410159726105
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17439602766754,
-      "lat": 49.221417047696704
-    }
-  },
-  {
     "project": "1847 Larch St",
     "street": null,
     "location": "1847 Larch St",
@@ -512,22 +456,22 @@
     }
   },
   {
-    "project": "Pine St - W 1st Av to W 6th Av",
+    "project": "W 23rd Av from Crown St to Wallace St",
     "street": null,
-    "location": "Pine St - W 1st Av to W 6th Av",
-    "comp_date": "2025-06-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
+    "location": "W 23rd Av from Crown St to Wallace St",
+    "comp_date": "2025-06-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/33bf4361-42bb-4808-9df7-ab7be84986b2",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14310073067321,
-            49.27061103047308
+            -123.19083210713515,
+            49.25198314588809
           ],
           [
-            -123.14326954203545,
-            49.26624625255849
+            -123.19359786534,
+            49.25199335058801
           ]
         ],
         "type": "LineString"
@@ -535,8 +479,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14318513635435,
-      "lat": 49.26842864151578
+      "lon": -123.19221498623757,
+      "lat": 49.25198824823805
     }
   },
   {
@@ -668,34 +612,6 @@
     }
   },
   {
-    "project": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
-    "street": null,
-    "location": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d88daa67-05b7-419f-b763-70d76d708a77",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10949906853007,
-            49.26216260448996
-          ],
-          [
-            -123.10905113962478,
-            49.262159103676254
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10927510407743,
-      "lat": 49.262160854083106
-    }
-  },
-  {
     "project": "Bayswater St from W 6th Av to W 7th Av",
     "street": null,
     "location": "Bayswater St from W 6th Av to W 7th Av",
@@ -733,6 +649,34 @@
     "geo_point_2d": {
       "lon": -123.17114191778002,
       "lat": 49.26626261671876
+    }
+  },
+  {
+    "project": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
+    "street": null,
+    "location": "South Side of the Street of 100 Block of W 10th Ave from Columbia St to 22m East",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d88daa67-05b7-419f-b763-70d76d708a77",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10949906853007,
+            49.26216260448996
+          ],
+          [
+            -123.10905113962478,
+            49.262159103676254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10927510407743,
+      "lat": 49.262160854083106
     }
   },
   {
@@ -884,6 +828,46 @@
     }
   },
   {
+    "project": "Collingwood St from W 26th Av to W 27th Av",
+    "street": null,
+    "location": "Collingwood St from W 26th Av to W 27th Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95fd86f3-e357-443a-a60a-bf8b07a1bcfa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18179794105183,
+              49.24900295963437
+            ],
+            [
+              -123.18180221728677,
+              49.24852849931054
+            ]
+          ],
+          [
+            [
+              -123.18180221728677,
+              49.24852849931054
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1818022992201,
+      "lat": 49.248528673654995
+    }
+  },
+  {
     "project": "E 22nd Av from Welwyn St to Commercial St",
     "street": null,
     "location": "E 22nd Av from Welwyn St to Commercial St",
@@ -941,6 +925,34 @@
     "geo_point_2d": {
       "lon": -123.06881950144792,
       "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "Pine St - W 1st Av to W 6th Av",
+    "street": null,
+    "location": "Pine St - W 1st Av to W 6th Av",
+    "comp_date": "2025-06-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14310073067321,
+            49.27061103047308
+          ],
+          [
+            -123.14326954203545,
+            49.26624625255849
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14318513635435,
+      "lat": 49.26842864151578
     }
   },
   {
