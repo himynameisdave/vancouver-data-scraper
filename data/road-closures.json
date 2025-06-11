@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 15th Av from Trutch St to Balaclava St",
-    "street": null,
-    "location": "W 15th Av from Trutch St to Balaclava St",
-    "comp_date": "2025-06-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c523e7a1-9131-4522-a205-ae133e87514f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17417152460511,
-            49.25875195882128
-          ],
-          [
-            -123.17610716633051,
-            49.258782019105894
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17513934546781,
-      "lat": 49.25876698896359
-    }
-  },
-  {
     "project": "W 23rd Av from Crown St to Wallace St",
     "street": null,
     "location": "W 23rd Av from Crown St to Wallace St",
@@ -56,76 +28,6 @@
     }
   },
   {
-    "project": "Both Sides of Lane North of 2700 Block of Kingsway from Lane West of Earles St t",
-    "street": null,
-    "location": "Both Sides of Lane North of 2700 Block of Kingsway from Lane West of Earles St t",
-    "comp_date": "2025-06-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7f0cb912-82bc-4239-bd51-b92012ff994f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04906929091828,
-              49.23825370776581
-            ],
-            [
-              -123.04991474156058,
-              49.23861455375453
-            ]
-          ],
-          [
-            [
-              -123.04836897232909,
-              49.238968380856846
-            ],
-            [
-              -123.04867766559407,
-              49.23864362184344
-            ]
-          ],
-          [
-            [
-              -123.04870950735751,
-              49.23861413766798
-            ],
-            [
-              -123.04906011720303,
-              49.238265055488
-            ]
-          ],
-          [
-            [
-              -123.04816658442743,
-              49.23842205092808
-            ],
-            [
-              -123.0486871326374,
-              49.23862986531395
-            ]
-          ],
-          [
-            [
-              -123.0489589930155,
-              49.23874270161204
-            ],
-            [
-              -123.04867428883003,
-              49.23862478072559
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04892820873833,
-      "lat": 49.23854315505203
-    }
-  },
-  {
     "project": "Pine St from W 4th Av from Lane North of W 4th Av",
     "street": null,
     "location": "Pine St from W 4th Av from Lane North of W 4th Av",
@@ -151,6 +53,186 @@
     "geo_point_2d": {
       "lon": -123.14322093933258,
       "lat": 49.268195007473864
+    }
+  },
+  {
+    "project": "W 15th Av from Trutch St to Balaclava St",
+    "street": null,
+    "location": "W 15th Av from Trutch St to Balaclava St",
+    "comp_date": "2025-06-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c523e7a1-9131-4522-a205-ae133e87514f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17417152460511,
+            49.25875195882128
+          ],
+          [
+            -123.17610716633051,
+            49.258782019105894
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17513934546781,
+      "lat": 49.25876698896359
+    }
+  },
+  {
+    "project": "Bayswater St between W 6th and W 7thAv",
+    "street": null,
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17113818591342,
+            49.266648429690406
+          ],
+          [
+            -123.1711589768034,
+            49.26587894302486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
+    }
+  },
+  {
+    "project": "Both Sides of 1900 Block of Templeton Dr from E 3rd Ave to E 4th Ave.",
+    "street": null,
+    "location": "Both Sides of 1900 Block of Templeton Dr from E 3rd Ave to E 4th Ave.",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d674a85-c909-4d62-91c3-8c5bb3a09a36",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05999427370332,
+            49.267710866394
+          ],
+          [
+            -123.06001943629228,
+            49.2667424980545
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0600068549978,
+      "lat": 49.26722668222425
+    }
+  },
+  {
+    "project": "Bayswater St from W 6th Av to W 7th Av",
+    "street": null,
+    "location": "Bayswater St from W 6th Av to W 7th Av",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/379a227c-4cdf-424f-8b73-a9d2f0297cfd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17112703125139,
+              49.26668170291654
+            ],
+            [
+              -123.17114138584587,
+              49.266277581060734
+            ]
+          ],
+          [
+            [
+              -123.17114138584587,
+              49.266277581060734
+            ],
+            [
+              -123.17115680504106,
+              49.26584353054699
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114191778002,
+      "lat": 49.26626261671876
+    }
+  },
+  {
+    "project": "Both Sides of 3800 Block of W 37th Ave from Wallace St to East PL of 3845.",
+    "street": null,
+    "location": "Both Sides of 3800 Block of W 37th Ave from Wallace St to East PL of 3845.",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c702b452-3e45-4dfe-a378-2ea70c1bc37f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19093677315338,
+            49.238592894258346
+          ],
+          [
+            -123.18938029396963,
+            49.238592894258346
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19015853356152,
+      "lat": 49.23859289425835
+    }
+  },
+  {
+    "project": "West Side of the Street of 700 Block of Beatty Street from Robson St to W Georgi",
+    "street": null,
+    "location": "West Side of the Street of 700 Block of Beatty Street from Robson St to W Georgi",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ee6a45ef-da1b-4cd2-b68d-87beefac8738",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11401344936095,
+            49.2776092005806
+          ],
+          [
+            -123.11231841767768,
+            49.27872197644294
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11316593351933,
+      "lat": 49.27816558851177
     }
   },
   {
@@ -210,22 +292,22 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th and W 7thAv",
+    "project": "Highway 1 offramp",
     "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "location": "Highway 1 offramp",
+    "comp_date": "2025-06-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c456b96e-df74-4fe9-a2d9-3fd3ad2545cc",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.17113818591342,
-            49.266648429690406
+            -123.0263005371742,
+            49.267285755644025
           ],
           [
-            -123.1711589768034,
-            49.26587894302486
+            -123.02705911665646,
+            49.26948924039061
           ]
         ],
         "type": "LineString"
@@ -233,67 +315,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
+      "lon": -123.02667982691531,
+      "lat": 49.26838749801732
     }
   },
   {
-    "project": "Bayswater St from W 6th Av to W 7th Av",
+    "project": "E 29th Av from Fleming St to Perry St",
     "street": null,
-    "location": "Bayswater St from W 6th Av to W 7th Av",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/379a227c-4cdf-424f-8b73-a9d2f0297cfd",
+    "location": "E 29th Av from Fleming St to Perry St",
+    "comp_date": "2025-06-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/851eae92-80e8-4bd5-a4f6-3d71abcaac01",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.17112703125139,
-              49.26668170291654
-            ],
-            [
-              -123.17114138584587,
-              49.266277581060734
-            ]
+            -123.07215006418913,
+            49.24400229297336
           ],
           [
-            [
-              -123.17114138584587,
-              49.266277581060734
-            ],
-            [
-              -123.17115680504106,
-              49.26584353054699
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114191778002,
-      "lat": 49.26626261671876
-    }
-  },
-  {
-    "project": "West Side of the Street of 700 Block of Beatty Street from Robson St to W Georgi",
-    "street": null,
-    "location": "West Side of the Street of 700 Block of Beatty Street from Robson St to W Georgi",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ee6a45ef-da1b-4cd2-b68d-87beefac8738",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11401344936095,
-            49.2776092005806
-          ],
-          [
-            -123.11231841767768,
-            49.27872197644294
+            -123.07141736234199,
+            49.24398913844618
           ]
         ],
         "type": "LineString"
@@ -301,8 +343,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11316593351933,
-      "lat": 49.27816558851177
+      "lon": -123.07178371326556,
+      "lat": 49.24399571570977
     }
   },
   {
@@ -967,6 +1009,46 @@
     "geo_point_2d": {
       "lon": -123.14114956294104,
       "lat": 49.26826463702996
+    }
+  },
+  {
+    "project": "E 5th Ave and Kamloops St",
+    "street": null,
+    "location": "E 5th Ave and Kamloops St",
+    "comp_date": "2025-07-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/01ade7b5-1c32-4ef7-a2d4-0aabeb93e6a6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ]
+          ],
+          [
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ],
+            [
+              -123.05214709013256,
+              49.26572674504254
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05362945724106,
+      "lat": 49.26568700814056
     }
   },
   {
