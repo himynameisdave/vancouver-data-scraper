@@ -210,6 +210,34 @@
     }
   },
   {
+    "project": "Bayswater St between W 6th and W 7thAv",
+    "street": null,
+    "location": "Bayswater St between W 6th and W 7thAv",
+    "comp_date": "2025-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17113818591342,
+            49.266648429690406
+          ],
+          [
+            -123.1711589768034,
+            49.26587894302486
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17114858135841,
+      "lat": 49.26626368635763
+    }
+  },
+  {
     "project": "Bayswater St from W 6th Av to W 7th Av",
     "street": null,
     "location": "Bayswater St from W 6th Av to W 7th Av",
@@ -278,62 +306,6 @@
     }
   },
   {
-    "project": "Bayswater St between W 6th and W 7thAv",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7thAv",
-    "comp_date": "2025-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/230918ed-8a4a-4717-9af0-6f4b103fe5a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17113818591342,
-            49.266648429690406
-          ],
-          [
-            -123.1711589768034,
-            49.26587894302486
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17114858135841,
-      "lat": 49.26626368635763
-    }
-  },
-  {
-    "project": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
-    "street": null,
-    "location": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
-    "comp_date": "2025-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb7e2e05-a628-48e6-ac67-90d0fa8b59ce",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18348239161115,
-            49.272139795903314
-          ],
-          [
-            -123.18282457251058,
-            49.27207649478899
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18315348206087,
-      "lat": 49.27210814534615
-    }
-  },
-  {
     "project": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
     "street": null,
     "location": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
@@ -374,6 +346,34 @@
     }
   },
   {
+    "project": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "street": null,
+    "location": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "comp_date": "2025-06-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb7e2e05-a628-48e6-ac67-90d0fa8b59ce",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18348239161115,
+            49.272139795903314
+          ],
+          [
+            -123.18282457251058,
+            49.27207649478899
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18315348206087,
+      "lat": 49.27210814534615
+    }
+  },
+  {
     "project": "Both Sides of 1500 Block of W 61st Ave from Granville St to 20m West of Granvill",
     "street": null,
     "location": "Both Sides of 1500 Block of W 61st Ave from Granville St to 20m West of Granvill",
@@ -411,66 +411,6 @@
     "geo_point_2d": {
       "lon": -123.14080718944639,
       "lat": 49.21617125866866
-    }
-  },
-  {
-    "project": "E 22nd Av from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Av from Welwyn St to Commercial St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fe11fb09-483b-4366-ad20-674e51a79b01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06986009176771,
-              49.25034580560083
-            ],
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ]
-          ],
-          [
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ],
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ]
-          ],
-          [
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ],
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ]
-          ],
-          [
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ],
-            [
-              -123.06777890090561,
-              49.250314131777344
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06881950144792,
-      "lat": 49.25032945584743
     }
   },
   {
@@ -551,6 +491,66 @@
     "geo_point_2d": {
       "lon": -123.1818022992201,
       "lat": 49.248528673654995
+    }
+  },
+  {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fe11fb09-483b-4366-ad20-674e51a79b01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
     }
   },
   {
