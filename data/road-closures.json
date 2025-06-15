@@ -28,22 +28,22 @@
     }
   },
   {
-    "project": "Pine St from W 4th Av to Ln N of W 4th Av",
+    "project": "E 29th Av from Fleming St to Perry St",
     "street": null,
-    "location": "Pine St from W 4th Av to Ln N of W 4th Av",
+    "location": "E 29th Av from Fleming St to Perry St",
     "comp_date": "2025-06-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3aaabb55-710d-4fcf-9403-fbaa679a7e94",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/851eae92-80e8-4bd5-a4f6-3d71abcaac01",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14321269108612,
-            49.268413209782835
+            -123.07215006418913,
+            49.24400229297336
           ],
           [
-            -123.14322918757904,
-            49.26797680516489
+            -123.07141736234199,
+            49.24398913844618
           ]
         ],
         "type": "LineString"
@@ -51,8 +51,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14322093933258,
-      "lat": 49.268195007473864
+      "lon": -123.07178371326556,
+      "lat": 49.24399571570977
     }
   },
   {
@@ -730,22 +730,22 @@
     }
   },
   {
-    "project": "E 29th Av from Fleming St to Perry St",
+    "project": "Pine St from W 4th Av to Ln N of W 4th Av",
     "street": null,
-    "location": "E 29th Av from Fleming St to Perry St",
+    "location": "Pine St from W 4th Av to Ln N of W 4th Av",
     "comp_date": "2025-06-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/851eae92-80e8-4bd5-a4f6-3d71abcaac01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3aaabb55-710d-4fcf-9403-fbaa679a7e94",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07215006418913,
-            49.24400229297336
+            -123.14321269108612,
+            49.268413209782835
           ],
           [
-            -123.07141736234199,
-            49.24398913844618
+            -123.14322918757904,
+            49.26797680516489
           ]
         ],
         "type": "LineString"
@@ -753,36 +753,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07178371326556,
-      "lat": 49.24399571570977
-    }
-  },
-  {
-    "project": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
-    "street": null,
-    "location": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
-    "comp_date": "2025-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb7e2e05-a628-48e6-ac67-90d0fa8b59ce",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18348239161115,
-            49.272139795903314
-          ],
-          [
-            -123.18282457251058,
-            49.27207649478899
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18315348206087,
-      "lat": 49.27210814534615
+      "lon": -123.14322093933258,
+      "lat": 49.268195007473864
     }
   },
   {
@@ -811,6 +783,34 @@
     "geo_point_2d": {
       "lon": -123.04014451912693,
       "lat": 49.27511712064306
+    }
+  },
+  {
+    "project": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "street": null,
+    "location": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "comp_date": "2025-06-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb7e2e05-a628-48e6-ac67-90d0fa8b59ce",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18348239161115,
+            49.272139795903314
+          ],
+          [
+            -123.18282457251058,
+            49.27207649478899
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18315348206087,
+      "lat": 49.27210814534615
     }
   },
   {
@@ -851,66 +851,6 @@
     "geo_point_2d": {
       "lon": -123.14080718944639,
       "lat": 49.21617125866866
-    }
-  },
-  {
-    "project": "E 22nd Av from Welwyn St to Commercial St",
-    "street": null,
-    "location": "E 22nd Av from Welwyn St to Commercial St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fe11fb09-483b-4366-ad20-674e51a79b01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06986009176771,
-              49.25034580560083
-            ],
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ]
-          ],
-          [
-            [
-              -123.06945027374856,
-              49.25033989994793
-            ],
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ]
-          ],
-          [
-            [
-              -123.06877207444306,
-              49.25032881874134
-            ],
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ]
-          ],
-          [
-            [
-              -123.06809435536717,
-              49.25031700465729
-            ],
-            [
-              -123.06777890090561,
-              49.250314131777344
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06881950144792,
-      "lat": 49.25032945584743
     }
   },
   {
@@ -1082,6 +1022,66 @@
     }
   },
   {
+    "project": "E 22nd Av from Welwyn St to Commercial St",
+    "street": null,
+    "location": "E 22nd Av from Welwyn St to Commercial St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fe11fb09-483b-4366-ad20-674e51a79b01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06986009176771,
+              49.25034580560083
+            ],
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ]
+          ],
+          [
+            [
+              -123.06945027374856,
+              49.25033989994793
+            ],
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ]
+          ],
+          [
+            [
+              -123.06877207444306,
+              49.25032881874134
+            ],
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ]
+          ],
+          [
+            [
+              -123.06809435536717,
+              49.25031700465729
+            ],
+            [
+              -123.06777890090561,
+              49.250314131777344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06881950144792,
+      "lat": 49.25032945584743
+    }
+  },
+  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -1218,34 +1218,6 @@
     }
   },
   {
-    "project": "E 5th Av from Kamloops St to Penticton St",
-    "street": null,
-    "location": "E 5th Av from Kamloops St to Penticton St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05469526101206,
-            49.265728328416486
-          ],
-          [
-            -123.05214709013256,
-            49.26572674504254
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05342117557231,
-      "lat": 49.26572753672951
-    }
-  },
-  {
     "project": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
     "street": null,
     "location": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
@@ -1283,6 +1255,34 @@
     "geo_point_2d": {
       "lon": -123.05469549129276,
       "lat": 49.26572813889991
+    }
+  },
+  {
+    "project": "E 5th Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 5th Av from Kamloops St to Penticton St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469526101206,
+            49.265728328416486
+          ],
+          [
+            -123.05214709013256,
+            49.26572674504254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342117557231,
+      "lat": 49.26572753672951
     }
   },
   {
