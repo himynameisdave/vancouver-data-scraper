@@ -1,58 +1,182 @@
 [
   {
-    "project": "E 7th ave between Scotia Street and the alleyway East of Main Street. Alleyway a",
+    "project": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
     "street": null,
-    "location": "E 7th ave between Scotia Street and the alleyway East of Main Street. Alleyway a",
-    "comp_date": "2025-06-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e4c09cbf-70f6-43f4-8693-da2ec7766384",
+    "location": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
+    "comp_date": "2025-06-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0a89ed4-8750-4260-a136-73fa0832945a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10005101495919,
-            49.26459599495297
+            [
+              -123.07087440151713,
+              49.24012820374972
+            ],
+            [
+              -123.07019167408467,
+              49.240119454428736
+            ]
           ],
           [
-            -123.09894525708641,
-            49.26457158055848
+            [
+              -123.07019167408467,
+              49.240119454428736
+            ],
+            [
+              -123.06849934389072,
+              49.2400979461776
+            ]
+          ],
+          [
+            [
+              -123.06849934389072,
+              49.2400979461776
+            ],
+            [
+              -123.06801805122657,
+              49.24009358000947
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09949813602279,
-      "lat": 49.264583787755726
+      "lon": -123.06944623464885,
+      "lat": 49.24011013659053
     }
   },
   {
-    "project": "7900 Block of Victoria Dr.",
+    "project": null,
     "street": null,
-    "location": "7900 Block of Victoria Dr.",
+    "location": null,
     "comp_date": "2025-06-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/04dbd7c3-9f58-4caa-a46b-f92ffd41a55b",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/671a61ef-6b56-4e63-b189-d616fb926fbf",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.06607755247282,
-            49.21220231905568
+            [
+              -123.05981050573372,
+              49.27749127986894
+            ],
+            [
+              -123.05787658632192,
+              49.27747643319603
+            ]
           ],
           [
-            -123.06609870064347,
-            49.211450074920236
+            [
+              -123.05980416002885,
+              49.2791109915031
+            ],
+            [
+              -123.05786699300111,
+              49.27910081484484
+            ]
+          ],
+          [
+            [
+              -123.05787422567423,
+              49.277879436538626
+            ],
+            [
+              -123.05787658632192,
+              49.27747643319603
+            ]
+          ],
+          [
+            [
+              -123.05787132070559,
+              49.278287279533146
+            ],
+            [
+              -123.05787422567423,
+              49.277879436538626
+            ]
+          ],
+          [
+            [
+              -123.05786699300111,
+              49.27910081484484
+            ],
+            [
+              -123.05787132070559,
+              49.278287279533146
+            ]
+          ],
+          [
+            [
+              -123.06367952919118,
+              49.277520002926934
+            ],
+            [
+              -123.06174478314122,
+              49.277505617238404
+            ]
+          ],
+          [
+            [
+              -123.0636771359273,
+              49.278330838957146
+            ],
+            [
+              -123.06367952919118,
+              49.277520002926934
+            ]
+          ],
+          [
+            [
+              -123.0636771359273,
+              49.278330838957146
+            ],
+            [
+              -123.06174194729455,
+              49.27831773077844
+            ]
+          ],
+          [
+            [
+              -123.06174478314122,
+              49.277505617238404
+            ],
+            [
+              -123.05981050573372,
+              49.27749127986894
+            ]
+          ],
+          [
+            [
+              -123.0617404628203,
+              49.279122080641116
+            ],
+            [
+              -123.05980416002885,
+              49.2791109915031
+            ]
+          ],
+          [
+            [
+              -123.0617404628203,
+              49.279122080641116
+            ],
+            [
+              -123.06174194729455,
+              49.27831773077844
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.06608812655814,
-      "lat": 49.21182619698795
+      "lon": -123.0606682292878,
+      "lat": 49.27820256178473
     }
   },
   {
@@ -730,53 +854,31 @@
     }
   },
   {
-    "project": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
+    "project": "7900 Block of Victoria Dr.",
     "street": null,
-    "location": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
+    "location": "7900 Block of Victoria Dr.",
     "comp_date": "2025-06-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0a89ed4-8750-4260-a136-73fa0832945a",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/04dbd7c3-9f58-4caa-a46b-f92ffd41a55b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.07087440151713,
-              49.24012820374972
-            ],
-            [
-              -123.07019167408467,
-              49.240119454428736
-            ]
+            -123.06607755247282,
+            49.21220231905568
           ],
           [
-            [
-              -123.07019167408467,
-              49.240119454428736
-            ],
-            [
-              -123.06849934389072,
-              49.2400979461776
-            ]
-          ],
-          [
-            [
-              -123.06849934389072,
-              49.2400979461776
-            ],
-            [
-              -123.06801805122657,
-              49.24009358000947
-            ]
+            -123.06609870064347,
+            49.211450074920236
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.06944623464885,
-      "lat": 49.24011013659053
+      "lon": -123.06608812655814,
+      "lat": 49.21182619698795
     }
   },
   {
@@ -1399,6 +1501,62 @@
     "geo_point_2d": {
       "lon": -123.10760506602185,
       "lat": 49.28410498189255
+    }
+  },
+  {
+    "project": "Gastown\r\nWater St from Columbia to Richards/Cordova",
+    "street": null,
+    "location": "Gastown\r\nWater St from Columbia to Richards/Cordova",
+    "comp_date": "2025-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b58c24bd-f6ba-42fb-b023-bad123c7beee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10216243968351,
+              49.283198616946095
+            ],
+            [
+              -123.10369480724012,
+              49.28326481525019
+            ],
+            [
+              -123.10424280623387,
+              49.28347002942817
+            ],
+            [
+              -123.10638406156127,
+              49.283880455222004
+            ],
+            [
+              -123.10881961264465,
+              49.284310736660416
+            ],
+            [
+              -123.11088983106549,
+              49.28467481802184
+            ]
+          ],
+          [
+            [
+              -123.11084923854744,
+              49.28467481802184
+            ],
+            [
+              -123.11085938667695,
+              49.2846549591078
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10653685799478,
+      "lat": 49.28389102481979
     }
   },
   {
