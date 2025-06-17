@@ -1,55 +1,5 @@
 [
   {
-    "project": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
-    "street": null,
-    "location": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
-    "comp_date": "2025-06-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0a89ed4-8750-4260-a136-73fa0832945a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07087440151713,
-              49.24012820374972
-            ],
-            [
-              -123.07019167408467,
-              49.240119454428736
-            ]
-          ],
-          [
-            [
-              -123.07019167408467,
-              49.240119454428736
-            ],
-            [
-              -123.06849934389072,
-              49.2400979461776
-            ]
-          ],
-          [
-            [
-              -123.06849934389072,
-              49.2400979461776
-            ],
-            [
-              -123.06801805122657,
-              49.24009358000947
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06944623464885,
-      "lat": 49.24011013659053
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -879,6 +829,56 @@
     "geo_point_2d": {
       "lon": -123.06608812655814,
       "lat": 49.21182619698795
+    }
+  },
+  {
+    "project": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
+    "street": null,
+    "location": "E 33rd Av and Argyle St / E 33rd Av and Commercial St / Knight St and Victoria D",
+    "comp_date": "2025-06-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0a89ed4-8750-4260-a136-73fa0832945a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07087440151713,
+              49.24012820374972
+            ],
+            [
+              -123.07019167408467,
+              49.240119454428736
+            ]
+          ],
+          [
+            [
+              -123.07019167408467,
+              49.240119454428736
+            ],
+            [
+              -123.06849934389072,
+              49.2400979461776
+            ]
+          ],
+          [
+            [
+              -123.06849934389072,
+              49.2400979461776
+            ],
+            [
+              -123.06801805122657,
+              49.24009358000947
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06944623464885,
+      "lat": 49.24011013659053
     }
   },
   {
