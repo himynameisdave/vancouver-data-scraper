@@ -1,33 +1,5 @@
 [
   {
-    "project": "Yew St from W 22nd Av to Ln N of W 22nd Av",
-    "street": null,
-    "location": "Yew St from W 22nd Av to Ln N of W 22nd Av",
-    "comp_date": "2025-06-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f0e5912-7b27-4c1f-a86f-856194f35fdc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15569933380225,
-            49.25308046819276
-          ],
-          [
-            -123.1557161472643,
-            49.25262845344653
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15570774053327,
-      "lat": 49.25285446081965
-    }
-  },
-  {
     "project": "B/S of the Street of 1000-1200 Block of Le Roi Street",
     "street": null,
     "location": "B/S of the Street of 1000-1200 Block of Le Roi Street",
@@ -56,31 +28,43 @@
     }
   },
   {
-    "project": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "project": "Beatrice St from E 53rd Av to E 55th Av",
     "street": null,
-    "location": "Both Sides of 3500 Block of Point Grey Rd from Dunbar St to 40m East of Dunbar S",
+    "location": "Beatrice St from E 53rd Av to E 55th Av",
     "comp_date": "2025-06-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb7e2e05-a628-48e6-ac67-90d0fa8b59ce",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1b2297fb-8046-4800-a104-2f173bf8a965",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.18348239161115,
-            49.272139795903314
+            [
+              -123.06714384761176,
+              49.22181418460252
+            ],
+            [
+              -123.0671731441719,
+              49.220732989983105
+            ]
           ],
           [
-            -123.18282457251058,
-            49.27207649478899
+            [
+              -123.0671731441719,
+              49.220732989983105
+            ],
+            [
+              -123.06718392791032,
+              49.22032024464946
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18315348206087,
-      "lat": 49.27210814534615
+      "lon": -123.06716403247563,
+      "lat": 49.22106721847709
     }
   },
   {
@@ -164,6 +148,66 @@
     }
   },
   {
+    "project": "Robson St from Jervis St to Burrard St",
+    "street": null,
+    "location": "Robson St from Jervis St to Burrard St",
+    "comp_date": "2025-06-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c12cce27-2eef-46cb-a90b-63ba23b0a601",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12790921890571,
+              49.28660658393841
+            ],
+            [
+              -123.1285517028076,
+              49.28702259025329
+            ]
+          ],
+          [
+            [
+              -123.12697974111134,
+              49.28600474366536
+            ],
+            [
+              -123.12790921890571,
+              49.28660658393841
+            ]
+          ],
+          [
+            [
+              -123.12481999849805,
+              49.28460198779041
+            ],
+            [
+              -123.12697974111134,
+              49.28600474366536
+            ]
+          ],
+          [
+            [
+              -123.12280894002434,
+              49.28329568648209
+            ],
+            [
+              -123.12481999849805,
+              49.28460198779041
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12567978282357,
+      "lat": 49.285159968845406
+    }
+  },
+  {
     "project": "Both Sides of the Street of 3600 Block of Fleming St. From E 21th Av to E 20th A",
     "street": null,
     "location": "Both Sides of the Street of 3600 Block of Fleming St. From E 21th Av to E 20th A",
@@ -229,6 +273,34 @@
     "geo_point_2d": {
       "lon": -123.13680203097253,
       "lat": 49.28852850630521
+    }
+  },
+  {
+    "project": "Heather St from W 61st Av to W 62nd Av",
+    "street": null,
+    "location": "Heather St from W 61st Av to W 62nd Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a8446330-22da-45b2-b01e-4b7144416665",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12396396108568,
+            49.215544512751876
+          ],
+          [
+            -123.12399614171915,
+            49.2146300960533
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12398005140241,
+      "lat": 49.21508730440259
     }
   },
   {
@@ -379,6 +451,46 @@
     "geo_point_2d": {
       "lon": -123.1818022992201,
       "lat": 49.248528673654995
+    }
+  },
+  {
+    "project": "Kaslo St from E 24th Av to E 25th Av",
+    "street": null,
+    "location": "Kaslo St from E 24th Av to E 25th Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de080844-7ee0-46fb-b839-3670ea38452a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0470774661316,
+              49.24881399750967
+            ],
+            [
+              -123.04707656065673,
+              49.24836746578265
+            ]
+          ],
+          [
+            [
+              -123.04707656065673,
+              49.24836746578265
+            ],
+            [
+              -123.04707521608573,
+              49.24792153688011
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04707645126196,
+      "lat": 49.24836776691714
     }
   },
   {
