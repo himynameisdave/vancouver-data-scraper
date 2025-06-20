@@ -140,176 +140,6 @@
     }
   },
   {
-    "project": "Venables St from Lillooet St to Windermere St",
-    "street": null,
-    "location": "Venables St from Lillooet St to Windermere St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2823cf9b-4daf-4a9d-a64f-e9d3e5f95e59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0388839943546,
-              49.27641199761044
-            ],
-            [
-              -123.0382311203297,
-              49.27641119901267
-            ]
-          ],
-          [
-            [
-              -123.0382311203297,
-              49.27641119901267
-            ],
-            [
-              -123.03694484033386,
-              49.27641036710864
-            ]
-          ],
-          [
-            [
-              -123.03694484033386,
-              49.27641036710864
-            ],
-            [
-              -123.03632515433894,
-              49.276409403202734
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03760457424289,
-      "lat": 49.276410773617606
-    }
-  },
-  {
-    "project": "Yew St from W 21st Av to W 22nd Av",
-    "street": null,
-    "location": "Yew St from W 21st Av to W 22nd Av",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/564ed945-abb5-4e6d-a758-46480899572a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15568260238031,
-              49.25353244680946
-            ],
-            [
-              -123.15569933380225,
-              49.25308046819276
-            ]
-          ],
-          [
-            [
-              -123.15569933380225,
-              49.25308046819276
-            ],
-            [
-              -123.1557161472643,
-              49.25262845344653
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15569935467519,
-      "lat": 49.2530804493804
-    }
-  },
-  {
-    "project": "Collingwood St from W 26th Av to W 27th Av",
-    "street": null,
-    "location": "Collingwood St from W 26th Av to W 27th Av",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95fd86f3-e357-443a-a60a-bf8b07a1bcfa",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18179794105183,
-              49.24900295963437
-            ],
-            [
-              -123.18180221728677,
-              49.24852849931054
-            ]
-          ],
-          [
-            [
-              -123.18180221728677,
-              49.24852849931054
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1818022992201,
-      "lat": 49.248528673654995
-    }
-  },
-  {
-    "project": "Kaslo St from E 24th Av to E 25th Av",
-    "street": null,
-    "location": "Kaslo St from E 24th Av to E 25th Av",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de080844-7ee0-46fb-b839-3670ea38452a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0470774661316,
-              49.24881399750967
-            ],
-            [
-              -123.04707656065673,
-              49.24836746578265
-            ]
-          ],
-          [
-            [
-              -123.04707656065673,
-              49.24836746578265
-            ],
-            [
-              -123.04707521608573,
-              49.24792153688011
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04707645126196,
-      "lat": 49.24836776691714
-    }
-  },
-  {
     "project": "Both Sides of 900 Block of Bidwell St from Nelson St to Lane North of Nelson St.",
     "street": null,
     "location": "Both Sides of 900 Block of Bidwell St from Nelson St to Lane North of Nelson St.",
@@ -497,6 +327,176 @@
     "geo_point_2d": {
       "lon": -123.06881950144792,
       "lat": 49.25032945584743
+    }
+  },
+  {
+    "project": "Venables St from Lillooet St to Windermere St",
+    "street": null,
+    "location": "Venables St from Lillooet St to Windermere St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2823cf9b-4daf-4a9d-a64f-e9d3e5f95e59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0388839943546,
+              49.27641199761044
+            ],
+            [
+              -123.0382311203297,
+              49.27641119901267
+            ]
+          ],
+          [
+            [
+              -123.0382311203297,
+              49.27641119901267
+            ],
+            [
+              -123.03694484033386,
+              49.27641036710864
+            ]
+          ],
+          [
+            [
+              -123.03694484033386,
+              49.27641036710864
+            ],
+            [
+              -123.03632515433894,
+              49.276409403202734
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03760457424289,
+      "lat": 49.276410773617606
+    }
+  },
+  {
+    "project": "Yew St from W 21st Av to W 22nd Av",
+    "street": null,
+    "location": "Yew St from W 21st Av to W 22nd Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/564ed945-abb5-4e6d-a758-46480899572a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15568260238031,
+              49.25353244680946
+            ],
+            [
+              -123.15569933380225,
+              49.25308046819276
+            ]
+          ],
+          [
+            [
+              -123.15569933380225,
+              49.25308046819276
+            ],
+            [
+              -123.1557161472643,
+              49.25262845344653
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15569935467519,
+      "lat": 49.2530804493804
+    }
+  },
+  {
+    "project": "Collingwood St from W 26th Av to W 27th Av",
+    "street": null,
+    "location": "Collingwood St from W 26th Av to W 27th Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95fd86f3-e357-443a-a60a-bf8b07a1bcfa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18179794105183,
+              49.24900295963437
+            ],
+            [
+              -123.18180221728677,
+              49.24852849931054
+            ]
+          ],
+          [
+            [
+              -123.18180221728677,
+              49.24852849931054
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1818022992201,
+      "lat": 49.248528673654995
+    }
+  },
+  {
+    "project": "Kaslo St from E 24th Av to E 25th Av",
+    "street": null,
+    "location": "Kaslo St from E 24th Av to E 25th Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de080844-7ee0-46fb-b839-3670ea38452a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0470774661316,
+              49.24881399750967
+            ],
+            [
+              -123.04707656065673,
+              49.24836746578265
+            ]
+          ],
+          [
+            [
+              -123.04707656065673,
+              49.24836746578265
+            ],
+            [
+              -123.04707521608573,
+              49.24792153688011
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04707645126196,
+      "lat": 49.24836776691714
     }
   },
   {
