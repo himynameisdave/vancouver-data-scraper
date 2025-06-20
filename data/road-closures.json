@@ -1,105 +1,5 @@
 [
   {
-    "project": "W 18th Av from Highbury St to Dunbar St",
-    "street": null,
-    "location": "W 18th Av from Highbury St to Dunbar St",
-    "comp_date": "2025-06-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/67083ec8-0f97-4053-bc58-eeb54a48781e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18575152048835,
-              49.25648626816269
-            ],
-            [
-              -123.18802633279316,
-              49.25649479498537
-            ]
-          ],
-          [
-            [
-              -123.18512738943413,
-              49.25648398665922
-            ],
-            [
-              -123.18575152048835,
-              49.25648626816269
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18657686119784,
-      "lat": 49.25648936807938
-    }
-  },
-  {
-    "project": "Robson St from Jervis St to Burrard St",
-    "street": null,
-    "location": "Robson St from Jervis St to Burrard St",
-    "comp_date": "2025-06-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c12cce27-2eef-46cb-a90b-63ba23b0a601",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12790921890571,
-              49.28660658393841
-            ],
-            [
-              -123.1285517028076,
-              49.28702259025329
-            ]
-          ],
-          [
-            [
-              -123.12697974111134,
-              49.28600474366536
-            ],
-            [
-              -123.12790921890571,
-              49.28660658393841
-            ]
-          ],
-          [
-            [
-              -123.12481999849805,
-              49.28460198779041
-            ],
-            [
-              -123.12697974111134,
-              49.28600474366536
-            ]
-          ],
-          [
-            [
-              -123.12280894002434,
-              49.28329568648209
-            ],
-            [
-              -123.12481999849805,
-              49.28460198779041
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12567978282357,
-      "lat": 49.285159968845406
-    }
-  },
-  {
     "project": "Both Sides of the Street of 3600 Block of Fleming St. From E 21th Av to E 20th A",
     "street": null,
     "location": "Both Sides of the Street of 3600 Block of Fleming St. From E 21th Av to E 20th A",
@@ -137,6 +37,136 @@
     "geo_point_2d": {
       "lon": -123.07189262606084,
       "lat": 49.251927601334216
+    }
+  },
+  {
+    "project": "Venables St from Lillooet St to Windermere St",
+    "street": null,
+    "location": "Venables St from Lillooet St to Windermere St",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2823cf9b-4daf-4a9d-a64f-e9d3e5f95e59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0388839943546,
+              49.27641199761044
+            ],
+            [
+              -123.0382311203297,
+              49.27641119901267
+            ]
+          ],
+          [
+            [
+              -123.0382311203297,
+              49.27641119901267
+            ],
+            [
+              -123.03694484033386,
+              49.27641036710864
+            ]
+          ],
+          [
+            [
+              -123.03694484033386,
+              49.27641036710864
+            ],
+            [
+              -123.03632515433894,
+              49.276409403202734
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03760457424289,
+      "lat": 49.276410773617606
+    }
+  },
+  {
+    "project": "Collingwood St from W 26th Av to W 27th Av",
+    "street": null,
+    "location": "Collingwood St from W 26th Av to W 27th Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95fd86f3-e357-443a-a60a-bf8b07a1bcfa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18179794105183,
+              49.24900295963437
+            ],
+            [
+              -123.18180221728677,
+              49.24852849931054
+            ]
+          ],
+          [
+            [
+              -123.18180221728677,
+              49.24852849931054
+            ],
+            [
+              -123.18180682450586,
+              49.24805438924071
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1818022992201,
+      "lat": 49.248528673654995
+    }
+  },
+  {
+    "project": "Kaslo St from E 24th Av to E 25th Av",
+    "street": null,
+    "location": "Kaslo St from E 24th Av to E 25th Av",
+    "comp_date": "2025-06-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de080844-7ee0-46fb-b839-3670ea38452a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0470774661316,
+              49.24881399750967
+            ],
+            [
+              -123.04707656065673,
+              49.24836746578265
+            ]
+          ],
+          [
+            [
+              -123.04707656065673,
+              49.24836746578265
+            ],
+            [
+              -123.04707521608573,
+              49.24792153688011
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04707645126196,
+      "lat": 49.24836776691714
     }
   },
   {
@@ -330,176 +360,6 @@
     }
   },
   {
-    "project": "Venables St from Lillooet St to Windermere St",
-    "street": null,
-    "location": "Venables St from Lillooet St to Windermere St",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2823cf9b-4daf-4a9d-a64f-e9d3e5f95e59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0388839943546,
-              49.27641199761044
-            ],
-            [
-              -123.0382311203297,
-              49.27641119901267
-            ]
-          ],
-          [
-            [
-              -123.0382311203297,
-              49.27641119901267
-            ],
-            [
-              -123.03694484033386,
-              49.27641036710864
-            ]
-          ],
-          [
-            [
-              -123.03694484033386,
-              49.27641036710864
-            ],
-            [
-              -123.03632515433894,
-              49.276409403202734
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03760457424289,
-      "lat": 49.276410773617606
-    }
-  },
-  {
-    "project": "Yew St from W 21st Av to W 22nd Av",
-    "street": null,
-    "location": "Yew St from W 21st Av to W 22nd Av",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/564ed945-abb5-4e6d-a758-46480899572a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15568260238031,
-              49.25353244680946
-            ],
-            [
-              -123.15569933380225,
-              49.25308046819276
-            ]
-          ],
-          [
-            [
-              -123.15569933380225,
-              49.25308046819276
-            ],
-            [
-              -123.1557161472643,
-              49.25262845344653
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15569935467519,
-      "lat": 49.2530804493804
-    }
-  },
-  {
-    "project": "Collingwood St from W 26th Av to W 27th Av",
-    "street": null,
-    "location": "Collingwood St from W 26th Av to W 27th Av",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95fd86f3-e357-443a-a60a-bf8b07a1bcfa",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18179794105183,
-              49.24900295963437
-            ],
-            [
-              -123.18180221728677,
-              49.24852849931054
-            ]
-          ],
-          [
-            [
-              -123.18180221728677,
-              49.24852849931054
-            ],
-            [
-              -123.18180682450586,
-              49.24805438924071
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1818022992201,
-      "lat": 49.248528673654995
-    }
-  },
-  {
-    "project": "Kaslo St from E 24th Av to E 25th Av",
-    "street": null,
-    "location": "Kaslo St from E 24th Av to E 25th Av",
-    "comp_date": "2025-06-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de080844-7ee0-46fb-b839-3670ea38452a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0470774661316,
-              49.24881399750967
-            ],
-            [
-              -123.04707656065673,
-              49.24836746578265
-            ]
-          ],
-          [
-            [
-              -123.04707656065673,
-              49.24836746578265
-            ],
-            [
-              -123.04707521608573,
-              49.24792153688011
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04707645126196,
-      "lat": 49.24836776691714
-    }
-  },
-  {
     "project": "Robson St - Burrard St to Bute St",
     "street": null,
     "location": "Robson St - Burrard St to Bute St",
@@ -537,6 +397,74 @@
     "geo_point_2d": {
       "lon": -123.12489432684912,
       "lat": 49.28465023619472
+    }
+  },
+  {
+    "project": "Yew St from W 21st Av to W 22nd Av",
+    "street": null,
+    "location": "Yew St from W 21st Av to W 22nd Av",
+    "comp_date": "2025-06-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/564ed945-abb5-4e6d-a758-46480899572a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15568260238031,
+              49.25353244680946
+            ],
+            [
+              -123.15569933380225,
+              49.25308046819276
+            ]
+          ],
+          [
+            [
+              -123.15569933380225,
+              49.25308046819276
+            ],
+            [
+              -123.1557161472643,
+              49.25262845344653
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15569935467519,
+      "lat": 49.2530804493804
+    }
+  },
+  {
+    "project": "E 4th Av from Semlin Dr to Lakewood Dr",
+    "street": null,
+    "location": "E 4th Av from Semlin Dr to Lakewood Dr",
+    "comp_date": "2025-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d688928-91e5-4dcb-9119-4e50e051a593",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06387243547128,
+            49.266841381257905
+          ],
+          [
+            -123.06193858769865,
+            49.2668267284935
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06290551158497,
+      "lat": 49.2668340548757
     }
   },
   {
