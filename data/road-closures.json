@@ -1,77 +1,101 @@
 [
   {
-    "project": "100 block of 19th ave, between Main St and the alleyway. Inclusive of alleyway i",
+    "project": "Both Sides of the Street of 6500 Block of Vivian St. From E 49th AV to Lane Sout",
     "street": null,
-    "location": "100 block of 19th ave, between Main St and the alleyway. Inclusive of alleyway i",
-    "comp_date": "2025-06-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/39294a1f-d299-449e-acb4-05bdc7012df4",
+    "location": "Both Sides of the Street of 6500 Block of Vivian St. From E 49th AV to Lane Sout",
+    "comp_date": "2025-06-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19acec33-3872-426e-8125-c9b3504a8a13",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10286862027257,
-            49.253737997544874
+            [
+              -123.05034759249392,
+              49.22477189297183
+            ],
+            [
+              -123.050368881201,
+              49.22431585570686
+            ]
           ],
           [
-            -123.10151306250887,
-            49.25371337127291
+            [
+              -123.05092238758454,
+              49.22479691928527
+            ],
+            [
+              -123.04964080741956,
+              49.224783015779366
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10219084139072,
-      "lat": 49.25372568440889
+      "lon": -123.05030172675683,
+      "lat": 49.2247253313777
     }
   },
   {
-    "project": null,
+    "project": "Yew St from W 21st Av to W 22nd Av",
     "street": null,
-    "location": null,
-    "comp_date": "2025-06-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fd05ad1e-4f7f-4584-8dcf-760bbd83d4e9",
+    "location": "Yew St from W 21st Av to W 22nd Av",
+    "comp_date": "2025-06-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/564ed945-abb5-4e6d-a758-46480899572a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10655590719735,
-            49.26742075900293
+            [
+              -123.15568260238031,
+              49.25353244680946
+            ],
+            [
+              -123.15569933380225,
+              49.25308046819276
+            ]
           ],
           [
-            -123.10476192338504,
-            49.26739105921763
+            [
+              -123.15569933380225,
+              49.25308046819276
+            ],
+            [
+              -123.1557161472643,
+              49.25262845344653
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1056589152912,
-      "lat": 49.26740590911028
+      "lon": -123.15569935467519,
+      "lat": 49.2530804493804
     }
   },
   {
-    "project": null,
+    "project": "E 4th Av from Semlin Dr to Lakewood Dr",
     "street": null,
-    "location": null,
-    "comp_date": "2025-06-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c860ce6a-4623-4b4e-a812-08a48112557d",
+    "location": "E 4th Av from Semlin Dr to Lakewood Dr",
+    "comp_date": "2025-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d688928-91e5-4dcb-9119-4e50e051a593",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14042853694843,
-            49.21136665285718
+            -123.06387243547128,
+            49.266841381257905
           ],
           [
-            -123.14106630381062,
-            49.211377020900386
+            -123.06193858769865,
+            49.2668267284935
           ]
         ],
         "type": "LineString"
@@ -79,8 +103,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14074742037951,
-      "lat": 49.21137183687878
+      "lon": -123.06290551158497,
+      "lat": 49.2668340548757
     }
   },
   {
@@ -124,6 +148,86 @@
     }
   },
   {
+    "project": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
+    "street": null,
+    "location": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
+    "comp_date": "2025-07-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a3e107a-2ab7-42e9-ae61-ce6d9385231e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05943016700941,
+              49.269074095707936
+            ],
+            [
+              -123.05805562683095,
+              49.269069664634856
+            ]
+          ],
+          [
+            [
+              -123.05803567118872,
+              49.26949968209303
+            ],
+            [
+              -123.05805278959417,
+              49.2686120162511
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05846871742068,
+      "lat": 49.269065589085166
+    }
+  },
+  {
+    "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "comp_date": "2025-07-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3b9f5a6b-ffb1-4fff-b41f-42dd617ced1d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13283956225452,
+              49.28214036998952
+            ],
+            [
+              -123.13177505864279,
+              49.28283829369718
+            ]
+          ],
+          [
+            [
+              -123.1322957004763,
+              49.28248035997905
+            ],
+            [
+              -123.13191509777462,
+              49.28223208072049
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13225419157158,
+      "lat": 49.282454312841175
+    }
+  },
+  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -152,6 +256,154 @@
     }
   },
   {
+    "project": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
+    "street": null,
+    "location": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fd4034f0-a7ab-4d9a-9811-a34088cc5aa6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05469490349509,
+              49.26622561925575
+            ],
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ]
+          ],
+          [
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05469549129276,
+      "lat": 49.26572813889991
+    }
+  },
+  {
+    "project": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
+    "street": null,
+    "location": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d53cc9c-7761-4d7b-ad83-c45de1717826",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03014126059114,
+              49.240073492903804
+            ],
+            [
+              -123.03125136902524,
+              49.24052233926545
+            ]
+          ],
+          [
+            [
+              -123.03068400564379,
+              49.240294580406925
+            ],
+            [
+              -123.03024780820498,
+              49.24072356335654
+            ]
+          ],
+          [
+            [
+              -123.02933035313212,
+              49.240908233549135
+            ],
+            [
+              -123.03067682418364,
+              49.23947124940301
+            ]
+          ],
+          [
+            [
+              -123.03011490234668,
+              49.24005813879856
+            ],
+            [
+              -123.02814885193051,
+              49.23924945346539
+            ]
+          ],
+          [
+            [
+              -123.02913536125831,
+              49.23965737275992
+            ],
+            [
+              -123.02954502063713,
+              49.239221784702806
+            ]
+          ],
+          [
+            [
+              -123.02954969456984,
+              49.239214406050394
+            ],
+            [
+              -123.02999225905728,
+              49.2393930302249
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0298247055521,
+      "lat": 49.23994819527011
+    }
+  },
+  {
+    "project": "E 5th Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 5th Av from Kamloops St to Penticton St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469526101206,
+            49.265728328416486
+          ],
+          [
+            -123.05214709013256,
+            49.26572674504254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342117557231,
+      "lat": 49.26572753672951
+    }
+  },
+  {
     "project": "W 22nd Av - Balsam St to Arbutus St - 2025",
     "street": null,
     "location": "W 22nd Av - Balsam St to Arbutus St - 2025",
@@ -177,6 +429,34 @@
     "geo_point_2d": {
       "lon": -123.15676991344927,
       "lat": 49.25264984981274
+    }
+  },
+  {
+    "project": "Vine St from W 22nd Av to Laneway North",
+    "street": null,
+    "location": "Vine St from W 22nd Av to Laneway North",
+    "comp_date": "2025-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15806921093802,
+            49.25311818739479
+          ],
+          [
+            -123.15808534300737,
+            49.25266611926014
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15807727697269,
+      "lat": 49.252892153327466
     }
   },
   {
