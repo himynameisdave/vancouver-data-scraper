@@ -1,45 +1,5 @@
 [
   {
-    "project": "Both Sides of the Street of 6500 Block of Vivian St. From E 49th AV to Lane Sout",
-    "street": null,
-    "location": "Both Sides of the Street of 6500 Block of Vivian St. From E 49th AV to Lane Sout",
-    "comp_date": "2025-06-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19acec33-3872-426e-8125-c9b3504a8a13",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05034759249392,
-              49.22477189297183
-            ],
-            [
-              -123.050368881201,
-              49.22431585570686
-            ]
-          ],
-          [
-            [
-              -123.05092238758454,
-              49.22479691928527
-            ],
-            [
-              -123.04964080741956,
-              49.224783015779366
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05030172675683,
-      "lat": 49.2247253313777
-    }
-  },
-  {
     "project": "Yew St from W 21st Av to W 22nd Av",
     "street": null,
     "location": "Yew St from W 21st Av to W 22nd Av",
@@ -105,46 +65,6 @@
     "geo_point_2d": {
       "lon": -123.06290551158497,
       "lat": 49.2668340548757
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "comp_date": "2025-06-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1389720963772,
-              49.28194649366418
-            ],
-            [
-              -123.13768013933559,
-              49.282797540693565
-            ]
-          ],
-          [
-            [
-              -123.1388538780858,
-              49.28255792699605
-            ],
-            [
-              -123.13795879673671,
-              49.28197403586924
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13835889218282,
-      "lat": 49.282328695445585
     }
   },
   {
@@ -321,6 +241,46 @@
     "geo_point_2d": {
       "lon": -123.05342117557231,
       "lat": 49.26572753672951
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1389720963772,
+              49.28194649366418
+            ],
+            [
+              -123.13768013933559,
+              49.282797540693565
+            ]
+          ],
+          [
+            [
+              -123.1388538780858,
+              49.28255792699605
+            ],
+            [
+              -123.13795879673671,
+              49.28197403586924
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13835889218282,
+      "lat": 49.282328695445585
     }
   },
   {
