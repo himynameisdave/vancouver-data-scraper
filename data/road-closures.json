@@ -296,6 +296,34 @@
     }
   },
   {
+    "project": "E 5th Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 5th Av from Kamloops St to Penticton St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469526101206,
+            49.265728328416486
+          ],
+          [
+            -123.05214709013256,
+            49.26572674504254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342117557231,
+      "lat": 49.26572753672951
+    }
+  },
+  {
     "project": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
     "street": null,
     "location": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
@@ -373,34 +401,6 @@
     "geo_point_2d": {
       "lon": -123.0298247055521,
       "lat": 49.23994819527011
-    }
-  },
-  {
-    "project": "E 5th Av from Kamloops St to Penticton St",
-    "street": null,
-    "location": "E 5th Av from Kamloops St to Penticton St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05469526101206,
-            49.265728328416486
-          ],
-          [
-            -123.05214709013256,
-            49.26572674504254
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05342117557231,
-      "lat": 49.26572753672951
     }
   },
   {
