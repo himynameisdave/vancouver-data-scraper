@@ -96,6 +96,154 @@
     }
   },
   {
+    "project": "E 5th Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 5th Av from Kamloops St to Penticton St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469526101206,
+            49.265728328416486
+          ],
+          [
+            -123.05214709013256,
+            49.26572674504254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342117557231,
+      "lat": 49.26572753672951
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1389720963772,
+              49.28194649366418
+            ],
+            [
+              -123.13768013933559,
+              49.282797540693565
+            ]
+          ],
+          [
+            [
+              -123.1388538780858,
+              49.28255792699605
+            ],
+            [
+              -123.13795879673671,
+              49.28197403586924
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13835889218282,
+      "lat": 49.282328695445585
+    }
+  },
+  {
+    "project": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
+    "street": null,
+    "location": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d53cc9c-7761-4d7b-ad83-c45de1717826",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03014126059114,
+              49.240073492903804
+            ],
+            [
+              -123.03125136902524,
+              49.24052233926545
+            ]
+          ],
+          [
+            [
+              -123.03068400564379,
+              49.240294580406925
+            ],
+            [
+              -123.03024780820498,
+              49.24072356335654
+            ]
+          ],
+          [
+            [
+              -123.02933035313212,
+              49.240908233549135
+            ],
+            [
+              -123.03067682418364,
+              49.23947124940301
+            ]
+          ],
+          [
+            [
+              -123.03011490234668,
+              49.24005813879856
+            ],
+            [
+              -123.02814885193051,
+              49.23924945346539
+            ]
+          ],
+          [
+            [
+              -123.02913536125831,
+              49.23965737275992
+            ],
+            [
+              -123.02954502063713,
+              49.239221784702806
+            ]
+          ],
+          [
+            [
+              -123.02954969456984,
+              49.239214406050394
+            ],
+            [
+              -123.02999225905728,
+              49.2393930302249
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0298247055521,
+      "lat": 49.23994819527011
+    }
+  },
+  {
     "project": "W 26th Av from Dunbar St to Collingwood St",
     "street": null,
     "location": "W 26th Av from Dunbar St to Collingwood St",
@@ -201,154 +349,6 @@
     "geo_point_2d": {
       "lon": -123.05469549129276,
       "lat": 49.26572813889991
-    }
-  },
-  {
-    "project": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
-    "street": null,
-    "location": "B/S of the Street of 3400 Block of Wellington Ave from Joyce St to 100m WB\r\nB/S",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d53cc9c-7761-4d7b-ad83-c45de1717826",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03014126059114,
-              49.240073492903804
-            ],
-            [
-              -123.03125136902524,
-              49.24052233926545
-            ]
-          ],
-          [
-            [
-              -123.03068400564379,
-              49.240294580406925
-            ],
-            [
-              -123.03024780820498,
-              49.24072356335654
-            ]
-          ],
-          [
-            [
-              -123.02933035313212,
-              49.240908233549135
-            ],
-            [
-              -123.03067682418364,
-              49.23947124940301
-            ]
-          ],
-          [
-            [
-              -123.03011490234668,
-              49.24005813879856
-            ],
-            [
-              -123.02814885193051,
-              49.23924945346539
-            ]
-          ],
-          [
-            [
-              -123.02913536125831,
-              49.23965737275992
-            ],
-            [
-              -123.02954502063713,
-              49.239221784702806
-            ]
-          ],
-          [
-            [
-              -123.02954969456984,
-              49.239214406050394
-            ],
-            [
-              -123.02999225905728,
-              49.2393930302249
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0298247055521,
-      "lat": 49.23994819527011
-    }
-  },
-  {
-    "project": "E 5th Av from Kamloops St to Penticton St",
-    "street": null,
-    "location": "E 5th Av from Kamloops St to Penticton St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05469526101206,
-            49.265728328416486
-          ],
-          [
-            -123.05214709013256,
-            49.26572674504254
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05342117557231,
-      "lat": 49.26572753672951
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1389720963772,
-              49.28194649366418
-            ],
-            [
-              -123.13768013933559,
-              49.282797540693565
-            ]
-          ],
-          [
-            [
-              -123.1388538780858,
-              49.28255792699605
-            ],
-            [
-              -123.13795879673671,
-              49.28197403586924
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13835889218282,
-      "lat": 49.282328695445585
     }
   },
   {
