@@ -774,6 +774,86 @@
     }
   },
   {
+    "project": "W 26th Av from Dunbar St to Collingwood St",
+    "street": null,
+    "location": "W 26th Av from Dunbar St to Collingwood St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1a02aa03-c8c4-4d23-a9cb-71087297cd6d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18345633302609,
+              49.24901061067621
+            ],
+            [
+              -123.18519638693142,
+              49.2490185657949
+            ]
+          ],
+          [
+            [
+              -123.18179794105183,
+              49.24900295963437
+            ],
+            [
+              -123.18345633302609,
+              49.24901061067621
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1834971639102,
+      "lat": 49.24901078044593
+    }
+  },
+  {
+    "project": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
+    "street": null,
+    "location": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fd4034f0-a7ab-4d9a-9811-a34088cc5aa6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05469490349509,
+              49.26622561925575
+            ],
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ]
+          ],
+          [
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05469549129276,
+      "lat": 49.26572813889991
+    }
+  },
+  {
     "project": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
     "street": null,
     "location": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
@@ -898,86 +978,6 @@
     }
   },
   {
-    "project": "W 26th Av from Dunbar St to Collingwood St",
-    "street": null,
-    "location": "W 26th Av from Dunbar St to Collingwood St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1a02aa03-c8c4-4d23-a9cb-71087297cd6d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18345633302609,
-              49.24901061067621
-            ],
-            [
-              -123.18519638693142,
-              49.2490185657949
-            ]
-          ],
-          [
-            [
-              -123.18179794105183,
-              49.24900295963437
-            ],
-            [
-              -123.18345633302609,
-              49.24901061067621
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1834971639102,
-      "lat": 49.24901078044593
-    }
-  },
-  {
-    "project": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
-    "street": null,
-    "location": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fd4034f0-a7ab-4d9a-9811-a34088cc5aa6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05469490349509,
-              49.26622561925575
-            ],
-            [
-              -123.05469526101206,
-              49.265728328416486
-            ]
-          ],
-          [
-            [
-              -123.05469526101206,
-              49.265728328416486
-            ],
-            [
-              -123.05469653902755,
-              49.26523065929996
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05469549129276,
-      "lat": 49.26572813889991
-    }
-  },
-  {
     "project": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
     "street": null,
     "location": "Both Sides of Lane South of 2200 Block of E 1st Ave from Garden Dr to 90m West o",
@@ -1018,34 +1018,6 @@
     }
   },
   {
-    "project": "Vine St from W 22nd Av to Laneway North",
-    "street": null,
-    "location": "Vine St from W 22nd Av to Laneway North",
-    "comp_date": "2025-07-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15806921093802,
-            49.25311818739479
-          ],
-          [
-            -123.15808534300737,
-            49.25266611926014
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15807727697269,
-      "lat": 49.252892153327466
-    }
-  },
-  {
     "project": "W 22nd Av - Balsam St to Arbutus St - 2025",
     "street": null,
     "location": "W 22nd Av - Balsam St to Arbutus St - 2025",
@@ -1071,6 +1043,34 @@
     "geo_point_2d": {
       "lon": -123.15676991344927,
       "lat": 49.25264984981274
+    }
+  },
+  {
+    "project": "Vine St from W 22nd Av to Laneway North",
+    "street": null,
+    "location": "Vine St from W 22nd Av to Laneway North",
+    "comp_date": "2025-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15806921093802,
+            49.25311818739479
+          ],
+          [
+            -123.15808534300737,
+            49.25266611926014
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15807727697269,
+      "lat": 49.252892153327466
     }
   },
   {
@@ -1366,6 +1366,34 @@
     }
   },
   {
+    "project": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
+    "street": null,
+    "location": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
+    "comp_date": "2025-07-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a4278dd-7994-4201-84b5-f54c31a2a9c6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06595628667854,
+            49.261361899525696
+          ],
+          [
+            -123.06682923328651,
+            49.26136656738805
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06639275998253,
+      "lat": 49.261364233456874
+    }
+  },
+  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -1431,34 +1459,6 @@
     "geo_point_2d": {
       "lon": -123.1043658285503,
       "lat": 49.28098621341034
-    }
-  },
-  {
-    "project": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
-    "street": null,
-    "location": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
-    "comp_date": "2025-07-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a4278dd-7994-4201-84b5-f54c31a2a9c6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06595628667854,
-            49.261361899525696
-          ],
-          [
-            -123.06682923328651,
-            49.26136656738805
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06639275998253,
-      "lat": 49.261364233456874
     }
   },
   {
