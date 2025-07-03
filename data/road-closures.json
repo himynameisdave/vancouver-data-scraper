@@ -626,6 +626,210 @@
     }
   },
   {
+    "project": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
+    "street": null,
+    "location": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2967bc2b-7767-44e6-a0e9-6eb548caafcd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10214914488674,
+            49.27764813733802
+          ],
+          [
+            -123.10266091761117,
+            49.27762450914119
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10240503124896,
+      "lat": 49.277636323239605
+    }
+  },
+  {
+    "project": "E 5th Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 5th Av from Kamloops St to Penticton St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469526101206,
+            49.265728328416486
+          ],
+          [
+            -123.05214709013256,
+            49.26572674504254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342117557231,
+      "lat": 49.26572753672951
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1389720963772,
+              49.28194649366418
+            ],
+            [
+              -123.13768013933559,
+              49.282797540693565
+            ]
+          ],
+          [
+            [
+              -123.1388538780858,
+              49.28255792699605
+            ],
+            [
+              -123.13795879673671,
+              49.28197403586924
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13835889218282,
+      "lat": 49.282328695445585
+    }
+  },
+  {
+    "project": "E 2nd Av from Windermere St to Rupert St",
+    "street": null,
+    "location": "E 2nd Av from Windermere St to Rupert St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa730437-0991-4244-b390-60d7f29c9755",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03644273723026,
+            49.268470966946865
+          ],
+          [
+            -123.03370817698857,
+            49.26846255001101
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0350754571094,
+      "lat": 49.26846675847894
+    }
+  },
+  {
+    "project": "W 26th Av from Dunbar St to Collingwood St",
+    "street": null,
+    "location": "W 26th Av from Dunbar St to Collingwood St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1a02aa03-c8c4-4d23-a9cb-71087297cd6d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18345633302609,
+              49.24901061067621
+            ],
+            [
+              -123.18519638693142,
+              49.2490185657949
+            ]
+          ],
+          [
+            [
+              -123.18179794105183,
+              49.24900295963437
+            ],
+            [
+              -123.18345633302609,
+              49.24901061067621
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1834971639102,
+      "lat": 49.24901078044593
+    }
+  },
+  {
+    "project": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
+    "street": null,
+    "location": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fd4034f0-a7ab-4d9a-9811-a34088cc5aa6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05469490349509,
+              49.26622561925575
+            ],
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ]
+          ],
+          [
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05469549129276,
+      "lat": 49.26572813889991
+    }
+  },
+  {
     "project": "Both Sides of the Street of 2700 Block of E 3rd Av. From Slocan St to East PL of",
     "street": null,
     "location": "Both Sides of the Street of 2700 Block of E 3rd Av. From Slocan St to East PL of",
@@ -774,102 +978,22 @@
     }
   },
   {
-    "project": "W 26th Av from Dunbar St to Collingwood St",
+    "project": "Vine St from W 22nd Av to Laneway North",
     "street": null,
-    "location": "W 26th Av from Dunbar St to Collingwood St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1a02aa03-c8c4-4d23-a9cb-71087297cd6d",
+    "location": "Vine St from W 22nd Av to Laneway North",
+    "comp_date": "2025-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.18345633302609,
-              49.24901061067621
-            ],
-            [
-              -123.18519638693142,
-              49.2490185657949
-            ]
+            -123.15806921093802,
+            49.25311818739479
           ],
           [
-            [
-              -123.18179794105183,
-              49.24900295963437
-            ],
-            [
-              -123.18345633302609,
-              49.24901061067621
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1834971639102,
-      "lat": 49.24901078044593
-    }
-  },
-  {
-    "project": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
-    "street": null,
-    "location": "Kamloops St from Ln N of E 5th Av to Ln S of E 5th Av",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fd4034f0-a7ab-4d9a-9811-a34088cc5aa6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05469490349509,
-              49.26622561925575
-            ],
-            [
-              -123.05469526101206,
-              49.265728328416486
-            ]
-          ],
-          [
-            [
-              -123.05469526101206,
-              49.265728328416486
-            ],
-            [
-              -123.05469653902755,
-              49.26523065929996
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05469549129276,
-      "lat": 49.26572813889991
-    }
-  },
-  {
-    "project": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
-    "street": null,
-    "location": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2967bc2b-7767-44e6-a0e9-6eb548caafcd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214914488674,
-            49.27764813733802
-          ],
-          [
-            -123.10266091761117,
-            49.27762450914119
+            -123.15808534300737,
+            49.25266611926014
           ]
         ],
         "type": "LineString"
@@ -877,27 +1001,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10240503124896,
-      "lat": 49.277636323239605
+      "lon": -123.15807727697269,
+      "lat": 49.252892153327466
     }
   },
   {
-    "project": "E 5th Av from Kamloops St to Penticton St",
+    "project": "W 22nd Av - Balsam St to Arbutus St - 2025",
     "street": null,
-    "location": "E 5th Av from Kamloops St to Penticton St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
+    "location": "W 22nd Av - Balsam St to Arbutus St - 2025",
+    "comp_date": "2025-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d511636-261e-4c73-80e8-0e1c35a17d0b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.05469526101206,
-            49.265728328416486
+            -123.15307461507084,
+            49.252588440722946
           ],
           [
-            -123.05214709013256,
-            49.26572674504254
+            -123.16046521182771,
+            49.252711258902536
           ]
         ],
         "type": "LineString"
@@ -905,76 +1029,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05342117557231,
-      "lat": 49.26572753672951
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1389720963772,
-              49.28194649366418
-            ],
-            [
-              -123.13768013933559,
-              49.282797540693565
-            ]
-          ],
-          [
-            [
-              -123.1388538780858,
-              49.28255792699605
-            ],
-            [
-              -123.13795879673671,
-              49.28197403586924
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13835889218282,
-      "lat": 49.282328695445585
-    }
-  },
-  {
-    "project": "E 2nd Av from Windermere St to Rupert St",
-    "street": null,
-    "location": "E 2nd Av from Windermere St to Rupert St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa730437-0991-4244-b390-60d7f29c9755",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03644273723026,
-            49.268470966946865
-          ],
-          [
-            -123.03370817698857,
-            49.26846255001101
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0350754571094,
-      "lat": 49.26846675847894
+      "lon": -123.15676991344927,
+      "lat": 49.25264984981274
     }
   },
   {
@@ -1015,62 +1071,6 @@
     "geo_point_2d": {
       "lon": -123.05846871742068,
       "lat": 49.269065589085166
-    }
-  },
-  {
-    "project": "W 22nd Av - Balsam St to Arbutus St - 2025",
-    "street": null,
-    "location": "W 22nd Av - Balsam St to Arbutus St - 2025",
-    "comp_date": "2025-07-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d511636-261e-4c73-80e8-0e1c35a17d0b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15307461507084,
-            49.252588440722946
-          ],
-          [
-            -123.16046521182771,
-            49.252711258902536
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15676991344927,
-      "lat": 49.25264984981274
-    }
-  },
-  {
-    "project": "Vine St from W 22nd Av to Laneway North",
-    "street": null,
-    "location": "Vine St from W 22nd Av to Laneway North",
-    "comp_date": "2025-07-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15806921093802,
-            49.25311818739479
-          ],
-          [
-            -123.15808534300737,
-            49.25266611926014
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15807727697269,
-      "lat": 49.252892153327466
     }
   },
   {
@@ -1366,34 +1366,6 @@
     }
   },
   {
-    "project": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
-    "street": null,
-    "location": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
-    "comp_date": "2025-07-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a4278dd-7994-4201-84b5-f54c31a2a9c6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06595628667854,
-            49.261361899525696
-          ],
-          [
-            -123.06682923328651,
-            49.26136656738805
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06639275998253,
-      "lat": 49.261364233456874
-    }
-  },
-  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -1459,6 +1431,34 @@
     "geo_point_2d": {
       "lon": -123.1043658285503,
       "lat": 49.28098621341034
+    }
+  },
+  {
+    "project": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
+    "street": null,
+    "location": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
+    "comp_date": "2025-07-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a4278dd-7994-4201-84b5-f54c31a2a9c6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06595628667854,
+            49.261361899525696
+          ],
+          [
+            -123.06682923328651,
+            49.26136656738805
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06639275998253,
+      "lat": 49.261364233456874
     }
   },
   {
