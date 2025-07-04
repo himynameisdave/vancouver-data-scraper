@@ -1,5 +1,33 @@
 [
   {
+    "project": "E 39th Av from Clarendon St to Nanaimo St",
+    "street": null,
+    "location": "E 39th Av from Clarendon St to Nanaimo St",
+    "comp_date": "2025-07-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b433b7d-3ae5-4339-a419-95896a789e4e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05879997663567,
+            49.234892227560266
+          ],
+          [
+            -123.05549190882394,
+            49.23487312991594
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05714594272979,
+      "lat": 49.2348826787381
+    }
+  },
+  {
     "project": "800-1000 Canada Place with closures of 200 Howe st, 200 Thurlow and parking stri",
     "street": null,
     "location": "800-1000 Canada Place with closures of 200 Howe st, 200 Thurlow and parking stri",
@@ -590,22 +618,22 @@
     }
   },
   {
-    "project": "E 39th Av from Clarendon St to Nanaimo St",
+    "project": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
     "street": null,
-    "location": "E 39th Av from Clarendon St to Nanaimo St",
-    "comp_date": "2025-07-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b433b7d-3ae5-4339-a419-95896a789e4e",
+    "location": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2967bc2b-7767-44e6-a0e9-6eb548caafcd",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.05879997663567,
-            49.234892227560266
+            -123.10214914488674,
+            49.27764813733802
           ],
           [
-            -123.05549190882394,
-            49.23487312991594
+            -123.10266091761117,
+            49.27762450914119
           ]
         ],
         "type": "LineString"
@@ -613,8 +641,104 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05714594272979,
-      "lat": 49.2348826787381
+      "lon": -123.10240503124896,
+      "lat": 49.277636323239605
+    }
+  },
+  {
+    "project": "E 5th Av from Kamloops St to Penticton St",
+    "street": null,
+    "location": "E 5th Av from Kamloops St to Penticton St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469526101206,
+            49.265728328416486
+          ],
+          [
+            -123.05214709013256,
+            49.26572674504254
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05342117557231,
+      "lat": 49.26572753672951
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1389720963772,
+              49.28194649366418
+            ],
+            [
+              -123.13768013933559,
+              49.282797540693565
+            ]
+          ],
+          [
+            [
+              -123.1388538780858,
+              49.28255792699605
+            ],
+            [
+              -123.13795879673671,
+              49.28197403586924
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13835889218282,
+      "lat": 49.282328695445585
+    }
+  },
+  {
+    "project": "E 2nd Av from Windermere St to Rupert St",
+    "street": null,
+    "location": "E 2nd Av from Windermere St to Rupert St",
+    "comp_date": "2025-07-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa730437-0991-4244-b390-60d7f29c9755",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03644273723026,
+            49.268470966946865
+          ],
+          [
+            -123.03370817698857,
+            49.26846255001101
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0350754571094,
+      "lat": 49.26846675847894
     }
   },
   {
@@ -846,22 +970,174 @@
     }
   },
   {
-    "project": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
+    "project": null,
     "street": null,
-    "location": "Both Sides of 0 Block of Expo Boulevard from Quebec St to 25m West of Quebec St.",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2967bc2b-7767-44e6-a0e9-6eb548caafcd",
+    "location": null,
+    "comp_date": "2025-07-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f781752-1f99-4b7c-82d7-56fb469c4f67",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10214914488674,
-            49.27764813733802
+            -123.11823794977825,
+            49.28884867580132
           ],
           [
-            -123.10266091761117,
-            49.27762450914119
+            -123.11824120811261,
+            49.288848339646165
+          ],
+          [
+            -123.11824710593748,
+            49.28884765897365
+          ],
+          [
+            -123.1182529898385,
+            49.28884690635368
+          ],
+          [
+            -123.11825885983708,
+            49.28884609078153
+          ],
+          [
+            -123.11826470216019,
+            49.288845203276054
+          ],
+          [
+            -123.11827051682926,
+            49.28884425283243
+          ],
+          [
+            -123.1182763175743,
+            49.288843230441415
+          ],
+          [
+            -123.11828207691369,
+            49.288842145126296
+          ],
+          [
+            -123.118287808599,
+            49.28884099687306
+          ],
+          [
+            -123.11829351263019,
+            49.28883978568169
+          ],
+          [
+            -123.11829918898569,
+            49.28883850255701
+          ],
+          [
+            -123.11830482393547,
+            49.28883715650829
+          ],
+          [
+            -123.11831041747942,
+            49.2888357475355
+          ],
+          [
+            -123.11831598336921,
+            49.288834275624566
+          ],
+          [
+            -123.11832149410156,
+            49.28883274080371
+          ],
+          [
+            -123.11832697717969,
+            49.288831143044746
+          ],
+          [
+            -123.11833240510039,
+            49.28882948237583
+          ],
+          [
+            -123.11833779161522,
+            49.288827758782844
+          ],
+          [
+            -123.1183431367241,
+            49.28882597226587
+          ],
+          [
+            -123.11834842669711,
+            49.28882413183413
+          ],
+          [
+            -123.11835367526415,
+            49.28882222847838
+          ],
+          [
+            -123.1183588686737,
+            49.28882026221268
+          ],
+          [
+            -123.11836400694722,
+            49.28881824203225
+          ],
+          [
+            -123.11836909006321,
+            49.28881615894193
+          ],
+          [
+            -123.11837411804318,
+            49.288814021936844
+          ],
+          [
+            -123.11837909086556,
+            49.28881182202187
+          ],
+          [
+            -123.11838399480035,
+            49.28880956820629
+          ],
+          [
+            -123.11838884359906,
+            49.28880726047598
+          ],
+          [
+            -123.11839363726169,
+            49.288804898830904
+          ],
+          [
+            -123.11841387004765,
+            49.28879514532872
+          ],
+          [
+            -123.11847128382037,
+            49.28876676069953
+          ],
+          [
+            -123.11852793963797,
+            49.28873772916711
+          ],
+          [
+            -123.11858382374804,
+            49.28870805074658
+          ],
+          [
+            -123.1186388949383,
+            49.28867774347174
+          ],
+          [
+            -123.11869315318648,
+            49.28864679834868
+          ],
+          [
+            -123.1187465710754,
+            49.2886152513872
+          ],
+          [
+            -123.11879914860472,
+            49.28858310258866
+          ],
+          [
+            -123.1188508582711,
+            49.28855035198234
+          ],
+          [
+            -123.11913946858223,
+            49.2883589794306
           ]
         ],
         "type": "LineString"
@@ -869,104 +1145,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10240503124896,
-      "lat": 49.277636323239605
-    }
-  },
-  {
-    "project": "E 5th Av from Kamloops St to Penticton St",
-    "street": null,
-    "location": "E 5th Av from Kamloops St to Penticton St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3739cf1f-bed5-42ab-8176-ee87af13abb4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05469526101206,
-            49.265728328416486
-          ],
-          [
-            -123.05214709013256,
-            49.26572674504254
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05342117557231,
-      "lat": 49.26572753672951
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Harwood St. From Broughton St to 30M W",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55c461e5-e3ba-42da-ae01-3c605ba4ba01",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1389720963772,
-              49.28194649366418
-            ],
-            [
-              -123.13768013933559,
-              49.282797540693565
-            ]
-          ],
-          [
-            [
-              -123.1388538780858,
-              49.28255792699605
-            ],
-            [
-              -123.13795879673671,
-              49.28197403586924
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13835889218282,
-      "lat": 49.282328695445585
-    }
-  },
-  {
-    "project": "E 2nd Av from Windermere St to Rupert St",
-    "street": null,
-    "location": "E 2nd Av from Windermere St to Rupert St",
-    "comp_date": "2025-07-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fa730437-0991-4244-b390-60d7f29c9755",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03644273723026,
-            49.268470966946865
-          ],
-          [
-            -123.03370817698857,
-            49.26846255001101
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0350754571094,
-      "lat": 49.26846675847894
+      "lon": -123.1187006001231,
+      "lat": 49.288629464321076
     }
   },
   {
@@ -1470,186 +1650,6 @@
     }
   },
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2025-07-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f781752-1f99-4b7c-82d7-56fb469c4f67",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11823794977825,
-            49.28884867580132
-          ],
-          [
-            -123.11824120811261,
-            49.288848339646165
-          ],
-          [
-            -123.11824710593748,
-            49.28884765897365
-          ],
-          [
-            -123.1182529898385,
-            49.28884690635368
-          ],
-          [
-            -123.11825885983708,
-            49.28884609078153
-          ],
-          [
-            -123.11826470216019,
-            49.288845203276054
-          ],
-          [
-            -123.11827051682926,
-            49.28884425283243
-          ],
-          [
-            -123.1182763175743,
-            49.288843230441415
-          ],
-          [
-            -123.11828207691369,
-            49.288842145126296
-          ],
-          [
-            -123.118287808599,
-            49.28884099687306
-          ],
-          [
-            -123.11829351263019,
-            49.28883978568169
-          ],
-          [
-            -123.11829918898569,
-            49.28883850255701
-          ],
-          [
-            -123.11830482393547,
-            49.28883715650829
-          ],
-          [
-            -123.11831041747942,
-            49.2888357475355
-          ],
-          [
-            -123.11831598336921,
-            49.288834275624566
-          ],
-          [
-            -123.11832149410156,
-            49.28883274080371
-          ],
-          [
-            -123.11832697717969,
-            49.288831143044746
-          ],
-          [
-            -123.11833240510039,
-            49.28882948237583
-          ],
-          [
-            -123.11833779161522,
-            49.288827758782844
-          ],
-          [
-            -123.1183431367241,
-            49.28882597226587
-          ],
-          [
-            -123.11834842669711,
-            49.28882413183413
-          ],
-          [
-            -123.11835367526415,
-            49.28882222847838
-          ],
-          [
-            -123.1183588686737,
-            49.28882026221268
-          ],
-          [
-            -123.11836400694722,
-            49.28881824203225
-          ],
-          [
-            -123.11836909006321,
-            49.28881615894193
-          ],
-          [
-            -123.11837411804318,
-            49.288814021936844
-          ],
-          [
-            -123.11837909086556,
-            49.28881182202187
-          ],
-          [
-            -123.11838399480035,
-            49.28880956820629
-          ],
-          [
-            -123.11838884359906,
-            49.28880726047598
-          ],
-          [
-            -123.11839363726169,
-            49.288804898830904
-          ],
-          [
-            -123.11841387004765,
-            49.28879514532872
-          ],
-          [
-            -123.11847128382037,
-            49.28876676069953
-          ],
-          [
-            -123.11852793963797,
-            49.28873772916711
-          ],
-          [
-            -123.11858382374804,
-            49.28870805074658
-          ],
-          [
-            -123.1186388949383,
-            49.28867774347174
-          ],
-          [
-            -123.11869315318648,
-            49.28864679834868
-          ],
-          [
-            -123.1187465710754,
-            49.2886152513872
-          ],
-          [
-            -123.11879914860472,
-            49.28858310258866
-          ],
-          [
-            -123.1188508582711,
-            49.28855035198234
-          ],
-          [
-            -123.11913946858223,
-            49.2883589794306
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1187006001231,
-      "lat": 49.288629464321076
-    }
-  },
-  {
     "project": "W 13th Av from MacKenzie St to Macdonald St",
     "street": null,
     "location": "W 13th Av from MacKenzie St to Macdonald St",
@@ -1675,6 +1675,34 @@
     "geo_point_2d": {
       "lon": -123.16927254946825,
       "lat": 49.26048651087196
+    }
+  },
+  {
+    "project": "Vine St from W 22nd Av to Laneway North",
+    "street": null,
+    "location": "Vine St from W 22nd Av to Laneway North",
+    "comp_date": "2025-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15806921093802,
+            49.25311818739479
+          ],
+          [
+            -123.15808534300737,
+            49.25266611926014
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15807727697269,
+      "lat": 49.252892153327466
     }
   },
   {
@@ -1743,62 +1771,6 @@
     "geo_point_2d": {
       "lon": -123.05846871742068,
       "lat": 49.269065589085166
-    }
-  },
-  {
-    "project": "Vine St from W 22nd Av to Laneway North",
-    "street": null,
-    "location": "Vine St from W 22nd Av to Laneway North",
-    "comp_date": "2025-07-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f00c68c-546d-4294-ad30-abff9dddcd82",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15806921093802,
-            49.25311818739479
-          ],
-          [
-            -123.15808534300737,
-            49.25266611926014
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15807727697269,
-      "lat": 49.252892153327466
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1700 Block of Columbia St. From Lane South of West 1",
-    "street": null,
-    "location": "Both Sides of the Street of 1700 Block of Columbia St. From Lane South of West 1",
-    "comp_date": "2025-07-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3e6ac40c-601a-4de2-a21f-b456e3748238",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10942803989141,
-            49.27027831823426
-          ],
-          [
-            -123.10943340430946,
-            49.269833786048935
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10943072210043,
-      "lat": 49.270056052141605
     }
   },
   {
@@ -2094,22 +2066,22 @@
     }
   },
   {
-    "project": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
+    "project": "Both Sides of the Street of 1700 Block of Columbia St. From Lane South of West 1",
     "street": null,
-    "location": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
-    "comp_date": "2025-07-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a4278dd-7994-4201-84b5-f54c31a2a9c6",
+    "location": "Both Sides of the Street of 1700 Block of Columbia St. From Lane South of West 1",
+    "comp_date": "2025-07-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3e6ac40c-601a-4de2-a21f-b456e3748238",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.06595628667854,
-            49.261361899525696
+            -123.10942803989141,
+            49.27027831823426
           ],
           [
-            -123.06682923328651,
-            49.26136656738805
+            -123.10943340430946,
+            49.269833786048935
           ]
         ],
         "type": "LineString"
@@ -2117,36 +2089,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.06639275998253,
-      "lat": 49.261364233456874
-    }
-  },
-  {
-    "project": "W 13th Av from Blenheim St to Musqueamview St",
-    "street": null,
-    "location": "W 13th Av from Blenheim St to Musqueamview St",
-    "comp_date": "2025-07-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9910adfe-21c9-4c4f-a5c1-82924601631f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17604134034049,
-            49.26059158809352
-          ],
-          [
-            -123.1779747593158,
-            49.260621467576584
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17700804982815,
-      "lat": 49.26060652783505
+      "lon": -123.10943072210043,
+      "lat": 49.270056052141605
     }
   },
   {
@@ -2215,6 +2159,62 @@
     "geo_point_2d": {
       "lon": -123.1043658285503,
       "lat": 49.28098621341034
+    }
+  },
+  {
+    "project": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
+    "street": null,
+    "location": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
+    "comp_date": "2025-07-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a4278dd-7994-4201-84b5-f54c31a2a9c6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06595628667854,
+            49.261361899525696
+          ],
+          [
+            -123.06682923328651,
+            49.26136656738805
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06639275998253,
+      "lat": 49.261364233456874
+    }
+  },
+  {
+    "project": "W 13th Av from Blenheim St to Musqueamview St",
+    "street": null,
+    "location": "W 13th Av from Blenheim St to Musqueamview St",
+    "comp_date": "2025-07-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9910adfe-21c9-4c4f-a5c1-82924601631f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17604134034049,
+            49.26059158809352
+          ],
+          [
+            -123.1779747593158,
+            49.260621467576584
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17700804982815,
+      "lat": 49.26060652783505
     }
   },
   {
