@@ -1,5 +1,33 @@
 [
   {
+    "project": "W 22nd Av - Balsam St to Arbutus St - 2025",
+    "street": null,
+    "location": "W 22nd Av - Balsam St to Arbutus St - 2025",
+    "comp_date": "2025-07-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d511636-261e-4c73-80e8-0e1c35a17d0b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15307461507084,
+            49.252588440722946
+          ],
+          [
+            -123.16046521182771,
+            49.252711258902536
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15676991344927,
+      "lat": 49.25264984981274
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -317,34 +345,6 @@
     "geo_point_2d": {
       "lon": -123.15678769843926,
       "lat": 49.26819590324998
-    }
-  },
-  {
-    "project": "W 22nd Av - Balsam St to Arbutus St - 2025",
-    "street": null,
-    "location": "W 22nd Av - Balsam St to Arbutus St - 2025",
-    "comp_date": "2025-07-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0d511636-261e-4c73-80e8-0e1c35a17d0b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15307461507084,
-            49.252588440722946
-          ],
-          [
-            -123.16046521182771,
-            49.252711258902536
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15676991344927,
-      "lat": 49.25264984981274
     }
   },
   {
