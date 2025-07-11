@@ -1,77 +1,5 @@
 [
   {
-    "project": "Both Sides of 100 Block of Keefer St from Lane West of Main St to 45m West of La",
-    "street": null,
-    "location": "Both Sides of 100 Block of Keefer St from Lane West of Main St to 45m West of La",
-    "comp_date": "2025-07-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c054db2b-d714-411c-895f-dd5a40f497f1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10230918197861,
-              49.27951937594656
-            ],
-            [
-              -123.10173318028843,
-              49.279521709072355
-            ],
-            [
-              -123.10151494347267,
-              49.279470381774786
-            ]
-          ],
-          [
-            [
-              -123.1011956437671,
-              49.2795030447038
-            ],
-            [
-              -123.100526623262,
-              49.279493712410044
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10143232138213,
-      "lat": 49.27950671153748
-    }
-  },
-  {
-    "project": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
-    "street": null,
-    "location": "North Side of 1700-1800 Block of E 10th Ave from Victoria Dr to 50m West of Vict",
-    "comp_date": "2025-07-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a4278dd-7994-4201-84b5-f54c31a2a9c6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06595628667854,
-            49.261361899525696
-          ],
-          [
-            -123.06682923328651,
-            49.26136656738805
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06639275998253,
-      "lat": 49.261364233456874
-    }
-  },
-  {
     "project": "Both Sides of the Street of 5800 Block of Culloden St. From North PL of 5815 to",
     "street": null,
     "location": "Both Sides of the Street of 5800 Block of Culloden St. From North PL of 5815 to",
@@ -450,6 +378,261 @@
     }
   },
   {
+    "project": "Jonathon Roger's Park, 100 W 8th ave, 2300 Columbia, 100 W 7th and 2300 Manitoba",
+    "street": null,
+    "location": "Jonathon Roger's Park, 100 W 8th ave, 2300 Columbia, 100 W 7th and 2300 Manitoba",
+    "comp_date": "2025-07-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/23f8146e-c7d4-4da9-986a-b3359f1247fd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "geometries": [
+          {
+            "coordinates": [
+              [
+                -123.10668239812658,
+                49.26387344717958
+              ],
+              [
+                -123.10497205060685,
+                49.263840600817616
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.1108241220224,
+                49.263961037371246
+              ],
+              [
+                -123.10963358436625,
+                49.263928191067606
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                [
+                  -123.10830174468063,
+                  49.264264389735644
+                ],
+                [
+                  -123.10795523177302,
+                  49.264264389735644
+                ],
+                [
+                  -123.10795950971014,
+                  49.26426159660372
+                ],
+                [
+                  -123.10830174468063,
+                  49.264264389735644
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10490497815512,
+                49.26459606161126
+              ],
+              [
+                -123.10668239812658,
+                49.26463985555057
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10934852808381,
+                49.265592375875826
+              ],
+              [
+                -123.10936529619674,
+                49.264880724462444
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.1108241220224,
+                49.26484787877098
+              ],
+              [
+                -123.10490497815512,
+                49.26474934156536
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10934852808381,
+                49.26319461765502
+              ],
+              [
+                -123.10934852808381,
+                49.263720163702686
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10679977491715,
+                49.26553763396774
+              ],
+              [
+                -123.1069171500702,
+                49.26313987268583
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10674947057834,
+                49.2631179753227
+              ],
+              [
+                -123.10666563001364,
+                49.26553763396774
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10953297568861,
+                49.26320556632078
+              ],
+              [
+                -123.10951620921318,
+                49.26561427280919
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10498881871979,
+                49.263698266329754
+              ],
+              [
+                -123.11089119201787,
+                49.26380775443377
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10692068507723,
+                49.26383245834265
+              ],
+              [
+                -123.10938762654591,
+                49.263888324160405
+              ],
+              [
+                -123.10940188842409,
+                49.26471699302954
+              ],
+              [
+                -123.10682086515922,
+                49.264689060597675
+              ],
+              [
+                -123.10684938613048,
+                49.26382314736691
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10948109999158,
+                49.264654505080586
+              ],
+              [
+                -123.10944525815127,
+                49.263882211456405
+              ],
+              [
+                -123.10925410050291,
+                49.26381980317254
+              ],
+              [
+                -123.10697217117037,
+                49.26379640011717
+              ],
+              [
+                -123.10678101468874,
+                49.2638900122721
+              ],
+              [
+                -123.10676906740865,
+                49.26466230558373
+              ]
+            ],
+            "type": "LineString"
+          }
+        ],
+        "type": "GeometryCollection"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1080721620546,
+      "lat": 49.26426345869167
+    }
+  },
+  {
+    "project": "Both Sides of 6300-6400 Block of Vine St from W 49th Ave to North PL of 6436",
+    "street": null,
+    "location": "Both Sides of 6300-6400 Block of Vine St from W 49th Ave to North PL of 6436",
+    "comp_date": "2025-07-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9aecbbdb-6033-4e88-83db-f53004bbbd53",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16017978792655,
+            49.22802856598216
+          ],
+          [
+            -123.16021212727678,
+            49.2272330689776
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16019595760167,
+      "lat": 49.22763081747987
+    }
+  },
+  {
     "project": "E 5th Ave and Kamloops St",
     "street": null,
     "location": "E 5th Ave and Kamloops St",
@@ -574,6 +757,86 @@
     }
   },
   {
+    "project": "W 14th Av from Granville St to Hemlock St",
+    "street": null,
+    "location": "W 14th Av from Granville St to Hemlock St",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06729749-55b8-439c-b27d-2d72992e5896",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13802111392553,
+              49.25890086237777
+            ],
+            [
+              -123.13873337660122,
+              49.25891120835743
+            ]
+          ],
+          [
+            [
+              -123.13627085173032,
+              49.25887244620168
+            ],
+            [
+              -123.13802111392553,
+              49.25890086237777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13750210751057,
+      "lat": 49.258892259983526
+    }
+  },
+  {
+    "project": "W 26th Av from Dunbar St to Collingwood St",
+    "street": null,
+    "location": "W 26th Av from Dunbar St to Collingwood St",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/124a4d11-6063-4bbd-b041-64ec3f9d195a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18345633302609,
+              49.24901061067621
+            ],
+            [
+              -123.18519638693142,
+              49.2490185657949
+            ]
+          ],
+          [
+            [
+              -123.18179794105183,
+              49.24900295963437
+            ],
+            [
+              -123.18345633302609,
+              49.24901061067621
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1834971639102,
+      "lat": 49.24901078044593
+    }
+  },
+  {
     "project": "Pine St - W 1st Av to W 6th Av",
     "street": null,
     "location": "Pine St - W 1st Av to W 6th Av",
@@ -639,6 +902,46 @@
     "geo_point_2d": {
       "lon": -123.12926941597343,
       "lat": 49.27705149104705
+    }
+  },
+  {
+    "project": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
+    "street": null,
+    "location": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
+    "comp_date": "2025-07-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d03b825d-9d65-4a67-b334-bf51f7ba2757",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1313656091589,
+              49.2831084179534
+            ],
+            [
+              -123.13111038950701,
+              49.28328187093675
+            ]
+          ],
+          [
+            [
+              -123.13123979654321,
+              49.283199832420706
+            ],
+            [
+              -123.13088033277322,
+              49.28296074807125
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13113423443463,
+      "lat": 49.28312816573893
     }
   },
   {
