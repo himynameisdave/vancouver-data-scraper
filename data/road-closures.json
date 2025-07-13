@@ -1,72 +1,32 @@
 [
   {
-    "project": "West Side of the Street of 700 Block of Beatty St. From Robson St to 40m North o",
+    "project": "Both Sides of the Street of 2200 Block of Heather St. From Lane South of W 6th A",
     "street": null,
-    "location": "West Side of the Street of 700 Block of Beatty St. From Robson St to 40m North o",
-    "comp_date": "2025-07-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/353daa2f-34ac-45dd-92a4-b4bbebbebe2f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11399243452388,
-              49.27759859212398
-            ],
-            [
-              -123.11342330589662,
-              49.27796657214233
-            ]
-          ],
-          [
-            [
-              -123.11057118810459,
-              49.27984643452112
-            ],
-            [
-              -123.11115556124865,
-              49.279458578396685
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11226123861397,
-      "lat": 49.2787335738223
-    }
-  },
-  {
-    "project": "South Side of 1100-1200 Block of Venables St from George St to 40m East of Verno",
-    "street": null,
-    "location": "South Side of 1100-1200 Block of Venables St from George St to 40m East of Verno",
+    "location": "Both Sides of the Street of 2200 Block of Heather St. From Lane South of W 6th A",
     "comp_date": "2025-07-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65f94ac1-271a-448c-acb9-d1d43888ad50",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a0f09cfc-4a21-45bc-9ea4-5f9f21a8e7df",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.07997473742584,
-              49.276787516780786
+              -123.12118392144285,
+              49.265917160703566
             ],
             [
-              -123.0779293872714,
-              49.276754697154956
+              -123.11942142685541,
+              49.26587847181952
             ]
           ],
           [
             [
-              -123.07861596086927,
-              49.27675938159595
+              -123.11979332938303,
+              49.26587847181952
             ],
             [
-              -123.07862315003935,
-              49.27642415057554
+              -123.11980949905815,
+              49.26547047810439
             ]
           ]
         ],
@@ -75,36 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07890523499526,
-      "lat": 49.2767458501717
-    }
-  },
-  {
-    "project": "800 Beatty St",
-    "street": null,
-    "location": "800 Beatty St",
-    "comp_date": "2025-07-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/97ec9b24-6661-4712-a0a6-7a2f92691d6c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11558607504439,
-            49.27651247433326
-          ],
-          [
-            -123.11401071072201,
-            49.27757913392489
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1147983928832,
-      "lat": 49.277045804129074
+      "lon": -123.12020840907756,
+      "lat": 49.2658558155302
     }
   },
   {
@@ -200,6 +132,34 @@
     }
   },
   {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2025-07-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bac7e581-7a1f-426c-a478-1fa2770ff2aa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09092523041457,
+            49.25721685411253
+          ],
+          [
+            -123.08941864168355,
+            49.2571550454478
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09017193604906,
+      "lat": 49.257185949780165
+    }
+  },
+  {
     "project": "Highway 1 offramp",
     "street": null,
     "location": "Highway 1 offramp",
@@ -253,6 +213,34 @@
     "geo_point_2d": {
       "lon": -123.15520275467098,
       "lat": 49.22610298824203
+    }
+  },
+  {
+    "project": "800 Beatty St",
+    "street": null,
+    "location": "800 Beatty St",
+    "comp_date": "2025-07-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/97ec9b24-6661-4712-a0a6-7a2f92691d6c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11558607504439,
+            49.27651247433326
+          ],
+          [
+            -123.11401071072201,
+            49.27757913392489
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1147983928832,
+      "lat": 49.277045804129074
     }
   },
   {
@@ -588,6 +576,46 @@
     "geo_point_2d": {
       "lon": -123.14318513635435,
       "lat": 49.26842864151578
+    }
+  },
+  {
+    "project": "Both Sides of 0-400 Block of W Cordova St from Richards St to 60m East of Abbott",
+    "street": null,
+    "location": "Both Sides of 0-400 Block of W Cordova St from Richards St to 60m East of Abbott",
+    "comp_date": "2025-07-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/65b8c0c8-845b-4010-9cad-8ab4f7a9ee2f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11094790291669,
+              49.28467564473419
+            ],
+            [
+              -123.10916923865413,
+              49.28356814503891
+            ]
+          ],
+          [
+            [
+              -123.10914102223246,
+              49.28335425987896
+            ],
+            [
+              -123.10569688143315,
+              49.28273545288266
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10840754303457,
+      "lat": 49.28344822929556
     }
   },
   {
@@ -1336,34 +1364,6 @@
     "geo_point_2d": {
       "lon": -123.07451483767278,
       "lat": 49.21504995764013
-    }
-  },
-  {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18815934348683,
-            49.24519436177815
-          ],
-          [
-            -123.18817356592662,
-            49.241433898919325
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
     }
   },
   {
