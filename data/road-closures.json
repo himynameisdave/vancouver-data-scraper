@@ -1,21 +1,21 @@
 [
   {
-    "project": "N/S of the Street of 0 Block of Nelson St from Expo Blvd to 30m West of Expo Blv",
+    "project": "W 6th Av from Yew St to Vine St",
     "street": null,
-    "location": "N/S of the Street of 0 Block of Nelson St from Expo Blvd to 30m West of Expo Blv",
-    "comp_date": "2025-07-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/32af6227-5b7e-4b86-a117-d9b9f62aea0c",
+    "location": "W 6th Av from Yew St to Vine St",
+    "comp_date": "2025-07-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ceb07700-6bb5-432d-b22b-0a0d43c02777",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1159842412656,
-            49.27487854255281
+            -123.15520025523139,
+            49.26645457705652
           ],
           [
-            -123.1162605087941,
-            49.27506053760263
+            -123.15756987662317,
+            49.266491542386234
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11612237502985,
-      "lat": 49.27496954007772
+      "lon": -123.15638506592728,
+      "lat": 49.26647305972138
     }
   },
   {
@@ -78,233 +78,6 @@
     }
   },
   {
-    "project": "Jonathon Roger's Park, 100 W 8th ave, 2300 Columbia, 100 W 7th and 2300 Manitoba",
-    "street": null,
-    "location": "Jonathon Roger's Park, 100 W 8th ave, 2300 Columbia, 100 W 7th and 2300 Manitoba",
-    "comp_date": "2025-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/23f8146e-c7d4-4da9-986a-b3359f1247fd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "geometries": [
-          {
-            "coordinates": [
-              [
-                -123.10668239812658,
-                49.26387344717958
-              ],
-              [
-                -123.10497205060685,
-                49.263840600817616
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.1108241220224,
-                49.263961037371246
-              ],
-              [
-                -123.10963358436625,
-                49.263928191067606
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                [
-                  -123.10830174468063,
-                  49.264264389735644
-                ],
-                [
-                  -123.10795523177302,
-                  49.264264389735644
-                ],
-                [
-                  -123.10795950971014,
-                  49.26426159660372
-                ],
-                [
-                  -123.10830174468063,
-                  49.264264389735644
-                ]
-              ]
-            ],
-            "type": "Polygon"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10490497815512,
-                49.26459606161126
-              ],
-              [
-                -123.10668239812658,
-                49.26463985555057
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10934852808381,
-                49.265592375875826
-              ],
-              [
-                -123.10936529619674,
-                49.264880724462444
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.1108241220224,
-                49.26484787877098
-              ],
-              [
-                -123.10490497815512,
-                49.26474934156536
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10934852808381,
-                49.26319461765502
-              ],
-              [
-                -123.10934852808381,
-                49.263720163702686
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10679977491715,
-                49.26553763396774
-              ],
-              [
-                -123.1069171500702,
-                49.26313987268583
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10674947057834,
-                49.2631179753227
-              ],
-              [
-                -123.10666563001364,
-                49.26553763396774
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10953297568861,
-                49.26320556632078
-              ],
-              [
-                -123.10951620921318,
-                49.26561427280919
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10498881871979,
-                49.263698266329754
-              ],
-              [
-                -123.11089119201787,
-                49.26380775443377
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10692068507723,
-                49.26383245834265
-              ],
-              [
-                -123.10938762654591,
-                49.263888324160405
-              ],
-              [
-                -123.10940188842409,
-                49.26471699302954
-              ],
-              [
-                -123.10682086515922,
-                49.264689060597675
-              ],
-              [
-                -123.10684938613048,
-                49.26382314736691
-              ]
-            ],
-            "type": "LineString"
-          },
-          {
-            "coordinates": [
-              [
-                -123.10948109999158,
-                49.264654505080586
-              ],
-              [
-                -123.10944525815127,
-                49.263882211456405
-              ],
-              [
-                -123.10925410050291,
-                49.26381980317254
-              ],
-              [
-                -123.10697217117037,
-                49.26379640011717
-              ],
-              [
-                -123.10678101468874,
-                49.2638900122721
-              ],
-              [
-                -123.10676906740865,
-                49.26466230558373
-              ]
-            ],
-            "type": "LineString"
-          }
-        ],
-        "type": "GeometryCollection"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1080721620546,
-      "lat": 49.26426345869167
-    }
-  },
-  {
     "project": "Both Sides of 6300-6400 Block of Vine St from W 49th Ave to North PL of 6436",
     "street": null,
     "location": "Both Sides of 6300-6400 Block of Vine St from W 49th Ave to North PL of 6436",
@@ -330,6 +103,34 @@
     "geo_point_2d": {
       "lon": -123.16019595760167,
       "lat": 49.22763081747987
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2025-07-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c417d655-3aa2-496f-8fef-9321c1df0b2d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11604550504451,
+            49.237247840778025
+          ],
+          [
+            -123.11698715047345,
+            49.23728030839288
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11651632775897,
+      "lat": 49.237264074585454
     }
   },
   {
@@ -373,37 +174,33 @@
     }
   },
   {
-    "project": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
+    "project": "- Both Sides of 3400 Block of Yukon St from W 19th Ave to 30m North of W 19th Av",
     "street": null,
-    "location": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
+    "location": "- Both Sides of 3400 Block of Yukon St from W 19th Ave to 30m North of W 19th Av",
     "comp_date": "2025-07-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/856a6873-a827-4512-b16f-108cc526fd82",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/16616aef-54c7-4390-ba68-e2193de62de7",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.15186096692453,
-              49.27540070180305
+              -123.1126313851078,
+              49.25392133861027
             ],
             [
-              -123.1525400932793,
-              49.274644649832254
-            ],
-            [
-              -123.15254548317104,
-              49.274532120176076
+              -123.11262419577315,
+              49.2542262332326
             ]
           ],
           [
             [
-              -123.15111716186928,
-              49.27495762158864
+              -123.10994475198444,
+              49.25197022441583
             ],
             [
-              -123.15220591999363,
-              49.274975204212666
+              -123.11047316404886,
+              49.251977260743274
             ]
           ]
         ],
@@ -412,67 +209,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15195328636038,
-      "lat": 49.27497299174335
+      "lon": -123.11109407933779,
+      "lat": 49.25274220967917
     }
   },
   {
-    "project": "W 14th Av from Granville St to Hemlock St",
+    "project": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
     "street": null,
-    "location": "W 14th Av from Granville St to Hemlock St",
+    "location": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
     "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06729749-55b8-439c-b27d-2d72992e5896",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e546443-8073-44f2-94cd-fcff9550cdb6",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.13802111392553,
-              49.25890086237777
-            ],
-            [
-              -123.13873337660122,
-              49.25891120835743
-            ]
+            -123.08582807340625,
+            49.24547145444686
           ],
           [
-            [
-              -123.13627085173032,
-              49.25887244620168
-            ],
-            [
-              -123.13802111392553,
-              49.25890086237777
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13750210751057,
-      "lat": 49.258892259983526
-    }
-  },
-  {
-    "project": "Both Sides of 3300 Block of E 46th Ave from Brooks St to East PL of 3310",
-    "street": null,
-    "location": "Both Sides of 3300 Block of E 46th Ave from Brooks St to East PL of 3310",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/40ddaaec-5ebd-41e2-829b-9677965f3513",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03500673960667,
-            49.22844572213728
-          ],
-          [
-            -123.03389642191547,
-            49.228442202296975
+            -123.08453180445126,
+            49.24546230601558
           ]
         ],
         "type": "LineString"
@@ -480,8 +237,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03445158076106,
-      "lat": 49.22844396221713
+      "lon": -123.08517993892876,
+      "lat": 49.24546688023123
     }
   },
   {
@@ -550,6 +307,130 @@
     "geo_point_2d": {
       "lon": -123.1834971639102,
       "lat": 49.24901078044593
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 7500 Block of Inverness St. From E 59th Av to 20m So",
+    "street": null,
+    "location": "Both Sides of the Street of 7500 Block of Inverness St. From E 59th Av to 20m So",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8877fbf5-d0c0-47bb-81c8-b7fc1f822972",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08010037023892,
+            49.21640341488194
+          ],
+          [
+            -123.08010576013064,
+            49.216139361823906
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08010306518479,
+      "lat": 49.21627138835292
+    }
+  },
+  {
+    "project": "W 14th Av from Granville St to Hemlock St",
+    "street": null,
+    "location": "W 14th Av from Granville St to Hemlock St",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06729749-55b8-439c-b27d-2d72992e5896",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13802111392553,
+              49.25890086237777
+            ],
+            [
+              -123.13873337660122,
+              49.25891120835743
+            ]
+          ],
+          [
+            [
+              -123.13627085173032,
+              49.25887244620168
+            ],
+            [
+              -123.13802111392553,
+              49.25890086237777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13750210751057,
+      "lat": 49.258892259983526
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 7000 Block of Culloden St. From E 55th Av to 40m Nor",
+    "street": null,
+    "location": "Both Sides of the Street of 7000 Block of Culloden St. From E 55th Av to 40m Nor",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11c0dae0-74eb-4408-b0c9-3b0d2e86efad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0789077127578,
+            49.21960982177262
+          ],
+          [
+            -123.07887815818496,
+            49.220084144106124
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07889293547137,
+      "lat": 49.219846982939366
+    }
+  },
+  {
+    "project": "Both Sides of 3300 Block of E 46th Ave from Brooks St to East PL of 3310",
+    "street": null,
+    "location": "Both Sides of 3300 Block of E 46th Ave from Brooks St to East PL of 3310",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/40ddaaec-5ebd-41e2-829b-9677965f3513",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03500673960667,
+            49.22844572213728
+          ],
+          [
+            -123.03389642191547,
+            49.228442202296975
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03445158076106,
+      "lat": 49.22844396221713
     }
   },
   {
@@ -673,6 +554,34 @@
     }
   },
   {
+    "project": "E Kent Ave South between Oolichan Way and River District Crossing",
+    "street": null,
+    "location": "E Kent Ave South between Oolichan Way and River District Crossing",
+    "comp_date": "2025-07-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f253d50d-daab-4b42-b8c4-e81e2686fbc8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03256653133877,
+            49.20525420279776
+          ],
+          [
+            -123.03120522205796,
+            49.205062025302425
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03188587669837,
+      "lat": 49.20515811405009
+    }
+  },
+  {
     "project": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
     "street": null,
     "location": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
@@ -713,31 +622,389 @@
     }
   },
   {
-    "project": "E Kent Ave South between Oolichan Way and River District Crossing",
+    "project": null,
     "street": null,
-    "location": "E Kent Ave South between Oolichan Way and River District Crossing",
-    "comp_date": "2025-07-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f253d50d-daab-4b42-b8c4-e81e2686fbc8",
+    "location": null,
+    "comp_date": "2025-07-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5d9460c7-92d1-4198-97f2-0c48d2b76f5c",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03256653133877,
-            49.20525420279776
+            [
+              -123.13598877404972,
+              49.29113717912742
+            ],
+            [
+              -123.13651152591112,
+              49.29077869013463
+            ]
           ],
           [
-            -123.03120522205796,
-            49.205062025302425
+            [
+              -123.13544968105354,
+              49.29148216515392
+            ],
+            [
+              -123.13598877404972,
+              49.29113717912742
+            ]
+          ],
+          [
+            [
+              -123.1349187679583,
+              49.29183391245084
+            ],
+            [
+              -123.13544968105354,
+              49.29148216515392
+            ]
+          ],
+          [
+            [
+              -123.1337555258055,
+              49.29260028532764
+            ],
+            [
+              -123.13438706439253,
+              49.29218601801051
+            ]
+          ],
+          [
+            [
+              -123.13438706439253,
+              49.29218601801051
+            ],
+            [
+              -123.1349187679583,
+              49.29183391245084
+            ]
+          ],
+          [
+            [
+              -123.13463813116239,
+              49.27679238155088
+            ],
+            [
+              -123.13544828004828,
+              49.27758694204982
+            ]
+          ],
+          [
+            [
+              -123.13238452277405,
+              49.27697627444772
+            ],
+            [
+              -123.13440257766115,
+              49.278278453608124
+            ]
+          ],
+          [
+            [
+              -123.13440257766115,
+              49.278278453608124
+            ],
+            [
+              -123.13656380519197,
+              49.27967788195318
+            ]
+          ],
+          [
+            [
+              -123.13544828004828,
+              49.27758694204982
+            ],
+            [
+              -123.1371526060815,
+              49.27928477872075
+            ]
+          ],
+          [
+            [
+              -123.13656380519197,
+              49.27967788195318
+            ],
+            [
+              -123.1381355691627,
+              49.28069528475905
+            ]
+          ],
+          [
+            [
+              -123.13757443962994,
+              49.29007481719816
+            ],
+            [
+              -123.13810564440774,
+              49.289722850343594
+            ]
+          ],
+          [
+            [
+              -123.13704289736482,
+              49.29042682696303
+            ],
+            [
+              -123.13757443962994,
+              49.29007481719816
+            ]
+          ],
+          [
+            [
+              -123.13651152591112,
+              49.29077869013463
+            ],
+            [
+              -123.13704289736482,
+              49.29042682696303
+            ]
+          ],
+          [
+            [
+              -123.14134201661142,
+              49.2875787076394
+            ],
+            [
+              -123.14249092092733,
+              49.28832241158099
+            ]
+          ],
+          [
+            [
+              -123.1407617894723,
+              49.28796327577689
+            ],
+            [
+              -123.14129337418767,
+              49.28761095184586
+            ]
+          ],
+          [
+            [
+              -123.14242577625055,
+              49.28764794408667
+            ],
+            [
+              -123.1424910307315,
+              49.288322339484296
+            ]
+          ],
+          [
+            [
+              -123.14023100767459,
+              49.288315299423545
+            ],
+            [
+              -123.1407617894723,
+              49.28796327577689
+            ]
+          ],
+          [
+            [
+              -123.139699077068,
+              49.28866736697296
+            ],
+            [
+              -123.14023100767459,
+              49.288315299423545
+            ]
+          ],
+          [
+            [
+              -123.13810564440774,
+              49.289722850343594
+            ],
+            [
+              -123.13863674581428,
+              49.2893710430603
+            ]
+          ],
+          [
+            [
+              -123.13916829227706,
+              49.289018810003256
+            ],
+            [
+              -123.139699077068,
+              49.28866736697296
+            ]
+          ],
+          [
+            [
+              -123.13863674581428,
+              49.2893710430603
+            ],
+            [
+              -123.13916829227706,
+              49.289018810003256
+            ]
+          ],
+          [
+            [
+              -123.14068924389483,
+              49.28234957472529
+            ],
+            [
+              -123.14186961494497,
+              49.28311266775222
+            ]
+          ],
+          [
+            [
+              -123.14186961494497,
+              49.28311266775222
+            ],
+            [
+              -123.1419593265332,
+              49.28318191939039
+            ],
+            [
+              -123.14283314914377,
+              49.284536019908955
+            ]
+          ],
+          [
+            [
+              -123.14283314914377,
+              49.284536019908955
+            ],
+            [
+              -123.14285357749348,
+              49.28456767566453
+            ],
+            [
+              -123.14250593536156,
+              49.286308140375695
+            ]
+          ],
+          [
+            [
+              -123.14134201661142,
+              49.2875787076394
+            ],
+            [
+              -123.14182506306534,
+              49.2872592279941
+            ]
+          ],
+          [
+            [
+              -123.14182506306534,
+              49.2872592279941
+            ],
+            [
+              -123.14239071249123,
+              49.2868846300843
+            ]
+          ],
+          [
+            [
+              -123.14239071249123,
+              49.2868846300843
+            ],
+            [
+              -123.14236621116464,
+              49.28702899679746
+            ],
+            [
+              -123.14242577625055,
+              49.28764794408667
+            ]
+          ],
+          [
+            [
+              -123.14182506306534,
+              49.2872592279941
+            ],
+            [
+              -123.14242577625055,
+              49.28764794408667
+            ]
+          ],
+          [
+            [
+              -123.14250593536156,
+              49.286308140375695
+            ],
+            [
+              -123.14239071249123,
+              49.2868846300843
+            ]
+          ],
+          [
+            [
+              -123.1371526060815,
+              49.27928477872075
+            ],
+            [
+              -123.13831614560404,
+              49.28044666681578
+            ]
+          ],
+          [
+            [
+              -123.13831614560404,
+              49.28044666681578
+            ],
+            [
+              -123.13939482291195,
+              49.28151125456563
+            ]
+          ],
+          [
+            [
+              -123.13831614560404,
+              49.28044666681578
+            ],
+            [
+              -123.13830202058354,
+              49.28058273584304
+            ],
+            [
+              -123.1381355691627,
+              49.28069528475905
+            ]
+          ],
+          [
+            [
+              -123.1381355691627,
+              49.28069528475905
+            ],
+            [
+              -123.13939482291195,
+              49.28151125456563
+            ]
+          ],
+          [
+            [
+              -123.13939482291195,
+              49.28151125456563
+            ],
+            [
+              -123.13951040703557,
+              49.28158613487699
+            ]
+          ],
+          [
+            [
+              -123.13951040703557,
+              49.28158613487699
+            ],
+            [
+              -123.14068924389483,
+              49.28234957472529
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03188587669837,
-      "lat": 49.20515811405009
+      "lon": -123.1384839752918,
+      "lat": 49.28393932408821
     }
   },
   {
@@ -908,6 +1175,50 @@
     "geo_point_2d": {
       "lon": -123.13225419157158,
       "lat": 49.282454312841175
+    }
+  },
+  {
+    "project": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
+    "street": null,
+    "location": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
+    "comp_date": "2025-07-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/856a6873-a827-4512-b16f-108cc526fd82",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15186096692453,
+              49.27540070180305
+            ],
+            [
+              -123.1525400932793,
+              49.274644649832254
+            ],
+            [
+              -123.15254548317104,
+              49.274532120176076
+            ]
+          ],
+          [
+            [
+              -123.15111716186928,
+              49.27495762158864
+            ],
+            [
+              -123.15220591999363,
+              49.274975204212666
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15195328636038,
+      "lat": 49.27497299174335
     }
   },
   {
