@@ -1,33 +1,5 @@
 [
   {
-    "project": "W 6th Av from Yew St to Vine St",
-    "street": null,
-    "location": "W 6th Av from Yew St to Vine St",
-    "comp_date": "2025-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ceb07700-6bb5-432d-b22b-0a0d43c02777",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15520025523139,
-            49.26645457705652
-          ],
-          [
-            -123.15756987662317,
-            49.266491542386234
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15638506592728,
-      "lat": 49.26647305972138
-    }
-  },
-  {
     "project": "Maple Crescent from Cypress Crescent to W king Edward Av",
     "street": null,
     "location": "Maple Crescent from Cypress Crescent to W king Edward Av",
@@ -103,6 +75,34 @@
     "geo_point_2d": {
       "lon": -123.16019595760167,
       "lat": 49.22763081747987
+    }
+  },
+  {
+    "project": "W 6th Av from Yew St to Vine St",
+    "street": null,
+    "location": "W 6th Av from Yew St to Vine St",
+    "comp_date": "2025-07-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ceb07700-6bb5-432d-b22b-0a0d43c02777",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15520025523139,
+            49.26645457705652
+          ],
+          [
+            -123.15756987662317,
+            49.266491542386234
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15638506592728,
+      "lat": 49.26647305972138
     }
   },
   {
@@ -214,62 +214,6 @@
     }
   },
   {
-    "project": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
-    "street": null,
-    "location": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e546443-8073-44f2-94cd-fcff9550cdb6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08582807340625,
-            49.24547145444686
-          ],
-          [
-            -123.08453180445126,
-            49.24546230601558
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08517993892876,
-      "lat": 49.24546688023123
-    }
-  },
-  {
-    "project": "Pine St - W 1st Av to W 6th Av",
-    "street": null,
-    "location": "Pine St - W 1st Av to W 6th Av",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14310073067321,
-            49.27061103047308
-          ],
-          [
-            -123.14326954203545,
-            49.26624625255849
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14318513635435,
-      "lat": 49.26842864151578
-    }
-  },
-  {
     "project": "W 26th Av from Dunbar St to Collingwood St",
     "street": null,
     "location": "W 26th Av from Dunbar St to Collingwood St",
@@ -335,6 +279,62 @@
     "geo_point_2d": {
       "lon": -123.08010306518479,
       "lat": 49.21627138835292
+    }
+  },
+  {
+    "project": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
+    "street": null,
+    "location": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e546443-8073-44f2-94cd-fcff9550cdb6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08582807340625,
+            49.24547145444686
+          ],
+          [
+            -123.08453180445126,
+            49.24546230601558
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08517993892876,
+      "lat": 49.24546688023123
+    }
+  },
+  {
+    "project": "Pine St - W 1st Av to W 6th Av",
+    "street": null,
+    "location": "Pine St - W 1st Av to W 6th Av",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14310073067321,
+            49.27061103047308
+          ],
+          [
+            -123.14326954203545,
+            49.26624625255849
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14318513635435,
+      "lat": 49.26842864151578
     }
   },
   {
