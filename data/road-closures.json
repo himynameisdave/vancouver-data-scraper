@@ -1,166 +1,204 @@
 [
   {
-    "project": "Maple Crescent from Cypress Crescent to W king Edward Av",
+    "project": "1000 Block of Smithe Street",
     "street": null,
-    "location": "Maple Crescent from Cypress Crescent to W king Edward Av",
-    "comp_date": "2025-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1ca06adc-3c6d-456b-9623-08778fd63b85",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15142539649658,
-              49.25087240567021
-            ],
-            [
-              -123.15164481211431,
-              49.25047693050351
-            ]
-          ],
-          [
-            [
-              -123.15164481211431,
-              49.25047693050351
-            ],
-            [
-              -123.15180766461542,
-              49.25016588649038
-            ]
-          ],
-          [
-            [
-              -123.15180766461542,
-              49.25016588649038
-            ],
-            [
-              -123.15013041571598,
-              49.24791559138819
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15111360168399,
-      "lat": 49.24936999710055
-    }
-  },
-  {
-    "project": "Both Sides of 6300-6400 Block of Vine St from W 49th Ave to North PL of 6436",
-    "street": null,
-    "location": "Both Sides of 6300-6400 Block of Vine St from W 49th Ave to North PL of 6436",
-    "comp_date": "2025-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9aecbbdb-6033-4e88-83db-f53004bbbd53",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16017978792655,
-            49.22802856598216
-          ],
-          [
-            -123.16021212727678,
-            49.2272330689776
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16019595760167,
-      "lat": 49.22763081747987
-    }
-  },
-  {
-    "project": "W 6th Av from Yew St to Vine St",
-    "street": null,
-    "location": "W 6th Av from Yew St to Vine St",
-    "comp_date": "2025-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ceb07700-6bb5-432d-b22b-0a0d43c02777",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15520025523139,
-            49.26645457705652
-          ],
-          [
-            -123.15756987662317,
-            49.266491542386234
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15638506592728,
-      "lat": 49.26647305972138
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2025-07-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c417d655-3aa2-496f-8fef-9321c1df0b2d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11604550504451,
-            49.237247840778025
-          ],
-          [
-            -123.11698715047345,
-            49.23728030839288
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11651632775897,
-      "lat": 49.237264074585454
-    }
-  },
-  {
-    "project": "E 5th Ave and Kamloops St",
-    "street": null,
-    "location": "E 5th Ave and Kamloops St",
+    "location": "1000 Block of Smithe Street",
     "comp_date": "2025-07-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/01ade7b5-1c32-4ef7-a2d4-0aabeb93e6a6",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/16b3df00-f183-4c32-8a55-18baea5b4288",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.05469526101206,
-              49.265728328416486
+              -123.12508645353559,
+              49.282878242051055
             ],
             [
-              -123.05469653902755,
-              49.26523065929996
+              -123.12509685761862,
+              49.28289814610932
+            ],
+            [
+              -123.12510808019367,
+              49.28292090974659
+            ],
+            [
+              -123.12511869809948,
+              49.28294379996987
+            ],
+            [
+              -123.12512869756259,
+              49.282966807799056
+            ],
+            [
+              -123.12513125682884,
+              49.2829729397381
+            ],
+            [
+              -123.12523313896604,
+              49.283220574513535
+            ],
+            [
+              -123.12526188825655,
+              49.28329030993831
+            ],
+            [
+              -123.12534080920587,
+              49.28342412654891
+            ],
+            [
+              -123.12544067031038,
+              49.28355182164344
+            ],
+            [
+              -123.12556038184648,
+              49.28367198410959
+            ],
+            [
+              -123.1256985240445,
+              49.28378320318808
             ]
           ],
           [
             [
-              -123.05469526101206,
-              49.265728328416486
+              -123.12440384075103,
+              49.28224067219989
             ],
             [
-              -123.05214709013256,
-              49.26572674504254
+              -123.12458037320575,
+              49.282354801721795
+            ],
+            [
+              -123.1246061693406,
+              49.282371747807275
+            ],
+            [
+              -123.12463151249764,
+              49.28238899121635
+            ],
+            [
+              -123.12465638890437,
+              49.28240652296904
+            ],
+            [
+              -123.12468078478825,
+              49.282424334085334
+            ],
+            [
+              -123.12470471387631,
+              49.282442415555465
+            ],
+            [
+              -123.12472816241858,
+              49.28246076739467
+            ],
+            [
+              -123.12475110291533,
+              49.28247938963284
+            ],
+            [
+              -123.12477354909338,
+              49.28249827326033
+            ],
+            [
+              -123.1247954871574,
+              49.28251740030194
+            ],
+            [
+              -123.12481691712972,
+              49.28253677975309
+            ],
+            [
+              -123.12483782523763,
+              49.282556402633844
+            ],
+            [
+              -123.12485819770815,
+              49.28257625996406
+            ],
+            [
+              -123.12487804829087,
+              49.28259635172927
+            ],
+            [
+              -123.12489734944022,
+              49.282616659969136
+            ],
+            [
+              -123.12491611492834,
+              49.282637193664215
+            ],
+            [
+              -123.12493433095953,
+              49.28265793483931
+            ],
+            [
+              -123.12495198376075,
+              49.282678874514374
+            ],
+            [
+              -123.1249690733542,
+              49.28270002168489
+            ],
+            [
+              -123.12498561342106,
+              49.28272134935074
+            ],
+            [
+              -123.12500156275657,
+              49.28274287554703
+            ],
+            [
+              -123.1250169487917,
+              49.28276457325887
+            ],
+            [
+              -123.12503174402612,
+              49.282786442516226
+            ],
+            [
+              -123.12504594845922,
+              49.282808483319286
+            ],
+            [
+              -123.12505957579468,
+              49.28283067766304
+            ],
+            [
+              -123.12507259853207,
+              49.28285302557765
+            ],
+            [
+              -123.12508503039786,
+              49.28287551805306
+            ],
+            [
+              -123.12508645353559,
+              49.282878242051055
+            ]
+          ],
+          [
+            [
+              -123.12450421344005,
+              49.28301040733007
+            ],
+            [
+              -123.12470428652188,
+              49.283139929013686
+            ],
+            [
+              -123.1256982220433,
+              49.28378340141043
+            ]
+          ],
+          [
+            [
+              -123.1256982220433,
+              49.28378340141043
+            ],
+            [
+              -123.12587972168538,
+              49.28390090570153
             ]
           ]
         ],
@@ -169,48 +207,44 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05362945724106,
-      "lat": 49.26568700814056
+      "lon": -123.1251317817476,
+      "lat": 49.28319097917417
     }
   },
   {
-    "project": "- Both Sides of 3400 Block of Yukon St from W 19th Ave to 30m North of W 19th Av",
+    "project": "Laneway East of Granville St from Granville St to Rolston St",
     "street": null,
-    "location": "- Both Sides of 3400 Block of Yukon St from W 19th Ave to 30m North of W 19th Av",
+    "location": "Laneway East of Granville St from Granville St to Rolston St",
     "comp_date": "2025-07-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/16616aef-54c7-4390-ba68-e2193de62de7",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02fda79b-f105-45a8-a248-a26a48747c8e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.1126313851078,
-              49.25392133861027
-            ],
-            [
-              -123.11262419577315,
-              49.2542262332326
-            ]
+            -123.13049246244282,
+            49.27435212453108
           ],
           [
-            [
-              -123.10994475198444,
-              49.25197022441583
-            ],
-            [
-              -123.11047316404886,
-              49.251977260743274
-            ]
+            -123.13021520933378,
+            49.274172623454916
+          ],
+          [
+            -123.1294194415438,
+            49.27435497747658
+          ],
+          [
+            -123.12891059938514,
+            49.27469188543628
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11109407933779,
-      "lat": 49.25274220967917
+      "lon": -123.12969160857922,
+      "lat": 49.27435371389537
     }
   },
   {
@@ -279,62 +313,6 @@
     "geo_point_2d": {
       "lon": -123.08010306518479,
       "lat": 49.21627138835292
-    }
-  },
-  {
-    "project": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
-    "street": null,
-    "location": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e546443-8073-44f2-94cd-fcff9550cdb6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08582807340625,
-            49.24547145444686
-          ],
-          [
-            -123.08453180445126,
-            49.24546230601558
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08517993892876,
-      "lat": 49.24546688023123
-    }
-  },
-  {
-    "project": "Pine St - W 1st Av to W 6th Av",
-    "street": null,
-    "location": "Pine St - W 1st Av to W 6th Av",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14310073067321,
-            49.27061103047308
-          ],
-          [
-            -123.14326954203545,
-            49.26624625255849
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14318513635435,
-      "lat": 49.26842864151578
     }
   },
   {
@@ -431,6 +409,102 @@
     "geo_point_2d": {
       "lon": -123.03445158076106,
       "lat": 49.22844396221713
+    }
+  },
+  {
+    "project": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
+    "street": null,
+    "location": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e546443-8073-44f2-94cd-fcff9550cdb6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08582807340625,
+            49.24547145444686
+          ],
+          [
+            -123.08453180445126,
+            49.24546230601558
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08517993892876,
+      "lat": 49.24546688023123
+    }
+  },
+  {
+    "project": "Pine St - W 1st Av to W 6th Av",
+    "street": null,
+    "location": "Pine St - W 1st Av to W 6th Av",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14310073067321,
+            49.27061103047308
+          ],
+          [
+            -123.14326954203545,
+            49.26624625255849
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14318513635435,
+      "lat": 49.26842864151578
+    }
+  },
+  {
+    "project": "- Both Sides of 1400 Block of W 59th Ave from West PL of 1451 to Cartier St\r\n- W",
+    "street": null,
+    "location": "- Both Sides of 1400 Block of W 59th Ave from West PL of 1451 to Cartier St\r\n- W",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bf5288b1-8894-4dd5-92a9-1de8ff16cbee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13883918057233,
+              49.21737838816904
+            ],
+            [
+              -123.13784346521203,
+              49.217357264393
+            ]
+          ],
+          [
+            [
+              -123.13785065471122,
+              49.217864232526466
+            ],
+            [
+              -123.1378699580003,
+              49.217389689294095
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13818600588579,
+      "lat": 49.21745149911099
     }
   },
   {
@@ -1138,46 +1212,6 @@
     }
   },
   {
-    "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
-    "street": null,
-    "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
-    "comp_date": "2025-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3b9f5a6b-ffb1-4fff-b41f-42dd617ced1d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13283956225452,
-              49.28214036998952
-            ],
-            [
-              -123.13177505864279,
-              49.28283829369718
-            ]
-          ],
-          [
-            [
-              -123.1322957004763,
-              49.28248035997905
-            ],
-            [
-              -123.13191509777462,
-              49.28223208072049
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13225419157158,
-      "lat": 49.282454312841175
-    }
-  },
-  {
     "project": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
     "street": null,
     "location": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
@@ -1219,6 +1253,46 @@
     "geo_point_2d": {
       "lon": -123.15195328636038,
       "lat": 49.27497299174335
+    }
+  },
+  {
+    "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "comp_date": "2025-07-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3b9f5a6b-ffb1-4fff-b41f-42dd617ced1d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13283956225452,
+              49.28214036998952
+            ],
+            [
+              -123.13177505864279,
+              49.28283829369718
+            ]
+          ],
+          [
+            [
+              -123.1322957004763,
+              49.28248035997905
+            ],
+            [
+              -123.13191509777462,
+              49.28223208072049
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13225419157158,
+      "lat": 49.282454312841175
     }
   },
   {
