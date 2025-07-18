@@ -76,102 +76,6 @@
     }
   },
   {
-    "project": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
-    "street": null,
-    "location": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e546443-8073-44f2-94cd-fcff9550cdb6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08582807340625,
-            49.24547145444686
-          ],
-          [
-            -123.08453180445126,
-            49.24546230601558
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08517993892876,
-      "lat": 49.24546688023123
-    }
-  },
-  {
-    "project": "Pine St - W 1st Av to W 6th Av",
-    "street": null,
-    "location": "Pine St - W 1st Av to W 6th Av",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14310073067321,
-            49.27061103047308
-          ],
-          [
-            -123.14326954203545,
-            49.26624625255849
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14318513635435,
-      "lat": 49.26842864151578
-    }
-  },
-  {
-    "project": "- Both Sides of 1400 Block of W 59th Ave from West PL of 1451 to Cartier St\r\n- W",
-    "street": null,
-    "location": "- Both Sides of 1400 Block of W 59th Ave from West PL of 1451 to Cartier St\r\n- W",
-    "comp_date": "2025-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bf5288b1-8894-4dd5-92a9-1de8ff16cbee",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13883918057233,
-              49.21737838816904
-            ],
-            [
-              -123.13784346521203,
-              49.217357264393
-            ]
-          ],
-          [
-            [
-              -123.13785065471122,
-              49.217864232526466
-            ],
-            [
-              -123.1378699580003,
-              49.217389689294095
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13818600588579,
-      "lat": 49.21745149911099
-    }
-  },
-  {
     "project": "W 26th Av from Dunbar St to Collingwood St",
     "street": null,
     "location": "W 26th Av from Dunbar St to Collingwood St",
@@ -333,6 +237,102 @@
     "geo_point_2d": {
       "lon": -123.03445158076106,
       "lat": 49.22844396221713
+    }
+  },
+  {
+    "project": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
+    "street": null,
+    "location": "B/S of the Street of 900 Block of E 28th Ave from West PL of 905 to East PL of 9",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4e546443-8073-44f2-94cd-fcff9550cdb6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08582807340625,
+            49.24547145444686
+          ],
+          [
+            -123.08453180445126,
+            49.24546230601558
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08517993892876,
+      "lat": 49.24546688023123
+    }
+  },
+  {
+    "project": "Pine St - W 1st Av to W 6th Av",
+    "street": null,
+    "location": "Pine St - W 1st Av to W 6th Av",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a9c0c36b-ccbc-4eb8-81d2-143fcdcf0ae6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14310073067321,
+            49.27061103047308
+          ],
+          [
+            -123.14326954203545,
+            49.26624625255849
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14318513635435,
+      "lat": 49.26842864151578
+    }
+  },
+  {
+    "project": "- Both Sides of 1400 Block of W 59th Ave from West PL of 1451 to Cartier St\r\n- W",
+    "street": null,
+    "location": "- Both Sides of 1400 Block of W 59th Ave from West PL of 1451 to Cartier St\r\n- W",
+    "comp_date": "2025-07-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bf5288b1-8894-4dd5-92a9-1de8ff16cbee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13883918057233,
+              49.21737838816904
+            ],
+            [
+              -123.13784346521203,
+              49.217357264393
+            ]
+          ],
+          [
+            [
+              -123.13785065471122,
+              49.217864232526466
+            ],
+            [
+              -123.1378699580003,
+              49.217389689294095
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13818600588579,
+      "lat": 49.21745149911099
     }
   },
   {
@@ -1080,46 +1080,6 @@
     }
   },
   {
-    "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
-    "street": null,
-    "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
-    "comp_date": "2025-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3b9f5a6b-ffb1-4fff-b41f-42dd617ced1d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13283956225452,
-              49.28214036998952
-            ],
-            [
-              -123.13177505864279,
-              49.28283829369718
-            ]
-          ],
-          [
-            [
-              -123.1322957004763,
-              49.28248035997905
-            ],
-            [
-              -123.13191509777462,
-              49.28223208072049
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13225419157158,
-      "lat": 49.282454312841175
-    }
-  },
-  {
     "project": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
     "street": null,
     "location": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
@@ -1161,6 +1121,46 @@
     "geo_point_2d": {
       "lon": -123.15195328636038,
       "lat": 49.27497299174335
+    }
+  },
+  {
+    "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "comp_date": "2025-07-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3b9f5a6b-ffb1-4fff-b41f-42dd617ced1d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13283956225452,
+              49.28214036998952
+            ],
+            [
+              -123.13177505864279,
+              49.28283829369718
+            ]
+          ],
+          [
+            [
+              -123.1322957004763,
+              49.28248035997905
+            ],
+            [
+              -123.13191509777462,
+              49.28223208072049
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13225419157158,
+      "lat": 49.282454312841175
     }
   },
   {
