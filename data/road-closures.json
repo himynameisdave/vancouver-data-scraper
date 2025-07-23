@@ -1,45 +1,5 @@
 [
   {
-    "project": "Larch St from W 43rd Av to W 45th Av",
-    "street": null,
-    "location": "Larch St from W 43rd Av to W 45th Av",
-    "comp_date": "2025-07-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eb5e76d3-c311-4c0f-9e64-75954997593f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16281331830507,
-              49.232829390019816
-            ],
-            [
-              -123.1628660134921,
-              49.23144327237469
-            ]
-          ],
-          [
-            [
-              -123.1628660134921,
-              49.23144327237469
-            ],
-            [
-              -123.16288183062946,
-              49.23096921787695
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16284839481212,
-      "lat": 49.23189933322716
-    }
-  },
-  {
     "project": "Ontario St from W 1st Av to W 2nd Av",
     "street": null,
     "location": "Ontario St from W 1st Av to W 2nd Av",
@@ -222,6 +182,46 @@
     }
   },
   {
+    "project": "Larch St from W 43rd Av to W 45th Av",
+    "street": null,
+    "location": "Larch St from W 43rd Av to W 45th Av",
+    "comp_date": "2025-07-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eb5e76d3-c311-4c0f-9e64-75954997593f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16281331830507,
+              49.232829390019816
+            ],
+            [
+              -123.1628660134921,
+              49.23144327237469
+            ]
+          ],
+          [
+            [
+              -123.1628660134921,
+              49.23144327237469
+            ],
+            [
+              -123.16288183062946,
+              49.23096921787695
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16284839481212,
+      "lat": 49.23189933322716
+    }
+  },
+  {
     "project": "Selkirk St from W 40th Av to W 41st Av",
     "street": null,
     "location": "Selkirk St from W 40th Av to W 41st Av",
@@ -299,34 +299,6 @@
     "geo_point_2d": {
       "lon": -123.18346118907871,
       "lat": 49.2485355611975
-    }
-  },
-  {
-    "project": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
-    "street": null,
-    "location": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
-    "comp_date": "2025-07-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e63d985-6dd1-4e5d-87f6-f06c137b2a1e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05397736177673,
-            49.27909775259309
-          ],
-          [
-            -123.05286165419385,
-            49.27909423636268
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05341950798531,
-      "lat": 49.279095994477885
     }
   },
   {
@@ -454,22 +426,22 @@
     }
   },
   {
-    "project": "E Kent Ave South between Oolichan Way and River District Crossing",
+    "project": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
     "street": null,
-    "location": "E Kent Ave South between Oolichan Way and River District Crossing",
-    "comp_date": "2025-07-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f253d50d-daab-4b42-b8c4-e81e2686fbc8",
+    "location": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
+    "comp_date": "2025-07-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e63d985-6dd1-4e5d-87f6-f06c137b2a1e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03256653133877,
-            49.20525420279776
+            -123.05397736177673,
+            49.27909775259309
           ],
           [
-            -123.03120522205796,
-            49.205062025302425
+            -123.05286165419385,
+            49.27909423636268
           ]
         ],
         "type": "LineString"
@@ -477,8 +449,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03188587669837,
-      "lat": 49.20515811405009
+      "lon": -123.05341950798531,
+      "lat": 49.279095994477885
     }
   },
   {
@@ -519,6 +491,34 @@
     "geo_point_2d": {
       "lon": -123.13113423443463,
       "lat": 49.28312816573893
+    }
+  },
+  {
+    "project": "E Kent Ave South between Oolichan Way and River District Crossing",
+    "street": null,
+    "location": "E Kent Ave South between Oolichan Way and River District Crossing",
+    "comp_date": "2025-07-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f253d50d-daab-4b42-b8c4-e81e2686fbc8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03256653133877,
+            49.20525420279776
+          ],
+          [
+            -123.03120522205796,
+            49.205062025302425
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03188587669837,
+      "lat": 49.20515811405009
     }
   },
   {
