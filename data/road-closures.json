@@ -1,227 +1,5 @@
 [
   {
-    "project": "Ontario St from W 1st Av to W 2nd Av",
-    "street": null,
-    "location": "Ontario St from W 1st Av to W 2nd Av",
-    "comp_date": "2025-07-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19f6c0c1-aaf5-4a01-adfc-79532f84f57e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1045978633537,
-              49.27018918089729
-            ],
-            [
-              -123.10461624796606,
-              49.26973675986696
-            ]
-          ],
-          [
-            [
-              -123.10461624796606,
-              49.26973675986696
-            ],
-            [
-              -123.1046370392008,
-              49.26923948656608
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10461731240812,
-      "lat": 49.26971432800704
-    }
-  },
-  {
-    "project": "Paton St from Eddington Dr to W 32nd Av",
-    "street": null,
-    "location": "Paton St from Eddington Dr to W 32nd Av",
-    "comp_date": "2025-07-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/69864326-2b29-43d9-aeca-0185d60e98b7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16134047692857,
-              49.24508408993063
-            ],
-            [
-              -123.16132460192958,
-              49.24489671430493
-            ],
-            [
-              -123.16132305261654,
-              49.244880839872906
-            ],
-            [
-              -123.16132107747222,
-              49.24486499302114
-            ],
-            [
-              -123.16131867646773,
-              49.24484916475444
-            ],
-            [
-              -123.16131586337212,
-              49.244833364048816
-            ],
-            [
-              -123.16131262450504,
-              49.244817608913706
-            ],
-            [
-              -123.16130897354762,
-              49.24480188133958
-            ],
-            [
-              -123.16130489684886,
-              49.24478620833119
-            ],
-            [
-              -123.16130039435046,
-              49.244770571898044
-            ],
-            [
-              -123.16129547988012,
-              49.244754999006574
-            ],
-            [
-              -123.16129015340888,
-              49.244739480661366
-            ],
-            [
-              -123.16128441496642,
-              49.244724025857806
-            ],
-            [
-              -123.16127826458235,
-              49.2447086435908
-            ],
-            [
-              -123.16127170219848,
-              49.24469331587008
-            ],
-            [
-              -123.1612647416717,
-              49.24467807865702
-            ],
-            [
-              -123.16125736926293,
-              49.24466293197085
-            ],
-            [
-              -123.16125187975612,
-              49.24465219032294
-            ]
-          ],
-          [
-            [
-              -123.16125187975612,
-              49.24465219032294
-            ],
-            [
-              -123.16107263787337,
-              49.244407769870094
-            ],
-            [
-              -123.16050441661346,
-              49.24400346909525
-            ]
-          ],
-          [
-            [
-              -123.16050441661346,
-              49.24400346909525
-            ],
-            [
-              -123.15965364754153,
-              49.24339055190322
-            ],
-            [
-              -123.15965306899753,
-              49.24339008495025
-            ],
-            [
-              -123.15955476594586,
-              49.243325994740275
-            ],
-            [
-              -123.15944675872983,
-              49.24326897910362
-            ],
-            [
-              -123.15933024464715,
-              49.24321966602889
-            ],
-            [
-              -123.15920648938217,
-              49.243178593460755
-            ],
-            [
-              -123.1591735718983,
-              49.24317037219265
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16041672507689,
-      "lat": 49.24399378579009
-    }
-  },
-  {
-    "project": "Larch St from W 43rd Av to W 45th Av",
-    "street": null,
-    "location": "Larch St from W 43rd Av to W 45th Av",
-    "comp_date": "2025-07-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eb5e76d3-c311-4c0f-9e64-75954997593f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16281331830507,
-              49.232829390019816
-            ],
-            [
-              -123.1628660134921,
-              49.23144327237469
-            ]
-          ],
-          [
-            [
-              -123.1628660134921,
-              49.23144327237469
-            ],
-            [
-              -123.16288183062946,
-              49.23096921787695
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16284839481212,
-      "lat": 49.23189933322716
-    }
-  },
-  {
     "project": "Selkirk St from W 40th Av to W 41st Av",
     "street": null,
     "location": "Selkirk St from W 40th Av to W 41st Av",
@@ -299,6 +77,34 @@
     "geo_point_2d": {
       "lon": -123.18346118907871,
       "lat": 49.2485355611975
+    }
+  },
+  {
+    "project": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
+    "street": null,
+    "location": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
+    "comp_date": "2025-07-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e63d985-6dd1-4e5d-87f6-f06c137b2a1e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05397736177673,
+            49.27909775259309
+          ],
+          [
+            -123.05286165419385,
+            49.27909423636268
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05341950798531,
+      "lat": 49.279095994477885
     }
   },
   {
@@ -423,74 +229,6 @@
     "geo_point_2d": {
       "lon": -123.03516986697507,
       "lat": 49.230240149781764
-    }
-  },
-  {
-    "project": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
-    "street": null,
-    "location": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
-    "comp_date": "2025-07-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e63d985-6dd1-4e5d-87f6-f06c137b2a1e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05397736177673,
-            49.27909775259309
-          ],
-          [
-            -123.05286165419385,
-            49.27909423636268
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05341950798531,
-      "lat": 49.279095994477885
-    }
-  },
-  {
-    "project": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
-    "street": null,
-    "location": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
-    "comp_date": "2025-07-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d03b825d-9d65-4a67-b334-bf51f7ba2757",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1313656091589,
-              49.2831084179534
-            ],
-            [
-              -123.13111038950701,
-              49.28328187093675
-            ]
-          ],
-          [
-            [
-              -123.13123979654321,
-              49.283199832420706
-            ],
-            [
-              -123.13088033277322,
-              49.28296074807125
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13113423443463,
-      "lat": 49.28312816573893
     }
   },
   {
@@ -1080,6 +818,46 @@
     }
   },
   {
+    "project": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
+    "street": null,
+    "location": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
+    "comp_date": "2025-08-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b9a8080-d0ed-4ded-acc2-73722a1dcbda",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12496447064977,
+              49.242385178070464
+            ],
+            [
+              -123.12499013840907,
+              49.2416757736504
+            ]
+          ],
+          [
+            [
+              -123.1254838657809,
+              49.24187341766921
+            ],
+            [
+              -123.12500955531085,
+              49.24186286101764
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1250852282913,
+      "lat": 49.241965444025446
+    }
+  },
+  {
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
@@ -1207,6 +985,46 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
+    "street": null,
+    "location": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
+    "comp_date": "2025-08-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d03b825d-9d65-4a67-b334-bf51f7ba2757",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1313656091589,
+              49.2831084179534
+            ],
+            [
+              -123.13111038950701,
+              49.28328187093675
+            ]
+          ],
+          [
+            [
+              -123.13123979654321,
+              49.283199832420706
+            ],
+            [
+              -123.13088033277322,
+              49.28296074807125
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13113423443463,
+      "lat": 49.28312816573893
     }
   },
   {
