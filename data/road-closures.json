@@ -40,62 +40,6 @@
     }
   },
   {
-    "project": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
-    "street": null,
-    "location": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
-    "comp_date": "2025-07-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e63d985-6dd1-4e5d-87f6-f06c137b2a1e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05397736177673,
-            49.27909775259309
-          ],
-          [
-            -123.05286165419385,
-            49.27909423636268
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05341950798531,
-      "lat": 49.279095994477885
-    }
-  },
-  {
-    "project": "Dumfries St from E 20th Av to Ln N of E 20th Av",
-    "street": null,
-    "location": "Dumfries St from E 20th Av to Ln N of E 20th Av",
-    "comp_date": "2025-07-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/83c08d17-91eb-45b8-ad1d-6390d4dba780",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07295864111236,
-            49.253000098953066
-          ],
-          [
-            -123.07297463047327,
-            49.25254859169047
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07296663579281,
-      "lat": 49.25277434532177
-    }
-  },
-  {
     "project": "W 37th Av from Wallace St to Highbury St",
     "street": null,
     "location": "W 37th Av from Wallace St to Highbury St",
@@ -217,6 +161,62 @@
     "geo_point_2d": {
       "lon": -123.03516986697507,
       "lat": 49.230240149781764
+    }
+  },
+  {
+    "project": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
+    "street": null,
+    "location": "B/S of the Street of 2500 Block of Turner St from West PL of 2516 to East PL of",
+    "comp_date": "2025-07-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e63d985-6dd1-4e5d-87f6-f06c137b2a1e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05397736177673,
+            49.27909775259309
+          ],
+          [
+            -123.05286165419385,
+            49.27909423636268
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05341950798531,
+      "lat": 49.279095994477885
+    }
+  },
+  {
+    "project": "Dumfries St from E 20th Av to Ln N of E 20th Av",
+    "street": null,
+    "location": "Dumfries St from E 20th Av to Ln N of E 20th Av",
+    "comp_date": "2025-07-25",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/83c08d17-91eb-45b8-ad1d-6390d4dba780",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07295864111236,
+            49.253000098953066
+          ],
+          [
+            -123.07297463047327,
+            49.25254859169047
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07296663579281,
+      "lat": 49.25277434532177
     }
   },
   {
