@@ -1,33 +1,5 @@
 [
   {
-    "project": "Ln W of Fleming St from Laneway to E 39th Av",
-    "street": null,
-    "location": "Ln W of Fleming St from Laneway to E 39th Av",
-    "comp_date": "2025-07-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cfb02b80-f2e7-4666-b65b-4d92286718c6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07351237379123,
-            49.23475648350205
-          ],
-          [
-            -123.07356788393393,
-            49.23310109705531
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07354012886259,
-      "lat": 49.23392879027868
-    }
-  },
-  {
     "project": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
     "street": null,
     "location": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
@@ -69,6 +41,170 @@
     "geo_point_2d": {
       "lon": -123.15195328636038,
       "lat": 49.27497299174335
+    }
+  },
+  {
+    "project": "Both Sides of 5500 Block of Lanark St from North PL of 5550 to South PL of 5608",
+    "street": null,
+    "location": "Both Sides of 5500 Block of Lanark St from North PL of 5550 to South PL of 5608",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f5bc9e8-0088-4df3-80b6-e1c161a68d59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07561902813457,
+            49.23423338626907
+          ],
+          [
+            -123.0756369164438,
+            49.23361805821082
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07562797228918,
+      "lat": 49.233925722239945
+    }
+  },
+  {
+    "project": "B/S of the Street of 3700 Block of Fleming Street from Lane South of E 21st Ave",
+    "street": null,
+    "location": "B/S of the Street of 3700 Block of Fleming Street from Lane South of E 21st Ave",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d27a45a5-a4c9-4086-928a-dadc88377a75",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07200429507527,
+            49.2511856136249
+          ],
+          [
+            -123.0720239280052,
+            49.25064224281692
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07201411154023,
+      "lat": 49.25091392822091
+    }
+  },
+  {
+    "project": "E 14th Av from Kaslo St to Renfrew St",
+    "street": null,
+    "location": "E 14th Av from Kaslo St to Renfrew St",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/da08bba3-5277-41b1-aa17-992f1c452650",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04703024591252,
+              49.257238841512645
+            ],
+            [
+              -123.0450619148356,
+              49.25722642999233
+            ]
+          ],
+          [
+            [
+              -123.0450619148356,
+              49.25722642999233
+            ],
+            [
+              -123.04430154668299,
+              49.2572220645296
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04566589722997,
+      "lat": 49.25723029825553
+    }
+  },
+  {
+    "project": "Nootka St from Charles St to Parker St",
+    "street": null,
+    "location": "Nootka St from Charles St to Parker St",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b7e73-610b-466f-8d71-99f6a4e762e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04138898175304,
+              49.27537791357517
+            ],
+            [
+              -123.04141514768014,
+              49.27374024946536
+            ]
+          ],
+          [
+            [
+              -123.04141514768014,
+              49.27374024946536
+            ],
+            [
+              -123.04142443641308,
+              49.27325873369145
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04140609286652,
+      "lat": 49.274318312766916
+    }
+  },
+  {
+    "project": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
+    "street": null,
+    "location": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce86cc43-ac27-467d-b160-386046c26987",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0939195180953,
+            49.243583175602424
+          ],
+          [
+            -123.09230244926029,
+            49.24356362569776
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0931109836778,
+      "lat": 49.24357340065009
     }
   },
   {
