@@ -1,49 +1,5 @@
 [
   {
-    "project": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
-    "street": null,
-    "location": "East Side of the Street of 1200 Block of Arbutus St. From Creelman Av to Whyte A",
-    "comp_date": "2025-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/856a6873-a827-4512-b16f-108cc526fd82",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15186096692453,
-              49.27540070180305
-            ],
-            [
-              -123.1525400932793,
-              49.274644649832254
-            ],
-            [
-              -123.15254548317104,
-              49.274532120176076
-            ]
-          ],
-          [
-            [
-              -123.15111716186928,
-              49.27495762158864
-            ],
-            [
-              -123.15220591999363,
-              49.274975204212666
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15195328636038,
-      "lat": 49.27497299174335
-    }
-  },
-  {
     "project": "E 60th Av from Borden St to Argyle St",
     "street": null,
     "location": "E 60th Av from Borden St to Argyle St",
@@ -73,46 +29,6 @@
     "geo_point_2d": {
       "lon": -123.07302645351031,
       "lat": 49.21542941190071
-    }
-  },
-  {
-    "project": "Nootka St from Charles St to Parker St",
-    "street": null,
-    "location": "Nootka St from Charles St to Parker St",
-    "comp_date": "2025-08-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b7e73-610b-466f-8d71-99f6a4e762e2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04138898175304,
-              49.27537791357517
-            ],
-            [
-              -123.04141514768014,
-              49.27374024946536
-            ]
-          ],
-          [
-            [
-              -123.04141514768014,
-              49.27374024946536
-            ],
-            [
-              -123.04142443641308,
-              49.27325873369145
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04140609286652,
-      "lat": 49.274318312766916
     }
   },
   {
@@ -209,6 +125,46 @@
     "geo_point_2d": {
       "lon": -123.04566589722997,
       "lat": 49.25723029825553
+    }
+  },
+  {
+    "project": "Nootka St from Charles St to Parker St",
+    "street": null,
+    "location": "Nootka St from Charles St to Parker St",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b7e73-610b-466f-8d71-99f6a4e762e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04138898175304,
+              49.27537791357517
+            ],
+            [
+              -123.04141514768014,
+              49.27374024946536
+            ]
+          ],
+          [
+            [
+              -123.04141514768014,
+              49.27374024946536
+            ],
+            [
+              -123.04142443641308,
+              49.27325873369145
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04140609286652,
+      "lat": 49.274318312766916
     }
   },
   {
