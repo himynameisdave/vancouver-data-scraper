@@ -1,25 +1,21 @@
 [
   {
-    "project": "E 60th Av from Borden St to Argyle St",
+    "project": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
     "street": null,
-    "location": "E 60th Av from Borden St to Argyle St",
-    "comp_date": "2025-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f16ea113-d30e-4b56-9a19-98902840b9fa",
+    "location": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce86cc43-ac27-467d-b160-386046c26987",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07401916988238,
-            49.21545523553081
+            -123.0939195180953,
+            49.243583175602424
           ],
           [
-            -123.07388110581898,
-            49.21543935729693
-          ],
-          [
-            -123.07203290037495,
-            49.21541677708609
+            -123.09230244926029,
+            49.24356362569776
           ]
         ],
         "type": "LineString"
@@ -27,8 +23,48 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07302645351031,
-      "lat": 49.21542941190071
+      "lon": -123.0931109836778,
+      "lat": 49.24357340065009
+    }
+  },
+  {
+    "project": "Nootka St from Charles St to Parker St",
+    "street": null,
+    "location": "Nootka St from Charles St to Parker St",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b7e73-610b-466f-8d71-99f6a4e762e2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04138898175304,
+              49.27537791357517
+            ],
+            [
+              -123.04141514768014,
+              49.27374024946536
+            ]
+          ],
+          [
+            [
+              -123.04141514768014,
+              49.27374024946536
+            ],
+            [
+              -123.04142443641308,
+              49.27325873369145
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04140609286652,
+      "lat": 49.274318312766916
     }
   },
   {
@@ -128,71 +164,180 @@
     }
   },
   {
-    "project": "Nootka St from Charles St to Parker St",
+    "project": null,
     "street": null,
-    "location": "Nootka St from Charles St to Parker St",
-    "comp_date": "2025-08-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e36b7e73-610b-466f-8d71-99f6a4e762e2",
+    "location": null,
+    "comp_date": "2025-08-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d7db53c8-f7ac-4136-b81c-8f6dea454d0a",
     "geom": {
       "type": "Feature",
       "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04138898175304,
-              49.27537791357517
+        "geometries": [
+          {
+            "coordinates": [
+              [
+                -123.09332796887215,
+                49.28398485664775
+              ],
+              [
+                -123.0933528470896,
+                49.283535338695174
+              ]
             ],
-            [
-              -123.04141514768014,
-              49.27374024946536
-            ]
-          ],
-          [
-            [
-              -123.04141514768014,
-              49.27374024946536
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09332796887215,
+                49.28398485664775
+              ],
+              [
+                -123.09277565564167,
+                49.283974570157284
+              ]
             ],
-            [
-              -123.04142443641308,
-              49.27325873369145
-            ]
-          ]
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09330885921024,
+                49.28443110465395
+              ],
+              [
+                -123.09332796887215,
+                49.28398485664775
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09277565564167,
+                49.283974570157284
+              ],
+              [
+                -123.09137761744282,
+                49.28394910339506
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09531251144057,
+                49.28311004820486
+              ],
+              [
+                -123.09533772069406,
+                49.28266351587814
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09528070065826,
+                49.284019945357045
+              ],
+              [
+                -123.09332796887215,
+                49.28398485664775
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                [
+                  -123.09515646965293,
+                  49.28300785719213
+                ],
+                [
+                  -123.09518220693276,
+                  49.28231638384307
+                ],
+                [
+                  -123.09355646472005,
+                  49.282291188339656
+                ],
+                [
+                  -123.09351356914456,
+                  49.28298826089417
+                ],
+                [
+                  -123.09515646965293,
+                  49.28300785719213
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09338577892868,
+                49.28262525219969
+              ],
+              [
+                -123.0934072048321,
+                49.28217577289951
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09337673196504,
+                49.28307700623279
+              ],
+              [
+                -123.09338577892868,
+                49.28262525219969
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.0933528470896,
+                49.283535338695174
+              ],
+              [
+                -123.09337673196504,
+                49.28307700623279
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09533772069406,
+                49.28266351587814
+              ],
+              [
+                -123.09535678740487,
+                49.2822119602763
+              ]
+            ],
+            "type": "LineString"
+          }
         ],
-        "type": "MultiLineString"
+        "type": "GeometryCollection"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.04140609286652,
-      "lat": 49.274318312766916
-    }
-  },
-  {
-    "project": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
-    "street": null,
-    "location": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
-    "comp_date": "2025-08-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce86cc43-ac27-467d-b160-386046c26987",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0939195180953,
-            49.243583175602424
-          ],
-          [
-            -123.09230244926029,
-            49.24356362569776
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0931109836778,
-      "lat": 49.24357340065009
+      "lon": -123.09435100436448,
+      "lat": 49.28265150410755
     }
   },
   {
@@ -316,34 +461,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "street": null,
-    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "comp_date": "2025-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04172604070938,
-            49.23299502389784
-          ],
-          [
-            -123.04172604070938,
-            49.233575740638
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04172604070938,
-      "lat": 49.23328538226792
-    }
-  },
-  {
     "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
     "street": null,
     "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
@@ -381,6 +498,34 @@
     "geo_point_2d": {
       "lon": -123.13225419157158,
       "lat": 49.282454312841175
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "street": null,
+    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "comp_date": "2025-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04172604070938,
+            49.23299502389784
+          ],
+          [
+            -123.04172604070938,
+            49.233575740638
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04172604070938,
+      "lat": 49.23328538226792
     }
   },
   {
