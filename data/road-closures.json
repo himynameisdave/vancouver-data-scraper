@@ -1,33 +1,5 @@
 [
   {
-    "project": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
-    "street": null,
-    "location": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
-    "comp_date": "2025-08-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce86cc43-ac27-467d-b160-386046c26987",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0939195180953,
-            49.243583175602424
-          ],
-          [
-            -123.09230244926029,
-            49.24356362569776
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0931109836778,
-      "lat": 49.24357340065009
-    }
-  },
-  {
     "project": "Nootka St from Charles St to Parker St",
     "street": null,
     "location": "Nootka St from Charles St to Parker St",
@@ -161,6 +133,34 @@
     "geo_point_2d": {
       "lon": -123.04566589722997,
       "lat": 49.25723029825553
+    }
+  },
+  {
+    "project": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
+    "street": null,
+    "location": "Both Side of the Street of 500-600 Block of E 30th Av. From West Pl of 508 to Ea",
+    "comp_date": "2025-08-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce86cc43-ac27-467d-b160-386046c26987",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0939195180953,
+            49.243583175602424
+          ],
+          [
+            -123.09230244926029,
+            49.24356362569776
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0931109836778,
+      "lat": 49.24357340065009
     }
   },
   {
@@ -461,6 +461,34 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "street": null,
+    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "comp_date": "2025-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04172604070938,
+            49.23299502389784
+          ],
+          [
+            -123.04172604070938,
+            49.233575740638
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04172604070938,
+      "lat": 49.23328538226792
+    }
+  },
+  {
     "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
     "street": null,
     "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
@@ -498,34 +526,6 @@
     "geo_point_2d": {
       "lon": -123.13225419157158,
       "lat": 49.282454312841175
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "street": null,
-    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "comp_date": "2025-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04172604070938,
-            49.23299502389784
-          ],
-          [
-            -123.04172604070938,
-            49.233575740638
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04172604070938,
-      "lat": 49.23328538226792
     }
   },
   {
