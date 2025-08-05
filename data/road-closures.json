@@ -1,33 +1,21 @@
 [
   {
-    "project": null,
+    "project": "B/S of the Street of 3600-3700 Block of W 20th Ave from Lane West of Dunbar Stre",
     "street": null,
-    "location": null,
-    "comp_date": "2025-08-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1478e0c-bc44-4152-ae53-911e8a3afcb3",
+    "location": "B/S of the Street of 3600-3700 Block of W 20th Ave from Lane West of Dunbar Stre",
+    "comp_date": "2025-08-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d9c672a-f025-40ab-a781-5c239d599163",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.02727799407367,
-            49.2698091062619
+            -123.18696201063517,
+            49.25378161390216
           ],
           [
-            -123.02712360676581,
-            49.26967654328777
-          ],
-          [
-            -123.02708297839222,
-            49.26958640048235
-          ],
-          [
-            -123.02714798378997,
-            49.269522769931825
-          ],
-          [
-            -123.0272454913748,
-            49.26950155973009
+            -123.18581806657112,
+            49.25377883820158
           ]
         ],
         "type": "LineString"
@@ -35,8 +23,48 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.02716468819474,
-      "lat": 49.2696390966387
+      "lon": -123.18639003860315,
+      "lat": 49.25378022605187
+    }
+  },
+  {
+    "project": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
+    "street": null,
+    "location": "- Both Sides of 1100-1200 Block of Comox St from Bute St to 40m East of Bute St",
+    "comp_date": "2025-08-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d03b825d-9d65-4a67-b334-bf51f7ba2757",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1313656091589,
+              49.2831084179534
+            ],
+            [
+              -123.13111038950701,
+              49.28328187093675
+            ]
+          ],
+          [
+            [
+              -123.13123979654321,
+              49.283199832420706
+            ],
+            [
+              -123.13088033277322,
+              49.28296074807125
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13113423443463,
+      "lat": 49.28312816573893
     }
   },
   {
@@ -65,6 +93,46 @@
     "geo_point_2d": {
       "lon": -123.04172604070938,
       "lat": 49.23328538226792
+    }
+  },
+  {
+    "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
+    "comp_date": "2025-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3b9f5a6b-ffb1-4fff-b41f-42dd617ced1d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13283956225452,
+              49.28214036998952
+            ],
+            [
+              -123.13177505864279,
+              49.28283829369718
+            ]
+          ],
+          [
+            [
+              -123.1322957004763,
+              49.28248035997905
+            ],
+            [
+              -123.13191509777462,
+              49.28223208072049
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13225419157158,
+      "lat": 49.282454312841175
     }
   },
   {
@@ -195,6 +263,46 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
+    "street": null,
+    "location": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
+    "comp_date": "2025-08-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b9a8080-d0ed-4ded-acc2-73722a1dcbda",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12496447064977,
+              49.242385178070464
+            ],
+            [
+              -123.12499013840907,
+              49.2416757736504
+            ]
+          ],
+          [
+            [
+              -123.1254838657809,
+              49.24187341766921
+            ],
+            [
+              -123.12500955531085,
+              49.24186286101764
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1250852282913,
+      "lat": 49.241965444025446
     }
   },
   {
