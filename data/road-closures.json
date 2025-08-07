@@ -68,6 +68,86 @@
     }
   },
   {
+    "project": "Haida Dr from Malta Av to Dieppe Dr",
+    "street": null,
+    "location": "Haida Dr from Malta Av to Dieppe Dr",
+    "comp_date": "2025-08-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e054d8dc-f20e-4150-a5ce-7fee5df34a64",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0275746441659,
+              49.254525842216
+            ],
+            [
+              -123.0262654316164,
+              49.25366553870927
+            ],
+            [
+              -123.02613893595381,
+              49.25360996794589
+            ],
+            [
+              -123.02598997810277,
+              49.253590886709134
+            ],
+            [
+              -123.02525742785252,
+              49.25359014065964
+            ]
+          ],
+          [
+            [
+              -123.02525742785252,
+              49.25359014065964
+            ],
+            [
+              -123.02461693408945,
+              49.25358919048327
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02616187843228,
+      "lat": 49.253837998206
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "street": null,
+    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "comp_date": "2025-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04172604070938,
+            49.23299502389784
+          ],
+          [
+            -123.04172604070938,
+            49.233575740638
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04172604070938,
+      "lat": 49.23328538226792
+    }
+  },
+  {
     "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
     "street": null,
     "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
@@ -105,74 +185,6 @@
     "geo_point_2d": {
       "lon": -123.13225419157158,
       "lat": 49.282454312841175
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "street": null,
-    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "comp_date": "2025-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04172604070938,
-            49.23299502389784
-          ],
-          [
-            -123.04172604070938,
-            49.233575740638
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04172604070938,
-      "lat": 49.23328538226792
-    }
-  },
-  {
-    "project": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
-    "street": null,
-    "location": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
-    "comp_date": "2025-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b9a8080-d0ed-4ded-acc2-73722a1dcbda",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12496447064977,
-              49.242385178070464
-            ],
-            [
-              -123.12499013840907,
-              49.2416757736504
-            ]
-          ],
-          [
-            [
-              -123.1254838657809,
-              49.24187341766921
-            ],
-            [
-              -123.12500955531085,
-              49.24186286101764
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1250852282913,
-      "lat": 49.241965444025446
     }
   },
   {
@@ -303,6 +315,78 @@
     "geo_point_2d": {
       "lon": -123.07065086072781,
       "lat": 49.23770531751831
+    }
+  },
+  {
+    "project": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
+    "street": null,
+    "location": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
+    "comp_date": "2025-08-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b9a8080-d0ed-4ded-acc2-73722a1dcbda",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12496447064977,
+              49.242385178070464
+            ],
+            [
+              -123.12499013840907,
+              49.2416757736504
+            ]
+          ],
+          [
+            [
+              -123.1254838657809,
+              49.24187341766921
+            ],
+            [
+              -123.12500955531085,
+              49.24186286101764
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1250852282913,
+      "lat": 49.241965444025446
+    }
+  },
+  {
+    "project": "Eastbound on-ramp at E 1st Ave",
+    "street": null,
+    "location": "Eastbound on-ramp at E 1st Ave",
+    "comp_date": "2025-08-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fd89050-7dce-4b38-bb04-46bb941f7ab3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02684154247483,
+            49.26740652173754
+          ],
+          [
+            -123.02809889639747,
+            49.26926277896723
+          ],
+          [
+            -123.02945055186429,
+            49.26941660930555
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02796284254188,
+      "lat": 49.26871418734623
     }
   },
   {
