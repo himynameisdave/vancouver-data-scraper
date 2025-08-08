@@ -68,6 +68,34 @@
     }
   },
   {
+    "project": "W 39th Av from Dunbar St to Collingwood St",
+    "street": null,
+    "location": "W 39th Av from Dunbar St to Collingwood St",
+    "comp_date": "2025-08-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2678afc3-668a-4291-bc2f-ab00e3073e14",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18201438883587,
+            49.23642206979545
+          ],
+          [
+            -123.1853075021689,
+            49.23643799120049
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18366094550238,
+      "lat": 49.236430030497964
+    }
+  },
+  {
     "project": "Haida Dr from Malta Av to Dieppe Dr",
     "street": null,
     "location": "Haida Dr from Malta Av to Dieppe Dr",
@@ -191,7 +219,7 @@
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
-    "comp_date": "2025-08-21",
+    "comp_date": "2025-08-19",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c3409c7d-2ea9-4d46-b0ff-0640e466ab2a",
     "geom": {
       "type": "Feature",
@@ -937,6 +965,34 @@
     "geo_point_2d": {
       "lon": -123.17571909970866,
       "lat": 49.246132374285864
+    }
+  },
+  {
+    "project": "E 23rd Av - St. Catherines St to Inverness St",
+    "street": null,
+    "location": "E 23rd Av - St. Catherines St to Inverness St",
+    "comp_date": "2025-10-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b71ab57-9f8e-40ff-8b46-aa8e6a10833a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08582596362349,
+            49.25005512558383
+          ],
+          [
+            -123.07997582692363,
+            49.249966188571676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08290089527355,
+      "lat": 49.25001065707775
     }
   },
   {
