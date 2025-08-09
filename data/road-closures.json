@@ -68,34 +68,6 @@
     }
   },
   {
-    "project": "W 39th Av from Dunbar St to Collingwood St",
-    "street": null,
-    "location": "W 39th Av from Dunbar St to Collingwood St",
-    "comp_date": "2025-08-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2678afc3-668a-4291-bc2f-ab00e3073e14",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18201438883587,
-            49.23642206979545
-          ],
-          [
-            -123.1853075021689,
-            49.23643799120049
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18366094550238,
-      "lat": 49.236430030497964
-    }
-  },
-  {
     "project": "Haida Dr from Malta Av to Dieppe Dr",
     "street": null,
     "location": "Haida Dr from Malta Av to Dieppe Dr",
@@ -145,6 +117,34 @@
     "geo_point_2d": {
       "lon": -123.02616187843228,
       "lat": 49.253837998206
+    }
+  },
+  {
+    "project": "W 39th Av from Dunbar St to Collingwood St",
+    "street": null,
+    "location": "W 39th Av from Dunbar St to Collingwood St",
+    "comp_date": "2025-08-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2678afc3-668a-4291-bc2f-ab00e3073e14",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18201438883587,
+            49.23642206979545
+          ],
+          [
+            -123.1853075021689,
+            49.23643799120049
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18366094550238,
+      "lat": 49.236430030497964
     }
   },
   {
