@@ -1,100 +1,52 @@
 [
   {
-    "project": "W 39th Av from Dunbar St to Collingwood St",
+    "project": "Kingsway from Lincoln St to Boundary Rd",
     "street": null,
-    "location": "W 39th Av from Dunbar St to Collingwood St",
-    "comp_date": "2025-08-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2678afc3-668a-4291-bc2f-ab00e3073e14",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18201438883587,
-            49.23642206979545
-          ],
-          [
-            -123.1853075021689,
-            49.23643799120049
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18366094550238,
-      "lat": 49.236430030497964
-    }
-  },
-  {
-    "project": "Cambridge St from N Renfrew St to N Kaslo St",
-    "street": null,
-    "location": "Cambridge St from N Renfrew St to N Kaslo St",
-    "comp_date": "2025-08-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02345ba0-a06a-464a-a03d-2b2da68f319d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04669562572178,
-            49.286721984202984
-          ],
-          [
-            -123.04406807402431,
-            49.28671931010928
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04538184987304,
-      "lat": 49.28672064715613
-    }
-  },
-  {
-    "project": "Haida Dr from Malta Av to Dieppe Dr",
-    "street": null,
-    "location": "Haida Dr from Malta Av to Dieppe Dr",
-    "comp_date": "2025-08-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e054d8dc-f20e-4150-a5ce-7fee5df34a64",
+    "location": "Kingsway from Lincoln St to Boundary Rd",
+    "comp_date": "2025-08-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d8bcce73-3a5b-4a73-8f4e-a0520c98aca6",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.0275746441659,
-              49.254525842216
+              -123.02648069032173,
+              49.23217130064128
             ],
             [
-              -123.0262654316164,
-              49.25366553870927
-            ],
-            [
-              -123.02613893595381,
-              49.25360996794589
-            ],
-            [
-              -123.02598997810277,
-              49.253590886709134
-            ],
-            [
-              -123.02525742785252,
-              49.25359014065964
+              -123.02591393171994,
+              49.23219406122422
             ]
           ],
           [
             [
-              -123.02525742785252,
-              49.25359014065964
+              -123.02591393171994,
+              49.23219406122422
             ],
             [
-              -123.02461693408945,
-              49.25358919048327
+              -123.02510451013123,
+              49.23223619381886
+            ]
+          ],
+          [
+            [
+              -123.02510451013123,
+              49.23223619381886
+            ],
+            [
+              -123.02482600694361,
+              49.23224854152147
+            ]
+          ],
+          [
+            [
+              -123.02482600694361,
+              49.23224854152147
+            ],
+            [
+              -123.02364716444325,
+              49.232308886128635
             ]
           ]
         ],
@@ -103,8 +55,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.02616187843228,
-      "lat": 49.253837998206
+      "lon": -123.02506382224533,
+      "lat": 49.232237774141545
     }
   },
   {
