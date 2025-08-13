@@ -1,93 +1,5 @@
 [
   {
-    "project": "Kingsway from Lincoln St to Boundary Rd",
-    "street": null,
-    "location": "Kingsway from Lincoln St to Boundary Rd",
-    "comp_date": "2025-08-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d8bcce73-3a5b-4a73-8f4e-a0520c98aca6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.02648069032173,
-              49.23217130064128
-            ],
-            [
-              -123.02591393171994,
-              49.23219406122422
-            ]
-          ],
-          [
-            [
-              -123.02591393171994,
-              49.23219406122422
-            ],
-            [
-              -123.02510451013123,
-              49.23223619381886
-            ]
-          ],
-          [
-            [
-              -123.02510451013123,
-              49.23223619381886
-            ],
-            [
-              -123.02482600694361,
-              49.23224854152147
-            ]
-          ],
-          [
-            [
-              -123.02482600694361,
-              49.23224854152147
-            ],
-            [
-              -123.02364716444325,
-              49.232308886128635
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02506382224533,
-      "lat": 49.232237774141545
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "street": null,
-    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
-    "comp_date": "2025-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04172604070938,
-            49.23299502389784
-          ],
-          [
-            -123.04172604070938,
-            49.233575740638
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04172604070938,
-      "lat": 49.23328538226792
-    }
-  },
-  {
     "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
     "street": null,
     "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 40m East of Bute St.\r\n B",
@@ -128,6 +40,152 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "street": null,
+    "location": "Both Sides of the Street of 5500-5600 Block of Lancaster St. From E 41st Av to 4",
+    "comp_date": "2025-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96c083c4-5fb6-4a00-ac3e-54f86b6293bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04172604070938,
+            49.23299502389784
+          ],
+          [
+            -123.04172604070938,
+            49.233575740638
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04172604070938,
+      "lat": 49.23328538226792
+    }
+  },
+  {
+    "project": "B/S of the Street of 6300 Block of Sophia St from E 47th Ave to South PL of 6379",
+    "street": null,
+    "location": "B/S of the Street of 6300 Block of Sophia St from E 47th Ave to South PL of 6379",
+    "comp_date": "2025-08-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/84ef8025-d0b5-4c6d-9328-17825e2dea39",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09946764352267,
+            49.227506116445
+          ],
+          [
+            -123.09950564225919,
+            49.226783708889684
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09948664289092,
+      "lat": 49.22714491266734
+    }
+  },
+  {
+    "project": "Kitchener St from Victoria Dr to Lakewood Dr",
+    "street": null,
+    "location": "Kitchener St from Victoria Dr to Lakewood Dr",
+    "comp_date": "2025-08-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3e66287-d7f0-494b-94b3-cb5eabd400be",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06570425639931,
+              49.27210788655316
+            ],
+            [
+              -123.0651241001565,
+              49.27210322266629
+            ]
+          ],
+          [
+            [
+              -123.0651241001565,
+              49.27210322266629
+            ],
+            [
+              -123.06377186435081,
+              49.27209226516217
+            ]
+          ],
+          [
+            [
+              -123.06377186435081,
+              49.27209226516217
+            ],
+            [
+              -123.06183655941788,
+              49.272076837892655
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06377040829274,
+      "lat": 49.27209231436385
+    }
+  },
+  {
+    "project": "E 45th Av from Wales St to Vivian St",
+    "street": null,
+    "location": "E 45th Av from Wales St to Vivian St",
+    "comp_date": "2025-08-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f9096124-1b2a-4f47-ae67-267d9d268f48",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.051614270277,
+              49.22937189223393
+            ],
+            [
+              -123.05055614572863,
+              49.22936000067415
+            ]
+          ],
+          [
+            [
+              -123.05055614572863,
+              49.22936000067415
+            ],
+            [
+              -123.05008015005285,
+              49.22935483783965
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0508472108753,
+      "lat": 49.229363300705174
+    }
+  },
+  {
     "project": "B/S of the Street of 2000 Block of Stephens St from W 5th Ave to Lane North of W",
     "street": null,
     "location": "B/S of the Street of 2000 Block of Stephens St from W 5th Ave to Lane North of W",
@@ -165,6 +223,34 @@
     "geo_point_2d": {
       "lon": -123.16653960091674,
       "lat": 49.267328693180275
+    }
+  },
+  {
+    "project": "Both Sides of 6300 Block of Quebec St from E 47th Ave to South PL of 6363",
+    "street": null,
+    "location": "Both Sides of 6300 Block of Quebec St from E 47th Ave to South PL of 6363",
+    "comp_date": "2025-08-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56eae667-b07b-4cd2-beac-4ccea954704b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10370090938332,
+            49.22760148658679
+          ],
+          [
+            -123.10373324873355,
+            49.22696438051767
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10371707905844,
+      "lat": 49.22728293355223
     }
   },
   {
@@ -335,6 +421,34 @@
     "geo_point_2d": {
       "lon": -123.1250852282913,
       "lat": 49.241965444025446
+    }
+  },
+  {
+    "project": "Ln N of Horley St from Duchess St to Earles St",
+    "street": null,
+    "location": "Ln N of Horley St from Duchess St to Earles St",
+    "comp_date": "2025-08-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ea95e29-5d21-4df2-8dc9-e9722832979e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0499065636856,
+            49.241460700191794
+          ],
+          [
+            -123.04702963174877,
+            49.24030353618562
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04846809771718,
+      "lat": 49.24088211818871
     }
   },
   {
@@ -723,6 +837,66 @@
     "geo_point_2d": {
       "lon": -123.10760506602185,
       "lat": 49.28410498189255
+    }
+  },
+  {
+    "project": "W 37th Av from Heather St to Ash St",
+    "street": null,
+    "location": "W 37th Av from Heather St to Ash St",
+    "comp_date": "2025-09-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/093b9cc8-f412-4f6d-ac72-cadfad0cb49f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12001177030223,
+              49.23738495995522
+            ],
+            [
+              -123.12077156504951,
+              49.23741145973108
+            ]
+          ],
+          [
+            [
+              -123.11925270369976,
+              49.23735814859228
+            ],
+            [
+              -123.12001177030223,
+              49.23738495995522
+            ]
+          ],
+          [
+            [
+              -123.11849743093188,
+              49.23733196701309
+            ],
+            [
+              -123.11925270369976,
+              49.23735814859228
+            ]
+          ],
+          [
+            [
+              -123.11773783279793,
+              49.23730624366215
+            ],
+            [
+              -123.11849743093188,
+              49.23733196701309
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11925471099347,
+      "lat": 49.237358501656644
     }
   },
   {
