@@ -214,6 +214,92 @@
     }
   },
   {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2025-08-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/88b52d13-594e-4563-ae50-5664bcf43d05",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "geometries": [
+          {
+            "coordinates": [
+              [
+                -123.10229713578302,
+                49.28043456448188
+              ],
+              [
+                -123.10231671469197,
+                49.27998258433581
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10231671469197,
+                49.27998258433581
+              ],
+              [
+                -123.10233644329747,
+                49.27953002832669
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.10233644329747,
+                49.27953002832669
+              ],
+              [
+                -123.10221604895952,
+                49.27927350237343
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                [
+                  -123.10223205282854,
+                  49.279622278889406
+                ],
+                [
+                  -123.10209794237781,
+                  49.27939830560271
+                ],
+                [
+                  -123.10149176314044,
+                  49.27952779028311
+                ],
+                [
+                  -123.10218377306627,
+                  49.279709768178236
+                ],
+                [
+                  -123.10223205282854,
+                  49.279622278889406
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          }
+        ],
+        "type": "GeometryCollection"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10194950234758,
+      "lat": 49.279548480165616
+    }
+  },
+  {
     "project": "Ln N of Horley St from Duchess St to Earles St",
     "street": null,
     "location": "Ln N of Horley St from Duchess St to Earles St",
