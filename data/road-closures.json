@@ -214,6 +214,34 @@
     }
   },
   {
+    "project": "Ln N of Horley St from Duchess St to Earles St",
+    "street": null,
+    "location": "Ln N of Horley St from Duchess St to Earles St",
+    "comp_date": "2025-08-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ea95e29-5d21-4df2-8dc9-e9722832979e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0499065636856,
+            49.241460700191794
+          ],
+          [
+            -123.04702963174877,
+            49.24030353618562
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04846809771718,
+      "lat": 49.24088211818871
+    }
+  },
+  {
     "project": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
     "street": null,
     "location": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
@@ -291,34 +319,6 @@
     "geo_point_2d": {
       "lon": -123.13227399737936,
       "lat": 49.28246593886023
-    }
-  },
-  {
-    "project": "Ln N of Horley St from Duchess St to Earles St",
-    "street": null,
-    "location": "Ln N of Horley St from Duchess St to Earles St",
-    "comp_date": "2025-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ea95e29-5d21-4df2-8dc9-e9722832979e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0499065636856,
-            49.241460700191794
-          ],
-          [
-            -123.04702963174877,
-            49.24030353618562
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04846809771718,
-      "lat": 49.24088211818871
     }
   },
   {
