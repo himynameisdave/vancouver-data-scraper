@@ -1,61 +1,21 @@
 [
   {
-    "project": "Victoria Dr - E 10th to E 11th Av",
+    "project": "Blenheim St - W 24th Av to W King Edward",
     "street": null,
-    "location": "Victoria Dr - E 10th to E 11th Av",
-    "comp_date": "2025-08-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/81210eda-b670-4b6a-a829-bda186bfddb4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06592123099502,
-              49.26088679060592
-            ],
-            [
-              -123.06592980982678,
-              49.26043483042022
-            ]
-          ],
-          [
-            [
-              -123.06591261307886,
-              49.261340477857715
-            ],
-            [
-              -123.06592123099502,
-              49.26088679060592
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06592121302481,
-      "lat": 49.26088765416881
-    }
-  },
-  {
-    "project": "Helmcken St from Granville St to Seymour St - only a few parking spaces will be",
-    "street": null,
-    "location": "Helmcken St from Granville St to Seymour St - only a few parking spaces will be",
+    "location": "Blenheim St - W 24th Av to W King Edward",
     "comp_date": "2025-08-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e2415564-7d38-49b9-90b2-6f868b75b200",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3292c594-7962-4d16-a375-f9cea079e657",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.12410894026469,
-            49.277866446566435
+            -123.17857621929473,
+            49.2510267661375
           ],
           [
-            -123.12365403768126,
-            49.277564071538876
+            -123.1785854478705,
+            49.25003097984731
           ]
         ],
         "type": "LineString"
@@ -63,84 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12388148897298,
-      "lat": 49.277715259052655
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2025-08-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5026d95f-1797-4e67-ba12-20d0c20449bf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11442541449907,
-              49.2558427024519
-            ],
-            [
-              -123.11491448961894,
-              49.255852165754106
-            ],
-            [
-              -123.11513585243864,
-              49.25588133274866
-            ]
-          ],
-          [
-            [
-              -123.11513585243864,
-              49.25588133274866
-            ],
-            [
-              -123.11587299934429,
-              49.25602241441584
-            ],
-            [
-              -123.11601070670801,
-              49.256025550484225
-            ]
-          ],
-          [
-            [
-              -123.11446690982777,
-              49.25485318722846
-            ],
-            [
-              -123.11499013917677,
-              49.2548630391415
-            ],
-            [
-              -123.11515613345091,
-              49.254899475361526
-            ]
-          ],
-          [
-            [
-              -123.11515613345091,
-              49.254899475361526
-            ],
-            [
-              -123.11590783079335,
-              49.25511022829073
-            ],
-            [
-              -123.11604565193426,
-              49.25512194564277
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11524066770804,
-      "lat": 49.25543228564731
+      "lon": -123.17858083358261,
+      "lat": 49.250528872992405
     }
   },
   {
@@ -1213,34 +1097,6 @@
     "geo_point_2d": {
       "lon": -123.12959382976895,
       "lat": 49.28227240769172
-    }
-  },
-  {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18815934348683,
-            49.24519436177815
-          ],
-          [
-            -123.18817356592662,
-            49.241433898919325
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
     }
   },
   {
