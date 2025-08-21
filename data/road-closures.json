@@ -56,86 +56,6 @@
     }
   },
   {
-    "project": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
-    "street": null,
-    "location": "B/S of the Street of 4800 Block of Laurel St\r\nB/S of the Lane South of 900 Block",
-    "comp_date": "2025-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5b9a8080-d0ed-4ded-acc2-73722a1dcbda",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12496447064977,
-              49.242385178070464
-            ],
-            [
-              -123.12499013840907,
-              49.2416757736504
-            ]
-          ],
-          [
-            [
-              -123.1254838657809,
-              49.24187341766921
-            ],
-            [
-              -123.12500955531085,
-              49.24186286101764
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1250852282913,
-      "lat": 49.241965444025446
-    }
-  },
-  {
-    "project": "Both Sides of 1100 Block of Pendrell St from Bute St to 10m East of Bute St. Bot",
-    "street": null,
-    "location": "Both Sides of 1100 Block of Pendrell St from Bute St to 10m East of Bute St. Bot",
-    "comp_date": "2025-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a4b3d609-baf4-4383-aee5-daff5e59bc67",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13230506643855,
-              49.28249077976082
-            ],
-            [
-              -123.13213252372364,
-              49.282378267898
-            ]
-          ],
-          [
-            [
-              -123.13242728397553,
-              49.28242045994372
-            ],
-            [
-              -123.13220801116141,
-              49.28256109947765
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13227399737936,
-      "lat": 49.28246593886023
-    }
-  },
-  {
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
@@ -322,10 +242,74 @@
     }
   },
   {
+    "project": "Intersection of Borden St to E 60th Av",
+    "street": null,
+    "location": "Intersection of Borden St to E 60th Av",
+    "comp_date": "2025-08-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/46200515-2edc-4493-9d7f-4a75a03fea47",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07401247275855,
+              49.215880788520565
+            ],
+            [
+              -123.07401916988238,
+              49.21545523553081
+            ]
+          ],
+          [
+            [
+              -123.07706799718542,
+              49.21547679126087
+            ],
+            [
+              -123.07401916988238,
+              49.21545523553081
+            ]
+          ],
+          [
+            [
+              -123.07401916988238,
+              49.21545523553081
+            ],
+            [
+              -123.07388110581898,
+              49.21543935729693
+            ],
+            [
+              -123.07203290037495,
+              49.21541677708609
+            ]
+          ],
+          [
+            [
+              -123.07401916988238,
+              49.21545523553081
+            ],
+            [
+              -123.0740256473852,
+              49.21502980858375
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07447352060855,
+      "lat": 49.21545210935771
+    }
+  },
+  {
     "project": "Eastbound on-ramp at E 1st Ave",
     "street": null,
     "location": "Eastbound on-ramp at E 1st Ave",
-    "comp_date": "2025-08-26",
+    "comp_date": "2025-08-23",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fd89050-7dce-4b38-bb04-46bb941f7ab3",
     "geom": {
       "type": "Feature",
@@ -351,6 +335,34 @@
     "geo_point_2d": {
       "lon": -123.02796284254188,
       "lat": 49.26871418734623
+    }
+  },
+  {
+    "project": "W 11th Av from Tolmie St to Blanca St",
+    "street": null,
+    "location": "W 11th Av from Tolmie St to Blanca St",
+    "comp_date": "2025-08-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/593e300d-e839-4a1d-9b03-de471185a79d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.21217263908864,
+            49.262953190445415
+          ],
+          [
+            -123.21524498013846,
+            49.26300121810172
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21370880961355,
+      "lat": 49.262977204273575
     }
   },
   {
