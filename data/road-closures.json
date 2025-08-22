@@ -1,61 +1,5 @@
 [
   {
-    "project": "Ln N of Horley St from Duchess St to Earles St",
-    "street": null,
-    "location": "Ln N of Horley St from Duchess St to Earles St",
-    "comp_date": "2025-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ea95e29-5d21-4df2-8dc9-e9722832979e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0499065636856,
-            49.241460700191794
-          ],
-          [
-            -123.04702963174877,
-            49.24030353618562
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04846809771718,
-      "lat": 49.24088211818871
-    }
-  },
-  {
-    "project": "W 9th Av from Trimble St to Discovery St",
-    "street": null,
-    "location": "W 9th Av from Trimble St to Discovery St",
-    "comp_date": "2025-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f0158799-5d0c-48e6-8bf2-06bc8027dfc3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.20299156909618,
-            49.26461918234543
-          ],
-          [
-            -123.20602961127096,
-            49.26466640892252
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.20451059018357,
-      "lat": 49.264642795633975
-    }
-  },
-  {
     "project": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
     "street": null,
     "location": "Argyle St - E 32nd Av to E 33rd Av \\t         \r\nDumfries St - 5356 Dumfries St to",
@@ -186,62 +130,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 400 Block of E 17th Av. From Prince Edward St to Eas",
-    "street": null,
-    "location": "Both Sides of the Street of 400 Block of E 17th Av. From Prince Edward St to Eas",
-    "comp_date": "2025-08-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/48368df5-17e2-4321-95c5-8f08961186d7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09653055678547,
-            49.2556354020349
-          ],
-          [
-            -123.09521542320952,
-            49.25561077670949
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09587298999749,
-      "lat": 49.255623089372186
-    }
-  },
-  {
-    "project": "Graveley St from Lillooet St to Windermere St",
-    "street": null,
-    "location": "Graveley St from Lillooet St to Windermere St",
-    "comp_date": "2025-08-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec78b82d-af2d-4471-b76a-e0fe0ec7286e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03894312165853,
-            49.270417467034804
-          ],
-          [
-            -123.03641564401583,
-            49.27041346082956
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03767938283718,
-      "lat": 49.27041546393218
-    }
-  },
-  {
     "project": "Intersection of Borden St to E 60th Av",
     "street": null,
     "location": "Intersection of Borden St to E 60th Av",
@@ -303,6 +191,62 @@
     "geo_point_2d": {
       "lon": -123.07447352060855,
       "lat": 49.21545210935771
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 400 Block of E 17th Av. From Prince Edward St to Eas",
+    "street": null,
+    "location": "Both Sides of the Street of 400 Block of E 17th Av. From Prince Edward St to Eas",
+    "comp_date": "2025-08-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/48368df5-17e2-4321-95c5-8f08961186d7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09653055678547,
+            49.2556354020349
+          ],
+          [
+            -123.09521542320952,
+            49.25561077670949
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09587298999749,
+      "lat": 49.255623089372186
+    }
+  },
+  {
+    "project": "Graveley St from Lillooet St to Windermere St",
+    "street": null,
+    "location": "Graveley St from Lillooet St to Windermere St",
+    "comp_date": "2025-08-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec78b82d-af2d-4471-b76a-e0fe0ec7286e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03894312165853,
+            49.270417467034804
+          ],
+          [
+            -123.03641564401583,
+            49.27041346082956
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03767938283718,
+      "lat": 49.27041546393218
     }
   },
   {
