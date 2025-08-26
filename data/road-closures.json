@@ -1,32 +1,32 @@
 [
   {
-    "project": "Glen Dr from E 22nd Av to E 23rd Av",
+    "project": "Windsor St from E 23rd Av to E 22nd Av",
     "street": null,
-    "location": "Glen Dr from E 22nd Av to E 23rd Av",
-    "comp_date": "2025-08-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d4c42c20-e210-4da8-a6a4-d927390df9fb",
+    "location": "Windsor St from E 23rd Av to E 22nd Av",
+    "comp_date": "2025-08-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/827edfaf-f5e0-4923-b39c-14517e613363",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.08187285053087,
-              49.25088035629301
+              -123.0838107375655,
+              49.25091003625647
             ],
             [
-              -123.08188959519393,
-              49.250428280381584
+              -123.08382669585689,
+              49.25045843738084
             ]
           ],
           [
             [
-              -123.08188959519393,
-              49.250428280381584
+              -123.08382669585689,
+              49.25045843738084
             ],
             [
-              -123.08190633979439,
-              49.2499763483558
+              -123.08384334183293,
+              49.2500073866772
             ]
           ]
         ],
@@ -35,8 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08188959384752,
-      "lat": 49.25042835227569
+      "lon": -123.08382686305843,
+      "lat": 49.25045870508638
     }
   },
   {
@@ -176,6 +176,124 @@
     }
   },
   {
+    "project": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
+    "street": null,
+    "location": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a0087ec-4346-4d19-8ac6-65b27267a8ad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12747175163548,
+              49.28284224053422
+            ],
+            [
+              -123.12798578519515,
+              49.28250236284006
+            ]
+          ],
+          [
+            [
+              -123.13020008331488,
+              49.28387826690491
+            ],
+            [
+              -123.12807924539355,
+              49.28250705085904
+            ]
+          ],
+          [
+            [
+              -123.12799974507001,
+              49.28245639219486
+            ],
+            [
+              -123.12733833121985,
+              49.28202509536575
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1286231330067,
+      "lat": 49.28291990161272
+    }
+  },
+  {
+    "project": "Commercial St from E 33rd Av to E 34th Av",
+    "street": null,
+    "location": "Commercial St from E 33rd Av to E 34th Av",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2404d813-bd99-4551-b6b0-3d0ac8f6b465",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06849934389072,
+              49.2400979461776
+            ],
+            [
+              -123.06851373625395,
+              49.23968703499918
+            ]
+          ],
+          [
+            [
+              -123.06851373625395,
+              49.23968703499918
+            ],
+            [
+              -123.06852882872408,
+              49.23926598573573
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06851400121145,
+      "lat": 49.23968196294127
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 2800 Block of Maple St. From W 13th Av to Laneway No",
+    "street": null,
+    "location": "Both Sides of the Street of 2800 Block of Maple St. From W 13th Av to Laneway No",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a45ca2b-31cf-4eb2-becf-e41be18c1efb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15067007695585,
+            49.26049094673698
+          ],
+          [
+            -123.15068624663097,
+            49.2600442150171
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15067816179341,
+      "lat": 49.26026758087704
+    }
+  },
+  {
     "project": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
     "street": null,
     "location": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
@@ -227,56 +345,6 @@
     "geo_point_2d": {
       "lon": -123.13120789162636,
       "lat": 49.283202244678
-    }
-  },
-  {
-    "project": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
-    "street": null,
-    "location": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
-    "comp_date": "2025-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a0087ec-4346-4d19-8ac6-65b27267a8ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12747175163548,
-              49.28284224053422
-            ],
-            [
-              -123.12798578519515,
-              49.28250236284006
-            ]
-          ],
-          [
-            [
-              -123.13020008331488,
-              49.28387826690491
-            ],
-            [
-              -123.12807924539355,
-              49.28250705085904
-            ]
-          ],
-          [
-            [
-              -123.12799974507001,
-              49.28245639219486
-            ],
-            [
-              -123.12733833121985,
-              49.28202509536575
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1286231330067,
-      "lat": 49.28291990161272
     }
   },
   {
@@ -488,6 +556,56 @@
     }
   },
   {
+    "project": "W 29th Av from Blenheim St to Carnarvon St",
+    "street": null,
+    "location": "W 29th Av from Blenheim St to Carnarvon St",
+    "comp_date": "2025-09-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/965e1d05-f920-4a42-9e65-2ad8b9cd0407",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17793338246143,
+              49.24614054861735
+            ],
+            [
+              -123.17862411794206,
+              49.24614312578555
+            ]
+          ],
+          [
+            [
+              -123.17571909226888,
+              49.24613248680504
+            ],
+            [
+              -123.17793338246143,
+              49.24614054861735
+            ]
+          ],
+          [
+            [
+              -123.17295995863535,
+              49.24612236602496
+            ],
+            [
+              -123.17571909226888,
+              49.24613248680504
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17579203831902,
+      "lat": 49.24613273784932
+    }
+  },
+  {
     "project": "Balaclava St from W 28th Av to W 30th Av",
     "street": null,
     "location": "Balaclava St from W 28th Av to W 30th Av",
@@ -545,56 +663,6 @@
     "geo_point_2d": {
       "lon": -123.17571909970866,
       "lat": 49.246132374285864
-    }
-  },
-  {
-    "project": "W 29th Av from Blenheim St to Carnarvon St",
-    "street": null,
-    "location": "W 29th Av from Blenheim St to Carnarvon St",
-    "comp_date": "2025-09-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/965e1d05-f920-4a42-9e65-2ad8b9cd0407",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.17793338246143,
-              49.24614054861735
-            ],
-            [
-              -123.17862411794206,
-              49.24614312578555
-            ]
-          ],
-          [
-            [
-              -123.17571909226888,
-              49.24613248680504
-            ],
-            [
-              -123.17793338246143,
-              49.24614054861735
-            ]
-          ],
-          [
-            [
-              -123.17295995863535,
-              49.24612236602496
-            ],
-            [
-              -123.17571909226888,
-              49.24613248680504
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17579203831902,
-      "lat": 49.24613273784932
     }
   },
   {
