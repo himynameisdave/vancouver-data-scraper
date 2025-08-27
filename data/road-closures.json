@@ -1,73 +1,5 @@
 [
   {
-    "project": "W 11th Av from Tolmie St to Blanca St",
-    "street": null,
-    "location": "W 11th Av from Tolmie St to Blanca St",
-    "comp_date": "2025-08-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/593e300d-e839-4a1d-9b03-de471185a79d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21217263908864,
-            49.262953190445415
-          ],
-          [
-            -123.21524498013846,
-            49.26300121810172
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21370880961355,
-      "lat": 49.262977204273575
-    }
-  },
-  {
-    "project": "Windsor St from E 23rd Av to E 22nd Av",
-    "street": null,
-    "location": "Windsor St from E 23rd Av to E 22nd Av",
-    "comp_date": "2025-08-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/827edfaf-f5e0-4923-b39c-14517e613363",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0838107375655,
-              49.25091003625647
-            ],
-            [
-              -123.08382669585689,
-              49.25045843738084
-            ]
-          ],
-          [
-            [
-              -123.08382669585689,
-              49.25045843738084
-            ],
-            [
-              -123.08384334183293,
-              49.2500073866772
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08382686305843,
-      "lat": 49.25045870508638
-    }
-  },
-  {
     "project": "Oxford St from N. Penticton St to N. Slocan St",
     "street": null,
     "location": "Oxford St from N. Penticton St to N. Slocan St",
@@ -136,33 +68,33 @@
     }
   },
   {
-    "project": "E 1st Av - Ontario to Quebec St",
+    "project": "W 11th Av from Manitoba St to Ontario St",
     "street": null,
-    "location": "E 1st Av - Ontario to Quebec St",
-    "comp_date": "2025-08-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7f9bd644-d8a3-4f39-9b02-f87ea309c15a",
+    "location": "W 11th Av from Manitoba St to Ontario St",
+    "comp_date": "2025-08-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bd38958c-58d5-4501-81e6-dafba02cb17c",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10375242412442,
-              49.27017366184094
+              -123.10637469377973,
+              49.26120178299678
             ],
             [
-              -123.10266213821873,
-              49.27015364092304
+              -123.106906385282,
+              49.26121122296709
             ]
           ],
           [
             [
-              -123.1045978633537,
-              49.27018918089729
+              -123.10497389954418,
+              49.26117740985069
             ],
             [
-              -123.10375242412442,
-              49.27017366184094
+              -123.10637469377973,
+              49.26120178299678
             ]
           ]
         ],
@@ -171,8 +103,168 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10363000075654,
-      "lat": 49.27017141252684
+      "lon": -123.10594014361546,
+      "lat": 49.261194248004756
+    }
+  },
+  {
+    "project": "Both Sides of 2500 Block of Grant St from West PL of 2520 to East PL of 2568",
+    "street": null,
+    "location": "Both Sides of 2500 Block of Grant St from West PL of 2520 to East PL of 2568",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10d2da4b-0d3c-46d5-874a-dceb66627013",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0527429377214,
+            49.271367282342965
+          ],
+          [
+            -123.05414125253041,
+            49.27136962672074
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0534420951259,
+      "lat": 49.27136845453185
+    }
+  },
+  {
+    "project": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
+    "street": null,
+    "location": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a0087ec-4346-4d19-8ac6-65b27267a8ad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12747175163548,
+              49.28284224053422
+            ],
+            [
+              -123.12798578519515,
+              49.28250236284006
+            ]
+          ],
+          [
+            [
+              -123.13020008331488,
+              49.28387826690491
+            ],
+            [
+              -123.12807924539355,
+              49.28250705085904
+            ]
+          ],
+          [
+            [
+              -123.12799974507001,
+              49.28245639219486
+            ],
+            [
+              -123.12733833121985,
+              49.28202509536575
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1286231330067,
+      "lat": 49.28291990161272
+    }
+  },
+  {
+    "project": "W 2nd Av from Highbury St to Alma St",
+    "street": null,
+    "location": "W 2nd Av from Highbury St to Alma St",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/21bd2acf-f155-4708-a54d-80bd996d6198",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18563661907464,
+            49.27040988792109
+          ],
+          [
+            -123.18754646052811,
+            49.27044156119655
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18659153980138,
+      "lat": 49.27042572455882
+    }
+  },
+  {
+    "project": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
+    "street": null,
+    "location": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/74c5d064-4374-411f-b40b-3107044059a5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1317780117726,
+              49.28282045743066
+            ],
+            [
+              -123.13211252210702,
+              49.28259999803217
+            ]
+          ],
+          [
+            [
+              -123.1321260457194,
+              49.28237511331599
+            ],
+            [
+              -123.13230684886818,
+              49.28249849515083
+            ],
+            [
+              -123.13234469138098,
+              49.28247656058315
+            ]
+          ],
+          [
+            [
+              -123.1302381465829,
+              49.28386510691888
+            ],
+            [
+              -123.13121038003057,
+              49.28321710309723
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13120789162636,
+      "lat": 49.283202244678
     }
   },
   {
@@ -241,110 +333,6 @@
     "geo_point_2d": {
       "lon": -123.15067816179341,
       "lat": 49.26026758087704
-    }
-  },
-  {
-    "project": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
-    "street": null,
-    "location": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
-    "comp_date": "2025-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/74c5d064-4374-411f-b40b-3107044059a5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1317780117726,
-              49.28282045743066
-            ],
-            [
-              -123.13211252210702,
-              49.28259999803217
-            ]
-          ],
-          [
-            [
-              -123.1321260457194,
-              49.28237511331599
-            ],
-            [
-              -123.13230684886818,
-              49.28249849515083
-            ],
-            [
-              -123.13234469138098,
-              49.28247656058315
-            ]
-          ],
-          [
-            [
-              -123.1302381465829,
-              49.28386510691888
-            ],
-            [
-              -123.13121038003057,
-              49.28321710309723
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13120789162636,
-      "lat": 49.283202244678
-    }
-  },
-  {
-    "project": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
-    "street": null,
-    "location": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
-    "comp_date": "2025-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a0087ec-4346-4d19-8ac6-65b27267a8ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12747175163548,
-              49.28284224053422
-            ],
-            [
-              -123.12798578519515,
-              49.28250236284006
-            ]
-          ],
-          [
-            [
-              -123.13020008331488,
-              49.28387826690491
-            ],
-            [
-              -123.12807924539355,
-              49.28250705085904
-            ]
-          ],
-          [
-            [
-              -123.12799974507001,
-              49.28245639219486
-            ],
-            [
-              -123.12733833121985,
-              49.28202509536575
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1286231330067,
-      "lat": 49.28291990161272
     }
   },
   {
