@@ -1,5 +1,45 @@
 [
   {
+    "project": "W 11th Av from Manitoba St to Ontario St",
+    "street": null,
+    "location": "W 11th Av from Manitoba St to Ontario St",
+    "comp_date": "2025-08-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bd38958c-58d5-4501-81e6-dafba02cb17c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10637469377973,
+              49.26120178299678
+            ],
+            [
+              -123.106906385282,
+              49.26121122296709
+            ]
+          ],
+          [
+            [
+              -123.10497389954418,
+              49.26117740985069
+            ],
+            [
+              -123.10637469377973,
+              49.26120178299678
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10594014361546,
+      "lat": 49.261194248004756
+    }
+  },
+  {
     "project": "Oxford St from N. Penticton St to N. Slocan St",
     "street": null,
     "location": "Oxford St from N. Penticton St to N. Slocan St",
@@ -68,33 +108,33 @@
     }
   },
   {
-    "project": "W 11th Av from Manitoba St to Ontario St",
+    "project": "Commercial St from E 33rd Av to E 34th Av",
     "street": null,
-    "location": "W 11th Av from Manitoba St to Ontario St",
-    "comp_date": "2025-08-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bd38958c-58d5-4501-81e6-dafba02cb17c",
+    "location": "Commercial St from E 33rd Av to E 34th Av",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2404d813-bd99-4551-b6b0-3d0ac8f6b465",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10637469377973,
-              49.26120178299678
+              -123.06849934389072,
+              49.2400979461776
             ],
             [
-              -123.106906385282,
-              49.26121122296709
+              -123.06851373625395,
+              49.23968703499918
             ]
           ],
           [
             [
-              -123.10497389954418,
-              49.26117740985069
+              -123.06851373625395,
+              49.23968703499918
             ],
             [
-              -123.10637469377973,
-              49.26120178299678
+              -123.06852882872408,
+              49.23926598573573
             ]
           ]
         ],
@@ -103,27 +143,27 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10594014361546,
-      "lat": 49.261194248004756
+      "lon": -123.06851400121145,
+      "lat": 49.23968196294127
     }
   },
   {
-    "project": "Both Sides of 2500 Block of Grant St from West PL of 2520 to East PL of 2568",
+    "project": "Both Sides of the Street of 2800 Block of Maple St. From W 13th Av to Laneway No",
     "street": null,
-    "location": "Both Sides of 2500 Block of Grant St from West PL of 2520 to East PL of 2568",
+    "location": "Both Sides of the Street of 2800 Block of Maple St. From W 13th Av to Laneway No",
     "comp_date": "2025-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10d2da4b-0d3c-46d5-874a-dceb66627013",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a45ca2b-31cf-4eb2-becf-e41be18c1efb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0527429377214,
-            49.271367282342965
+            -123.15067007695585,
+            49.26049094673698
           ],
           [
-            -123.05414125253041,
-            49.27136962672074
+            -123.15068624663097,
+            49.2600442150171
           ]
         ],
         "type": "LineString"
@@ -131,58 +171,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0534420951259,
-      "lat": 49.27136845453185
-    }
-  },
-  {
-    "project": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
-    "street": null,
-    "location": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
-    "comp_date": "2025-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a0087ec-4346-4d19-8ac6-65b27267a8ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12747175163548,
-              49.28284224053422
-            ],
-            [
-              -123.12798578519515,
-              49.28250236284006
-            ]
-          ],
-          [
-            [
-              -123.13020008331488,
-              49.28387826690491
-            ],
-            [
-              -123.12807924539355,
-              49.28250705085904
-            ]
-          ],
-          [
-            [
-              -123.12799974507001,
-              49.28245639219486
-            ],
-            [
-              -123.12733833121985,
-              49.28202509536575
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1286231330067,
-      "lat": 49.28291990161272
+      "lon": -123.15067816179341,
+      "lat": 49.26026758087704
     }
   },
   {
@@ -268,33 +258,71 @@
     }
   },
   {
-    "project": "Commercial St from E 33rd Av to E 34th Av",
+    "project": "Both Sides of 2500 Block of Grant St from West PL of 2520 to East PL of 2568",
     "street": null,
-    "location": "Commercial St from E 33rd Av to E 34th Av",
+    "location": "Both Sides of 2500 Block of Grant St from West PL of 2520 to East PL of 2568",
     "comp_date": "2025-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2404d813-bd99-4551-b6b0-3d0ac8f6b465",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10d2da4b-0d3c-46d5-874a-dceb66627013",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0527429377214,
+            49.271367282342965
+          ],
+          [
+            -123.05414125253041,
+            49.27136962672074
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0534420951259,
+      "lat": 49.27136845453185
+    }
+  },
+  {
+    "project": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
+    "street": null,
+    "location": "- South Side of 1000-1100 Block of Nelson St from Bute St to 50m East of Thurlow",
+    "comp_date": "2025-08-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4a0087ec-4346-4d19-8ac6-65b27267a8ad",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.06849934389072,
-              49.2400979461776
+              -123.12747175163548,
+              49.28284224053422
             ],
             [
-              -123.06851373625395,
-              49.23968703499918
+              -123.12798578519515,
+              49.28250236284006
             ]
           ],
           [
             [
-              -123.06851373625395,
-              49.23968703499918
+              -123.13020008331488,
+              49.28387826690491
             ],
             [
-              -123.06852882872408,
-              49.23926598573573
+              -123.12807924539355,
+              49.28250705085904
+            ]
+          ],
+          [
+            [
+              -123.12799974507001,
+              49.28245639219486
+            ],
+            [
+              -123.12733833121985,
+              49.28202509536575
             ]
           ]
         ],
@@ -303,36 +331,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.06851400121145,
-      "lat": 49.23968196294127
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 2800 Block of Maple St. From W 13th Av to Laneway No",
-    "street": null,
-    "location": "Both Sides of the Street of 2800 Block of Maple St. From W 13th Av to Laneway No",
-    "comp_date": "2025-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2a45ca2b-31cf-4eb2-becf-e41be18c1efb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15067007695585,
-            49.26049094673698
-          ],
-          [
-            -123.15068624663097,
-            49.2600442150171
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15067816179341,
-      "lat": 49.26026758087704
+      "lon": -123.1286231330067,
+      "lat": 49.28291990161272
     }
   },
   {
