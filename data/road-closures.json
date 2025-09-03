@@ -1,30 +1,66 @@
 [
   {
-    "project": "E 22nd Av from St. Catherines St to Prince Albert St",
+    "project": "Intersection of W 37th Av to Ash St",
     "street": null,
-    "location": "E 22nd Av from St. Catherines St to Prince Albert St",
-    "comp_date": "2025-09-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/87fafb6f-830b-4138-9664-c3001c062a7d",
+    "location": "Intersection of W 37th Av to Ash St",
+    "comp_date": "2025-09-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7db54e56-12ad-4a02-80ad-bef8c2d9f600",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.08767815085007,
-            49.250969700804205
+            [
+              -123.11773783279793,
+              49.23730624366215
+            ],
+            [
+              -123.11849743093188,
+              49.23733196701309
+            ]
           ],
           [
-            -123.08574405432454,
-            49.25094154911872
+            [
+              -123.11698715047345,
+              49.23728030839288
+            ],
+            [
+              -123.11773783279793,
+              49.23730624366215
+            ]
+          ],
+          [
+            [
+              -123.11798113729265,
+              49.23844935427056
+            ],
+            [
+              -123.11770687270709,
+              49.23820389291333
+            ],
+            [
+              -123.11773783279793,
+              49.23730624366215
+            ]
+          ],
+          [
+            [
+              -123.11773783279793,
+              49.23730624366215
+            ],
+            [
+              -123.11779917343404,
+              49.23545346565368
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0867111025873,
-      "lat": 49.25095562496146
+      "lon": -123.11775699860809,
+      "lat": 49.23710357393248
     }
   },
   {
@@ -79,6 +115,104 @@
     "geo_point_2d": {
       "lon": -123.13120789162636,
       "lat": 49.283202244678
+    }
+  },
+  {
+    "project": "E 22nd Av from St. Catherines St to Prince Albert St",
+    "street": null,
+    "location": "E 22nd Av from St. Catherines St to Prince Albert St",
+    "comp_date": "2025-09-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/87fafb6f-830b-4138-9664-c3001c062a7d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08767815085007,
+            49.250969700804205
+          ],
+          [
+            -123.08574405432454,
+            49.25094154911872
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0867111025873,
+      "lat": 49.25095562496146
+    }
+  },
+  {
+    "project": "Vivian St from E 51st Av to E 54th Av",
+    "street": null,
+    "location": "Vivian St from E 51st Av to E 54th Av",
+    "comp_date": "2025-09-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9cb66bff-639f-40f9-b32a-110046de3016",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05045032746686,
+              49.22227490076099
+            ],
+            [
+              -123.05047026985332,
+              49.22188563976485
+            ]
+          ],
+          [
+            [
+              -123.05042848413264,
+              49.222699298074986
+            ],
+            [
+              -123.05045032746686,
+              49.22227490076099
+            ]
+          ],
+          [
+            [
+              -123.05047026985332,
+              49.22188563976485
+            ],
+            [
+              -123.05051210864828,
+              49.22107149555643
+            ]
+          ],
+          [
+            [
+              -123.05051210864828,
+              49.22107149555643
+            ],
+            [
+              -123.0505315418156,
+              49.220682090766445
+            ]
+          ],
+          [
+            [
+              -123.0505315418156,
+              49.220682090766445
+            ],
+            [
+              -123.0505543414167,
+              49.22021411077188
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05049205179101,
+      "lat": 49.22145673648855
     }
   },
   {
@@ -1303,6 +1437,34 @@
     "geo_point_2d": {
       "lon": -123.13113681456431,
       "lat": 49.24678274789856
+    }
+  },
+  {
+    "project": "E 22nd Ave from Welwyn to Commercial St",
+    "street": null,
+    "location": "E 22nd Ave from Welwyn to Commercial St",
+    "comp_date": "2026-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9bcb9dfb-2439-43f4-b227-8ea369d577c7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06943131525497,
+            49.25034743334149
+          ],
+          [
+            -123.06813714219895,
+            49.25032458541489
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06878422872697,
+      "lat": 49.250336009378195
     }
   },
   {
