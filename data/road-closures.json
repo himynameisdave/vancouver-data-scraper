@@ -1,66 +1,30 @@
 [
   {
-    "project": "Intersection of W 37th Av to Ash St",
+    "project": "E 22nd Av from St. Catherines St to Prince Albert St",
     "street": null,
-    "location": "Intersection of W 37th Av to Ash St",
-    "comp_date": "2025-09-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7db54e56-12ad-4a02-80ad-bef8c2d9f600",
+    "location": "E 22nd Av from St. Catherines St to Prince Albert St",
+    "comp_date": "2025-09-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/87fafb6f-830b-4138-9664-c3001c062a7d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.11773783279793,
-              49.23730624366215
-            ],
-            [
-              -123.11849743093188,
-              49.23733196701309
-            ]
+            -123.08767815085007,
+            49.250969700804205
           ],
           [
-            [
-              -123.11698715047345,
-              49.23728030839288
-            ],
-            [
-              -123.11773783279793,
-              49.23730624366215
-            ]
-          ],
-          [
-            [
-              -123.11798113729265,
-              49.23844935427056
-            ],
-            [
-              -123.11770687270709,
-              49.23820389291333
-            ],
-            [
-              -123.11773783279793,
-              49.23730624366215
-            ]
-          ],
-          [
-            [
-              -123.11773783279793,
-              49.23730624366215
-            ],
-            [
-              -123.11779917343404,
-              49.23545346565368
-            ]
+            -123.08574405432454,
+            49.25094154911872
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11775699860809,
-      "lat": 49.23710357393248
+      "lon": -123.0867111025873,
+      "lat": 49.25095562496146
     }
   },
   {
@@ -118,31 +82,67 @@
     }
   },
   {
-    "project": "E 22nd Av from St. Catherines St to Prince Albert St",
+    "project": "Water St - Richards St to Columbia St",
     "street": null,
-    "location": "E 22nd Av from St. Catherines St to Prince Albert St",
-    "comp_date": "2025-09-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/87fafb6f-830b-4138-9664-c3001c062a7d",
+    "location": "Water St - Richards St to Columbia St",
+    "comp_date": "2025-09-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4910f6ef-4879-43ab-9609-ce242ce799bb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.08767815085007,
-            49.250969700804205
+            [
+              -123.10426176613505,
+              49.283496673786686
+            ],
+            [
+              -123.10638331443363,
+              49.283884968733105
+            ]
           ],
           [
-            -123.08574405432454,
-            49.25094154911872
+            [
+              -123.10638331443363,
+              49.283884968733105
+            ],
+            [
+              -123.10877737817344,
+              49.28431923067458
+            ]
+          ],
+          [
+            [
+              -123.10877737817344,
+              49.28431923067458
+            ],
+            [
+              -123.10957636505753,
+              49.28446530399759
+            ]
+          ],
+          [
+            [
+              -123.10957636505753,
+              49.28446530399759
+            ],
+            [
+              -123.11054175598821,
+              49.284638225232214
+            ],
+            [
+              -123.11095341031987,
+              49.28467794017715
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0867111025873,
-      "lat": 49.25095562496146
+      "lon": -123.10760506602185,
+      "lat": 49.28410498189255
     }
   },
   {
@@ -216,67 +216,31 @@
     }
   },
   {
-    "project": "Water St - Richards St to Columbia St",
+    "project": "W 37th Av - Willow St to Ash St",
     "street": null,
-    "location": "Water St - Richards St to Columbia St",
-    "comp_date": "2025-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4910f6ef-4879-43ab-9609-ce242ce799bb",
+    "location": "W 37th Av - Willow St to Ash St",
+    "comp_date": "2025-09-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78f86f0a-6bb0-428c-b66a-41012305aedb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.10426176613505,
-              49.283496673786686
-            ],
-            [
-              -123.10638331443363,
-              49.283884968733105
-            ]
+            -123.1237785641516,
+            49.23750684163812
           ],
           [
-            [
-              -123.10638331443363,
-              49.283884968733105
-            ],
-            [
-              -123.10877737817344,
-              49.28431923067458
-            ]
-          ],
-          [
-            [
-              -123.10877737817344,
-              49.28431923067458
-            ],
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ]
-          ],
-          [
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ],
-            [
-              -123.11054175598821,
-              49.284638225232214
-            ],
-            [
-              -123.11095341031987,
-              49.28467794017715
-            ]
+            -123.11775795112764,
+            49.23730657152322
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10760506602185,
-      "lat": 49.28410498189255
+      "lon": -123.12076825763961,
+      "lat": 49.23740670658067
     }
   },
   {
@@ -493,34 +457,6 @@
     "geo_point_2d": {
       "lon": -123.14604257463189,
       "lat": 49.26464477228104
-    }
-  },
-  {
-    "project": "W 37th Av - Willow St to Ash St",
-    "street": null,
-    "location": "W 37th Av - Willow St to Ash St",
-    "comp_date": "2025-09-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78f86f0a-6bb0-428c-b66a-41012305aedb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1237785641516,
-            49.23750684163812
-          ],
-          [
-            -123.11775795112764,
-            49.23730657152322
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12076825763961,
-      "lat": 49.23740670658067
     }
   },
   {
@@ -956,38 +892,10 @@
     }
   },
   {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18815934348683,
-            49.24519436177815
-          ],
-          [
-            -123.18817356592662,
-            49.241433898919325
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
-    }
-  },
-  {
     "project": "E 62nd Av - Knight St to Argyle St                  \r\nE 61st Av - Knight St to A",
     "street": null,
     "location": "E 62nd Av - Knight St to Argyle St                  \r\nE 61st Av - Knight St to A",
-    "comp_date": "2026-02-02",
+    "comp_date": "2026-01-20",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e67c3a11-0ee9-40ef-a83d-8539840a6af1",
     "geom": {
       "type": "Feature",
@@ -1059,6 +967,34 @@
     "geo_point_2d": {
       "lon": -123.07451483767278,
       "lat": 49.21504995764013
+    }
+  },
+  {
+    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
+    "street": null,
+    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
+    "comp_date": "2026-02-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18815934348683,
+            49.24519436177815
+          ],
+          [
+            -123.18817356592662,
+            49.241433898919325
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18816645470673,
+      "lat": 49.243314130348736
     }
   },
   {
