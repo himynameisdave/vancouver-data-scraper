@@ -1,46 +1,56 @@
 [
   {
-    "project": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
+    "project": "Water St - Richards St to Columbia St",
     "street": null,
-    "location": "- Both Sides of 1000 Block of Bute St from Nelson St to Comox St\r\n- East Side 10",
-    "comp_date": "2025-09-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/74c5d064-4374-411f-b40b-3107044059a5",
+    "location": "Water St - Richards St to Columbia St",
+    "comp_date": "2025-09-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4910f6ef-4879-43ab-9609-ce242ce799bb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.1317780117726,
-              49.28282045743066
+              -123.10426176613505,
+              49.283496673786686
             ],
             [
-              -123.13211252210702,
-              49.28259999803217
+              -123.10638331443363,
+              49.283884968733105
             ]
           ],
           [
             [
-              -123.1321260457194,
-              49.28237511331599
+              -123.10638331443363,
+              49.283884968733105
             ],
             [
-              -123.13230684886818,
-              49.28249849515083
-            ],
-            [
-              -123.13234469138098,
-              49.28247656058315
+              -123.10877737817344,
+              49.28431923067458
             ]
           ],
           [
             [
-              -123.1302381465829,
-              49.28386510691888
+              -123.10877737817344,
+              49.28431923067458
             ],
             [
-              -123.13121038003057,
-              49.28321710309723
+              -123.10957636505753,
+              49.28446530399759
+            ]
+          ],
+          [
+            [
+              -123.10957636505753,
+              49.28446530399759
+            ],
+            [
+              -123.11054175598821,
+              49.284638225232214
+            ],
+            [
+              -123.11095341031987,
+              49.28467794017715
             ]
           ]
         ],
@@ -49,36 +59,48 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13120789162636,
-      "lat": 49.283202244678
+      "lon": -123.10760506602185,
+      "lat": 49.28410498189255
     }
   },
   {
-    "project": "E 22nd Av from St. Catherines St to Prince Albert St",
+    "project": "Ontario Place from Quebec St to Main St",
     "street": null,
-    "location": "E 22nd Av from St. Catherines St to Prince Albert St",
-    "comp_date": "2025-09-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/87fafb6f-830b-4138-9664-c3001c062a7d",
+    "location": "Ontario Place from Quebec St to Main St",
+    "comp_date": "2025-09-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b862806f-bcea-4098-beb8-b4a872207d5d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.08767815085007,
-            49.250969700804205
+            [
+              -123.1036968153756,
+              49.2325796530441
+            ],
+            [
+              -123.10214161161772,
+              49.232546919588714
+            ]
           ],
           [
-            -123.08574405432454,
-            49.25094154911872
+            [
+              -123.10214161161772,
+              49.232546919588714
+            ],
+            [
+              -123.1014941917962,
+              49.232533106796865
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0867111025873,
-      "lat": 49.25095562496146
+      "lon": -123.10259550219429,
+      "lat": 49.23255644558954
     }
   },
   {
@@ -152,67 +174,31 @@
     }
   },
   {
-    "project": "Water St - Richards St to Columbia St",
+    "project": "W 37th Av - Willow St to Ash St",
     "street": null,
-    "location": "Water St - Richards St to Columbia St",
-    "comp_date": "2025-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4910f6ef-4879-43ab-9609-ce242ce799bb",
+    "location": "W 37th Av - Willow St to Ash St",
+    "comp_date": "2025-09-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78f86f0a-6bb0-428c-b66a-41012305aedb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.10426176613505,
-              49.283496673786686
-            ],
-            [
-              -123.10638331443363,
-              49.283884968733105
-            ]
+            -123.1237785641516,
+            49.23750684163812
           ],
           [
-            [
-              -123.10638331443363,
-              49.283884968733105
-            ],
-            [
-              -123.10877737817344,
-              49.28431923067458
-            ]
-          ],
-          [
-            [
-              -123.10877737817344,
-              49.28431923067458
-            ],
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ]
-          ],
-          [
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ],
-            [
-              -123.11054175598821,
-              49.284638225232214
-            ],
-            [
-              -123.11095341031987,
-              49.28467794017715
-            ]
+            -123.11775795112764,
+            49.23730657152322
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10760506602185,
-      "lat": 49.28410498189255
+      "lon": -123.12076825763961,
+      "lat": 49.23740670658067
     }
   },
   {
@@ -263,34 +249,6 @@
     "geo_point_2d": {
       "lon": -123.15196962517379,
       "lat": 49.22611706519083
-    }
-  },
-  {
-    "project": "W 37th Av - Willow St to Ash St",
-    "street": null,
-    "location": "W 37th Av - Willow St to Ash St",
-    "comp_date": "2025-09-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78f86f0a-6bb0-428c-b66a-41012305aedb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1237785641516,
-            49.23750684163812
-          ],
-          [
-            -123.11775795112764,
-            49.23730657152322
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12076825763961,
-      "lat": 49.23740670658067
     }
   },
   {
@@ -351,56 +309,6 @@
     "geo_point_2d": {
       "lon": -123.11925471099347,
       "lat": 49.237358501656644
-    }
-  },
-  {
-    "project": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
-    "street": null,
-    "location": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
-    "comp_date": "2025-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/264a44f1-5b23-4000-bb1a-17fb4a2bf925",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14809228855401,
-              49.26468254517488
-            ],
-            [
-              -123.147188384116,
-              49.26466854263424
-            ]
-          ],
-          [
-            [
-              -123.14570782592308,
-              49.264626487315894
-            ],
-            [
-              -123.14525499012893,
-              49.264617666258516
-            ]
-          ],
-          [
-            [
-              -123.1435756334498,
-              49.26460846690469
-            ],
-            [
-              -123.14313293577045,
-              49.264601851109376
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14604257463189,
-      "lat": 49.26464477228104
     }
   },
   {
@@ -507,6 +415,56 @@
     "geo_point_2d": {
       "lon": -123.10653685799478,
       "lat": 49.28389102481979
+    }
+  },
+  {
+    "project": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
+    "street": null,
+    "location": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
+    "comp_date": "2025-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/264a44f1-5b23-4000-bb1a-17fb4a2bf925",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14809228855401,
+              49.26468254517488
+            ],
+            [
+              -123.147188384116,
+              49.26466854263424
+            ]
+          ],
+          [
+            [
+              -123.14570782592308,
+              49.264626487315894
+            ],
+            [
+              -123.14525499012893,
+              49.264617666258516
+            ]
+          ],
+          [
+            [
+              -123.1435756334498,
+              49.26460846690469
+            ],
+            [
+              -123.14313293577045,
+              49.264601851109376
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14604257463189,
+      "lat": 49.26464477228104
     }
   },
   {
