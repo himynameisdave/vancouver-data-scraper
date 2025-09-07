@@ -1,5 +1,75 @@
 [
   {
+    "project": "Vivian St from E 51st Av to E 54th Av",
+    "street": null,
+    "location": "Vivian St from E 51st Av to E 54th Av",
+    "comp_date": "2025-09-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9cb66bff-639f-40f9-b32a-110046de3016",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05045032746686,
+              49.22227490076099
+            ],
+            [
+              -123.05047026985332,
+              49.22188563976485
+            ]
+          ],
+          [
+            [
+              -123.05042848413264,
+              49.222699298074986
+            ],
+            [
+              -123.05045032746686,
+              49.22227490076099
+            ]
+          ],
+          [
+            [
+              -123.05047026985332,
+              49.22188563976485
+            ],
+            [
+              -123.05051210864828,
+              49.22107149555643
+            ]
+          ],
+          [
+            [
+              -123.05051210864828,
+              49.22107149555643
+            ],
+            [
+              -123.0505315418156,
+              49.220682090766445
+            ]
+          ],
+          [
+            [
+              -123.0505315418156,
+              49.220682090766445
+            ],
+            [
+              -123.0505543414167,
+              49.22021411077188
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05049205179101,
+      "lat": 49.22145673648855
+    }
+  },
+  {
     "project": "Water St - Richards St to Columbia St",
     "street": null,
     "location": "Water St - Richards St to Columbia St",
@@ -104,104 +174,6 @@
     }
   },
   {
-    "project": "Vivian St from E 51st Av to E 54th Av",
-    "street": null,
-    "location": "Vivian St from E 51st Av to E 54th Av",
-    "comp_date": "2025-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9cb66bff-639f-40f9-b32a-110046de3016",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05045032746686,
-              49.22227490076099
-            ],
-            [
-              -123.05047026985332,
-              49.22188563976485
-            ]
-          ],
-          [
-            [
-              -123.05042848413264,
-              49.222699298074986
-            ],
-            [
-              -123.05045032746686,
-              49.22227490076099
-            ]
-          ],
-          [
-            [
-              -123.05047026985332,
-              49.22188563976485
-            ],
-            [
-              -123.05051210864828,
-              49.22107149555643
-            ]
-          ],
-          [
-            [
-              -123.05051210864828,
-              49.22107149555643
-            ],
-            [
-              -123.0505315418156,
-              49.220682090766445
-            ]
-          ],
-          [
-            [
-              -123.0505315418156,
-              49.220682090766445
-            ],
-            [
-              -123.0505543414167,
-              49.22021411077188
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05049205179101,
-      "lat": 49.22145673648855
-    }
-  },
-  {
-    "project": "W 37th Av - Willow St to Ash St",
-    "street": null,
-    "location": "W 37th Av - Willow St to Ash St",
-    "comp_date": "2025-09-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78f86f0a-6bb0-428c-b66a-41012305aedb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1237785641516,
-            49.23750684163812
-          ],
-          [
-            -123.11775795112764,
-            49.23730657152322
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12076825763961,
-      "lat": 49.23740670658067
-    }
-  },
-  {
     "project": "Maple St from W 49th Av to W 50th Av\r\nW 50th Av from Maple St to Laburnum St",
     "street": null,
     "location": "Maple St from W 49th Av to W 50th Av\r\nW 50th Av from Maple St to Laburnum St",
@@ -249,6 +221,34 @@
     "geo_point_2d": {
       "lon": -123.15196962517379,
       "lat": 49.22611706519083
+    }
+  },
+  {
+    "project": "W 37th Av - Willow St to Ash St",
+    "street": null,
+    "location": "W 37th Av - Willow St to Ash St",
+    "comp_date": "2025-09-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78f86f0a-6bb0-428c-b66a-41012305aedb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1237785641516,
+            49.23750684163812
+          ],
+          [
+            -123.11775795112764,
+            49.23730657152322
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12076825763961,
+      "lat": 49.23740670658067
     }
   },
   {
@@ -309,6 +309,56 @@
     "geo_point_2d": {
       "lon": -123.11925471099347,
       "lat": 49.237358501656644
+    }
+  },
+  {
+    "project": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
+    "street": null,
+    "location": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
+    "comp_date": "2025-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/264a44f1-5b23-4000-bb1a-17fb4a2bf925",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14809228855401,
+              49.26468254517488
+            ],
+            [
+              -123.147188384116,
+              49.26466854263424
+            ]
+          ],
+          [
+            [
+              -123.14570782592308,
+              49.264626487315894
+            ],
+            [
+              -123.14525499012893,
+              49.264617666258516
+            ]
+          ],
+          [
+            [
+              -123.1435756334498,
+              49.26460846690469
+            ],
+            [
+              -123.14313293577045,
+              49.264601851109376
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14604257463189,
+      "lat": 49.26464477228104
     }
   },
   {
@@ -415,56 +465,6 @@
     "geo_point_2d": {
       "lon": -123.10653685799478,
       "lat": 49.28389102481979
-    }
-  },
-  {
-    "project": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
-    "street": null,
-    "location": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
-    "comp_date": "2025-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/264a44f1-5b23-4000-bb1a-17fb4a2bf925",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14809228855401,
-              49.26468254517488
-            ],
-            [
-              -123.147188384116,
-              49.26466854263424
-            ]
-          ],
-          [
-            [
-              -123.14570782592308,
-              49.264626487315894
-            ],
-            [
-              -123.14525499012893,
-              49.264617666258516
-            ]
-          ],
-          [
-            [
-              -123.1435756334498,
-              49.26460846690469
-            ],
-            [
-              -123.14313293577045,
-              49.264601851109376
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14604257463189,
-      "lat": 49.26464477228104
     }
   },
   {
