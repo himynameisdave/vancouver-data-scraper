@@ -1,207 +1,5 @@
 [
   {
-    "project": "Water St - Richards St to Columbia St",
-    "street": null,
-    "location": "Water St - Richards St to Columbia St",
-    "comp_date": "2025-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4910f6ef-4879-43ab-9609-ce242ce799bb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10426176613505,
-              49.283496673786686
-            ],
-            [
-              -123.10638331443363,
-              49.283884968733105
-            ]
-          ],
-          [
-            [
-              -123.10638331443363,
-              49.283884968733105
-            ],
-            [
-              -123.10877737817344,
-              49.28431923067458
-            ]
-          ],
-          [
-            [
-              -123.10877737817344,
-              49.28431923067458
-            ],
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ]
-          ],
-          [
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ],
-            [
-              -123.11054175598821,
-              49.284638225232214
-            ],
-            [
-              -123.11095341031987,
-              49.28467794017715
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10760506602185,
-      "lat": 49.28410498189255
-    }
-  },
-  {
-    "project": "E 61st Av from Knight St to Borden St",
-    "street": null,
-    "location": "E 61st Av from Knight St to Borden St",
-    "comp_date": "2025-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e583e03-559c-4c29-a9ec-96dec974c095",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07707840250403,
-            49.214627090084946
-          ],
-          [
-            -123.07403231755252,
-            49.214604741292646
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07555536002828,
-      "lat": 49.214615915688796
-    }
-  },
-  {
-    "project": "Ontario Place from Quebec St to Main St",
-    "street": null,
-    "location": "Ontario Place from Quebec St to Main St",
-    "comp_date": "2025-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b862806f-bcea-4098-beb8-b4a872207d5d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1036968153756,
-              49.2325796530441
-            ],
-            [
-              -123.10214161161772,
-              49.232546919588714
-            ]
-          ],
-          [
-            [
-              -123.10214161161772,
-              49.232546919588714
-            ],
-            [
-              -123.1014941917962,
-              49.232533106796865
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10259550219429,
-      "lat": 49.23255644558954
-    }
-  },
-  {
-    "project": "Vivian St from E 51st Av to E 54th Av",
-    "street": null,
-    "location": "Vivian St from E 51st Av to E 54th Av",
-    "comp_date": "2025-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9cb66bff-639f-40f9-b32a-110046de3016",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05045032746686,
-              49.22227490076099
-            ],
-            [
-              -123.05047026985332,
-              49.22188563976485
-            ]
-          ],
-          [
-            [
-              -123.05042848413264,
-              49.222699298074986
-            ],
-            [
-              -123.05045032746686,
-              49.22227490076099
-            ]
-          ],
-          [
-            [
-              -123.05047026985332,
-              49.22188563976485
-            ],
-            [
-              -123.05051210864828,
-              49.22107149555643
-            ]
-          ],
-          [
-            [
-              -123.05051210864828,
-              49.22107149555643
-            ],
-            [
-              -123.0505315418156,
-              49.220682090766445
-            ]
-          ],
-          [
-            [
-              -123.0505315418156,
-              49.220682090766445
-            ],
-            [
-              -123.0505543414167,
-              49.22021411077188
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05049205179101,
-      "lat": 49.22145673648855
-    }
-  },
-  {
     "project": "W 37th Av - Willow St to Ash St",
     "street": null,
     "location": "W 37th Av - Willow St to Ash St",
@@ -227,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.12076825763961,
       "lat": 49.23740670658067
+    }
+  },
+  {
+    "project": "E 61st Av from Knight St to Borden St",
+    "street": null,
+    "location": "E 61st Av from Knight St to Borden St",
+    "comp_date": "2025-09-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7e583e03-559c-4c29-a9ec-96dec974c095",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07707840250403,
+            49.214627090084946
+          ],
+          [
+            -123.07403231755252,
+            49.214604741292646
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07555536002828,
+      "lat": 49.214615915688796
     }
   },
   {
@@ -345,6 +171,62 @@
     "geo_point_2d": {
       "lon": -123.15196962517379,
       "lat": 49.22611706519083
+    }
+  },
+  {
+    "project": "W 36th Av from Balaclava St to Carnarvon St",
+    "street": null,
+    "location": "W 36th Av from Balaclava St to Carnarvon St",
+    "comp_date": "2025-09-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b8f31cc-79d0-4187-ab01-546f97699905",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17302273016301,
+            49.239478961783874
+          ],
+          [
+            -123.17578484870444,
+            49.23948991295018
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17440378943373,
+      "lat": 49.239484437367025
+    }
+  },
+  {
+    "project": "E 2nd Av from Lakewood Dr to Templeton Dr",
+    "street": null,
+    "location": "E 2nd Av from Lakewood Dr to Templeton Dr",
+    "comp_date": "2025-09-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06e2b186-4804-41cb-853d-b999e2659415",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0619044931965,
+            49.268635069414955
+          ],
+          [
+            -123.0599711938642,
+            49.268619906678026
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06093784353035,
+      "lat": 49.26862748804649
     }
   },
   {
