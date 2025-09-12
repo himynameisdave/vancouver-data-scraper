@@ -116,6 +116,34 @@
     }
   },
   {
+    "project": "2400 Oxford st from lane west of Nanaimo to N Kamloops",
+    "street": null,
+    "location": "2400 Oxford st from lane west of Nanaimo to N Kamloops",
+    "comp_date": "2025-09-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8288af76-03e0-4c3c-b96e-a442aafae8d4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05578573457855,
+            49.28570733450178
+          ],
+          [
+            -123.05464416821076,
+            49.285710966840554
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05521495139465,
+      "lat": 49.28570915067117
+    }
+  },
+  {
     "project": "E 63rd Av from Knight St to Borden St",
     "street": null,
     "location": "E 63rd Av from Knight St to Borden St",
@@ -159,7 +187,7 @@
     "project": "W 36th Av from Balaclava St to Carnarvon St",
     "street": null,
     "location": "W 36th Av from Balaclava St to Carnarvon St",
-    "comp_date": "2025-09-12",
+    "comp_date": "2025-09-15",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b8f31cc-79d0-4187-ab01-546f97699905",
     "geom": {
       "type": "Feature",
@@ -181,6 +209,62 @@
     "geo_point_2d": {
       "lon": -123.17440378943373,
       "lat": 49.239484437367025
+    }
+  },
+  {
+    "project": "E 23rd Av from St. Catherines St to Windsor St",
+    "street": null,
+    "location": "E 23rd Av from St. Catherines St to Windsor St",
+    "comp_date": "2025-09-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/66c7a62d-d6cc-428b-881e-bab842427088",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08577799495417,
+            49.25003745876373
+          ],
+          [
+            -123.08384334183293,
+            49.2500073866772
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08481066839354,
+      "lat": 49.25002242272046
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 2600 Block of W 39th Av. From Trafalgar St to Elm St",
+    "street": null,
+    "location": "Both Sides of the Street of 2600 Block of W 39th Av. From Trafalgar St to Elm St",
+    "comp_date": "2025-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/200b73a6-9924-433c-b04f-c6ceb66fb1dd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16581222475793,
+            49.23660574434243
+          ],
+          [
+            -123.16411440887094,
+            49.23657759026386
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16496331681444,
+      "lat": 49.236591667303145
     }
   },
   {
@@ -237,6 +321,56 @@
     "geo_point_2d": {
       "lon": -123.10653685799478,
       "lat": 49.28389102481979
+    }
+  },
+  {
+    "project": "E 55th Av from Ross St to Prince Albert St",
+    "street": null,
+    "location": "E 55th Av from Ross St to Prince Albert St",
+    "comp_date": "2025-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be3e72e8-e948-47db-808c-79bd80dc92d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08774943552818,
+              49.21991740733489
+            ],
+            [
+              -123.08698914321413,
+              49.219906090632605
+            ]
+          ],
+          [
+            [
+              -123.08698914321413,
+              49.219906090632605
+            ],
+            [
+              -123.08521215351823,
+              49.21987952080491
+            ]
+          ],
+          [
+            [
+              -123.08521215351823,
+              49.21987952080491
+            ],
+            [
+              -123.0830291409553,
+              49.21984686553324
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08538928786236,
+      "lat": 49.21988216185423
     }
   },
   {
