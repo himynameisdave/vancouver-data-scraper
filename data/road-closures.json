@@ -1,189 +1,5 @@
 [
   {
-    "project": "W 37th Av - Willow St to Ash St",
-    "street": null,
-    "location": "W 37th Av - Willow St to Ash St",
-    "comp_date": "2025-09-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78f86f0a-6bb0-428c-b66a-41012305aedb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1237785641516,
-            49.23750684163812
-          ],
-          [
-            -123.11775795112764,
-            49.23730657152322
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12076825763961,
-      "lat": 49.23740670658067
-    }
-  },
-  {
-    "project": "E 2nd Av from Lakewood Dr to Templeton Dr",
-    "street": null,
-    "location": "E 2nd Av from Lakewood Dr to Templeton Dr",
-    "comp_date": "2025-09-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06e2b186-4804-41cb-853d-b999e2659415",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0619044931965,
-            49.268635069414955
-          ],
-          [
-            -123.0599711938642,
-            49.268619906678026
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06093784353035,
-      "lat": 49.26862748804649
-    }
-  },
-  {
-    "project": "W 37th Av from Heather St to Ash St",
-    "street": null,
-    "location": "W 37th Av from Heather St to Ash St",
-    "comp_date": "2025-09-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/093b9cc8-f412-4f6d-ac72-cadfad0cb49f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12001177030223,
-              49.23738495995522
-            ],
-            [
-              -123.12077156504951,
-              49.23741145973108
-            ]
-          ],
-          [
-            [
-              -123.11925270369976,
-              49.23735814859228
-            ],
-            [
-              -123.12001177030223,
-              49.23738495995522
-            ]
-          ],
-          [
-            [
-              -123.11849743093188,
-              49.23733196701309
-            ],
-            [
-              -123.11925270369976,
-              49.23735814859228
-            ]
-          ],
-          [
-            [
-              -123.11773783279793,
-              49.23730624366215
-            ],
-            [
-              -123.11849743093188,
-              49.23733196701309
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11925471099347,
-      "lat": 49.237358501656644
-    }
-  },
-  {
-    "project": "2400 Oxford st from lane west of Nanaimo to N Kamloops",
-    "street": null,
-    "location": "2400 Oxford st from lane west of Nanaimo to N Kamloops",
-    "comp_date": "2025-09-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8288af76-03e0-4c3c-b96e-a442aafae8d4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05578573457855,
-            49.28570733450178
-          ],
-          [
-            -123.05464416821076,
-            49.285710966840554
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05521495139465,
-      "lat": 49.28570915067117
-    }
-  },
-  {
-    "project": "E 63rd Av from Knight St to Borden St",
-    "street": null,
-    "location": "E 63rd Av from Knight St to Borden St",
-    "comp_date": "2025-09-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/90b4fc36-5093-4f4d-aee8-016c5210f46f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07709827600489,
-              49.21288197394421
-            ],
-            [
-              -123.0763868531989,
-              49.212880845440424
-            ]
-          ],
-          [
-            [
-              -123.0763868531989,
-              49.212880845440424
-            ],
-            [
-              -123.07405899885745,
-              49.212878061655005
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07557863757911,
-      "lat": 49.21287991143503
-    }
-  },
-  {
     "project": "W 36th Av from Balaclava St to Carnarvon St",
     "street": null,
     "location": "W 36th Av from Balaclava St to Carnarvon St",
@@ -212,22 +28,22 @@
     }
   },
   {
-    "project": "E 23rd Av from St. Catherines St to Windsor St",
+    "project": "Both Sides of the Street of 600 Block of Denman St. From 1600-1700 Bayshore Dr t",
     "street": null,
-    "location": "E 23rd Av from St. Catherines St to Windsor St",
+    "location": "Both Sides of the Street of 600 Block of Denman St. From 1600-1700 Bayshore Dr t",
     "comp_date": "2025-09-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/66c7a62d-d6cc-428b-881e-bab842427088",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/60093c14-afab-43e0-95f9-b588051c6694",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.08577799495417,
-            49.25003745876373
+            -123.13308099806375,
+            49.29305221959831
           ],
           [
-            -123.08384334183293,
-            49.2500073866772
+            -123.1337249104594,
+            49.29261914071205
           ]
         ],
         "type": "LineString"
@@ -235,8 +51,58 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08481066839354,
-      "lat": 49.25002242272046
+      "lon": -123.13340295426158,
+      "lat": 49.292835680155186
+    }
+  },
+  {
+    "project": "E 55th Av from Ross St to Prince Albert St",
+    "street": null,
+    "location": "E 55th Av from Ross St to Prince Albert St",
+    "comp_date": "2025-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be3e72e8-e948-47db-808c-79bd80dc92d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08774943552818,
+              49.21991740733489
+            ],
+            [
+              -123.08698914321413,
+              49.219906090632605
+            ]
+          ],
+          [
+            [
+              -123.08698914321413,
+              49.219906090632605
+            ],
+            [
+              -123.08521215351823,
+              49.21987952080491
+            ]
+          ],
+          [
+            [
+              -123.08521215351823,
+              49.21987952080491
+            ],
+            [
+              -123.0830291409553,
+              49.21984686553324
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08538928786236,
+      "lat": 49.21988216185423
     }
   },
   {
@@ -324,43 +190,33 @@
     }
   },
   {
-    "project": "E 55th Av from Ross St to Prince Albert St",
+    "project": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
     "street": null,
-    "location": "E 55th Av from Ross St to Prince Albert St",
-    "comp_date": "2025-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be3e72e8-e948-47db-808c-79bd80dc92d1",
+    "location": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
+    "comp_date": "2025-09-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70ce0316-219c-46bc-8a55-65f03a2ec930",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.08774943552818,
-              49.21991740733489
+              -123.14023123506945,
+              49.286254337069664
             ],
             [
-              -123.08698914321413,
-              49.219906090632605
+              -123.13975380186481,
+              49.28658325175084
             ]
           ],
           [
             [
-              -123.08698914321413,
-              49.219906090632605
+              -123.14022587065142,
+              49.286250837965525
             ],
             [
-              -123.08521215351823,
-              49.21987952080491
-            ]
-          ],
-          [
-            [
-              -123.08521215351823,
-              49.21987952080491
-            ],
-            [
-              -123.0830291409553,
-              49.21984686553324
+              -123.14000056509417,
+              49.28609687713717
             ]
           ]
         ],
@@ -369,8 +225,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08538928786236,
-      "lat": 49.21988216185423
+      "lon": -123.14003114757364,
+      "lat": 49.28634040386677
+    }
+  },
+  {
+    "project": "E 23rd Av from St. Catherines St to Windsor St",
+    "street": null,
+    "location": "E 23rd Av from St. Catherines St to Windsor St",
+    "comp_date": "2025-09-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/66c7a62d-d6cc-428b-881e-bab842427088",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08577799495417,
+            49.25003745876373
+          ],
+          [
+            -123.08384334183293,
+            49.2500073866772
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08481066839354,
+      "lat": 49.25002242272046
     }
   },
   {
@@ -484,33 +368,33 @@
     }
   },
   {
-    "project": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
+    "project": "Both Sides of the Lane North of 600 Block of W 41st Av. From 25m West of Ash St",
     "street": null,
-    "location": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
-    "comp_date": "2025-09-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70ce0316-219c-46bc-8a55-65f03a2ec930",
+    "location": "Both Sides of the Lane North of 600 Block of W 41st Av. From 25m West of Ash St",
+    "comp_date": "2025-09-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/23436679-0905-484b-97b0-7db934d0178c",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.14023123506945,
-              49.286254337069664
+              -123.11851179312198,
+              49.23411492472968
             ],
             [
-              -123.13975380186481,
-              49.28658325175084
+              -123.11731592546607,
+              49.23408086011921
             ]
           ],
           [
             [
-              -123.14022587065142,
-              49.286250837965525
+              -123.11784965163466,
+              49.23443722718889
             ],
             [
-              -123.14000056509417,
-              49.28609687713717
+              -123.1178737295069,
+              49.233795240538285
             ]
           ]
         ],
@@ -519,8 +403,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14003114757364,
-      "lat": 49.28634040386677
+      "lon": -123.11789563254845,
+      "lat": 49.23410430056948
     }
   },
   {
