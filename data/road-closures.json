@@ -1,33 +1,5 @@
 [
   {
-    "project": "Cambie St - W 41st to 42nd Av",
-    "street": null,
-    "location": "Cambie St - W 41st to 42nd Av",
-    "comp_date": "2025-09-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e84c736b-8dd1-431a-b96a-abf2cc3df43b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11619218473058,
-            49.233543467151264
-          ],
-          [
-            -123.11623451183618,
-            49.23253888854762
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11621334828338,
-      "lat": 49.233041177849444
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -402,53 +374,31 @@
     }
   },
   {
-    "project": "E 55th Av from Ross St to Prince Albert St",
+    "project": "Cambie St - W 41st to 42nd Av",
     "street": null,
-    "location": "E 55th Av from Ross St to Prince Albert St",
-    "comp_date": "2025-09-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be3e72e8-e948-47db-808c-79bd80dc92d1",
+    "location": "Cambie St - W 41st to 42nd Av",
+    "comp_date": "2025-09-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e84c736b-8dd1-431a-b96a-abf2cc3df43b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.08774943552818,
-              49.21991740733489
-            ],
-            [
-              -123.08698914321413,
-              49.219906090632605
-            ]
+            -123.11619218473058,
+            49.233543467151264
           ],
           [
-            [
-              -123.08698914321413,
-              49.219906090632605
-            ],
-            [
-              -123.08521215351823,
-              49.21987952080491
-            ]
-          ],
-          [
-            [
-              -123.08521215351823,
-              49.21987952080491
-            ],
-            [
-              -123.0830291409553,
-              49.21984686553324
-            ]
+            -123.11623451183618,
+            49.23253888854762
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08538928786236,
-      "lat": 49.21988216185423
+      "lon": -123.11621334828338,
+      "lat": 49.233041177849444
     }
   },
   {
@@ -505,6 +455,56 @@
     "geo_point_2d": {
       "lon": -123.10653685799478,
       "lat": 49.28389102481979
+    }
+  },
+  {
+    "project": "E 55th Av from Ross St to Prince Albert St",
+    "street": null,
+    "location": "E 55th Av from Ross St to Prince Albert St",
+    "comp_date": "2025-09-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/be3e72e8-e948-47db-808c-79bd80dc92d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08774943552818,
+              49.21991740733489
+            ],
+            [
+              -123.08698914321413,
+              49.219906090632605
+            ]
+          ],
+          [
+            [
+              -123.08698914321413,
+              49.219906090632605
+            ],
+            [
+              -123.08521215351823,
+              49.21987952080491
+            ]
+          ],
+          [
+            [
+              -123.08521215351823,
+              49.21987952080491
+            ],
+            [
+              -123.0830291409553,
+              49.21984686553324
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08538928786236,
+      "lat": 49.21988216185423
     }
   },
   {
