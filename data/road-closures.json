@@ -1,45 +1,5 @@
 [
   {
-    "project": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
-    "street": null,
-    "location": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
-    "comp_date": "2025-09-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70ce0316-219c-46bc-8a55-65f03a2ec930",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14023123506945,
-              49.286254337069664
-            ],
-            [
-              -123.13975380186481,
-              49.28658325175084
-            ]
-          ],
-          [
-            [
-              -123.14022587065142,
-              49.286250837965525
-            ],
-            [
-              -123.14000056509417,
-              49.28609687713717
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14003114757364,
-      "lat": 49.28634040386677
-    }
-  },
-  {
     "project": "B/S of the Street of 400 Block of W 20 Ave from Cambie St to East PL of 455",
     "street": null,
     "location": "B/S of the Street of 400 Block of W 20 Ave from Cambie St to East PL of 455",
@@ -377,6 +337,46 @@
     "geo_point_2d": {
       "lon": -123.17571909970866,
       "lat": 49.246132374285864
+    }
+  },
+  {
+    "project": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
+    "street": null,
+    "location": "B/S of 1100 blk of Bidwell\r\nS/S of 1600 blk of Davie St",
+    "comp_date": "2025-09-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/70ce0316-219c-46bc-8a55-65f03a2ec930",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14023123506945,
+              49.286254337069664
+            ],
+            [
+              -123.13975380186481,
+              49.28658325175084
+            ]
+          ],
+          [
+            [
+              -123.14022587065142,
+              49.286250837965525
+            ],
+            [
+              -123.14000056509417,
+              49.28609687713717
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14003114757364,
+      "lat": 49.28634040386677
     }
   },
   {
