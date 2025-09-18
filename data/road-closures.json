@@ -380,6 +380,34 @@
     }
   },
   {
+    "project": "Lane S of W 27th Av and Balaclava St",
+    "street": null,
+    "location": "Lane S of W 27th Av and Balaclava St",
+    "comp_date": "2025-09-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85db1146-a37d-4630-b7e6-ef4f3801911e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17570677704191,
+            49.24755618155939
+          ],
+          [
+            -123.17791977350691,
+            49.24756504619893
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17681327527441,
+      "lat": 49.24756061387916
+    }
+  },
+  {
     "project": "E 37th Av from Main St to Sophia St",
     "street": null,
     "location": "E 37th Av from Main St to Sophia St",
@@ -417,6 +445,56 @@
     "geo_point_2d": {
       "lon": -123.10048389879063,
       "lat": 49.23722118025468
+    }
+  },
+  {
+    "project": "E 23rd Av from Glen Dr to Inverness St",
+    "street": null,
+    "location": "E 23rd Av from Glen Dr to Inverness St",
+    "comp_date": "2025-09-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f90aa69a-88f2-48ba-ba81-5c2b10be4e71",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08190633979439,
+              49.2499763483558
+            ],
+            [
+              -123.0813071142914,
+              49.24996713773356
+            ]
+          ],
+          [
+            [
+              -123.0813071142914,
+              49.24996713773356
+            ],
+            [
+              -123.08057457146053,
+              49.24995546241419
+            ]
+          ],
+          [
+            [
+              -123.08057457146053,
+              49.24995546241419
+            ],
+            [
+              -123.07997427460833,
+              49.249946209645344
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08094030706697,
+      "lat": 49.24996128773353
     }
   },
   {
@@ -493,56 +571,6 @@
     "geo_point_2d": {
       "lon": -123.11789563254845,
       "lat": 49.23410430056948
-    }
-  },
-  {
-    "project": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
-    "street": null,
-    "location": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
-    "comp_date": "2025-09-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/264a44f1-5b23-4000-bb1a-17fb4a2bf925",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14809228855401,
-              49.26468254517488
-            ],
-            [
-              -123.147188384116,
-              49.26466854263424
-            ]
-          ],
-          [
-            [
-              -123.14570782592308,
-              49.264626487315894
-            ],
-            [
-              -123.14525499012893,
-              49.264617666258516
-            ]
-          ],
-          [
-            [
-              -123.1435756334498,
-              49.26460846690469
-            ],
-            [
-              -123.14313293577045,
-              49.264601851109376
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14604257463189,
-      "lat": 49.26464477228104
     }
   },
   {
