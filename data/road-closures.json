@@ -1,61 +1,5 @@
 [
   {
-    "project": "300 Block E 11th Avenue",
-    "street": null,
-    "location": "300 Block E 11th Avenue",
-    "comp_date": "2025-09-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/52eddddb-174b-410a-aea1-0a4d4e339e48",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09777727486758,
-            49.26108018317046
-          ],
-          [
-            -123.09685459496647,
-            49.26106442916196
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09731593491702,
-      "lat": 49.26107230616621
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2025-09-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8d83f8ca-b18a-4498-9c8a-07d8f6996cd1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08332563956779,
-            49.25876504526639
-          ],
-          [
-            -123.08151034647624,
-            49.258755664822075
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.082417993022,
-      "lat": 49.25876035504423
-    }
-  },
-  {
     "project": "W Blvd - W 37th Av to W 41st Av",
     "street": null,
     "location": "W Blvd - W 37th Av to W 41st Av",
@@ -535,34 +479,6 @@
     "geo_point_2d": {
       "lon": -123.07451483767278,
       "lat": 49.21504995764013
-    }
-  },
-  {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18815934348683,
-            49.24519436177815
-          ],
-          [
-            -123.18817356592662,
-            49.241433898919325
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
     }
   },
   {
