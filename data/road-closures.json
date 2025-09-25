@@ -246,6 +246,46 @@
     }
   },
   {
+    "project": "W 21st Av from Trafalgar St and Macdonald St",
+    "street": null,
+    "location": "W 21st Av from Trafalgar St and Macdonald St",
+    "comp_date": "2025-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6e52b763-c717-404b-b97b-4440f63384ca",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16588490792206,
+              49.25368849236099
+            ],
+            [
+              -123.16778846097563,
+              49.25369699657418
+            ]
+          ],
+          [
+            [
+              -123.16518507881999,
+              49.253685348261115
+            ],
+            [
+              -123.16588490792206,
+              49.25368849236099
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.166486769869,
+      "lat": 49.25369117884475
+    }
+  },
+  {
     "project": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
     "street": null,
     "location": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
@@ -653,7 +693,7 @@
     "project": "Dundas St - Cassiar St to Skeena St\r\nTriumph St - Cassiar St to Kootenay St\r\nPan",
     "street": null,
     "location": "Dundas St - Cassiar St to Skeena St\r\nTriumph St - Cassiar St to Kootenay St\r\nPan",
-    "comp_date": "2025-12-04",
+    "comp_date": "2025-12-05",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85bf5084-b8cf-4410-bd22-b7fef0e4830f",
     "geom": {
       "type": "Feature",
@@ -697,6 +737,34 @@
     "geo_point_2d": {
       "lon": -123.02895495034613,
       "lat": 49.2838687251026
+    }
+  },
+  {
+    "project": "W 1th Av from Dunbar St to Collingwood St",
+    "street": null,
+    "location": "W 1th Av from Dunbar St to Collingwood St",
+    "comp_date": "2026-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c78471a8-0098-47c4-980a-febc35e628ea",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18191483577667,
+            49.262492146466656
+          ],
+          [
+            -123.18385071541186,
+            49.26252337199773
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18288277559427,
+      "lat": 49.26250775923219
     }
   },
   {
