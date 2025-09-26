@@ -1,83 +1,5 @@
 [
   {
-    "project": "Hudson St from Park Dr to W 59th Av",
-    "street": null,
-    "location": "Hudson St from Park Dr to W 59th Av",
-    "comp_date": "2025-09-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0eda2003-258f-4a37-83c4-7a64e5a66e06",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13408386670751,
-              49.21724972298637
-            ],
-            [
-              -123.13409933622377,
-              49.21680584192248
-            ]
-          ],
-          [
-            [
-              -123.13409933622377,
-              49.21680584192248
-            ],
-            [
-              -123.13412360955913,
-              49.216083645587105
-            ]
-          ],
-          [
-            [
-              -123.13412360955913,
-              49.216083645587105
-            ],
-            [
-              -123.13413729969743,
-              49.21562690324018
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13411137912553,
-      "lat": 49.216438338904176
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1100 Block of E 26th Av. From West PL of 1135 to Eas",
-    "street": null,
-    "location": "Both Sides of the Street of 1100 Block of E 26th Av. From West PL of 1135 to Eas",
-    "comp_date": "2025-09-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/28213dcc-3ec2-4aa2-9724-3c5bbe00d63c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.081668828725,
-            49.24771714054569
-          ],
-          [
-            -123.08047227276656,
-            49.24769954820724
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08107055074578,
-      "lat": 49.24770834437646
-    }
-  },
-  {
     "project": "Both Sides of the Lane North of 600 Block of W 41st Av. From 25m West of Ash St",
     "street": null,
     "location": "Both Sides of the Lane North of 600 Block of W 41st Av. From 25m West of Ash St",
@@ -218,34 +140,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
-    "street": null,
-    "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
-    "comp_date": "2025-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/926cc261-cdcf-4e8e-8d8d-1ad43814d7bc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1884049870168,
-            49.23396409730009
-          ],
-          [
-            -123.18842654658359,
-            49.233348190228725
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18841576680019,
-      "lat": 49.23365614376441
-    }
-  },
-  {
     "project": "W 21st Av from Trafalgar St and Macdonald St",
     "street": null,
     "location": "W 21st Av from Trafalgar St and Macdonald St",
@@ -283,6 +177,46 @@
     "geo_point_2d": {
       "lon": -123.166486769869,
       "lat": 49.25369117884475
+    }
+  },
+  {
+    "project": "Garden Dr from E 6th Av to E 7th Av",
+    "street": null,
+    "location": "Garden Dr from E 6th Av to E 7th Av",
+    "comp_date": "2025-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f803481a-dfd1-4a8a-a5fb-432a13344b80",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05810688998157,
+              49.26499045077506
+            ],
+            [
+              -123.05811521138268,
+              49.26453883344931
+            ]
+          ],
+          [
+            [
+              -123.05811521138268,
+              49.26453883344931
+            ],
+            [
+              -123.05812327052392,
+              49.26408639765589
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05811514950243,
+      "lat": 49.26453842547023
     }
   },
   {
@@ -403,6 +337,34 @@
     "geo_point_2d": {
       "lon": -123.10394635198958,
       "lat": 49.28337413320641
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
+    "street": null,
+    "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
+    "comp_date": "2025-10-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/926cc261-cdcf-4e8e-8d8d-1ad43814d7bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1884049870168,
+            49.23396409730009
+          ],
+          [
+            -123.18842654658359,
+            49.233348190228725
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18841576680019,
+      "lat": 49.23365614376441
     }
   },
   {
