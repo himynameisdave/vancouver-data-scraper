@@ -1,45 +1,5 @@
 [
   {
-    "project": "Both Sides of the Lane North of 600 Block of W 41st Av. From 25m West of Ash St",
-    "street": null,
-    "location": "Both Sides of the Lane North of 600 Block of W 41st Av. From 25m West of Ash St",
-    "comp_date": "2025-09-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/23436679-0905-484b-97b0-7db934d0178c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11851179312198,
-              49.23411492472968
-            ],
-            [
-              -123.11731592546607,
-              49.23408086011921
-            ]
-          ],
-          [
-            [
-              -123.11784965163466,
-              49.23443722718889
-            ],
-            [
-              -123.1178737295069,
-              49.233795240538285
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11789563254845,
-      "lat": 49.23410430056948
-    }
-  },
-  {
     "project": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
     "street": null,
     "location": "- North Side of 1800 Block of W 8th Ave from Cypress St to 90m West of Burrard S",
@@ -140,43 +100,31 @@
     }
   },
   {
-    "project": "W 21st Av from Trafalgar St and Macdonald St",
+    "project": "Ln S of W Broadway from Balsam St to Vine St",
     "street": null,
-    "location": "W 21st Av from Trafalgar St and Macdonald St",
+    "location": "Ln S of W Broadway from Balsam St to Vine St",
     "comp_date": "2025-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6e52b763-c717-404b-b97b-4440f63384ca",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f387925-3abd-4ad6-9f50-08a7b664679e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ],
-            [
-              -123.16778846097563,
-              49.25369699657418
-            ]
+            -123.15768584862418,
+            49.26339938983776
           ],
           [
-            [
-              -123.16518507881999,
-              49.253685348261115
-            ],
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ]
+            -123.16005347083973,
+            49.263436585780596
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.166486769869,
-      "lat": 49.25369117884475
+      "lon": -123.15886965973195,
+      "lat": 49.26341798780918
     }
   },
   {
@@ -217,6 +165,74 @@
     "geo_point_2d": {
       "lon": -123.05811514950243,
       "lat": 49.26453842547023
+    }
+  },
+  {
+    "project": "W 21st Av from Trafalgar St and Macdonald St",
+    "street": null,
+    "location": "W 21st Av from Trafalgar St and Macdonald St",
+    "comp_date": "2025-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6e52b763-c717-404b-b97b-4440f63384ca",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16588490792206,
+              49.25368849236099
+            ],
+            [
+              -123.16778846097563,
+              49.25369699657418
+            ]
+          ],
+          [
+            [
+              -123.16518507881999,
+              49.253685348261115
+            ],
+            [
+              -123.16588490792206,
+              49.25368849236099
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.166486769869,
+      "lat": 49.25369117884475
+    }
+  },
+  {
+    "project": "Turner St from Boundary Rd to Kootenay St",
+    "street": null,
+    "location": "Turner St from Boundary Rd to Kootenay St",
+    "comp_date": "2025-10-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80781209-5a96-4911-965d-69648894b955",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02570035051016,
+            49.27906753354824
+          ],
+          [
+            -123.02360504261013,
+            49.27906576776829
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02465269656014,
+      "lat": 49.279066650658265
     }
   },
   {
@@ -468,9 +484,9 @@
     }
   },
   {
-    "project": "B/S of 1000 blk of Chilco St",
+    "project": "B/S of 1100 blk of Chilco St",
     "street": null,
-    "location": "B/S of 1000 blk of Chilco St",
+    "location": "B/S of 1100 blk of Chilco St",
     "comp_date": "2025-11-08",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f821599-a1a0-44db-96e2-be0874285c3d",
     "geom": {
