@@ -100,6 +100,46 @@
     }
   },
   {
+    "project": "W 21st Av from Trafalgar St and Macdonald St",
+    "street": null,
+    "location": "W 21st Av from Trafalgar St and Macdonald St",
+    "comp_date": "2025-10-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6e52b763-c717-404b-b97b-4440f63384ca",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16588490792206,
+              49.25368849236099
+            ],
+            [
+              -123.16778846097563,
+              49.25369699657418
+            ]
+          ],
+          [
+            [
+              -123.16518507881999,
+              49.253685348261115
+            ],
+            [
+              -123.16588490792206,
+              49.25368849236099
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.166486769869,
+      "lat": 49.25369117884475
+    }
+  },
+  {
     "project": "Ln S of W Broadway from Balsam St to Vine St",
     "street": null,
     "location": "Ln S of W Broadway from Balsam St to Vine St",
@@ -168,74 +208,6 @@
     }
   },
   {
-    "project": "W 21st Av from Trafalgar St and Macdonald St",
-    "street": null,
-    "location": "W 21st Av from Trafalgar St and Macdonald St",
-    "comp_date": "2025-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6e52b763-c717-404b-b97b-4440f63384ca",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ],
-            [
-              -123.16778846097563,
-              49.25369699657418
-            ]
-          ],
-          [
-            [
-              -123.16518507881999,
-              49.253685348261115
-            ],
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.166486769869,
-      "lat": 49.25369117884475
-    }
-  },
-  {
-    "project": "Turner St from Boundary Rd to Kootenay St",
-    "street": null,
-    "location": "Turner St from Boundary Rd to Kootenay St",
-    "comp_date": "2025-10-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80781209-5a96-4911-965d-69648894b955",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02570035051016,
-            49.27906753354824
-          ],
-          [
-            -123.02360504261013,
-            49.27906576776829
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02465269656014,
-      "lat": 49.279066650658265
-    }
-  },
-  {
     "project": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
     "street": null,
     "location": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
@@ -277,6 +249,34 @@
     "geo_point_2d": {
       "lon": -123.16599248875224,
       "lat": 49.263585373688315
+    }
+  },
+  {
+    "project": "Turner St from Boundary Rd to Kootenay St",
+    "street": null,
+    "location": "Turner St from Boundary Rd to Kootenay St",
+    "comp_date": "2025-10-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80781209-5a96-4911-965d-69648894b955",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02570035051016,
+            49.27906753354824
+          ],
+          [
+            -123.02360504261013,
+            49.27906576776829
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02465269656014,
+      "lat": 49.279066650658265
     }
   },
   {
