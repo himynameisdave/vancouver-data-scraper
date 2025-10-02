@@ -1,61 +1,21 @@
 [
   {
-    "project": "W 21st Av from Trafalgar St and Macdonald St",
+    "project": "Ln S of W 27th Av from Ash St to Ln E of Ash St",
     "street": null,
-    "location": "W 21st Av from Trafalgar St and Macdonald St",
-    "comp_date": "2025-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6e52b763-c717-404b-b97b-4440f63384ca",
+    "location": "Ln S of W 27th Av from Ash St to Ln E of Ash St",
+    "comp_date": "2025-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b2414e0b-5bd9-46cb-b26f-35d872300e61",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ],
-            [
-              -123.16778846097563,
-              49.25369699657418
-            ]
+            -123.11659652228111,
+            49.24659061515598
           ],
           [
-            [
-              -123.16518507881999,
-              49.253685348261115
-            ],
-            [
-              -123.16588490792206,
-              49.25368849236099
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.166486769869,
-      "lat": 49.25369117884475
-    }
-  },
-  {
-    "project": "Ln S of W Broadway from Balsam St to Vine St",
-    "street": null,
-    "location": "Ln S of W Broadway from Balsam St to Vine St",
-    "comp_date": "2025-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2f387925-3abd-4ad6-9f50-08a7b664679e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15768584862418,
-            49.26339938983776
-          ],
-          [
-            -123.16005347083973,
-            49.263436585780596
+            -123.11852219439199,
+            49.24661841189271
           ]
         ],
         "type": "LineString"
@@ -63,48 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15886965973195,
-      "lat": 49.26341798780918
-    }
-  },
-  {
-    "project": "Garden Dr from E 6th Av to E 7th Av",
-    "street": null,
-    "location": "Garden Dr from E 6th Av to E 7th Av",
-    "comp_date": "2025-10-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f803481a-dfd1-4a8a-a5fb-432a13344b80",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.05810688998157,
-              49.26499045077506
-            ],
-            [
-              -123.05811521138268,
-              49.26453883344931
-            ]
-          ],
-          [
-            [
-              -123.05811521138268,
-              49.26453883344931
-            ],
-            [
-              -123.05812327052392,
-              49.26408639765589
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05811514950243,
-      "lat": 49.26453842547023
+      "lon": -123.11755935833655,
+      "lat": 49.246604513524346
     }
   },
   {
@@ -161,6 +81,74 @@
     "geo_point_2d": {
       "lon": -123.08290089527355,
       "lat": 49.25001065707775
+    }
+  },
+  {
+    "project": "Charles St from Kamloops St to Penticton St",
+    "street": null,
+    "location": "Charles St from Kamloops St to Penticton St",
+    "comp_date": "2025-10-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/965d7108-1ec5-4407-8b04-6b14b1d43f12",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05465841319317,
+              49.273271644492155
+            ],
+            [
+              -123.05410615589571,
+              49.27327110384107
+            ]
+          ],
+          [
+            [
+              -123.05410615589571,
+              49.27327110384107
+            ],
+            [
+              -123.05203282677131,
+              49.27326923161107
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05334561999783,
+      "lat": 49.27327042148486
+    }
+  },
+  {
+    "project": "Langara Ave from Tolmie St to Sasamat St",
+    "street": null,
+    "location": "Langara Ave from Tolmie St to Sasamat St",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0dfa3dbc-2a00-455d-86e1-9592bdd1ee10",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20877258017681,
+            49.27291268721672
+          ],
+          [
+            -123.21180997708242,
+            49.2729650523182
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21029127862963,
+      "lat": 49.27293886976746
     }
   },
   {
@@ -229,6 +217,82 @@
     "geo_point_2d": {
       "lon": -123.18841576680019,
       "lat": 49.23365614376441
+    }
+  },
+  {
+    "project": "South Side of the Street of 3300 Block of Euclid Av. From McKinnon St to 40m Wes",
+    "street": null,
+    "location": "South Side of the Street of 3300 Block of Euclid Av. From McKinnon St to 40m Wes",
+    "comp_date": "2025-10-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0abe4f93-17a5-4987-90f3-b6872f56bd0e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03610448088386,
+            49.23743980164127
+          ],
+          [
+            -123.03565172998067,
+            49.237253283721145
+          ],
+          [
+            -123.03616376969262,
+            49.23673595674725
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0358958276364,
+      "lat": 49.237136154192385
+    }
+  },
+  {
+    "project": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
+    "street": null,
+    "location": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
+    "comp_date": "2025-10-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b541cc36-821f-4489-98b7-1755d1a21191",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16673424559417,
+              49.26362824411743
+            ],
+            [
+              -123.16499201049557,
+              49.263606328857236
+            ]
+          ],
+          [
+            [
+              -123.16645591503426,
+              49.263801876944086
+            ],
+            [
+              -123.166279655118,
+              49.26344640966906
+            ],
+            [
+              -123.16628770174506,
+              49.263183854793795
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16599248875224,
+      "lat": 49.263585373688315
     }
   },
   {
