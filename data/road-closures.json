@@ -1,65 +1,9 @@
 [
   {
-    "project": "Ln S of W 27th Av from Ash St to Ln E of Ash St",
-    "street": null,
-    "location": "Ln S of W 27th Av from Ash St to Ln E of Ash St",
-    "comp_date": "2025-10-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b2414e0b-5bd9-46cb-b26f-35d872300e61",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11659652228111,
-            49.24659061515598
-          ],
-          [
-            -123.11852219439199,
-            49.24661841189271
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11755935833655,
-      "lat": 49.246604513524346
-    }
-  },
-  {
-    "project": "Turner St from Boundary Rd to Kootenay St",
-    "street": null,
-    "location": "Turner St from Boundary Rd to Kootenay St",
-    "comp_date": "2025-10-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80781209-5a96-4911-965d-69648894b955",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02570035051016,
-            49.27906753354824
-          ],
-          [
-            -123.02360504261013,
-            49.27906576776829
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02465269656014,
-      "lat": 49.279066650658265
-    }
-  },
-  {
     "project": "E 23rd Av - St. Catherines St to Inverness St",
     "street": null,
     "location": "E 23rd Av - St. Catherines St to Inverness St",
-    "comp_date": "2025-10-06",
+    "comp_date": "2025-10-03",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b71ab57-9f8e-40ff-8b46-aa8e6a10833a",
     "geom": {
       "type": "Feature",
@@ -121,6 +65,34 @@
     "geo_point_2d": {
       "lon": -123.05334561999783,
       "lat": 49.27327042148486
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 2300 Block of Woodland Dr. From E 7th Av to 10m Sout",
+    "street": null,
+    "location": "Both Sides of the Street of 2300 Block of Woodland Dr. From E 7th Av to 10m Sout",
+    "comp_date": "2025-10-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f33942b0-7eb1-4c10-b681-3e476604531d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07359387263605,
+            49.26419815427252
+          ],
+          [
+            -123.07363267985635,
+            49.263581920790415
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07361327624619,
+      "lat": 49.26389003753147
     }
   },
   {
@@ -661,7 +633,7 @@
     "project": "E 62nd Av - Knight St to Argyle St                  \r\nE 61st Av - Knight St to A",
     "street": null,
     "location": "E 62nd Av - Knight St to Argyle St                  \r\nE 61st Av - Knight St to A",
-    "comp_date": "2026-01-20",
+    "comp_date": "2026-01-21",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e67c3a11-0ee9-40ef-a83d-8539840a6af1",
     "geom": {
       "type": "Feature",
