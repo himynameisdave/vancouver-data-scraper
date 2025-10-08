@@ -1,32 +1,42 @@
 [
   {
-    "project": "Charles St from Kamloops St to Penticton St",
+    "project": "3100 block of Venables St between Lillooet St & Windermere St",
     "street": null,
-    "location": "Charles St from Kamloops St to Penticton St",
-    "comp_date": "2025-10-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/965d7108-1ec5-4407-8b04-6b14b1d43f12",
+    "location": "3100 block of Venables St between Lillooet St & Windermere St",
+    "comp_date": "2025-10-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f88a3f2-63cc-429e-bf6e-9254e60c55bb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.05465841319317,
-              49.273271644492155
+              -123.0388839943546,
+              49.27641199761044
             ],
             [
-              -123.05410615589571,
-              49.27327110384107
+              -123.0382311203297,
+              49.27641119901267
             ]
           ],
           [
             [
-              -123.05410615589571,
-              49.27327110384107
+              -123.0382311203297,
+              49.27641119901267
             ],
             [
-              -123.05203282677131,
-              49.27326923161107
+              -123.03694484033386,
+              49.27641036710864
+            ]
+          ],
+          [
+            [
+              -123.03694484033386,
+              49.27641036710864
+            ],
+            [
+              -123.03632515433894,
+              49.276409403202734
             ]
           ]
         ],
@@ -35,36 +45,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05334561999783,
-      "lat": 49.27327042148486
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 2300 Block of Woodland Dr. From E 7th Av to 10m Sout",
-    "street": null,
-    "location": "Both Sides of the Street of 2300 Block of Woodland Dr. From E 7th Av to 10m Sout",
-    "comp_date": "2025-10-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f33942b0-7eb1-4c10-b681-3e476604531d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07359387263605,
-            49.26419815427252
-          ],
-          [
-            -123.07363267985635,
-            49.263581920790415
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07361327624619,
-      "lat": 49.26389003753147
+      "lon": -123.03760457424289,
+      "lat": 49.276410773617606
     }
   },
   {
@@ -149,6 +131,46 @@
     "geo_point_2d": {
       "lon": -123.09914950546452,
       "lat": 49.25387107347845
+    }
+  },
+  {
+    "project": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
+    "street": null,
+    "location": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4481baa7-9b9e-4ca5-badc-3c69b81376bb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13877133173663,
+              49.23623017833191
+            ],
+            [
+              -123.13879002535342,
+              49.23579784412385
+            ]
+          ],
+          [
+            [
+              -123.13879002535342,
+              49.23579784412385
+            ],
+            [
+              -123.13880360014066,
+              49.235357600209056
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13878881692203,
+      "lat": 49.2357939393046
     }
   },
   {
