@@ -78,6 +78,74 @@
     }
   },
   {
+    "project": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
+    "street": null,
+    "location": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4481baa7-9b9e-4ca5-badc-3c69b81376bb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13877133173663,
+              49.23623017833191
+            ],
+            [
+              -123.13879002535342,
+              49.23579784412385
+            ]
+          ],
+          [
+            [
+              -123.13879002535342,
+              49.23579784412385
+            ],
+            [
+              -123.13880360014066,
+              49.235357600209056
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13878881692203,
+      "lat": 49.2357939393046
+    }
+  },
+  {
+    "project": "Both Sides of 4400 Block of Ontario St from North PL of 4452 to E 29th Ave",
+    "street": null,
+    "location": "Both Sides of 4400 Block of Ontario St from North PL of 4452 to E 29th Ave",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95391326-a607-4eed-a3d2-12a9fbfb1449",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10519322435958,
+            49.24455942119485
+          ],
+          [
+            -123.10516184070332,
+            49.24532650099732
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10517753253146,
+      "lat": 49.244942961096086
+    }
+  },
+  {
     "project": "Langara Ave from Tolmie St to Sasamat St",
     "street": null,
     "location": "Langara Ave from Tolmie St to Sasamat St",
@@ -134,46 +202,6 @@
     }
   },
   {
-    "project": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
-    "street": null,
-    "location": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4481baa7-9b9e-4ca5-badc-3c69b81376bb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13877133173663,
-              49.23623017833191
-            ],
-            [
-              -123.13879002535342,
-              49.23579784412385
-            ]
-          ],
-          [
-            [
-              -123.13879002535342,
-              49.23579784412385
-            ],
-            [
-              -123.13880360014066,
-              49.235357600209056
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13878881692203,
-      "lat": 49.2357939393046
-    }
-  },
-  {
     "project": "West Side of 1700 Block of Columbia St from W 2nd Ave to W 1st Ave.\r\nEast Side o",
     "street": null,
     "location": "West Side of 1700 Block of Columbia St from W 2nd Ave to W 1st Ave.\r\nEast Side o",
@@ -214,22 +242,22 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
+    "project": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
     "street": null,
-    "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
-    "comp_date": "2025-10-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/926cc261-cdcf-4e8e-8d8d-1ad43814d7bc",
+    "location": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
+    "comp_date": "2025-10-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b57c7c88-c0d2-4051-8030-6804ca17384d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.1884049870168,
-            49.23396409730009
+            -123.10939604000548,
+            49.27025913728545
           ],
           [
-            -123.18842654658359,
-            49.233348190228725
+            -123.10659473916537,
+            49.270210133914844
           ]
         ],
         "type": "LineString"
@@ -237,8 +265,48 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18841576680019,
-      "lat": 49.23365614376441
+      "lon": -123.10799538958543,
+      "lat": 49.27023463560015
+    }
+  },
+  {
+    "project": "W 28th Av from Blenheim St to Balaclava St",
+    "street": null,
+    "location": "W 28th Av from Blenheim St to Balaclava St",
+    "comp_date": "2025-10-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5d7e7112-9687-4673-8ea6-3f992f2a965a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17571089021637,
+              49.24708129883663
+            ],
+            [
+              -123.17792405726787,
+              49.2470900102081
+            ]
+          ],
+          [
+            [
+              -123.17792405726787,
+              49.2470900102081
+            ],
+            [
+              -123.17861503960488,
+              49.24709259605038
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17716296471464,
+      "lat": 49.24708699849089
     }
   },
   {
@@ -458,10 +526,38 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
+    "street": null,
+    "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
+    "comp_date": "2025-10-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/926cc261-cdcf-4e8e-8d8d-1ad43814d7bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1884049870168,
+            49.23396409730009
+          ],
+          [
+            -123.18842654658359,
+            49.233348190228725
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18841576680019,
+      "lat": 49.23365614376441
+    }
+  },
+  {
     "project": "Kersland Dr - W 35th Av to W 37th Av",
     "street": null,
     "location": "Kersland Dr - W 35th Av to W 37th Av",
-    "comp_date": "2025-11-06",
+    "comp_date": "2025-11-07",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/980b4a46-f9ca-4c7a-be32-c9c91bf33643",
     "geom": {
       "type": "Feature",
