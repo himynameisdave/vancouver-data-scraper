@@ -1,139 +1,5 @@
 [
   {
-    "project": "3100 block of Venables St between Lillooet St & Windermere St",
-    "street": null,
-    "location": "3100 block of Venables St between Lillooet St & Windermere St",
-    "comp_date": "2025-10-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f88a3f2-63cc-429e-bf6e-9254e60c55bb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0388839943546,
-              49.27641199761044
-            ],
-            [
-              -123.0382311203297,
-              49.27641119901267
-            ]
-          ],
-          [
-            [
-              -123.0382311203297,
-              49.27641119901267
-            ],
-            [
-              -123.03694484033386,
-              49.27641036710864
-            ]
-          ],
-          [
-            [
-              -123.03694484033386,
-              49.27641036710864
-            ],
-            [
-              -123.03632515433894,
-              49.276409403202734
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03760457424289,
-      "lat": 49.276410773617606
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bbdf442-e715-4c20-9b2e-5e11473421ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05207113674383,
-            49.272267698340954
-          ],
-          [
-            -123.05207113674383,
-            49.272007460581875
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05207113674383,
-      "lat": 49.272137579461415
-    }
-  },
-  {
-    "project": "Langara Ave from Tolmie St to Sasamat St",
-    "street": null,
-    "location": "Langara Ave from Tolmie St to Sasamat St",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0dfa3dbc-2a00-455d-86e1-9592bdd1ee10",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.20877258017681,
-            49.27291268721672
-          ],
-          [
-            -123.21180997708242,
-            49.2729650523182
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21029127862963,
-      "lat": 49.27293886976746
-    }
-  },
-  {
-    "project": "Both Sides of 200 Block of E 19th Ave from E PL of 246 to Sophia St.",
-    "street": null,
-    "location": "Both Sides of 200 Block of E 19th Ave from E PL of 246 to Sophia St.",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4815e6a0-3aad-435c-9229-11736774bc97",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09975115828111,
-            49.25388022035253
-          ],
-          [
-            -123.09854785264794,
-            49.25386192660437
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09914950546452,
-      "lat": 49.25387107347845
-    }
-  },
-  {
     "project": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
     "street": null,
     "location": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
@@ -202,22 +68,22 @@
     }
   },
   {
-    "project": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
+    "project": "Both Sides of 3100 Block of E 45th Ave from McKinnon St to Joyce St",
     "street": null,
-    "location": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
-    "comp_date": "2025-10-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b57c7c88-c0d2-4051-8030-6804ca17384d",
+    "location": "Both Sides of 3100 Block of E 45th Ave from McKinnon St to Joyce St",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cc347424-d9ba-4005-9794-831a3986445b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10939604000548,
-            49.27025913728545
+            -123.03881497639911,
+            49.22928699678798
           ],
           [
-            -123.10659473916537,
-            49.270210133914844
+            -123.03745620251924,
+            49.22928230381899
           ]
         ],
         "type": "LineString"
@@ -225,8 +91,92 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10799538958543,
-      "lat": 49.27023463560015
+      "lon": -123.03813558945917,
+      "lat": 49.22928465030349
+    }
+  },
+  {
+    "project": "Langara Ave from Tolmie St to Sasamat St",
+    "street": null,
+    "location": "Langara Ave from Tolmie St to Sasamat St",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0dfa3dbc-2a00-455d-86e1-9592bdd1ee10",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20877258017681,
+            49.27291268721672
+          ],
+          [
+            -123.21180997708242,
+            49.2729650523182
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21029127862963,
+      "lat": 49.27293886976746
+    }
+  },
+  {
+    "project": "Both Sides of 200 Block of E 19th Ave from E PL of 246 to Sophia St.",
+    "street": null,
+    "location": "Both Sides of 200 Block of E 19th Ave from E PL of 246 to Sophia St.",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4815e6a0-3aad-435c-9229-11736774bc97",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09975115828111,
+            49.25388022035253
+          ],
+          [
+            -123.09854785264794,
+            49.25386192660437
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09914950546452,
+      "lat": 49.25387107347845
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
+    "street": null,
+    "location": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
+    "comp_date": "2025-10-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bbdf442-e715-4c20-9b2e-5e11473421ad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05207113674383,
+            49.272267698340954
+          ],
+          [
+            -123.05207113674383,
+            49.272007460581875
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05207113674383,
+      "lat": 49.272137579461415
     }
   },
   {
@@ -267,6 +217,74 @@
     "geo_point_2d": {
       "lon": -123.10942715234941,
       "lat": 49.26987141212876
+    }
+  },
+  {
+    "project": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
+    "street": null,
+    "location": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
+    "comp_date": "2025-10-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b57c7c88-c0d2-4051-8030-6804ca17384d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10939604000548,
+            49.27025913728545
+          ],
+          [
+            -123.10659473916537,
+            49.270210133914844
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10799538958543,
+      "lat": 49.27023463560015
+    }
+  },
+  {
+    "project": "South side of 0 Block of Kingsway from Scotia St to E PL 2424.\r\nBoth sides of 30",
+    "street": null,
+    "location": "South side of 0 Block of Kingsway from Scotia St to E PL 2424.\r\nBoth sides of 30",
+    "comp_date": "2025-10-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6676763d-e07b-46ea-97f5-d05ee3835082",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10087565605967,
+              49.26436885087489
+            ],
+            [
+              -123.09998466024692,
+              49.26334633418736
+            ]
+          ],
+          [
+            [
+              -123.09893278981257,
+              49.2636719273564
+            ],
+            [
+              -123.09861104132465,
+              49.26366385482649
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1001121168894,
+      "lat": 49.26382120890053
     }
   },
   {
@@ -551,6 +569,34 @@
     "geo_point_2d": {
       "lon": -123.18841576680019,
       "lat": 49.23365614376441
+    }
+  },
+  {
+    "project": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
+    "street": null,
+    "location": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
+    "comp_date": "2025-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de35d730-142e-4289-9a49-e5fdafbddc15",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14332895524612,
+            49.26624918363777
+          ],
+          [
+            -123.14335839357128,
+            49.26545449262744
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1433436744087,
+      "lat": 49.265851838132605
     }
   },
   {
