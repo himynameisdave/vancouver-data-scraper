@@ -1,253 +1,5 @@
 [
   {
-    "project": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bbdf442-e715-4c20-9b2e-5e11473421ad",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05207113674383,
-            49.272267698340954
-          ],
-          [
-            -123.05207113674383,
-            49.272007460581875
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05207113674383,
-      "lat": 49.272137579461415
-    }
-  },
-  {
-    "project": "Langara Ave from Tolmie St to Sasamat St",
-    "street": null,
-    "location": "Langara Ave from Tolmie St to Sasamat St",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0dfa3dbc-2a00-455d-86e1-9592bdd1ee10",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.20877258017681,
-            49.27291268721672
-          ],
-          [
-            -123.21180997708242,
-            49.2729650523182
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21029127862963,
-      "lat": 49.27293886976746
-    }
-  },
-  {
-    "project": "Both Sides of 200 Block of E 19th Ave from E PL of 246 to Sophia St.",
-    "street": null,
-    "location": "Both Sides of 200 Block of E 19th Ave from E PL of 246 to Sophia St.",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4815e6a0-3aad-435c-9229-11736774bc97",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09975115828111,
-            49.25388022035253
-          ],
-          [
-            -123.09854785264794,
-            49.25386192660437
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09914950546452,
-      "lat": 49.25387107347845
-    }
-  },
-  {
-    "project": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
-    "street": null,
-    "location": "Ln W of Cartier St From W 39th Ave to W 40th Ave",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4481baa7-9b9e-4ca5-badc-3c69b81376bb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13877133173663,
-              49.23623017833191
-            ],
-            [
-              -123.13879002535342,
-              49.23579784412385
-            ]
-          ],
-          [
-            [
-              -123.13879002535342,
-              49.23579784412385
-            ],
-            [
-              -123.13880360014066,
-              49.235357600209056
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13878881692203,
-      "lat": 49.2357939393046
-    }
-  },
-  {
-    "project": "Both Sides of 4400 Block of Ontario St from North PL of 4452 to E 29th Ave",
-    "street": null,
-    "location": "Both Sides of 4400 Block of Ontario St from North PL of 4452 to E 29th Ave",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/95391326-a607-4eed-a3d2-12a9fbfb1449",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10519322435958,
-            49.24455942119485
-          ],
-          [
-            -123.10516184070332,
-            49.24532650099732
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10517753253146,
-      "lat": 49.244942961096086
-    }
-  },
-  {
-    "project": "Both Sides of 3100 Block of E 45th Ave from McKinnon St to Joyce St",
-    "street": null,
-    "location": "Both Sides of 3100 Block of E 45th Ave from McKinnon St to Joyce St",
-    "comp_date": "2025-10-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cc347424-d9ba-4005-9794-831a3986445b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03881497639911,
-            49.22928699678798
-          ],
-          [
-            -123.03745620251924,
-            49.22928230381899
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03813558945917,
-      "lat": 49.22928465030349
-    }
-  },
-  {
-    "project": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
-    "street": null,
-    "location": "South Side of 100 Block of W 1st Ave from Columbia St to Manitoba St",
-    "comp_date": "2025-10-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b57c7c88-c0d2-4051-8030-6804ca17384d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10939604000548,
-            49.27025913728545
-          ],
-          [
-            -123.10659473916537,
-            49.270210133914844
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10799538958543,
-      "lat": 49.27023463560015
-    }
-  },
-  {
-    "project": "West Side of 1700 Block of Columbia St from W 2nd Ave to W 1st Ave.\r\nEast Side o",
-    "street": null,
-    "location": "West Side of 1700 Block of Columbia St from W 2nd Ave to W 1st Ave.\r\nEast Side o",
-    "comp_date": "2025-10-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1aa241d0-6261-48fd-b1ff-f232e9eb6635",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10939441412057,
-              49.26983494610829
-            ],
-            [
-              -123.10937979579462,
-              49.27027371150018
-            ]
-          ],
-          [
-            [
-              -123.10945776019972,
-              49.26931033019147
-            ],
-            [
-              -123.10943339632308,
-              49.27026417316364
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10942715234941,
-      "lat": 49.26987141212876
-    }
-  },
-  {
     "project": "South side of 0 Block of Kingsway from Scotia St to E PL 2424.\r\nBoth sides of 30",
     "street": null,
     "location": "South side of 0 Block of Kingsway from Scotia St to E PL 2424.\r\nBoth sides of 30",
@@ -285,6 +37,118 @@
     "geo_point_2d": {
       "lon": -123.1001121168894,
       "lat": 49.26382120890053
+    }
+  },
+  {
+    "project": "1st Av - Boundary to Cassiar St & Hwy 1 ramps",
+    "street": null,
+    "location": "1st Av - Boundary to Cassiar St & Hwy 1 ramps",
+    "comp_date": "2025-10-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1028ac8f-813c-423a-954b-86035f05a0a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03096344447113,
+              49.26946262140069
+            ],
+            [
+              -123.0279261040214,
+              49.269466876561694
+            ]
+          ],
+          [
+            [
+              -123.0279261040214,
+              49.269466876561694
+            ],
+            [
+              -123.02539926595874,
+              49.26946092014052
+            ]
+          ],
+          [
+            [
+              -123.02539926595874,
+              49.26946092014052
+            ],
+            [
+              -123.02364264510658,
+              49.269456750358955
+            ]
+          ],
+          [
+            [
+              -123.02858695468312,
+              49.26946606914069
+            ],
+            [
+              -123.02812413470748,
+              49.26924593783508
+            ],
+            [
+              -123.02733184886192,
+              49.268114549673754
+            ]
+          ],
+          [
+            [
+              -123.02653171805167,
+              49.26945071127213
+            ],
+            [
+              -123.02680627225705,
+              49.26939439876665
+            ],
+            [
+              -123.02688471624221,
+              49.26929201212147
+            ],
+            [
+              -123.02692393849213,
+              49.26908723836158
+            ],
+            [
+              -123.02661800597213,
+              49.26819646136482
+            ]
+          ],
+          [
+            [
+              -123.02712246914774,
+              49.26947933968643
+            ],
+            [
+              -123.02702833574791,
+              49.269597084106465
+            ],
+            [
+              -123.02708324689782,
+              49.26969947045441
+            ],
+            [
+              -123.02724013486812,
+              49.26980185575016
+            ],
+            [
+              -123.02757744518809,
+              49.270201158623735
+            ],
+            [
+              -123.02792259892864,
+              49.270774510836304
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02734895630611,
+      "lat": 49.2693874121459
     }
   },
   {
@@ -481,6 +345,46 @@
     "geo_point_2d": {
       "lon": -123.09338089126611,
       "lat": 49.28308088099533
+    }
+  },
+  {
+    "project": "3200 block of W 28th Ave between Blenheim St and Balaclava St",
+    "street": null,
+    "location": "3200 block of W 28th Ave between Blenheim St and Balaclava St",
+    "comp_date": "2025-10-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e3fe9f54-51ae-4127-9dbc-afb2d6892cfb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17792405726787,
+              49.2470900102081
+            ],
+            [
+              -123.17861503960488,
+              49.24709259605038
+            ]
+          ],
+          [
+            [
+              -123.17571089021637,
+              49.24708129883663
+            ],
+            [
+              -123.17792405726787,
+              49.2470900102081
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17716296471464,
+      "lat": 49.24708699849089
     }
   },
   {
