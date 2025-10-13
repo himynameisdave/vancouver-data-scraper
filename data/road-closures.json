@@ -1,73 +1,5 @@
 [
   {
-    "project": "1st Av at Boundary intersection",
-    "street": null,
-    "location": "1st Av at Boundary intersection",
-    "comp_date": "2025-10-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0560a7b3-88a2-482a-8010-a1cccb6e182b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02365292490238,
-            49.269735399973115
-          ],
-          [
-            -123.0236619763017,
-            49.26904411366908
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02365745060202,
-      "lat": 49.2693897568211
-    }
-  },
-  {
-    "project": "South side of 0 Block of Kingsway from Scotia St to E PL 2424.\r\nBoth sides of 30",
-    "street": null,
-    "location": "South side of 0 Block of Kingsway from Scotia St to E PL 2424.\r\nBoth sides of 30",
-    "comp_date": "2025-10-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6676763d-e07b-46ea-97f5-d05ee3835082",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10087565605967,
-              49.26436885087489
-            ],
-            [
-              -123.09998466024692,
-              49.26334633418736
-            ]
-          ],
-          [
-            [
-              -123.09893278981257,
-              49.2636719273564
-            ],
-            [
-              -123.09861104132465,
-              49.26366385482649
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1001121168894,
-      "lat": 49.26382120890053
-    }
-  },
-  {
     "project": "1st Av - Boundary to Cassiar St & Hwy 1 ramps",
     "street": null,
     "location": "1st Av - Boundary to Cassiar St & Hwy 1 ramps",
@@ -220,42 +152,6 @@
     }
   },
   {
-    "project": "500-700 Block of Robson St from Howe St to Lane w/o Richards St.",
-    "street": null,
-    "location": "500-700 Block of Robson St from Howe St to Lane w/o Richards St.",
-    "comp_date": "2025-10-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d63f1018-f107-4d62-980d-93f3462d721e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12077645524731,
-            49.281995985078595
-          ],
-          [
-            -123.1198687488631,
-            49.28137426998342
-          ],
-          [
-            -123.118823906668,
-            49.28071847994701
-          ],
-          [
-            -123.11787701840998,
-            49.280092490351535
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11933009665975,
-      "lat": 49.28103925028435
-    }
-  },
-  {
     "project": "1100 block Comox Street, W/S 1000-1100 Thurlow",
     "street": null,
     "location": "1100 block Comox Street, W/S 1000-1100 Thurlow",
@@ -313,78 +209,6 @@
     "geo_point_2d": {
       "lon": -123.12959382976895,
       "lat": 49.28227240769172
-    }
-  },
-  {
-    "project": "- Both Sides of 6000-6100 Block of Dunbar St from 20m North of Lane North of SW",
-    "street": null,
-    "location": "- Both Sides of 6000-6100 Block of Dunbar St from 20m North of Lane North of SW",
-    "comp_date": "2025-10-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8b5eef86-c753-426a-b342-2b9be633878e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18618988757142,
-              49.23093352810662
-            ],
-            [
-              -123.18542422927403,
-              49.23064022195388
-            ],
-            [
-              -123.18509711693399,
-              49.230522899091085
-            ],
-            [
-              -123.18489941179466,
-              49.23045015866026
-            ],
-            [
-              -123.18462981363808,
-              49.23037272525693
-            ],
-            [
-              -123.18436381039564,
-              49.230307024020675
-            ],
-            [
-              -123.18410499632327,
-              49.2302577480898
-            ],
-            [
-              -123.18385337142101,
-              49.23021785808618
-            ],
-            [
-              -123.18359096292816,
-              49.23019204691548
-            ],
-            [
-              -123.18330339151726,
-              49.230170928616246
-            ]
-          ],
-          [
-            [
-              -123.18546377036773,
-              49.23017796794289
-            ],
-            [
-              -123.18541703993942,
-              49.231628484648326
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18498669350964,
-      "lat": 49.23060853439501
     }
   },
   {
@@ -619,34 +443,6 @@
     "geo_point_2d": {
       "lon": -123.02895495034613,
       "lat": 49.2838687251026
-    }
-  },
-  {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18815934348683,
-            49.24519436177815
-          ],
-          [
-            -123.18817356592662,
-            49.241433898919325
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
     }
   },
   {
