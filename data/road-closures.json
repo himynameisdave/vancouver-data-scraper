@@ -1,117 +1,5 @@
 [
   {
-    "project": "1st Av - Boundary to Cassiar St & Hwy 1 ramps",
-    "street": null,
-    "location": "1st Av - Boundary to Cassiar St & Hwy 1 ramps",
-    "comp_date": "2025-10-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1028ac8f-813c-423a-954b-86035f05a0a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03096344447113,
-              49.26946262140069
-            ],
-            [
-              -123.0279261040214,
-              49.269466876561694
-            ]
-          ],
-          [
-            [
-              -123.0279261040214,
-              49.269466876561694
-            ],
-            [
-              -123.02539926595874,
-              49.26946092014052
-            ]
-          ],
-          [
-            [
-              -123.02539926595874,
-              49.26946092014052
-            ],
-            [
-              -123.02364264510658,
-              49.269456750358955
-            ]
-          ],
-          [
-            [
-              -123.02858695468312,
-              49.26946606914069
-            ],
-            [
-              -123.02812413470748,
-              49.26924593783508
-            ],
-            [
-              -123.02733184886192,
-              49.268114549673754
-            ]
-          ],
-          [
-            [
-              -123.02653171805167,
-              49.26945071127213
-            ],
-            [
-              -123.02680627225705,
-              49.26939439876665
-            ],
-            [
-              -123.02688471624221,
-              49.26929201212147
-            ],
-            [
-              -123.02692393849213,
-              49.26908723836158
-            ],
-            [
-              -123.02661800597213,
-              49.26819646136482
-            ]
-          ],
-          [
-            [
-              -123.02712246914774,
-              49.26947933968643
-            ],
-            [
-              -123.02702833574791,
-              49.269597084106465
-            ],
-            [
-              -123.02708324689782,
-              49.26969947045441
-            ],
-            [
-              -123.02724013486812,
-              49.26980185575016
-            ],
-            [
-              -123.02757744518809,
-              49.270201158623735
-            ],
-            [
-              -123.02792259892864,
-              49.270774510836304
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02734895630611,
-      "lat": 49.2693874121459
-    }
-  },
-  {
     "project": "W 28th Av from Blenheim St to Balaclava St",
     "street": null,
     "location": "W 28th Av from Blenheim St to Balaclava St",
@@ -224,6 +112,46 @@
     }
   },
   {
+    "project": "B/S of 100-200 Block of Jackson Av from Lane North of Powell St to Lane South of",
+    "street": null,
+    "location": "B/S of 100-200 Block of Jackson Av from Lane North of Powell St to Lane South of",
+    "comp_date": "2025-10-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7df2d24a-3081-4e44-a831-216ed501c334",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09335918406352,
+              49.28353904048683
+            ],
+            [
+              -123.09338600615365,
+              49.282626538964905
+            ]
+          ],
+          [
+            [
+              -123.09412629584193,
+              49.2830884525157
+            ],
+            [
+              -123.09264571646567,
+              49.28307095586911
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09338089126611,
+      "lat": 49.28308088099533
+    }
+  },
+  {
     "project": "3200 block of W 28th Ave between Blenheim St and Balaclava St",
     "street": null,
     "location": "3200 block of W 28th Ave between Blenheim St and Balaclava St",
@@ -324,6 +252,46 @@
     }
   },
   {
+    "project": "Both Sides of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "street": null,
+    "location": "Both Sides of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-10-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/865cf228-3a7f-437a-8178-25d31d8dc63e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13974518295893,
+              49.286583549199094
+            ],
+            [
+              -123.14024211014463,
+              49.28624842986295
+            ]
+          ],
+          [
+            [
+              -123.14026198731524,
+              49.28622065744477
+            ],
+            [
+              -123.13991555796431,
+              49.28598181400258
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14003288342,
+      "lat": 49.28628616233094
+    }
+  },
+  {
     "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
     "street": null,
     "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
@@ -349,6 +317,50 @@
     "geo_point_2d": {
       "lon": -123.18841576680019,
       "lat": 49.23365614376441
+    }
+  },
+  {
+    "project": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
+    "street": null,
+    "location": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
+    "comp_date": "2025-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b541cc36-821f-4489-98b7-1755d1a21191",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16673424559417,
+              49.26362824411743
+            ],
+            [
+              -123.16499201049557,
+              49.263606328857236
+            ]
+          ],
+          [
+            [
+              -123.16645591503426,
+              49.263801876944086
+            ],
+            [
+              -123.166279655118,
+              49.26344640966906
+            ],
+            [
+              -123.16628770174506,
+              49.263183854793795
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16599248875224,
+      "lat": 49.263585373688315
     }
   },
   {
