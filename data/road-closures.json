@@ -1,77 +1,5 @@
 [
   {
-    "project": "W 28th Av from Blenheim St to Balaclava St",
-    "street": null,
-    "location": "W 28th Av from Blenheim St to Balaclava St",
-    "comp_date": "2025-10-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5d7e7112-9687-4673-8ea6-3f992f2a965a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.17571089021637,
-              49.24708129883663
-            ],
-            [
-              -123.17792405726787,
-              49.2470900102081
-            ]
-          ],
-          [
-            [
-              -123.17792405726787,
-              49.2470900102081
-            ],
-            [
-              -123.17861503960488,
-              49.24709259605038
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17716296471464,
-      "lat": 49.24708699849089
-    }
-  },
-  {
-    "project": "South Side of the Street of 3300 Block of Euclid Av. From McKinnon St to 40m Wes",
-    "street": null,
-    "location": "South Side of the Street of 3300 Block of Euclid Av. From McKinnon St to 40m Wes",
-    "comp_date": "2025-10-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0abe4f93-17a5-4987-90f3-b6872f56bd0e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03610448088386,
-            49.23743980164127
-          ],
-          [
-            -123.03565172998067,
-            49.237253283721145
-          ],
-          [
-            -123.03616376969262,
-            49.23673595674725
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0358958276364,
-      "lat": 49.237136154192385
-    }
-  },
-  {
     "project": "W 16th Av - Cambie St to Yukon St",
     "street": null,
     "location": "W 16th Av - Cambie St to Yukon St",
@@ -189,6 +117,34 @@
     "geo_point_2d": {
       "lon": -123.17716296471464,
       "lat": 49.24708699849089
+    }
+  },
+  {
+    "project": "3400 block of Napier St between Cassiar St and Skeena St",
+    "street": null,
+    "location": "3400 block of Napier St between Cassiar St and Skeena St",
+    "comp_date": "2025-10-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a85d35b7-fc7d-4aa5-99f9-05ab1c0e0b90",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03054216600027,
+            49.2749447713841
+          ],
+          [
+            -123.02839400397652,
+            49.274937025666645
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02946808498838,
+      "lat": 49.27494089852537
     }
   },
   {
@@ -320,6 +276,34 @@
     }
   },
   {
+    "project": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
+    "street": null,
+    "location": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
+    "comp_date": "2025-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de35d730-142e-4289-9a49-e5fdafbddc15",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14332895524612,
+            49.26624918363777
+          ],
+          [
+            -123.14335839357128,
+            49.26545449262744
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1433436744087,
+      "lat": 49.265851838132605
+    }
+  },
+  {
     "project": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
     "street": null,
     "location": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
@@ -361,34 +345,6 @@
     "geo_point_2d": {
       "lon": -123.16599248875224,
       "lat": 49.263585373688315
-    }
-  },
-  {
-    "project": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
-    "street": null,
-    "location": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
-    "comp_date": "2025-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de35d730-142e-4289-9a49-e5fdafbddc15",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14332895524612,
-            49.26624918363777
-          ],
-          [
-            -123.14335839357128,
-            49.26545449262744
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1433436744087,
-      "lat": 49.265851838132605
     }
   },
   {
