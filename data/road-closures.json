@@ -80,6 +80,34 @@
     }
   },
   {
+    "project": "B/S of 100 Block of Abbott St from Water St to 25m North of Water St",
+    "street": null,
+    "location": "B/S of 100 Block of Abbott St from Water St to 25m North of Water St",
+    "comp_date": "2025-10-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6c074ea5-a0af-426b-8f2d-265ca8478359",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10639270768172,
+            49.283902157949285
+          ],
+          [
+            -123.10624250397689,
+            49.28424508530975
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10631760582929,
+      "lat": 49.28407362162951
+    }
+  },
+  {
     "project": "3200 block of W 28th Ave between Blenheim St and Balaclava St",
     "street": null,
     "location": "3200 block of W 28th Ave between Blenheim St and Balaclava St",
@@ -345,6 +373,56 @@
     "geo_point_2d": {
       "lon": -123.16599248875224,
       "lat": 49.263585373688315
+    }
+  },
+  {
+    "project": "B/S of 1000 Block of Bute St from Nelson St to Comox St\r\nE/S of 1000-1100 Block",
+    "street": null,
+    "location": "B/S of 1000 Block of Bute St from Nelson St to Comox St\r\nE/S of 1000-1100 Block",
+    "comp_date": "2025-11-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b592eeeb-a7fe-429c-88ca-9ad18cf6c5cd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13021142265833,
+              49.283898867434374
+            ],
+            [
+              -123.1312359550511,
+              49.28320075789196
+            ]
+          ],
+          [
+            [
+              -123.13177239685399,
+              49.28282807882684
+            ],
+            [
+              -123.13204598217335,
+              49.28264086339783
+            ]
+          ],
+          [
+            [
+              -123.1322712877306,
+              49.2824903906687
+            ],
+            [
+              -123.13210230856266,
+              49.28238191004428
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13111125706449,
+      "lat": 49.28327108906166
     }
   },
   {
