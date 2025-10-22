@@ -1,42 +1,30 @@
 [
   {
-    "project": "1600 block E 62nd Ave between Borden St and Argyle St",
+    "project": "Both sides of 100 Block of Cambie St from Water St to lane n/o Water St.",
     "street": null,
-    "location": "1600 block E 62nd Ave between Borden St and Argyle St",
-    "comp_date": "2025-10-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ae55c113-5a11-4a34-b707-81ab8ec11e75",
+    "location": "Both sides of 100 Block of Cambie St from Water St to lane n/o Water St.",
+    "comp_date": "2025-10-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2d263c48-e2cc-4daf-b552-af460494ed9d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.07404590247988,
-              49.213753113241154
-            ],
-            [
-              -123.07276987930759,
-              49.21373907295509
-            ]
+            -123.10880877116172,
+            49.28432609148865
           ],
           [
-            [
-              -123.07276987930759,
-              49.21373907295509
-            ],
-            [
-              -123.07205866967998,
-              49.21373240354956
-            ]
+            -123.10861106585786,
+            49.28474330488382
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07305228986206,
-      "lat": 49.213742387247606
+      "lon": -123.10870991850979,
+      "lat": 49.284534698186235
     }
   },
   {
@@ -77,6 +65,46 @@
     "geo_point_2d": {
       "lon": -123.17716296471464,
       "lat": 49.24708699849089
+    }
+  },
+  {
+    "project": "1600 block E 62nd Ave between Borden St and Argyle St",
+    "street": null,
+    "location": "1600 block E 62nd Ave between Borden St and Argyle St",
+    "comp_date": "2025-10-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1a044c1-36d4-4d27-8e7e-6279dc31355f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07404590247988,
+              49.213753113241154
+            ],
+            [
+              -123.07276987930759,
+              49.21373907295509
+            ]
+          ],
+          [
+            [
+              -123.07276987930759,
+              49.21373907295509
+            ],
+            [
+              -123.07205866967998,
+              49.21373240354956
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07305228986206,
+      "lat": 49.213742387247606
     }
   },
   {
@@ -455,6 +483,34 @@
     "geo_point_2d": {
       "lon": -123.1952518090127,
       "lat": 49.25642988257106
+    }
+  },
+  {
+    "project": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
+    "street": null,
+    "location": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
+    "comp_date": "2025-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19a9fef1-4e7c-4153-8f30-2f747f443a96",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13017645816552,
+            49.28389479450291
+          ],
+          [
+            -123.13123902049105,
+            49.28319610166483
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13070773932829,
+      "lat": 49.28354544808387
     }
   },
   {
