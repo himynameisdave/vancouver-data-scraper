@@ -1,45 +1,5 @@
 [
   {
-    "project": "1600 block E 62nd Ave between Borden St and Argyle St",
-    "street": null,
-    "location": "1600 block E 62nd Ave between Borden St and Argyle St",
-    "comp_date": "2025-10-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a1a044c1-36d4-4d27-8e7e-6279dc31355f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07404590247988,
-              49.213753113241154
-            ],
-            [
-              -123.07276987930759,
-              49.21373907295509
-            ]
-          ],
-          [
-            [
-              -123.07276987930759,
-              49.21373907295509
-            ],
-            [
-              -123.07205866967998,
-              49.21373240354956
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07305228986206,
-      "lat": 49.213742387247606
-    }
-  },
-  {
     "project": "Both Sides of 2200 Block of William St from Templeton Dr to 50m East of Templeto",
     "street": null,
     "location": "Both Sides of 2200 Block of William St from Templeton Dr to 50m East of Templeto",
@@ -93,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.02946808498838,
       "lat": 49.27494089852537
+    }
+  },
+  {
+    "project": "Both Sides of 200-400 Block of National Ave from Lane West of Thornton St to 150",
+    "street": null,
+    "location": "Both Sides of 200-400 Block of National Ave from Lane West of Thornton St to 150",
+    "comp_date": "2025-10-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ba3dccea-063b-4e96-b0d4-595ba960f3ec",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09510128466628,
+            49.274005368781815
+          ],
+          [
+            -123.09730459826037,
+            49.27438702085058
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09620294146335,
+      "lat": 49.2741961948162
     }
   },
   {
