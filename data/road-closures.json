@@ -434,6 +434,46 @@
     }
   },
   {
+    "project": "Kersland Dr - W 35th Av to W 37th Av",
+    "street": null,
+    "location": "Kersland Dr - W 35th Av to W 37th Av",
+    "comp_date": "2025-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/980b4a46-f9ca-4c7a-be32-c9c91bf33643",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11544888345814,
+            49.239701747919725
+          ],
+          [
+            -123.11462251931519,
+            49.23897398147048
+          ],
+          [
+            -123.1144831328449,
+            49.23856460807423
+          ],
+          [
+            -123.11445326425043,
+            49.23802526929299
+          ],
+          [
+            -123.1144831328449,
+            49.23712852496601
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1146908507037,
+      "lat": 49.238533677138136
+    }
+  },
+  {
     "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
     "street": null,
     "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
@@ -509,46 +549,6 @@
     "geo_point_2d": {
       "lon": -123.07796871898779,
       "lat": 49.274954854975945
-    }
-  },
-  {
-    "project": "Kersland Dr - W 35th Av to W 37th Av",
-    "street": null,
-    "location": "Kersland Dr - W 35th Av to W 37th Av",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/980b4a46-f9ca-4c7a-be32-c9c91bf33643",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11544888345814,
-            49.239701747919725
-          ],
-          [
-            -123.11462251931519,
-            49.23897398147048
-          ],
-          [
-            -123.1144831328449,
-            49.23856460807423
-          ],
-          [
-            -123.11445326425043,
-            49.23802526929299
-          ],
-          [
-            -123.1144831328449,
-            49.23712852496601
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1146908507037,
-      "lat": 49.238533677138136
     }
   },
   {
