@@ -1,5 +1,73 @@
 [
   {
+    "project": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
+    "street": null,
+    "location": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
+    "comp_date": "2025-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de35d730-142e-4289-9a49-e5fdafbddc15",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14332895524612,
+            49.26624918363777
+          ],
+          [
+            -123.14335839357128,
+            49.26545449262744
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1433436744087,
+      "lat": 49.265851838132605
+    }
+  },
+  {
+    "project": "1600 block E 62nd Ave between Borden St and Argyle St",
+    "street": null,
+    "location": "1600 block E 62nd Ave between Borden St and Argyle St",
+    "comp_date": "2025-10-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b0d2e9c5-799f-4579-a96c-fb52d7dde1b1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07404590247988,
+              49.213753113241154
+            ],
+            [
+              -123.07276987930759,
+              49.21373907295509
+            ]
+          ],
+          [
+            [
+              -123.07276987930759,
+              49.21373907295509
+            ],
+            [
+              -123.07205866967998,
+              49.21373240354956
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07305228986206,
+      "lat": 49.213742387247606
+    }
+  },
+  {
     "project": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
     "street": null,
     "location": "B/S of the Lane South of 2600-2700 Block of W Broadway from 25m West of Stephens",
@@ -44,33 +112,33 @@
     }
   },
   {
-    "project": "1600 block E 62nd Ave between Borden St and Argyle St",
+    "project": "Both Sides of 2500-2800 Block of Ash St from W Broadway to Lane South of W 12th",
     "street": null,
-    "location": "1600 block E 62nd Ave between Borden St and Argyle St",
-    "comp_date": "2025-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b0d2e9c5-799f-4579-a96c-fb52d7dde1b1",
+    "location": "Both Sides of 2500-2800 Block of Ash St from W Broadway to Lane South of W 12th",
+    "comp_date": "2025-11-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9ba145a1-75c7-403b-923a-6ef66edd5dbb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.07404590247988,
-              49.213753113241154
+              -123.11752238834478,
+              49.26323114218363
             ],
             [
-              -123.07276987930759,
-              49.21373907295509
+              -123.1176353667345,
+              49.25996272219626
             ]
           ],
           [
             [
-              -123.07276987930759,
-              49.21373907295509
+              -123.11926049637891,
+              49.26044917710783
             ],
             [
-              -123.07205866967998,
-              49.21373240354956
+              -123.11691951982024,
+              49.26041634255705
             ]
           ]
         ],
@@ -79,36 +147,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07305228986206,
-      "lat": 49.213742387247606
-    }
-  },
-  {
-    "project": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
-    "street": null,
-    "location": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
-    "comp_date": "2025-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de35d730-142e-4289-9a49-e5fdafbddc15",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14332895524612,
-            49.26624918363777
-          ],
-          [
-            -123.14335839357128,
-            49.26545449262744
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1433436744087,
-      "lat": 49.265851838132605
+      "lon": -123.11779212632041,
+      "lat": 49.26111122784101
     }
   },
   {
@@ -159,6 +199,96 @@
     "geo_point_2d": {
       "lon": -123.13111125706449,
       "lat": 49.28327108906166
+    }
+  },
+  {
+    "project": "Fremlin St from W 49th Av to W 52nd Av",
+    "street": null,
+    "location": "Fremlin St from W 49th Av to W 52nd Av",
+    "comp_date": "2025-11-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5e7885dc-72f2-45f0-a35e-227296973a62",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12674419511228,
+              49.22595901982223
+            ],
+            [
+              -123.12681291665005,
+              49.22389112131208
+            ]
+          ],
+          [
+            [
+              -123.12672641786389,
+              49.22649401474635
+            ],
+            [
+              -123.12674419511228,
+              49.22595901982223
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12676966646481,
+      "lat": 49.225192568002896
+    }
+  },
+  {
+    "project": "W 37th Av from Cambie St to Alberta St",
+    "street": null,
+    "location": "W 37th Av from Cambie St to Alberta St",
+    "comp_date": "2025-11-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e1f12c74-3208-4b80-b349-8239415c4dad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1151756940655,
+              49.2371862122568
+            ],
+            [
+              -123.11604550504451,
+              49.237247840778025
+            ]
+          ],
+          [
+            [
+              -123.11448135341534,
+              49.23713138374589
+            ],
+            [
+              -123.1151756940655,
+              49.2371862122568
+            ]
+          ],
+          [
+            [
+              -123.11327797127966,
+              49.23703662668254
+            ],
+            [
+              -123.11448135341534,
+              49.23713138374589
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11466156391008,
+      "lat": 49.23714456391849
     }
   },
   {
@@ -312,6 +442,34 @@
     }
   },
   {
+    "project": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
+    "street": null,
+    "location": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
+    "comp_date": "2025-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19a9fef1-4e7c-4153-8f30-2f747f443a96",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13017645816552,
+            49.28389479450291
+          ],
+          [
+            -123.13123902049105,
+            49.28319610166483
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13070773932829,
+      "lat": 49.28354544808387
+    }
+  },
+  {
     "project": "North Side of 1400 Block of E 33rd Ave from Knight St to 55m East of Knight St a",
     "street": null,
     "location": "North Side of 1400 Block of E 33rd Ave from Knight St to 55m East of Knight St a",
@@ -349,74 +507,6 @@
     "geo_point_2d": {
       "lon": -123.07333355018551,
       "lat": 49.24018450602525
-    }
-  },
-  {
-    "project": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
-    "street": null,
-    "location": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
-    "comp_date": "2025-11-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19a9fef1-4e7c-4153-8f30-2f747f443a96",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13017645816552,
-            49.28389479450291
-          ],
-          [
-            -123.13123902049105,
-            49.28319610166483
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13070773932829,
-      "lat": 49.28354544808387
-    }
-  },
-  {
-    "project": "Kersland Dr - W 35th Av to W 37th Av",
-    "street": null,
-    "location": "Kersland Dr - W 35th Av to W 37th Av",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/980b4a46-f9ca-4c7a-be32-c9c91bf33643",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11544888345814,
-            49.239701747919725
-          ],
-          [
-            -123.11462251931519,
-            49.23897398147048
-          ],
-          [
-            -123.1144831328449,
-            49.23856460807423
-          ],
-          [
-            -123.11445326425043,
-            49.23802526929299
-          ],
-          [
-            -123.1144831328449,
-            49.23712852496601
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1146908507037,
-      "lat": 49.238533677138136
     }
   },
   {
@@ -495,6 +585,46 @@
     "geo_point_2d": {
       "lon": -123.07796871898779,
       "lat": 49.274954854975945
+    }
+  },
+  {
+    "project": "Kersland Dr - W 35th Av to W 37th Av",
+    "street": null,
+    "location": "Kersland Dr - W 35th Av to W 37th Av",
+    "comp_date": "2025-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/980b4a46-f9ca-4c7a-be32-c9c91bf33643",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11544888345814,
+            49.239701747919725
+          ],
+          [
+            -123.11462251931519,
+            49.23897398147048
+          ],
+          [
+            -123.1144831328449,
+            49.23856460807423
+          ],
+          [
+            -123.11445326425043,
+            49.23802526929299
+          ],
+          [
+            -123.1144831328449,
+            49.23712852496601
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1146908507037,
+      "lat": 49.238533677138136
     }
   },
   {
@@ -767,6 +897,34 @@
     "geo_point_2d": {
       "lon": -123.14038724550365,
       "lat": 49.26662636739607
+    }
+  },
+  {
+    "project": "E 20th Av - Clark Dr to Knight St",
+    "street": null,
+    "location": "E 20th Av - Clark Dr to Knight St",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7a13bc14-9d74-4541-81cf-7f5fe2bbc51b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07796729750848,
+            49.25262838289396
+          ],
+          [
+            -123.07604061299644,
+            49.252600436327214
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07700395525245,
+      "lat": 49.25261440961059
     }
   },
   {
