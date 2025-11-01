@@ -1,73 +1,5 @@
 [
   {
-    "project": "1600 block E 62nd Ave between Borden St and Argyle St",
-    "street": null,
-    "location": "1600 block E 62nd Ave between Borden St and Argyle St",
-    "comp_date": "2025-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b0d2e9c5-799f-4579-a96c-fb52d7dde1b1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07404590247988,
-              49.213753113241154
-            ],
-            [
-              -123.07276987930759,
-              49.21373907295509
-            ]
-          ],
-          [
-            [
-              -123.07276987930759,
-              49.21373907295509
-            ],
-            [
-              -123.07205866967998,
-              49.21373240354956
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07305228986206,
-      "lat": 49.213742387247606
-    }
-  },
-  {
-    "project": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
-    "street": null,
-    "location": "Both Sides of 2200 Block of Pine St from W 7th Ave to W 6th Ave",
-    "comp_date": "2025-10-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/de35d730-142e-4289-9a49-e5fdafbddc15",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14332895524612,
-            49.26624918363777
-          ],
-          [
-            -123.14335839357128,
-            49.26545449262744
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1433436744087,
-      "lat": 49.265851838132605
-    }
-  },
-  {
     "project": "B/S of 1000 Block of Bute St from Nelson St to Comox St\r\nE/S of 1000-1100 Block",
     "street": null,
     "location": "B/S of 1000 Block of Bute St from Nelson St to Comox St\r\nE/S of 1000-1100 Block",
@@ -155,6 +87,46 @@
     "geo_point_2d": {
       "lon": -123.11779212632041,
       "lat": 49.26111122784101
+    }
+  },
+  {
+    "project": "Vine St from W 49th Av to Ln N of W 49th Av",
+    "street": null,
+    "location": "Vine St from W 49th Av to Ln N of W 49th Av",
+    "comp_date": "2025-11-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/05ac357a-902f-43d0-a3e0-9a7048c15daf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16018447680877,
+              49.227853918367146
+            ],
+            [
+              -123.16019234034184,
+              49.227669243668885
+            ]
+          ],
+          [
+            [
+              -123.16019234034184,
+              49.227669243668885
+            ],
+            [
+              -123.16021190874055,
+              49.22722214284386
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16019811536374,
+      "lat": 49.22753802726337
     }
   },
   {
