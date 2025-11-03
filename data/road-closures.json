@@ -1,75 +1,5 @@
 [
   {
-    "project": "1100-1200 BLK Vernon Dr, 1200 Charles St, to 1300 Clark Dr (Strange Fellows Brew",
-    "street": null,
-    "location": "1100-1200 BLK Vernon Dr, 1200 Charles St, to 1300 Clark Dr (Strange Fellows Brew",
-    "comp_date": "2025-11-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bf1719d6-1eed-4bd2-be23-2bc0ab8be9fb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07869085719472,
-              49.27498910463666
-            ],
-            [
-              -123.07871223709846,
-              49.27161336130425
-            ]
-          ],
-          [
-            [
-              -123.08027297007311,
-              49.274082419408415
-            ],
-            [
-              -123.078754996906,
-              49.27406847027473
-            ]
-          ],
-          [
-            [
-              -123.07984537199786,
-              49.27318966690018
-            ],
-            [
-              -123.07873361700223,
-              49.27317571751405
-            ]
-          ],
-          [
-            [
-              -123.07871072959355,
-              49.2731802463727
-            ],
-            [
-              -123.07737642462564,
-              49.27315583781828
-            ]
-          ],
-          [
-            [
-              -123.07871072959355,
-              49.27407521836133
-            ],
-            [
-              -123.07735148434584,
-              49.27405081024975
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07871275380565,
-      "lat": 49.27351978706421
-    }
-  },
-  {
     "project": "Davie St - Seymour St to Richards St",
     "street": null,
     "location": "Davie St - Seymour St to Richards St",
@@ -107,6 +37,46 @@
     "geo_point_2d": {
       "lon": -123.12472145635155,
       "lat": 49.276194426778325
+    }
+  },
+  {
+    "project": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
+    "street": null,
+    "location": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
+    "comp_date": "2025-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5aca05bf-6c01-484b-8329-1096267788fc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11926705258088,
+              49.26044899221657
+            ],
+            [
+              -123.11691929586324,
+              49.260418409438415
+            ]
+          ],
+          [
+            [
+              -123.11763627545965,
+              49.25997189871924
+            ],
+            [
+              -123.117521450423,
+              49.26324450157145
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11779363655164,
+      "lat": 49.26111773557991
     }
   },
   {
@@ -195,34 +165,6 @@
     "geo_point_2d": {
       "lon": -123.12838031196637,
       "lat": 49.24632703571696
-    }
-  },
-  {
-    "project": "Both Sides of 6000-6100 Block of Dunbar St from 20m North of Lane North of SW Ma",
-    "street": null,
-    "location": "Both Sides of 6000-6100 Block of Dunbar St from 20m North of Lane North of SW Ma",
-    "comp_date": "2025-11-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9fea486f-fa8a-493b-b6ad-a004d88bd0cf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1854588332624,
-            49.23017260288651
-          ],
-          [
-            -123.18540874593108,
-            49.231601840004515
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18543378959676,
-      "lat": 49.23088722144551
     }
   },
   {
@@ -429,34 +371,6 @@
     "geo_point_2d": {
       "lon": -123.02895495034613,
       "lat": 49.2838687251026
-    }
-  },
-  {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18815934348683,
-            49.24519436177815
-          ],
-          [
-            -123.18817356592662,
-            49.241433898919325
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
     }
   },
   {
