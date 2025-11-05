@@ -1,155 +1,5 @@
 [
   {
-    "project": "Dundas St from Kootenay St to Boundary Rd",
-    "street": null,
-    "location": "Dundas St from Kootenay St to Boundary Rd",
-    "comp_date": "2025-11-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ff7fc039-7131-427e-a8a4-d54e8a302cc5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0256951999087,
-              49.2847673364449
-            ],
-            [
-              -123.02492977810265,
-              49.2847667934947
-            ]
-          ],
-          [
-            [
-              -123.02492977810265,
-              49.2847667934947
-            ],
-            [
-              -123.0242930198657,
-              49.284766524332696
-            ]
-          ],
-          [
-            [
-              -123.0242930198657,
-              49.284766524332696
-            ],
-            [
-              -123.02352040665986,
-              49.28476615346196
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02460780331808,
-      "lat": 49.28476668813734
-    }
-  },
-  {
-    "project": "B/S of 3900 Block of Crown St from W 23 Ave to Lane South\r\nB/S of 3700 Block of",
-    "street": null,
-    "location": "B/S of 3900 Block of Crown St from W 23 Ave to Lane South\r\nB/S of 3700 Block of",
-    "comp_date": "2025-11-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/04fafb4e-fd6c-4456-a28a-bd1a32622aab",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.19361851796235,
-              49.251981345058994
-            ],
-            [
-              -123.19361851796235,
-              49.25154952215607
-            ]
-          ],
-          [
-            [
-              -123.1936019259291,
-              49.25378672947869
-            ],
-            [
-              -123.19359675750833,
-              49.25291973794339
-            ]
-          ],
-          [
-            [
-              -123.1935807630935,
-              49.255595019263694
-            ],
-            [
-              -123.19358593151429,
-              49.25472805948891
-            ]
-          ],
-          [
-            [
-              -123.19357052817436,
-              49.257466834300544
-            ],
-            [
-              -123.19357052817439,
-              49.25653581492671
-            ]
-          ],
-          [
-            [
-              -123.19357970318977,
-              49.258046735414354
-            ],
-            [
-              -123.19396736661538,
-              49.258048861547366
-            ]
-          ],
-          [
-            [
-              -123.19606492612075,
-              49.25808220263812
-            ],
-            [
-              -123.19502154681398,
-              49.258066447672576
-            ]
-          ],
-          [
-            [
-              -123.19714516858222,
-              49.258125132655096
-            ],
-            [
-              -123.19628149727944,
-              49.258114629354424
-            ]
-          ],
-          [
-            [
-              -123.20060764671835,
-              49.25815236777345
-            ],
-            [
-              -123.19976543308768,
-              49.258141864478574
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1952518090127,
-      "lat": 49.25642988257106
-    }
-  },
-  {
     "project": "1000 block of W 27th Ave between Osler St and Oak St",
     "street": null,
     "location": "1000 block of W 27th Ave between Osler St and Oak St",
@@ -197,6 +47,46 @@
     "geo_point_2d": {
       "lon": -123.1287597826582,
       "lat": 49.247248720381656
+    }
+  },
+  {
+    "project": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
+    "street": null,
+    "location": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
+    "comp_date": "2025-11-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5aca05bf-6c01-484b-8329-1096267788fc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11926705258088,
+              49.26044899221657
+            ],
+            [
+              -123.11691929586324,
+              49.260418409438415
+            ]
+          ],
+          [
+            [
+              -123.11763627545965,
+              49.25997189871924
+            ],
+            [
+              -123.117521450423,
+              49.26324450157145
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11779363655164,
+      "lat": 49.26111773557991
     }
   },
   {
@@ -268,43 +158,31 @@
     }
   },
   {
-    "project": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
+    "project": "B/S of 1500 Block of E 3rd Ave from West PL of 1510 to East PL of 1568",
     "street": null,
-    "location": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
-    "comp_date": "2025-11-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5aca05bf-6c01-484b-8329-1096267788fc",
+    "location": "B/S of 1500 Block of E 3rd Ave from West PL of 1510 to East PL of 1568",
+    "comp_date": "2025-11-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8f8dbc0-bfb9-4e1f-9338-182c7dd7317f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.11926705258088,
-              49.26044899221657
-            ],
-            [
-              -123.11691929586324,
-              49.260418409438415
-            ]
+            -123.0731927855939,
+            49.26782176559027
           ],
           [
-            [
-              -123.11763627545965,
-              49.25997189871924
-            ],
-            [
-              -123.117521450423,
-              49.26324450157145
-            ]
+            -123.0719534576561,
+            49.26781290321878
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11779363655164,
-      "lat": 49.26111773557991
+      "lon": -123.07257312162501,
+      "lat": 49.267817334404526
     }
   },
   {
@@ -472,34 +350,6 @@
     }
   },
   {
-    "project": "B/S of 1500 Block of E 3rd Ave from West PL of 1510 to East PL of 1568",
-    "street": null,
-    "location": "B/S of 1500 Block of E 3rd Ave from West PL of 1510 to East PL of 1568",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8f8dbc0-bfb9-4e1f-9338-182c7dd7317f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0731927855939,
-            49.26782176559027
-          ],
-          [
-            -123.0719534576561,
-            49.26781290321878
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07257312162501,
-      "lat": 49.267817334404526
-    }
-  },
-  {
     "project": "B/S of 1100 blk of Chilco St",
     "street": null,
     "location": "B/S of 1100 blk of Chilco St",
@@ -525,6 +375,38 @@
     "geo_point_2d": {
       "lon": -123.14398136672325,
       "lat": 49.28969570345406
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
+    "street": null,
+    "location": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
+    "comp_date": "2025-11-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25ffab69-b5d9-47f6-92a5-61e1dab560a0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14024494434177,
+            49.28624982648992
+          ],
+          [
+            -123.13918852556765,
+            49.286945934199565
+          ],
+          [
+            -123.13889747141559,
+            49.28675608761705
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13957155594771,
+      "lat": 49.28665242577293
     }
   },
   {
@@ -641,38 +523,6 @@
     "geo_point_2d": {
       "lon": -123.18841576680019,
       "lat": 49.23365614376441
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
-    "street": null,
-    "location": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
-    "comp_date": "2025-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25ffab69-b5d9-47f6-92a5-61e1dab560a0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14024494434177,
-            49.28624982648992
-          ],
-          [
-            -123.13918852556765,
-            49.286945934199565
-          ],
-          [
-            -123.13889747141559,
-            49.28675608761705
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13957155594771,
-      "lat": 49.28665242577293
     }
   },
   {
@@ -829,6 +679,84 @@
     "geo_point_2d": {
       "lon": -123.14038724550365,
       "lat": 49.26662636739607
+    }
+  },
+  {
+    "project": "- Both Sides of Lane East of 2800 Block of Nanaimo St from Grandview Hwy North t",
+    "street": null,
+    "location": "- Both Sides of Lane East of 2800 Block of Nanaimo St from Grandview Hwy North t",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06ed6975-06bc-4500-8e88-f2db4ed406ff",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05598788121418,
+              49.25868915483264
+            ],
+            [
+              -123.05598788121418,
+              49.258288281853225
+            ],
+            [
+              -123.05604152539449,
+              49.25830053566065
+            ],
+            [
+              -123.0561005339928,
+              49.25831804109458
+            ]
+          ],
+          [
+            [
+              -123.05599592784124,
+              49.258290032397326
+            ],
+            [
+              -123.05592619040685,
+              49.258272526953476
+            ],
+            [
+              -123.05584572413638,
+              49.25825502150337
+            ],
+            [
+              -123.05578135112005,
+              49.258242767684635
+            ],
+            [
+              -123.05570088484957,
+              49.25822876331662
+            ],
+            [
+              -123.0556123719521,
+              49.25821475894466
+            ],
+            [
+              -123.0555238590546,
+              49.25820425566312
+            ]
+          ],
+          [
+            [
+              -123.05599056342321,
+              49.25868740430266
+            ],
+            [
+              -123.05540315964892,
+              49.258683903242485
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05581542365708,
+      "lat": 49.25847314926717
     }
   },
   {
@@ -2112,10 +2040,78 @@
     }
   },
   {
+    "project": "Argyle St from E 62nd Av to E 63rd Av",
+    "street": null,
+    "location": "Argyle St from E 62nd Av to E 63rd Av",
+    "comp_date": "2026-11-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ae07980-7734-4828-b227-c631e3ff9724",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07205866967998,
+            49.21373240354956
+          ],
+          [
+            -123.0720714454169,
+            49.21286767897749
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07206505754843,
+      "lat": 49.21330004126352
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2027-01-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/569cde2e-876f-4ecb-b13b-86beeeeadbd9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0249236046173,
+            49.29248448897795
+          ],
+          [
+            -123.0249287401899,
+            49.292528032815255
+          ],
+          [
+            -123.02412764229045,
+            49.29268211065113
+          ],
+          [
+            -123.02412764229045,
+            49.29263856694996
+          ],
+          [
+            -123.0249236046173,
+            49.29248448897795
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02452698146213,
+      "lat": 49.29258335033243
+    }
+  },
+  {
     "project": "Various local streets, W 12th and W 13th (between east of Alma St and Balaclava",
     "street": null,
     "location": "Various local streets, W 12th and W 13th (between east of Alma St and Balaclava",
-    "comp_date": "2026-12-02",
+    "comp_date": "2027-08-01",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/68b6a6a6-4040-4bd4-9538-e684cb0279ec",
     "geom": {
       "type": "Feature",
@@ -2393,46 +2389,6 @@
     "geo_point_2d": {
       "lon": -123.17958724765407,
       "lat": 49.260873385484295
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2027-01-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/569cde2e-876f-4ecb-b13b-86beeeeadbd9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0249236046173,
-            49.29248448897795
-          ],
-          [
-            -123.0249287401899,
-            49.292528032815255
-          ],
-          [
-            -123.02412764229045,
-            49.29268211065113
-          ],
-          [
-            -123.02412764229045,
-            49.29263856694996
-          ],
-          [
-            -123.0249236046173,
-            49.29248448897795
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02452698146213,
-      "lat": 49.29258335033243
     }
   },
   {
