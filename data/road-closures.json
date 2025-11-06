@@ -1,55 +1,5 @@
 [
   {
-    "project": "1000 block of W 27th Ave between Osler St and Oak St",
-    "street": null,
-    "location": "1000 block of W 27th Ave between Osler St and Oak St",
-    "comp_date": "2025-11-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9bdf154a-c759-41db-a293-134d4567fe74",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ],
-            [
-              -123.12990070361347,
-              49.24726698619082
-            ]
-          ],
-          [
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ],
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ]
-          ],
-          [
-            [
-              -123.12761886185562,
-              49.247230445036735
-            ],
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1287597826582,
-      "lat": 49.247248720381656
-    }
-  },
-  {
     "project": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
     "street": null,
     "location": "B/S of 2500-2800 Block of Ash St from West Broadway to Lane South of West 12th A",
@@ -90,22 +40,22 @@
     }
   },
   {
-    "project": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
+    "project": "1600 block W 5th Ave between Fir St and Pine St.",
     "street": null,
-    "location": "Both Sides of 1000 Block of Bute St from Nelson St to Comox St",
+    "location": "1600 block W 5th Ave between Fir St and Pine St.",
     "comp_date": "2025-11-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/19a9fef1-4e7c-4153-8f30-2f747f443a96",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d173eac6-86f7-4eb2-8112-a866fb721257",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.13017645816552,
-            49.28389479450291
+            -123.14088965904156,
+            49.26708351664658
           ],
           [
-            -123.13123902049105,
-            49.28319610166483
+            -123.14326045391425,
+            49.26712036023639
           ]
         ],
         "type": "LineString"
@@ -113,8 +63,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13070773932829,
-      "lat": 49.28354544808387
+      "lon": -123.14207505647792,
+      "lat": 49.267101938441485
     }
   },
   {
@@ -350,34 +300,6 @@
     }
   },
   {
-    "project": "B/S of 1100 blk of Chilco St",
-    "street": null,
-    "location": "B/S of 1100 blk of Chilco St",
-    "comp_date": "2025-11-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f821599-a1a0-44db-96e2-be0874285c3d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14370648224629,
-            49.28987499265915
-          ],
-          [
-            -123.14425625120018,
-            49.289516414248965
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14398136672325,
-      "lat": 49.28969570345406
-    }
-  },
-  {
     "project": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
     "street": null,
     "location": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
@@ -523,6 +445,56 @@
     "geo_point_2d": {
       "lon": -123.18841576680019,
       "lat": 49.23365614376441
+    }
+  },
+  {
+    "project": "Nanton Av from Osler St to Oak St",
+    "street": null,
+    "location": "Nanton Av from Osler St to Oak St",
+    "comp_date": "2025-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/66c89f79-b314-493d-9a54-1a9566a6953a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12925213047927,
+              49.246335375667826
+            ],
+            [
+              -123.12993497425019,
+              49.246346519390954
+            ]
+          ],
+          [
+            [
+              -123.12836489843437,
+              49.246320884076624
+            ],
+            [
+              -123.12925213047927,
+              49.246335375667826
+            ]
+          ],
+          [
+            [
+              -123.12765061731606,
+              49.24630921710414
+            ],
+            [
+              -123.12836489843437,
+              49.246320884076624
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12879279572726,
+      "lat": 49.2463278716688
     }
   },
   {
@@ -835,6 +807,34 @@
     "geo_point_2d": {
       "lon": -123.13030444607118,
       "lat": 49.28969106444507
+    }
+  },
+  {
+    "project": "B/S of 1100 blk of Chilco St",
+    "street": null,
+    "location": "B/S of 1100 blk of Chilco St",
+    "comp_date": "2025-11-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6f821599-a1a0-44db-96e2-be0874285c3d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14370648224629,
+            49.28987499265915
+          ],
+          [
+            -123.14425625120018,
+            49.289516414248965
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14398136672325,
+      "lat": 49.28969570345406
     }
   },
   {
