@@ -1,197 +1,5 @@
 [
   {
-    "project": "B/S of 1500 Block of E 3rd Ave from West PL of 1510 to East PL of 1568",
-    "street": null,
-    "location": "B/S of 1500 Block of E 3rd Ave from West PL of 1510 to East PL of 1568",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8f8dbc0-bfb9-4e1f-9338-182c7dd7317f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0731927855939,
-            49.26782176559027
-          ],
-          [
-            -123.0719534576561,
-            49.26781290321878
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07257312162501,
-      "lat": 49.267817334404526
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1900 Block of Templeton Dr. From E 3rd Av to E 4th A",
-    "street": null,
-    "location": "Both Sides of the Street of 1900 Block of Templeton Dr. From E 3rd Av to E 4th A",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5d5f5155-cba6-43fe-8b44-81c199902b96",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06000583436374,
-            49.267715267431214
-          ],
-          [
-            -123.06002739393055,
-            49.26675158858734
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06001661414714,
-      "lat": 49.26723342800928
-    }
-  },
-  {
-    "project": "South Side of the Street of 1300-1400 Block of E Georgia St. From Clark St to 20",
-    "street": null,
-    "location": "South Side of the Street of 1300-1400 Block of E Georgia St. From Clark St to 20",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1574d2aa-2fb2-436f-9bba-4f4483f0e20d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0683414231698,
-              49.27843435268798
-            ],
-            [
-              -123.0690151596329,
-              49.27844490151952
-            ]
-          ],
-          [
-            [
-              -123.07719608979065,
-              49.2785689054968
-            ],
-            [
-              -123.07663015116165,
-              49.27855484042291
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07243805027203,
-      "lat": 49.278495440641315
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "street": null,
-    "location": "Both Sides of the Street of 1400 Block of Penticton St. From Kitchener St to 20m",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5473edf5-c4f3-4b63-beeb-bfbd6eba7464",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05208011989663,
-            49.27229325447209
-          ],
-          [
-            -123.05207473000492,
-            49.27198378254826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05207742495078,
-      "lat": 49.272138518510175
-    }
-  },
-  {
-    "project": "East Side of 500 Block of Carrall St from Keefer St to 30m North of Keefer St",
-    "street": null,
-    "location": "East Side of 500 Block of Carrall St from Keefer St to 30m North of Keefer St",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/67cac1be-9d8b-4091-ba86-05b4df7e587e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.104421016112,
-            49.27925778790237
-          ],
-          [
-            -123.10440416265749,
-            49.27962427772914
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10441258938474,
-      "lat": 49.27944103281576
-    }
-  },
-  {
-    "project": "Kersland Dr - W 35th Av to W 37th Av",
-    "street": null,
-    "location": "Kersland Dr - W 35th Av to W 37th Av",
-    "comp_date": "2025-11-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/980b4a46-f9ca-4c7a-be32-c9c91bf33643",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11544888345814,
-            49.239701747919725
-          ],
-          [
-            -123.11462251931519,
-            49.23897398147048
-          ],
-          [
-            -123.1144831328449,
-            49.23856460807423
-          ],
-          [
-            -123.11445326425043,
-            49.23802526929299
-          ],
-          [
-            -123.1144831328449,
-            49.23712852496601
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1146908507037,
-      "lat": 49.238533677138136
-    }
-  },
-  {
     "project": "W 70th Av - SW Marine Dr to Ash St",
     "street": null,
     "location": "W 70th Av - SW Marine Dr to Ash St",
@@ -232,63 +40,31 @@
     }
   },
   {
-    "project": "L/W Oak St - W 27th Av to W 9th Av",
+    "project": "W 17th Av from Oak St to Laurel St",
     "street": null,
-    "location": "L/W Oak St - W 27th Av to W 9th Av",
+    "location": "W 17th Av from Oak St to Laurel St",
     "comp_date": "2025-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a98986a-1604-4845-9834-e9c8a6c9fe1c",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2904cd93-d7cc-4824-8f6a-85597b501ce3",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.12834903400865,
-              49.24724750328073
-            ],
-            [
-              -123.12836472356973,
-              49.246785760519515
-            ]
+            -123.1244252468078,
+            49.25618821683375
           ],
           [
-            [
-              -123.12836472356973,
-              49.246785760519515
-            ],
-            [
-              -123.12838033682115,
-              49.24632649149328
-            ]
-          ],
-          [
-            [
-              -123.12838033682115,
-              49.24632649149328
-            ],
-            [
-              -123.12839570604346,
-              49.24587389716393
-            ]
-          ],
-          [
-            [
-              -123.12839570604346,
-              49.24587389716393
-            ],
-            [
-              -123.12841158636657,
-              49.24540656803231
-            ]
+            -123.1272618198611,
+            49.25624092453893
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12838031196637,
-      "lat": 49.24632703571696
+      "lon": -123.12584353333447,
+      "lat": 49.25621457068634
     }
   },
   {
@@ -317,6 +93,56 @@
     "geo_point_2d": {
       "lon": -123.08409642907775,
       "lat": 49.2093312291199
+    }
+  },
+  {
+    "project": "W 27th Av from Oak St to Osler St",
+    "street": null,
+    "location": "W 27th Av from Oak St to Osler St",
+    "comp_date": "2025-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08861989-3971-4b0e-b4c1-6319ce2be2cb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12921880956934,
+              49.247256075077075
+            ],
+            [
+              -123.12990070361347,
+              49.24726698619082
+            ]
+          ],
+          [
+            [
+              -123.12833359537797,
+              49.247241895819286
+            ],
+            [
+              -123.12921880956934,
+              49.247256075077075
+            ]
+          ],
+          [
+            [
+              -123.12761886185562,
+              49.247230445036735
+            ],
+            [
+              -123.12833359537797,
+              49.247241895819286
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1287597826582,
+      "lat": 49.247248720381656
     }
   },
   {
@@ -367,6 +193,46 @@
     "geo_point_2d": {
       "lon": -123.12879279572726,
       "lat": 49.2463278716688
+    }
+  },
+  {
+    "project": "Kersland Dr - W 35th Av to W 37th Av",
+    "street": null,
+    "location": "Kersland Dr - W 35th Av to W 37th Av",
+    "comp_date": "2025-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/980b4a46-f9ca-4c7a-be32-c9c91bf33643",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11544888345814,
+            49.239701747919725
+          ],
+          [
+            -123.11462251931519,
+            49.23897398147048
+          ],
+          [
+            -123.1144831328449,
+            49.23856460807423
+          ],
+          [
+            -123.11445326425043,
+            49.23802526929299
+          ],
+          [
+            -123.1144831328449,
+            49.23712852496601
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1146908507037,
+      "lat": 49.238533677138136
     }
   },
   {
@@ -448,6 +314,38 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
+    "street": null,
+    "location": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25ffab69-b5d9-47f6-92a5-61e1dab560a0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14024494434177,
+            49.28624982648992
+          ],
+          [
+            -123.13918852556765,
+            49.286945934199565
+          ],
+          [
+            -123.13889747141559,
+            49.28675608761705
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13957155594771,
+      "lat": 49.28665242577293
+    }
+  },
+  {
     "project": "E 20th Av - Clark Dr to Knight St",
     "street": null,
     "location": "E 20th Av - Clark Dr to Knight St",
@@ -523,6 +421,94 @@
     "geo_point_2d": {
       "lon": -123.13030444607118,
       "lat": 49.28969106444507
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1900 Block of E Kent Av South. From Victoria Dr to 6",
+    "street": null,
+    "location": "Both Sides of the Street of 1900 Block of E Kent Av South. From Victoria Dr to 6",
+    "comp_date": "2025-11-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dd024871-4b51-4f9c-ab67-298353c0d519",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06617419071094,
+            49.20721953015422
+          ],
+          [
+            -123.06705813295052,
+            49.20746602419038
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06661616183072,
+      "lat": 49.2073427771723
+    }
+  },
+  {
+    "project": "L/W Oak St - W 27th Av to W 9th Av",
+    "street": null,
+    "location": "L/W Oak St - W 27th Av to W 9th Av",
+    "comp_date": "2025-11-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a98986a-1604-4845-9834-e9c8a6c9fe1c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12834903400865,
+              49.24724750328073
+            ],
+            [
+              -123.12836472356973,
+              49.246785760519515
+            ]
+          ],
+          [
+            [
+              -123.12836472356973,
+              49.246785760519515
+            ],
+            [
+              -123.12838033682115,
+              49.24632649149328
+            ]
+          ],
+          [
+            [
+              -123.12838033682115,
+              49.24632649149328
+            ],
+            [
+              -123.12839570604346,
+              49.24587389716393
+            ]
+          ],
+          [
+            [
+              -123.12839570604346,
+              49.24587389716393
+            ],
+            [
+              -123.12841158636657,
+              49.24540656803231
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12838031196637,
+      "lat": 49.24632703571696
     }
   },
   {
