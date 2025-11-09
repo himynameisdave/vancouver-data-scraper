@@ -96,56 +96,6 @@
     }
   },
   {
-    "project": "W 27th Av from Oak St to Osler St",
-    "street": null,
-    "location": "W 27th Av from Oak St to Osler St",
-    "comp_date": "2025-11-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08861989-3971-4b0e-b4c1-6319ce2be2cb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ],
-            [
-              -123.12990070361347,
-              49.24726698619082
-            ]
-          ],
-          [
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ],
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ]
-          ],
-          [
-            [
-              -123.12761886185562,
-              49.247230445036735
-            ],
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1287597826582,
-      "lat": 49.247248720381656
-    }
-  },
-  {
     "project": "Nanton Av from Osler St to Oak St",
     "street": null,
     "location": "Nanton Av from Osler St to Oak St",
@@ -233,6 +183,84 @@
     "geo_point_2d": {
       "lon": -123.1146908507037,
       "lat": 49.238533677138136
+    }
+  },
+  {
+    "project": "W 27th Av from Oak St to Osler St",
+    "street": null,
+    "location": "W 27th Av from Oak St to Osler St",
+    "comp_date": "2025-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08861989-3971-4b0e-b4c1-6319ce2be2cb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12921880956934,
+              49.247256075077075
+            ],
+            [
+              -123.12990070361347,
+              49.24726698619082
+            ]
+          ],
+          [
+            [
+              -123.12833359537797,
+              49.247241895819286
+            ],
+            [
+              -123.12921880956934,
+              49.247256075077075
+            ]
+          ],
+          [
+            [
+              -123.12761886185562,
+              49.247230445036735
+            ],
+            [
+              -123.12833359537797,
+              49.247241895819286
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1287597826582,
+      "lat": 49.247248720381656
+    }
+  },
+  {
+    "project": "E 20th Av - Clark Dr to Knight St",
+    "street": null,
+    "location": "E 20th Av - Clark Dr to Knight St",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7a13bc14-9d74-4541-81cf-7f5fe2bbc51b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07796729750848,
+            49.25262838289396
+          ],
+          [
+            -123.07604061299644,
+            49.252600436327214
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07700395525245,
+      "lat": 49.25261440961059
     }
   },
   {
@@ -343,34 +371,6 @@
     "geo_point_2d": {
       "lon": -123.13957155594771,
       "lat": 49.28665242577293
-    }
-  },
-  {
-    "project": "E 20th Av - Clark Dr to Knight St",
-    "street": null,
-    "location": "E 20th Av - Clark Dr to Knight St",
-    "comp_date": "2025-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7a13bc14-9d74-4541-81cf-7f5fe2bbc51b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07796729750848,
-            49.25262838289396
-          ],
-          [
-            -123.07604061299644,
-            49.252600436327214
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07700395525245,
-      "lat": 49.25261440961059
     }
   },
   {
