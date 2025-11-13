@@ -28,22 +28,62 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 8100-8200 Block of Ross St. From E Kent Av North to",
+    "project": "Ln N of W 42nd Av from Cypress St to Maple St",
     "street": null,
-    "location": "Both Sides of the Street of 8100-8200 Block of Ross St. From E Kent Av North to",
+    "location": "Ln N of W 42nd Av from Cypress St to Maple St",
     "comp_date": "2025-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6223fec8-513c-4f9b-a4ca-d1828f5fe727",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c639a0d4-6529-4057-981a-791035ba72be",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.08399375804058,
-            49.20987900593815
+            [
+              -123.15051457096122,
+              49.23401183601109
+            ],
+            [
+              -123.15206808148022,
+              49.23403574380441
+            ]
           ],
           [
-            -123.08419910011487,
-            49.208783452301645
+            [
+              -123.14924657216532,
+              49.23399216237999
+            ],
+            [
+              -123.15051457096122,
+              49.23401183601109
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15065732614346,
+      "lat": 49.23401399705458
+    }
+  },
+  {
+    "project": "Ln S of E 5th Av from Penticton St to Kamloops St",
+    "street": null,
+    "location": "Ln S of E 5th Av from Penticton St to Kamloops St",
+    "comp_date": "2025-11-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9c3ef68-7f88-4685-9de7-49a062439e95",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05469653902755,
+            49.26523065929996
+          ],
+          [
+            -123.05215199657462,
+            49.26523058551331
           ]
         ],
         "type": "LineString"
@@ -51,8 +91,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08409642907775,
-      "lat": 49.2093312291199
+      "lon": -123.0534242678011,
+      "lat": 49.265230622406634
     }
   },
   {
@@ -228,6 +268,74 @@
     }
   },
   {
+    "project": "W 42nd Av from Cypress St to Maple St",
+    "street": null,
+    "location": "W 42nd Av from Cypress St to Maple St",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f40521b6-8109-42da-aff6-09c92fdad21f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14926487257384,
+            49.23350552243147
+          ],
+          [
+            -123.15208600945519,
+            49.23354867212146
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15067544101451,
+      "lat": 49.233527097276465
+    }
+  },
+  {
+    "project": "Prince Edward St and E 16th Ave",
+    "street": null,
+    "location": "Prince Edward St and E 16th Ave",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02b9bf54-43f4-4c56-8d30-827e1be2483f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09695684857564,
+              49.25654543604426
+            ],
+            [
+              -123.09607549610341,
+              49.256534320388084
+            ]
+          ],
+          [
+            [
+              -123.09650978572739,
+              49.25660101428758
+            ],
+            [
+              -123.09651404346882,
+              49.25648152098705
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09651566374944,
+      "lat": 49.25654004418347
+    }
+  },
+  {
     "project": "E 20th Av - Clark Dr to Knight St",
     "street": null,
     "location": "E 20th Av - Clark Dr to Knight St",
@@ -256,6 +364,112 @@
     }
   },
   {
+    "project": "- Both Sides of Lane East of 2800 Block of Nanaimo St from Grandview Hwy North t",
+    "street": null,
+    "location": "- Both Sides of Lane East of 2800 Block of Nanaimo St from Grandview Hwy North t",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/06ed6975-06bc-4500-8e88-f2db4ed406ff",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05598788121418,
+              49.25868915483264
+            ],
+            [
+              -123.05598788121418,
+              49.258288281853225
+            ],
+            [
+              -123.05604152539449,
+              49.25830053566065
+            ],
+            [
+              -123.0561005339928,
+              49.25831804109458
+            ]
+          ],
+          [
+            [
+              -123.05599592784124,
+              49.258290032397326
+            ],
+            [
+              -123.05592619040685,
+              49.258272526953476
+            ],
+            [
+              -123.05584572413638,
+              49.25825502150337
+            ],
+            [
+              -123.05578135112005,
+              49.258242767684635
+            ],
+            [
+              -123.05570088484957,
+              49.25822876331662
+            ],
+            [
+              -123.0556123719521,
+              49.25821475894466
+            ],
+            [
+              -123.0555238590546,
+              49.25820425566312
+            ]
+          ],
+          [
+            [
+              -123.05599056342321,
+              49.25868740430266
+            ],
+            [
+              -123.05540315964892,
+              49.258683903242485
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05581542365708,
+      "lat": 49.25847314926717
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1000 Block of E 62nd Av. From West PL 1045 to East P",
+    "street": null,
+    "location": "Both Sides of the Street of 1000 Block of E 62nd Av. From West PL 1045 to East P",
+    "comp_date": "2025-11-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/52a3ca4e-cd02-4125-a886-4850c3c5aabf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08455601404813,
+            49.21381093957717
+          ],
+          [
+            -123.08415716206201,
+            49.21381093957717
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08435658805507,
+      "lat": 49.213810939577165
+    }
+  },
+  {
     "project": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
     "street": null,
     "location": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
@@ -281,6 +495,96 @@
     "geo_point_2d": {
       "lon": -123.079200933073,
       "lat": 49.28021240591056
+    }
+  },
+  {
+    "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
+    "street": null,
+    "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
+    "comp_date": "2025-11-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/71891bcd-0881-469d-9c53-7ecb2eac5745",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12942470597284,
+              49.289802592739676
+            ],
+            [
+              -123.13004006187779,
+              49.28939789054209
+            ]
+          ],
+          [
+            [
+              -123.13122781742351,
+              49.29015862534149
+            ],
+            [
+              -123.13005810609384,
+              49.289395992867384
+            ]
+          ],
+          [
+            [
+              -123.13004955934764,
+              49.28939861356619
+            ],
+            [
+              -123.12991539743784,
+              49.28931230779784
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13030444607118,
+      "lat": 49.28969106444507
+    }
+  },
+  {
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "street": null,
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-11-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
+          ],
+          [
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
     }
   },
   {
@@ -315,7 +619,7 @@
     "project": "L/W Oak St - W 27th Av to W 9th Av",
     "street": null,
     "location": "L/W Oak St - W 27th Av to W 9th Av",
-    "comp_date": "2025-11-24",
+    "comp_date": "2025-11-26",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a98986a-1604-4845-9834-e9c8a6c9fe1c",
     "geom": {
       "type": "Feature",
@@ -372,6 +676,34 @@
     }
   },
   {
+    "project": "B/S of 2300-2500 blk Maple St",
+    "street": null,
+    "location": "B/S of 2300-2500 blk Maple St",
+    "comp_date": "2025-11-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/887394d4-c365-4a87-b822-6c399fea74b8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15044983743788,
+            49.26550187957949
+          ],
+          [
+            -123.15060381222213,
+            49.262811256013606
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15052682482998,
+      "lat": 49.26415656779655
+    }
+  },
+  {
     "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
     "street": null,
     "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
@@ -397,6 +729,84 @@
     "geo_point_2d": {
       "lon": -123.18841576680019,
       "lat": 49.23365614376441
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1200 Block of Napier St. From Vernon Dr to Clark Dr",
+    "street": null,
+    "location": "Both Sides of the Street of 1200 Block of Napier St. From Vernon Dr to Clark Dr",
+    "comp_date": "2025-11-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/774789a3-c168-4901-9838-5e10ebb492b5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07867025230658,
+            49.27495663157234
+          ],
+          [
+            -123.07726349057168,
+            49.274949598520834
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07796687143913,
+      "lat": 49.274953115046586
+    }
+  },
+  {
+    "project": "- Both Sides of Lane West of 2100-2200 Block of Granville St from 10m North of W",
+    "street": null,
+    "location": "- Both Sides of Lane West of 2100-2200 Block of Granville St from 10m North of W",
+    "comp_date": "2025-11-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f32a089a-6e72-4707-a138-336a40429282",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13918239473438,
+              49.26620279206949
+            ],
+            [
+              -123.13873876599203,
+              49.26619579101538
+            ]
+          ],
+          [
+            [
+              -123.13920028296165,
+              49.2657873944018
+            ],
+            [
+              -123.13918418353244,
+              49.26634981392297
+            ]
+          ],
+          [
+            [
+              -123.13920207192352,
+              49.26578272695761
+            ],
+            [
+              -123.13996232285484,
+              49.26579672918206
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13930189459344,
+      "lat": 49.26598139825879
     }
   },
   {
