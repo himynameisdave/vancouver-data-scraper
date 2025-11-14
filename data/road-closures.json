@@ -96,56 +96,6 @@
     }
   },
   {
-    "project": "W 27th Av from Oak St to Osler St",
-    "street": null,
-    "location": "W 27th Av from Oak St to Osler St",
-    "comp_date": "2025-11-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08861989-3971-4b0e-b4c1-6319ce2be2cb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ],
-            [
-              -123.12990070361347,
-              49.24726698619082
-            ]
-          ],
-          [
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ],
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ]
-          ],
-          [
-            [
-              -123.12761886185562,
-              49.247230445036735
-            ],
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1287597826582,
-      "lat": 49.247248720381656
-    }
-  },
-  {
     "project": "Nanton Av from Osler St to Oak St",
     "street": null,
     "location": "Nanton Av from Osler St to Oak St",
@@ -236,63 +186,53 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
+    "project": "W 27th Av from Oak St to Osler St",
     "street": null,
-    "location": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
-    "comp_date": "2025-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25ffab69-b5d9-47f6-92a5-61e1dab560a0",
+    "location": "W 27th Av from Oak St to Osler St",
+    "comp_date": "2025-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08861989-3971-4b0e-b4c1-6319ce2be2cb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.14024494434177,
-            49.28624982648992
+            [
+              -123.12921880956934,
+              49.247256075077075
+            ],
+            [
+              -123.12990070361347,
+              49.24726698619082
+            ]
           ],
           [
-            -123.13918852556765,
-            49.286945934199565
+            [
+              -123.12833359537797,
+              49.247241895819286
+            ],
+            [
+              -123.12921880956934,
+              49.247256075077075
+            ]
           ],
           [
-            -123.13889747141559,
-            49.28675608761705
+            [
+              -123.12761886185562,
+              49.247230445036735
+            ],
+            [
+              -123.12833359537797,
+              49.247241895819286
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13957155594771,
-      "lat": 49.28665242577293
-    }
-  },
-  {
-    "project": "W 42nd Av from Cypress St to Maple St",
-    "street": null,
-    "location": "W 42nd Av from Cypress St to Maple St",
-    "comp_date": "2025-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f40521b6-8109-42da-aff6-09c92fdad21f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14926487257384,
-            49.23350552243147
-          ],
-          [
-            -123.15208600945519,
-            49.23354867212146
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15067544101451,
-      "lat": 49.233527097276465
+      "lon": -123.1287597826582,
+      "lat": 49.247248720381656
     }
   },
   {
@@ -361,6 +301,66 @@
     "geo_point_2d": {
       "lon": -123.07700395525245,
       "lat": 49.25261440961059
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
+    "street": null,
+    "location": "Both Sides of the Street of 1100 Block of Bidwell St. From Davie St to Pendrell",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/25ffab69-b5d9-47f6-92a5-61e1dab560a0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14024494434177,
+            49.28624982648992
+          ],
+          [
+            -123.13918852556765,
+            49.286945934199565
+          ],
+          [
+            -123.13889747141559,
+            49.28675608761705
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13957155594771,
+      "lat": 49.28665242577293
+    }
+  },
+  {
+    "project": "W 42nd Av from Cypress St to Maple St",
+    "street": null,
+    "location": "W 42nd Av from Cypress St to Maple St",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f40521b6-8109-42da-aff6-09c92fdad21f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14926487257384,
+            49.23350552243147
+          ],
+          [
+            -123.15208600945519,
+            49.23354867212146
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15067544101451,
+      "lat": 49.233527097276465
     }
   },
   {
@@ -442,6 +442,34 @@
     }
   },
   {
+    "project": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
+    "street": null,
+    "location": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
+    "comp_date": "2025-11-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11a5b687-6a73-486d-a157-f856a15508b8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07919554111317,
+            49.280473773155336
+          ],
+          [
+            -123.07920632503284,
+            49.279951038665786
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.079200933073,
+      "lat": 49.28021240591056
+    }
+  },
+  {
     "project": "Both Sides of the Street of 1000 Block of E 62nd Av. From West PL 1045 to East P",
     "street": null,
     "location": "Both Sides of the Street of 1000 Block of E 62nd Av. From West PL 1045 to East P",
@@ -470,31 +498,43 @@
     }
   },
   {
-    "project": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
     "street": null,
-    "location": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
-    "comp_date": "2025-11-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11a5b687-6a73-486d-a157-f856a15508b8",
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-11-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07919554111317,
-            49.280473773155336
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
           ],
           [
-            -123.07920632503284,
-            49.279951038665786
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.079200933073,
-      "lat": 49.28021240591056
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
     }
   },
   {
@@ -545,46 +585,6 @@
     "geo_point_2d": {
       "lon": -123.13030444607118,
       "lat": 49.28969106444507
-    }
-  },
-  {
-    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "street": null,
-    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "comp_date": "2025-11-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13972176222764,
-              49.2865930141532
-            ],
-            [
-              -123.14025887653892,
-              49.28624552599376
-            ]
-          ],
-          [
-            [
-              -123.14025678663162,
-              49.286225085437536
-            ],
-            [
-              -123.13988268748247,
-              49.28597434721664
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1400231301578,
-      "lat": 49.286287249007906
     }
   },
   {
