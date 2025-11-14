@@ -1,60 +1,42 @@
 [
   {
-    "project": "W 17th Av from Oak St to Laurel St",
+    "project": "W 27th Av from Oak St to Osler St",
     "street": null,
-    "location": "W 17th Av from Oak St to Laurel St",
-    "comp_date": "2025-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2904cd93-d7cc-4824-8f6a-85597b501ce3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1244252468078,
-            49.25618821683375
-          ],
-          [
-            -123.1272618198611,
-            49.25624092453893
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12584353333447,
-      "lat": 49.25621457068634
-    }
-  },
-  {
-    "project": "Ln N of W 42nd Av from Cypress St to Maple St",
-    "street": null,
-    "location": "Ln N of W 42nd Av from Cypress St to Maple St",
-    "comp_date": "2025-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c639a0d4-6529-4057-981a-791035ba72be",
+    "location": "W 27th Av from Oak St to Osler St",
+    "comp_date": "2025-11-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08861989-3971-4b0e-b4c1-6319ce2be2cb",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.15051457096122,
-              49.23401183601109
+              -123.12921880956934,
+              49.247256075077075
             ],
             [
-              -123.15206808148022,
-              49.23403574380441
+              -123.12990070361347,
+              49.24726698619082
             ]
           ],
           [
             [
-              -123.14924657216532,
-              49.23399216237999
+              -123.12833359537797,
+              49.247241895819286
             ],
             [
-              -123.15051457096122,
-              49.23401183601109
+              -123.12921880956934,
+              49.247256075077075
+            ]
+          ],
+          [
+            [
+              -123.12761886185562,
+              49.247230445036735
+            ],
+            [
+              -123.12833359537797,
+              49.247241895819286
             ]
           ]
         ],
@@ -63,36 +45,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.15065732614346,
-      "lat": 49.23401399705458
-    }
-  },
-  {
-    "project": "Ln S of E 5th Av from Penticton St to Kamloops St",
-    "street": null,
-    "location": "Ln S of E 5th Av from Penticton St to Kamloops St",
-    "comp_date": "2025-11-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9c3ef68-7f88-4685-9de7-49a062439e95",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05469653902755,
-            49.26523065929996
-          ],
-          [
-            -123.05215199657462,
-            49.26523058551331
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0534242678011,
-      "lat": 49.265230622406634
+      "lon": -123.1287597826582,
+      "lat": 49.247248720381656
     }
   },
   {
@@ -186,112 +140,22 @@
     }
   },
   {
-    "project": "W 27th Av from Oak St to Osler St",
+    "project": "Both Sides of 6700-6800 Block of Balaclava St from W 51st Ave to 50m South of W",
     "street": null,
-    "location": "W 27th Av from Oak St to Osler St",
-    "comp_date": "2025-11-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08861989-3971-4b0e-b4c1-6319ce2be2cb",
+    "location": "Both Sides of 6700-6800 Block of Balaclava St from W 51st Ave to 50m South of W",
+    "comp_date": "2025-11-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1a1e298f-4f17-4826-82a1-e53805960d3a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ],
-            [
-              -123.12990070361347,
-              49.24726698619082
-            ]
+            -123.17598837913673,
+            49.22540500162057
           ],
           [
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ],
-            [
-              -123.12921880956934,
-              49.247256075077075
-            ]
-          ],
-          [
-            [
-              -123.12761886185562,
-              49.247230445036735
-            ],
-            [
-              -123.12833359537797,
-              49.247241895819286
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1287597826582,
-      "lat": 49.247248720381656
-    }
-  },
-  {
-    "project": "Prince Edward St and E 16th Ave",
-    "street": null,
-    "location": "Prince Edward St and E 16th Ave",
-    "comp_date": "2025-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02b9bf54-43f4-4c56-8d30-827e1be2483f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09695684857564,
-              49.25654543604426
-            ],
-            [
-              -123.09607549610341,
-              49.256534320388084
-            ]
-          ],
-          [
-            [
-              -123.09650978572739,
-              49.25660101428758
-            ],
-            [
-              -123.09651404346882,
-              49.25648152098705
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09651566374944,
-      "lat": 49.25654004418347
-    }
-  },
-  {
-    "project": "E 20th Av - Clark Dr to Knight St",
-    "street": null,
-    "location": "E 20th Av - Clark Dr to Knight St",
-    "comp_date": "2025-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7a13bc14-9d74-4541-81cf-7f5fe2bbc51b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07796729750848,
-            49.25262838289396
-          ],
-          [
-            -123.07604061299644,
-            49.252600436327214
+            -123.17600635222648,
+            49.22486760339328
           ]
         ],
         "type": "LineString"
@@ -299,8 +163,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07700395525245,
-      "lat": 49.25261440961059
+      "lon": -123.17599736568161,
+      "lat": 49.225136302506925
     }
   },
   {
@@ -442,22 +306,62 @@
     }
   },
   {
-    "project": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
+    "project": "Prince Edward St and E 16th Ave",
     "street": null,
-    "location": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
-    "comp_date": "2025-11-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11a5b687-6a73-486d-a157-f856a15508b8",
+    "location": "Prince Edward St and E 16th Ave",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02b9bf54-43f4-4c56-8d30-827e1be2483f",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07919554111317,
-            49.280473773155336
+            [
+              -123.09695684857564,
+              49.25654543604426
+            ],
+            [
+              -123.09607549610341,
+              49.256534320388084
+            ]
           ],
           [
-            -123.07920632503284,
-            49.279951038665786
+            [
+              -123.09650978572739,
+              49.25660101428758
+            ],
+            [
+              -123.09651404346882,
+              49.25648152098705
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09651566374944,
+      "lat": 49.25654004418347
+    }
+  },
+  {
+    "project": "E 20th Av - Clark Dr to Knight St",
+    "street": null,
+    "location": "E 20th Av - Clark Dr to Knight St",
+    "comp_date": "2025-11-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7a13bc14-9d74-4541-81cf-7f5fe2bbc51b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07796729750848,
+            49.25262838289396
+          ],
+          [
+            -123.07604061299644,
+            49.252600436327214
           ]
         ],
         "type": "LineString"
@@ -465,8 +369,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.079200933073,
-      "lat": 49.28021240591056
+      "lon": -123.07700395525245,
+      "lat": 49.25261440961059
     }
   },
   {
@@ -498,43 +402,31 @@
     }
   },
   {
-    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "project": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
     "street": null,
-    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "comp_date": "2025-11-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
+    "location": "Both Sides of 400 Block of Vernon Dr from Lane North of 1100 Block of E Pender S",
+    "comp_date": "2025-11-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11a5b687-6a73-486d-a157-f856a15508b8",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.13972176222764,
-              49.2865930141532
-            ],
-            [
-              -123.14025887653892,
-              49.28624552599376
-            ]
+            -123.07919554111317,
+            49.280473773155336
           ],
           [
-            [
-              -123.14025678663162,
-              49.286225085437536
-            ],
-            [
-              -123.13988268748247,
-              49.28597434721664
-            ]
+            -123.07920632503284,
+            49.279951038665786
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1400231301578,
-      "lat": 49.286287249007906
+      "lon": -123.079200933073,
+      "lat": 49.28021240591056
     }
   },
   {
@@ -588,6 +480,46 @@
     }
   },
   {
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "street": null,
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-11-21",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
+          ],
+          [
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
+    }
+  },
+  {
     "project": "Both Sides of the Street of 1900 Block of E Kent Av South. From Victoria Dr to 6",
     "street": null,
     "location": "Both Sides of the Street of 1900 Block of E Kent Av South. From Victoria Dr to 6",
@@ -613,6 +545,34 @@
     "geo_point_2d": {
       "lon": -123.06661616183072,
       "lat": 49.2073427771723
+    }
+  },
+  {
+    "project": "B/S of 2300-2500 blk Maple St",
+    "street": null,
+    "location": "B/S of 2300-2500 blk Maple St",
+    "comp_date": "2025-11-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/887394d4-c365-4a87-b822-6c399fea74b8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15044983743788,
+            49.26550187957949
+          ],
+          [
+            -123.15060381222213,
+            49.262811256013606
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15052682482998,
+      "lat": 49.26415656779655
     }
   },
   {
@@ -673,62 +633,6 @@
     "geo_point_2d": {
       "lon": -123.12838031196637,
       "lat": 49.24632703571696
-    }
-  },
-  {
-    "project": "B/S of 2300-2500 blk Maple St",
-    "street": null,
-    "location": "B/S of 2300-2500 blk Maple St",
-    "comp_date": "2025-11-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/887394d4-c365-4a87-b822-6c399fea74b8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15044983743788,
-            49.26550187957949
-          ],
-          [
-            -123.15060381222213,
-            49.262811256013606
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15052682482998,
-      "lat": 49.26415656779655
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
-    "street": null,
-    "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
-    "comp_date": "2025-11-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/926cc261-cdcf-4e8e-8d8d-1ad43814d7bc",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1884049870168,
-            49.23396409730009
-          ],
-          [
-            -123.18842654658359,
-            49.233348190228725
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18841576680019,
-      "lat": 49.23365614376441
     }
   },
   {
@@ -807,6 +711,34 @@
     "geo_point_2d": {
       "lon": -123.13930189459344,
       "lat": 49.26598139825879
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
+    "street": null,
+    "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
+    "comp_date": "2025-11-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/926cc261-cdcf-4e8e-8d8d-1ad43814d7bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1884049870168,
+            49.23396409730009
+          ],
+          [
+            -123.18842654658359,
+            49.233348190228725
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18841576680019,
+      "lat": 49.23365614376441
     }
   },
   {
