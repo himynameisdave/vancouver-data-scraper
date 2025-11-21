@@ -1,73 +1,5 @@
 [
   {
-    "project": "E 20th Av - Clark Dr to Knight St",
-    "street": null,
-    "location": "E 20th Av - Clark Dr to Knight St",
-    "comp_date": "2025-11-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7a13bc14-9d74-4541-81cf-7f5fe2bbc51b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07796729750848,
-            49.25262838289396
-          ],
-          [
-            -123.07604061299644,
-            49.252600436327214
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07700395525245,
-      "lat": 49.25261440961059
-    }
-  },
-  {
-    "project": "Macdonald St from W 43rd Av to W 45th Av",
-    "street": null,
-    "location": "Macdonald St from W 43rd Av to W 45th Av",
-    "comp_date": "2025-11-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/60171a38-96b0-403c-b9a3-5822e7e36743",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1674029336276,
-              49.23278192891934
-            ],
-            [
-              -123.16741495617359,
-              49.2318887093374
-            ]
-          ],
-          [
-            [
-              -123.16741495617359,
-              49.2318887093374
-            ],
-            [
-              -123.16741975857374,
-              49.231017340571555
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16741309889298,
-      "lat": 49.23189965137139
-    }
-  },
-  {
     "project": "Selkirk St from W 59th Av to Park Dr",
     "street": null,
     "location": "Selkirk St from W 59th Av to Park Dr",
@@ -523,6 +455,34 @@
     "geo_point_2d": {
       "lon": -123.18841576680019,
       "lat": 49.23365614376441
+    }
+  },
+  {
+    "project": "E 34th Av from Argyle St to Dumfries St",
+    "street": null,
+    "location": "E 34th Av from Argyle St to Dumfries St",
+    "comp_date": "2025-11-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6c0d7a8e-c736-4b99-ab25-82e0b92ca98e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07405104816466,
+            49.239346359715
+          ],
+          [
+            -123.07128968616037,
+            49.23931380685676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07267036716252,
+      "lat": 49.23933008328588
     }
   },
   {
@@ -6315,6 +6275,42 @@
     "geo_point_2d": {
       "lon": -123.1400231301578,
       "lat": 49.286287249007906
+    }
+  },
+  {
+    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "street": null,
+    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1525265298508,
+            49.27455499480163
+          ],
+          [
+            -123.15252116543274,
+            49.27464599300737
+          ],
+          [
+            -123.15223148685914,
+            49.2749679853105
+          ],
+          [
+            -123.15126857382279,
+            49.27495223573584
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15197983954884,
+      "lat": 49.27489347972702
     }
   },
   {
