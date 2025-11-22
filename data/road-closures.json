@@ -1,42 +1,52 @@
 [
   {
-    "project": "Selkirk St from W 59th Av to Park Dr",
+    "project": "Clark Dr - Kingsway to E 20th Av",
     "street": null,
-    "location": "Selkirk St from W 59th Av to Park Dr",
-    "comp_date": "2025-11-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/35890315-b46d-49b4-9abf-a0af1c358d97",
+    "location": "Clark Dr - Kingsway to E 20th Av",
+    "comp_date": "2025-11-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/37987a8e-b253-4abe-af9e-5895c1991b88",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.13272333787194,
-              49.21676791487522
+              -123.07797625352494,
+              49.25172058824975
             ],
             [
-              -123.13275606035005,
-              49.21569119606323
+              -123.07799594222396,
+              49.2511781449646
             ]
           ],
           [
             [
-              -123.13275606035005,
-              49.21569119606323
+              -123.07795604425841,
+              49.25217705549247
             ],
             [
-              -123.1327698920132,
-              49.21523648662216
+              -123.0779736791045,
+              49.25177861817397
             ]
           ],
           [
             [
-              -123.13270982194318,
-              49.21721263906599
+              -123.0779736791045,
+              49.25177861817397
             ],
             [
-              -123.13272333787194,
-              49.21676791487522
+              -123.07797625352494,
+              49.25172058824975
+            ]
+          ],
+          [
+            [
+              -123.07795054033284,
+              49.25262620865428
+            ],
+            [
+              -123.07795604425841,
+              49.25217705549247
             ]
           ]
         ],
@@ -45,144 +55,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13273985225878,
-      "lat": 49.21622456270058
-    }
-  },
-  {
-    "project": "W 28th Av from Balaclava St to Blenheim St",
-    "street": null,
-    "location": "W 28th Av from Balaclava St to Blenheim St",
-    "comp_date": "2025-11-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8f1a56ea-cff3-4194-a730-080b9537d085",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.17792405726787,
-              49.2470900102081
-            ],
-            [
-              -123.17861503960488,
-              49.24709259605038
-            ]
-          ],
-          [
-            [
-              -123.17571089021637,
-              49.24708129883663
-            ],
-            [
-              -123.17792405726787,
-              49.2470900102081
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17716296471464,
-      "lat": 49.24708699849089
-    }
-  },
-  {
-    "project": "B/S of 4400 Block of Maple Crescent from W 29th Ave to 20m North of W 29th Ave",
-    "street": null,
-    "location": "B/S of 4400 Block of Maple Crescent from W 29th Ave to 20m North of W 29th Ave",
-    "comp_date": "2025-11-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/079239b4-0d00-4bbf-941f-3c3d921a7620",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1484080785559,
-              49.245588861975506
-            ],
-            [
-              -123.1485212391075,
-              49.24574780114369
-            ]
-          ],
-          [
-            [
-              -123.19365507991138,
-              49.2452671043211
-            ],
-            [
-              -123.19365507991138,
-              49.2461902914238
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18577075924972,
-      "lat": 49.24571816583145
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 0 Block of Expo Blvd. From Quebec ST to 25m West of",
-    "street": null,
-    "location": "Both Sides of the Street of 0 Block of Expo Blvd. From Quebec ST to 25m West of",
-    "comp_date": "2025-11-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f9b5fe6d-4da7-402a-ad94-d99d564dafa3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10214381002076,
-            49.2776493585485
-          ],
-          [
-            -123.10282293637556,
-            49.27761067886448
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10248337319815,
-      "lat": 49.277630018706496
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1900 Block of E Kent Av South. From Victoria Dr to 6",
-    "street": null,
-    "location": "Both Sides of the Street of 1900 Block of E Kent Av South. From Victoria Dr to 6",
-    "comp_date": "2025-11-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dd024871-4b51-4f9c-ab67-298353c0d519",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06617419071094,
-            49.20721953015422
-          ],
-          [
-            -123.06705813295052,
-            49.20746602419038
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06661616183072,
-      "lat": 49.2073427771723
+      "lon": -123.07796963574377,
+      "lat": 49.25190209116134
     }
   },
   {
