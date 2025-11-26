@@ -60,34 +60,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 4800 Block of Lanark St. From South PL 4882 to North",
-    "street": null,
-    "location": "Both Sides of the Street of 4800 Block of Lanark St. From South PL 4882 to North",
-    "comp_date": "2025-11-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0e15552-2d72-41c2-8011-6a339ce9dbd4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07492068431071,
-            49.240431375543125
-          ],
-          [
-            -123.07492068431071,
-            49.240772716028346
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07492068431071,
-      "lat": 49.24060204578573
-    }
-  },
-  {
     "project": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
     "street": null,
     "location": "Both Sides of the Street of 5700-5900 Block of Highbury St. From 85m South of W",
@@ -269,6 +241,118 @@
     "geo_point_2d": {
       "lon": -123.07267036716252,
       "lat": 49.23933008328588
+    }
+  },
+  {
+    "project": "4000 Block of Maple Crescent from 15m s/o W King Edward Ave to 30m s/o W King Ed",
+    "street": null,
+    "location": "4000 Block of Maple Crescent from 15m s/o W King Edward Ave to 30m s/o W King Ed",
+    "comp_date": "2025-11-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/84e5541c-9a55-45d3-b6ed-109bd51acf7f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15162423316055,
+            49.2505576345732
+          ],
+          [
+            -123.1517104714278,
+            49.25039227585842
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15166735229415,
+      "lat": 49.2504749552158
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3300 Block of Cypress St. From Laneway north of W 18",
+    "street": null,
+    "location": "Both Sides of the Street of 3300 Block of Cypress St. From Laneway north of W 18",
+    "comp_date": "2025-11-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/75aeb12c-dc14-472e-be5a-c6fc0baf54b5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14843178997423,
+            49.25581320003488
+          ],
+          [
+            -123.14844256975763,
+            49.25553528593633
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14843717986594,
+      "lat": 49.255674242985606
+    }
+  },
+  {
+    "project": "East side of 2300 Block of Alberta St from W 8th Ave to 20m n/o W 8th Ave.",
+    "street": null,
+    "location": "East side of 2300 Block of Alberta St from W 8th Ave to 20m n/o W 8th Ave.",
+    "comp_date": "2025-11-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a249fd0a-8072-4f4d-ad95-3d33b63b52a1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11090360133134,
+            49.26390998825701
+          ],
+          [
+            -123.11089821143966,
+            49.26415619955091
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1109009063855,
+      "lat": 49.26403309390396
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3600 block of St. Catherines St. From North PL 893 E",
+    "street": null,
+    "location": "Both Sides of the Street of 3600 block of St. Catherines St. From North PL 893 E",
+    "comp_date": "2025-11-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1dee2642-d163-4388-910d-e200c456a2e7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08570046772014,
+            49.25229797213626
+          ],
+          [
+            -123.08571124750357,
+            49.251879311628755
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08570585761186,
+      "lat": 49.25208864188251
     }
   },
   {
@@ -1191,6 +1275,34 @@
     "geo_point_2d": {
       "lon": -123.15821735031855,
       "lat": 49.29993423490262
+    }
+  },
+  {
+    "project": "Both Sides of 800 Block of E 21st Ave from East PL of 883 to St. Catherine's St",
+    "street": null,
+    "location": "Both Sides of 800 Block of E 21st Ave from East PL of 883 to St. Catherine's St",
+    "comp_date": "2025-11-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fd05a11-d23f-4337-b5b3-ac8428334b20",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08606279276358,
+            49.25184848105084
+          ],
+          [
+            -123.08572828234725,
+            49.25184381228826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08589553755542,
+      "lat": 49.25184614666955
     }
   },
   {
