@@ -3,7 +3,7 @@
     "project": "L/W Oak St - W 27th Av to W 9th Av",
     "street": null,
     "location": "L/W Oak St - W 27th Av to W 9th Av",
-    "comp_date": "2025-11-26",
+    "comp_date": "2025-11-27",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5a98986a-1604-4845-9834-e9c8a6c9fe1c",
     "geom": {
       "type": "Feature",
@@ -57,78 +57,6 @@
     "geo_point_2d": {
       "lon": -123.12838031196637,
       "lat": 49.24632703571696
-    }
-  },
-  {
-    "project": "E 61st Av from Borden St to Argyle St",
-    "street": null,
-    "location": "E 61st Av from Borden St to Argyle St",
-    "comp_date": "2025-11-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a2b3d062-4335-4671-9384-f6e703840236",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07403231755252,
-              49.214604741292646
-            ],
-            [
-              -123.07275635288165,
-              49.21458936052127
-            ]
-          ],
-          [
-            [
-              -123.07275635288165,
-              49.21458936052127
-            ],
-            [
-              -123.0720454730379,
-              49.21458180029299
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07303889896988,
-      "lat": 49.21459294688032
-    }
-  },
-  {
-    "project": "200 Blk of E 1st Ave",
-    "street": null,
-    "location": "200 Blk of E 1st Ave",
-    "comp_date": "2025-11-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/160167a4-de91-472c-a145-33d5893fbc63",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10065748952547,
-            49.2701172380593
-          ],
-          [
-            -123.10045025444276,
-            49.27011346951667
-          ],
-          [
-            -123.09883017867712,
-            49.2692167772083
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09973219219073,
-      "lat": 49.26971044704391
     }
   },
   {
@@ -269,6 +197,50 @@
     "geo_point_2d": {
       "lon": -123.1109009063855,
       "lat": 49.26403309390396
+    }
+  },
+  {
+    "project": "1) Both sides of 2500 Block of Stephens St from W 10th Ave to lane n/o W 10th Av",
+    "street": null,
+    "location": "1) Both sides of 2500 Block of Stephens St from W 10th Ave to lane n/o W 10th Av",
+    "comp_date": "2025-11-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a46cd13-b5c3-4a66-9711-5802c79ce1ae",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16628549337416,
+              49.263178971782594
+            ],
+            [
+              -123.16628189862455,
+              49.26346739487627
+            ],
+            [
+              -123.16635738606232,
+              49.2636057436026
+            ]
+          ],
+          [
+            [
+              -123.16695914287413,
+              49.26363121281278
+            ],
+            [
+              -123.16471674184606,
+              49.26360345914591
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1659140010511,
+      "lat": 49.263581043738874
     }
   },
   {
@@ -5940,6 +5912,138 @@
     }
   },
   {
+    "project": "W 14th Av from Blanca St to Tolmie St",
+    "street": null,
+    "location": "W 14th Av from Blanca St to Tolmie St",
+    "comp_date": "2025-12-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c299ac39-0c1c-48a4-afb3-7335aac09ae5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.21226955760513,
+            49.26024054104559
+          ],
+          [
+            -123.2153432420932,
+            49.26028855456846
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21380639984916,
+      "lat": 49.260264547807026
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 200 Block of E 48th Av. From West PL 251 to East PL",
+    "street": null,
+    "location": "Both Sides of the Street of 200 Block of E 48th Av. From West PL 251 to East PL",
+    "comp_date": "2025-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eaeb06fe-8bf0-4cc7-8153-b569b4874253",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1006142980671,
+            49.22665227767743
+          ],
+          [
+            -123.10018849662244,
+            49.226641717772424
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10040139734477,
+      "lat": 49.22664699772493
+    }
+  },
+  {
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "street": null,
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
+          ],
+          [
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
+    }
+  },
+  {
+    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "street": null,
+    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1525265298508,
+            49.27455499480163
+          ],
+          [
+            -123.15252116543274,
+            49.27464599300737
+          ],
+          [
+            -123.15223148685914,
+            49.2749679853105
+          ],
+          [
+            -123.15126857382279,
+            49.27495223573584
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15197983954884,
+      "lat": 49.27489347972702
+    }
+  },
+  {
     "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
     "street": null,
     "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
@@ -6037,82 +6141,6 @@
     "geo_point_2d": {
       "lon": -123.02895495034613,
       "lat": 49.2838687251026
-    }
-  },
-  {
-    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "street": null,
-    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13972176222764,
-              49.2865930141532
-            ],
-            [
-              -123.14025887653892,
-              49.28624552599376
-            ]
-          ],
-          [
-            [
-              -123.14025678663162,
-              49.286225085437536
-            ],
-            [
-              -123.13988268748247,
-              49.28597434721664
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1400231301578,
-      "lat": 49.286287249007906
-    }
-  },
-  {
-    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "street": null,
-    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1525265298508,
-            49.27455499480163
-          ],
-          [
-            -123.15252116543274,
-            49.27464599300737
-          ],
-          [
-            -123.15223148685914,
-            49.2749679853105
-          ],
-          [
-            -123.15126857382279,
-            49.27495223573584
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15197983954884,
-      "lat": 49.27489347972702
     }
   },
   {
