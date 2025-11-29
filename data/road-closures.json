@@ -200,50 +200,6 @@
     }
   },
   {
-    "project": "1) Both sides of 2500 Block of Stephens St from W 10th Ave to lane n/o W 10th Av",
-    "street": null,
-    "location": "1) Both sides of 2500 Block of Stephens St from W 10th Ave to lane n/o W 10th Av",
-    "comp_date": "2025-11-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a46cd13-b5c3-4a66-9711-5802c79ce1ae",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16628549337416,
-              49.263178971782594
-            ],
-            [
-              -123.16628189862455,
-              49.26346739487627
-            ],
-            [
-              -123.16635738606232,
-              49.2636057436026
-            ]
-          ],
-          [
-            [
-              -123.16695914287413,
-              49.26363121281278
-            ],
-            [
-              -123.16471674184606,
-              49.26360345914591
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1659140010511,
-      "lat": 49.263581043738874
-    }
-  },
-  {
     "project": "Prospect Point to Third Beach",
     "street": null,
     "location": "Prospect Point to Third Beach",
@@ -4934,6 +4890,50 @@
     }
   },
   {
+    "project": "1) Both sides of 2500 Block of Stephens St from W 10th Ave to lane n/o W 10th Av",
+    "street": null,
+    "location": "1) Both sides of 2500 Block of Stephens St from W 10th Ave to lane n/o W 10th Av",
+    "comp_date": "2025-11-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0a46cd13-b5c3-4a66-9711-5802c79ce1ae",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.16628549337416,
+              49.263178971782594
+            ],
+            [
+              -123.16628189862455,
+              49.26346739487627
+            ],
+            [
+              -123.16635738606232,
+              49.2636057436026
+            ]
+          ],
+          [
+            [
+              -123.16695914287413,
+              49.26363121281278
+            ],
+            [
+              -123.16471674184606,
+              49.26360345914591
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1659140010511,
+      "lat": 49.263581043738874
+    }
+  },
+  {
     "project": "Both Sides of the Street of 3600 block of St. Catherines St. From North PL 893 E",
     "street": null,
     "location": "Both Sides of the Street of 3600 block of St. Catherines St. From North PL 893 E",
@@ -5968,82 +5968,6 @@
     }
   },
   {
-    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "street": null,
-    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13972176222764,
-              49.2865930141532
-            ],
-            [
-              -123.14025887653892,
-              49.28624552599376
-            ]
-          ],
-          [
-            [
-              -123.14025678663162,
-              49.286225085437536
-            ],
-            [
-              -123.13988268748247,
-              49.28597434721664
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1400231301578,
-      "lat": 49.286287249007906
-    }
-  },
-  {
-    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "street": null,
-    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1525265298508,
-            49.27455499480163
-          ],
-          [
-            -123.15252116543274,
-            49.27464599300737
-          ],
-          [
-            -123.15223148685914,
-            49.2749679853105
-          ],
-          [
-            -123.15126857382279,
-            49.27495223573584
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15197983954884,
-      "lat": 49.27489347972702
-    }
-  },
-  {
     "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
     "street": null,
     "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
@@ -6141,6 +6065,82 @@
     "geo_point_2d": {
       "lon": -123.02895495034613,
       "lat": 49.2838687251026
+    }
+  },
+  {
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "street": null,
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
+          ],
+          [
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
+    }
+  },
+  {
+    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "street": null,
+    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1525265298508,
+            49.27455499480163
+          ],
+          [
+            -123.15252116543274,
+            49.27464599300737
+          ],
+          [
+            -123.15223148685914,
+            49.2749679853105
+          ],
+          [
+            -123.15126857382279,
+            49.27495223573584
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15197983954884,
+      "lat": 49.27489347972702
     }
   },
   {
