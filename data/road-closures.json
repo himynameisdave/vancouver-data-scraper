@@ -136,114 +136,6 @@
     }
   },
   {
-    "project": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
-    "street": null,
-    "location": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08bbfac7-8c8f-4d80-b314-0685af03fcd8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03374910232093,
-            49.26845729853571
-          ],
-          [
-            -123.03376268399693,
-            49.26755112448501
-          ],
-          [
-            -123.03408864422121,
-            49.26755334008979
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03380080299351,
-      "lat": 49.26788464858089
-    }
-  },
-  {
-    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "street": null,
-    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13972176222764,
-              49.2865930141532
-            ],
-            [
-              -123.14025887653892,
-              49.28624552599376
-            ]
-          ],
-          [
-            [
-              -123.14025678663162,
-              49.286225085437536
-            ],
-            [
-              -123.13988268748247,
-              49.28597434721664
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1400231301578,
-      "lat": 49.286287249007906
-    }
-  },
-  {
-    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "street": null,
-    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1525265298508,
-            49.27455499480163
-          ],
-          [
-            -123.15252116543274,
-            49.27464599300737
-          ],
-          [
-            -123.15223148685914,
-            49.2749679853105
-          ],
-          [
-            -123.15126857382279,
-            49.27495223573584
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15197983954884,
-      "lat": 49.27489347972702
-    }
-  },
-  {
     "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
     "street": null,
     "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
@@ -344,6 +236,170 @@
     }
   },
   {
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "street": null,
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
+          ],
+          [
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
+    }
+  },
+  {
+    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "street": null,
+    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1525265298508,
+            49.27455499480163
+          ],
+          [
+            -123.15252116543274,
+            49.27464599300737
+          ],
+          [
+            -123.15223148685914,
+            49.2749679853105
+          ],
+          [
+            -123.15126857382279,
+            49.27495223573584
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15197983954884,
+      "lat": 49.27489347972702
+    }
+  },
+  {
+    "project": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
+    "street": null,
+    "location": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08bbfac7-8c8f-4d80-b314-0685af03fcd8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03374910232093,
+            49.26845729853571
+          ],
+          [
+            -123.03376268399693,
+            49.26755112448501
+          ],
+          [
+            -123.03408864422121,
+            49.26755334008979
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03380080299351,
+      "lat": 49.26788464858089
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
+    "street": null,
+    "location": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/451e531c-6dbf-438b-a121-fab370229c6f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10424349181493,
+            49.234572743991606
+          ],
+          [
+            -123.10461539434255,
+            49.23457978279842
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10442944307874,
+      "lat": 49.23457626339501
+    }
+  },
+  {
+    "project": "500 Cardero St",
+    "street": null,
+    "location": "500 Cardero St",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59116b77-1002-4346-ae26-0df3c209f2ea",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12744237697521,
+            49.29110070762883
+          ],
+          [
+            -123.12862753172284,
+            49.29186647506049
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12803495434903,
+      "lat": 49.29148359134466
+    }
+  },
+  {
     "project": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
     "street": null,
     "location": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
@@ -400,62 +456,6 @@
     }
   },
   {
-    "project": "500 Cardero St",
-    "street": null,
-    "location": "500 Cardero St",
-    "comp_date": "2025-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59116b77-1002-4346-ae26-0df3c209f2ea",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12744237697521,
-            49.29110070762883
-          ],
-          [
-            -123.12862753172284,
-            49.29186647506049
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12803495434903,
-      "lat": 49.29148359134466
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
-    "street": null,
-    "location": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
-    "comp_date": "2025-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/451e531c-6dbf-438b-a121-fab370229c6f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10424349181493,
-            49.234572743991606
-          ],
-          [
-            -123.10461539434255,
-            49.23457978279842
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10442944307874,
-      "lat": 49.23457626339501
-    }
-  },
-  {
     "project": "B/S of 2300-2500 blk Maple St",
     "street": null,
     "location": "B/S of 2300-2500 blk Maple St",
@@ -481,162 +481,6 @@
     "geo_point_2d": {
       "lon": -123.15052682482998,
       "lat": 49.26415656779655
-    }
-  },
-  {
-    "project": "Fir St  Off-Ramp",
-    "street": null,
-    "location": "Fir St  Off-Ramp",
-    "comp_date": "2025-12-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ca55b5ab-70e3-4c32-b39c-47b09e49c257",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13947926712845,
-            49.26853242075305
-          ],
-          [
-            -123.13961406802444,
-            49.2684474601983
-          ],
-          [
-            -123.13968424522147,
-            49.26840019555567
-          ],
-          [
-            -123.13973781357743,
-            49.26836625485896
-          ],
-          [
-            -123.13977769191911,
-            49.268332672516976
-          ],
-          [
-            -123.13981719713613,
-            49.268298406977294
-          ],
-          [
-            -123.13984142617718,
-            49.26827230956508
-          ],
-          [
-            -123.13986944129614,
-            49.26824346402839
-          ],
-          [
-            -123.13988525874544,
-            49.26822256701956
-          ],
-          [
-            -123.1399023911659,
-            49.268195173881566
-          ],
-          [
-            -123.13991788248563,
-            49.268170760139554
-          ],
-          [
-            -123.1399327272269,
-            49.268146167274466
-          ],
-          [
-            -123.13994692544148,
-            49.268121413276816
-          ],
-          [
-            -123.13996044966386,
-            49.26809650717527
-          ],
-          [
-            -123.13997329986958,
-            49.26807143997502
-          ],
-          [
-            -123.13998548988164,
-            49.26804623864504
-          ],
-          [
-            -123.13999700592976,
-            49.26802089420701
-          ],
-          [
-            -123.14000784806575,
-            49.26799542465156
-          ],
-          [
-            -123.14001800257022,
-            49.26796983899061
-          ],
-          [
-            -123.14057127415737,
-            49.26593344494037
-          ],
-          [
-            -123.14059909811574,
-            49.26586212409319
-          ],
-          [
-            -123.14063835542842,
-            49.265775380537235
-          ],
-          [
-            -123.14069769804809,
-            49.26566093426598
-          ],
-          [
-            -123.14075809832302,
-            49.26555599460468
-          ],
-          [
-            -123.14079571158697,
-            49.265485813165355
-          ],
-          [
-            -123.14082448197873,
-            49.26542848764359
-          ],
-          [
-            -123.14086355370237,
-            49.26534440681124
-          ],
-          [
-            -123.1409068428391,
-            49.265245073948506
-          ],
-          [
-            -123.1409289026027,
-            49.2651867761046
-          ],
-          [
-            -123.1409395542852,
-            49.26515273425042
-          ],
-          [
-            -123.14095348541629,
-            49.265097423728974
-          ],
-          [
-            -123.1409609320074,
-            49.265057691817304
-          ],
-          [
-            -123.14097009098958,
-            49.26496770160216
-          ],
-          [
-            -123.14098392003156,
-            49.26454852612369
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14038724550365,
-      "lat": 49.26662636739607
     }
   },
   {
@@ -969,6 +813,162 @@
     "geo_point_2d": {
       "lon": -123.08760519779383,
       "lat": 49.2408232609722
+    }
+  },
+  {
+    "project": "Fir St  Off-Ramp",
+    "street": null,
+    "location": "Fir St  Off-Ramp",
+    "comp_date": "2025-12-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ca55b5ab-70e3-4c32-b39c-47b09e49c257",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13947926712845,
+            49.26853242075305
+          ],
+          [
+            -123.13961406802444,
+            49.2684474601983
+          ],
+          [
+            -123.13968424522147,
+            49.26840019555567
+          ],
+          [
+            -123.13973781357743,
+            49.26836625485896
+          ],
+          [
+            -123.13977769191911,
+            49.268332672516976
+          ],
+          [
+            -123.13981719713613,
+            49.268298406977294
+          ],
+          [
+            -123.13984142617718,
+            49.26827230956508
+          ],
+          [
+            -123.13986944129614,
+            49.26824346402839
+          ],
+          [
+            -123.13988525874544,
+            49.26822256701956
+          ],
+          [
+            -123.1399023911659,
+            49.268195173881566
+          ],
+          [
+            -123.13991788248563,
+            49.268170760139554
+          ],
+          [
+            -123.1399327272269,
+            49.268146167274466
+          ],
+          [
+            -123.13994692544148,
+            49.268121413276816
+          ],
+          [
+            -123.13996044966386,
+            49.26809650717527
+          ],
+          [
+            -123.13997329986958,
+            49.26807143997502
+          ],
+          [
+            -123.13998548988164,
+            49.26804623864504
+          ],
+          [
+            -123.13999700592976,
+            49.26802089420701
+          ],
+          [
+            -123.14000784806575,
+            49.26799542465156
+          ],
+          [
+            -123.14001800257022,
+            49.26796983899061
+          ],
+          [
+            -123.14057127415737,
+            49.26593344494037
+          ],
+          [
+            -123.14059909811574,
+            49.26586212409319
+          ],
+          [
+            -123.14063835542842,
+            49.265775380537235
+          ],
+          [
+            -123.14069769804809,
+            49.26566093426598
+          ],
+          [
+            -123.14075809832302,
+            49.26555599460468
+          ],
+          [
+            -123.14079571158697,
+            49.265485813165355
+          ],
+          [
+            -123.14082448197873,
+            49.26542848764359
+          ],
+          [
+            -123.14086355370237,
+            49.26534440681124
+          ],
+          [
+            -123.1409068428391,
+            49.265245073948506
+          ],
+          [
+            -123.1409289026027,
+            49.2651867761046
+          ],
+          [
+            -123.1409395542852,
+            49.26515273425042
+          ],
+          [
+            -123.14095348541629,
+            49.265097423728974
+          ],
+          [
+            -123.1409609320074,
+            49.265057691817304
+          ],
+          [
+            -123.14097009098958,
+            49.26496770160216
+          ],
+          [
+            -123.14098392003156,
+            49.26454852612369
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14038724550365,
+      "lat": 49.26662636739607
     }
   },
   {
