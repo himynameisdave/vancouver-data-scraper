@@ -1,73 +1,5 @@
 [
   {
-    "project": "W 54th Av from Marguerite St to Adera St",
-    "street": null,
-    "location": "W 54th Av from Marguerite St to Adera St",
-    "comp_date": "2025-12-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/076c61ab-1fd1-4828-b066-fe76ca035044",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14449170939747,
-              49.221763155487025
-            ],
-            [
-              -123.14519635093546,
-              49.221772688464
-            ]
-          ],
-          [
-            [
-              -123.1437026628195,
-              49.22175285969783
-            ],
-            [
-              -123.14449170939747,
-              49.221763155487025
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1444495080655,
-      "lat": 49.22176268467971
-    }
-  },
-  {
-    "project": "W 14th Av from Blanca St to Tolmie St",
-    "street": null,
-    "location": "W 14th Av from Blanca St to Tolmie St",
-    "comp_date": "2025-12-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c299ac39-0c1c-48a4-afb3-7335aac09ae5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.21226955760513,
-            49.26024054104559
-          ],
-          [
-            -123.2153432420932,
-            49.26028855456846
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.21380639984916,
-      "lat": 49.260264547807026
-    }
-  },
-  {
     "project": "Robson Street & Beatty Street",
     "street": null,
     "location": "Robson Street & Beatty Street",
@@ -108,6 +40,34 @@
     }
   },
   {
+    "project": "B/S of 5100 Block of Pine Crescent from W 36th Ave to 20m North of W 36th Ave",
+    "street": null,
+    "location": "B/S of 5100 Block of Pine Crescent from W 36th Ave to 20m North of W 36th Ave",
+    "comp_date": "2025-12-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0291c4c2-bd79-4877-a72a-853ade79ed27",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14700069168353,
+            49.23909235512252
+          ],
+          [
+            -123.1469926450565,
+            49.23931651139995
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14699666837001,
+      "lat": 49.239204433261236
+    }
+  },
+  {
     "project": "Both Sides of the Street of 200 Block of E 48th Av. From West PL 251 to East PL",
     "street": null,
     "location": "Both Sides of the Street of 200 Block of E 48th Av. From West PL 251 to East PL",
@@ -136,26 +96,62 @@
     }
   },
   {
-    "project": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
     "street": null,
-    "location": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
     "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08bbfac7-8c8f-4d80-b314-0685af03fcd8",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.03374910232093,
-            49.26845729853571
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
           ],
           [
-            -123.03376268399693,
-            49.26755112448501
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
+    }
+  },
+  {
+    "project": "W 46th Av from Hudson St to Cartier St",
+    "street": null,
+    "location": "W 46th Av from Hudson St to Cartier St",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e64c443f-0c0b-40dc-bfae-9aee35f4989a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13498758350674,
+            49.229537576932074
           ],
           [
-            -123.03408864422121,
-            49.26755334008979
+            -123.13735406521474,
+            49.22961972964748
           ]
         ],
         "type": "LineString"
@@ -163,8 +159,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.03380080299351,
-      "lat": 49.26788464858089
+      "lon": -123.13617082436073,
+      "lat": 49.22957865328978
     }
   },
   {
@@ -298,62 +294,26 @@
     }
   },
   {
-    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "project": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
     "street": null,
-    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "location": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
     "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08bbfac7-8c8f-4d80-b314-0685af03fcd8",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.13972176222764,
-              49.2865930141532
-            ],
-            [
-              -123.14025887653892,
-              49.28624552599376
-            ]
+            -123.03374910232093,
+            49.26845729853571
           ],
           [
-            [
-              -123.14025678663162,
-              49.286225085437536
-            ],
-            [
-              -123.13988268748247,
-              49.28597434721664
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1400231301578,
-      "lat": 49.286287249007906
-    }
-  },
-  {
-    "project": "W 46th Av from Hudson St to Cartier St",
-    "street": null,
-    "location": "W 46th Av from Hudson St to Cartier St",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e64c443f-0c0b-40dc-bfae-9aee35f4989a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13498758350674,
-            49.229537576932074
+            -123.03376268399693,
+            49.26755112448501
           ],
           [
-            -123.13735406521474,
-            49.22961972964748
+            -123.03408864422121,
+            49.26755334008979
           ]
         ],
         "type": "LineString"
@@ -361,100 +321,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13617082436073,
-      "lat": 49.22957865328978
-    }
-  },
-  {
-    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "street": null,
-    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1525265298508,
-            49.27455499480163
-          ],
-          [
-            -123.15252116543274,
-            49.27464599300737
-          ],
-          [
-            -123.15223148685914,
-            49.2749679853105
-          ],
-          [
-            -123.15126857382279,
-            49.27495223573584
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15197983954884,
-      "lat": 49.27489347972702
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
-    "street": null,
-    "location": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
-    "comp_date": "2025-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e32f4ad-e3b6-4a63-bb94-7e101ca66f3e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.05830259981423,
-            49.25317344494189
-          ],
-          [
-            -123.05829720992251,
-            49.25283922638019
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05829990486836,
-      "lat": 49.25300633566104
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
-    "street": null,
-    "location": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
-    "comp_date": "2025-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/451e531c-6dbf-438b-a121-fab370229c6f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10424349181493,
-            49.234572743991606
-          ],
-          [
-            -123.10461539434255,
-            49.23457978279842
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10442944307874,
-      "lat": 49.23457626339501
+      "lon": -123.03380080299351,
+      "lat": 49.26788464858089
     }
   },
   {
@@ -486,6 +354,146 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
+    "street": null,
+    "location": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/451e531c-6dbf-438b-a121-fab370229c6f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10424349181493,
+            49.234572743991606
+          ],
+          [
+            -123.10461539434255,
+            49.23457978279842
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10442944307874,
+      "lat": 49.23457626339501
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 2700-2800 Block of Cheyenne Av. From West PL 2816 to",
+    "street": null,
+    "location": "Both Sides of the Street of 2700-2800 Block of Cheyenne Av. From West PL 2816 to",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a37761a5-76d2-4424-ae4f-a86620a030d4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04720406453447,
+            49.24085330709033
+          ],
+          [
+            -123.04759752662892,
+            49.241011659864114
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0474007955817,
+      "lat": 49.24093248347722
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
+    "street": null,
+    "location": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e32f4ad-e3b6-4a63-bb94-7e101ca66f3e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05830259981423,
+            49.25317344494189
+          ],
+          [
+            -123.05829720992251,
+            49.25283922638019
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05829990486836,
+      "lat": 49.25300633566104
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 300 Block of E 54th Av. From West PL of 355 to East",
+    "street": null,
+    "location": "Both Sides of the Street of 300 Block of E 54th Av. From West PL of 355 to East",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a44564f3-d457-4e67-8190-2760a9e319f7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09885363906068,
+            49.22100498117709
+          ],
+          [
+            -123.09833081956532,
+            49.22099442006518
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.098592229313,
+      "lat": 49.220999700621135
+    }
+  },
+  {
+    "project": "W 12th Av from Tolmie St to Sasamat St",
+    "street": null,
+    "location": "W 12th Av from Tolmie St to Sasamat St",
+    "comp_date": "2025-12-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7d083eff-156a-4e6b-adee-6f7006f7ae5a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20916533004198,
+            49.262001367118074
+          ],
+          [
+            -123.21220445681271,
+            49.262049121949445
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21068489342736,
+      "lat": 49.26202524453375
+    }
+  },
+  {
     "project": "B/S of 2300-2500 blk Maple St",
     "street": null,
     "location": "B/S of 2300-2500 blk Maple St",
@@ -511,162 +519,6 @@
     "geo_point_2d": {
       "lon": -123.15052682482998,
       "lat": 49.26415656779655
-    }
-  },
-  {
-    "project": "Fir St  Off-Ramp",
-    "street": null,
-    "location": "Fir St  Off-Ramp",
-    "comp_date": "2025-12-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ca55b5ab-70e3-4c32-b39c-47b09e49c257",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13947926712845,
-            49.26853242075305
-          ],
-          [
-            -123.13961406802444,
-            49.2684474601983
-          ],
-          [
-            -123.13968424522147,
-            49.26840019555567
-          ],
-          [
-            -123.13973781357743,
-            49.26836625485896
-          ],
-          [
-            -123.13977769191911,
-            49.268332672516976
-          ],
-          [
-            -123.13981719713613,
-            49.268298406977294
-          ],
-          [
-            -123.13984142617718,
-            49.26827230956508
-          ],
-          [
-            -123.13986944129614,
-            49.26824346402839
-          ],
-          [
-            -123.13988525874544,
-            49.26822256701956
-          ],
-          [
-            -123.1399023911659,
-            49.268195173881566
-          ],
-          [
-            -123.13991788248563,
-            49.268170760139554
-          ],
-          [
-            -123.1399327272269,
-            49.268146167274466
-          ],
-          [
-            -123.13994692544148,
-            49.268121413276816
-          ],
-          [
-            -123.13996044966386,
-            49.26809650717527
-          ],
-          [
-            -123.13997329986958,
-            49.26807143997502
-          ],
-          [
-            -123.13998548988164,
-            49.26804623864504
-          ],
-          [
-            -123.13999700592976,
-            49.26802089420701
-          ],
-          [
-            -123.14000784806575,
-            49.26799542465156
-          ],
-          [
-            -123.14001800257022,
-            49.26796983899061
-          ],
-          [
-            -123.14057127415737,
-            49.26593344494037
-          ],
-          [
-            -123.14059909811574,
-            49.26586212409319
-          ],
-          [
-            -123.14063835542842,
-            49.265775380537235
-          ],
-          [
-            -123.14069769804809,
-            49.26566093426598
-          ],
-          [
-            -123.14075809832302,
-            49.26555599460468
-          ],
-          [
-            -123.14079571158697,
-            49.265485813165355
-          ],
-          [
-            -123.14082448197873,
-            49.26542848764359
-          ],
-          [
-            -123.14086355370237,
-            49.26534440681124
-          ],
-          [
-            -123.1409068428391,
-            49.265245073948506
-          ],
-          [
-            -123.1409289026027,
-            49.2651867761046
-          ],
-          [
-            -123.1409395542852,
-            49.26515273425042
-          ],
-          [
-            -123.14095348541629,
-            49.265097423728974
-          ],
-          [
-            -123.1409609320074,
-            49.265057691817304
-          ],
-          [
-            -123.14097009098958,
-            49.26496770160216
-          ],
-          [
-            -123.14098392003156,
-            49.26454852612369
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14038724550365,
-      "lat": 49.26662636739607
     }
   },
   {
@@ -1002,6 +854,162 @@
     }
   },
   {
+    "project": "Fir St  Off-Ramp",
+    "street": null,
+    "location": "Fir St  Off-Ramp",
+    "comp_date": "2025-12-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ca55b5ab-70e3-4c32-b39c-47b09e49c257",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13947926712845,
+            49.26853242075305
+          ],
+          [
+            -123.13961406802444,
+            49.2684474601983
+          ],
+          [
+            -123.13968424522147,
+            49.26840019555567
+          ],
+          [
+            -123.13973781357743,
+            49.26836625485896
+          ],
+          [
+            -123.13977769191911,
+            49.268332672516976
+          ],
+          [
+            -123.13981719713613,
+            49.268298406977294
+          ],
+          [
+            -123.13984142617718,
+            49.26827230956508
+          ],
+          [
+            -123.13986944129614,
+            49.26824346402839
+          ],
+          [
+            -123.13988525874544,
+            49.26822256701956
+          ],
+          [
+            -123.1399023911659,
+            49.268195173881566
+          ],
+          [
+            -123.13991788248563,
+            49.268170760139554
+          ],
+          [
+            -123.1399327272269,
+            49.268146167274466
+          ],
+          [
+            -123.13994692544148,
+            49.268121413276816
+          ],
+          [
+            -123.13996044966386,
+            49.26809650717527
+          ],
+          [
+            -123.13997329986958,
+            49.26807143997502
+          ],
+          [
+            -123.13998548988164,
+            49.26804623864504
+          ],
+          [
+            -123.13999700592976,
+            49.26802089420701
+          ],
+          [
+            -123.14000784806575,
+            49.26799542465156
+          ],
+          [
+            -123.14001800257022,
+            49.26796983899061
+          ],
+          [
+            -123.14057127415737,
+            49.26593344494037
+          ],
+          [
+            -123.14059909811574,
+            49.26586212409319
+          ],
+          [
+            -123.14063835542842,
+            49.265775380537235
+          ],
+          [
+            -123.14069769804809,
+            49.26566093426598
+          ],
+          [
+            -123.14075809832302,
+            49.26555599460468
+          ],
+          [
+            -123.14079571158697,
+            49.265485813165355
+          ],
+          [
+            -123.14082448197873,
+            49.26542848764359
+          ],
+          [
+            -123.14086355370237,
+            49.26534440681124
+          ],
+          [
+            -123.1409068428391,
+            49.265245073948506
+          ],
+          [
+            -123.1409289026027,
+            49.2651867761046
+          ],
+          [
+            -123.1409395542852,
+            49.26515273425042
+          ],
+          [
+            -123.14095348541629,
+            49.265097423728974
+          ],
+          [
+            -123.1409609320074,
+            49.265057691817304
+          ],
+          [
+            -123.14097009098958,
+            49.26496770160216
+          ],
+          [
+            -123.14098392003156,
+            49.26454852612369
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14038724550365,
+      "lat": 49.26662636739607
+    }
+  },
+  {
     "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
     "street": null,
     "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
@@ -1049,6 +1057,42 @@
     "geo_point_2d": {
       "lon": -123.13030444607118,
       "lat": 49.28969106444507
+    }
+  },
+  {
+    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "street": null,
+    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "comp_date": "2025-12-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1525265298508,
+            49.27455499480163
+          ],
+          [
+            -123.15252116543274,
+            49.27464599300737
+          ],
+          [
+            -123.15223148685914,
+            49.2749679853105
+          ],
+          [
+            -123.15126857382279,
+            49.27495223573584
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15197983954884,
+      "lat": 49.27489347972702
     }
   },
   {
