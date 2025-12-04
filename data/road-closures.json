@@ -1,45 +1,5 @@
 [
   {
-    "project": "Robson Street & Beatty Street",
-    "street": null,
-    "location": "Robson Street & Beatty Street",
-    "comp_date": "2025-12-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/df0f0dd0-02cc-49e1-9548-aadc2bcd612d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11420004254155,
-              49.27744491665993
-            ],
-            [
-              -123.11369179923176,
-              49.27778142508984
-            ]
-          ],
-          [
-            [
-              -123.11397113913122,
-              49.277581544388255
-            ],
-            [
-              -123.11420392238078,
-              49.27772070194783
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11398952609589,
-      "lat": 49.27762485733214
-    }
-  },
-  {
     "project": "B/S of 5100 Block of Pine Crescent from W 36th Ave to 20m North of W 36th Ave",
     "street": null,
     "location": "B/S of 5100 Block of Pine Crescent from W 36th Ave to 20m North of W 36th Ave",
@@ -65,102 +25,6 @@
     "geo_point_2d": {
       "lon": -123.14699666837001,
       "lat": 49.239204433261236
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 200 Block of E 48th Av. From West PL 251 to East PL",
-    "street": null,
-    "location": "Both Sides of the Street of 200 Block of E 48th Av. From West PL 251 to East PL",
-    "comp_date": "2025-12-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eaeb06fe-8bf0-4cc7-8153-b569b4874253",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1006142980671,
-            49.22665227767743
-          ],
-          [
-            -123.10018849662244,
-            49.226641717772424
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10040139734477,
-      "lat": 49.22664699772493
-    }
-  },
-  {
-    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "street": null,
-    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13972176222764,
-              49.2865930141532
-            ],
-            [
-              -123.14025887653892,
-              49.28624552599376
-            ]
-          ],
-          [
-            [
-              -123.14025678663162,
-              49.286225085437536
-            ],
-            [
-              -123.13988268748247,
-              49.28597434721664
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1400231301578,
-      "lat": 49.286287249007906
-    }
-  },
-  {
-    "project": "W 46th Av from Hudson St to Cartier St",
-    "street": null,
-    "location": "W 46th Av from Hudson St to Cartier St",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e64c443f-0c0b-40dc-bfae-9aee35f4989a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13498758350674,
-            49.229537576932074
-          ],
-          [
-            -123.13735406521474,
-            49.22961972964748
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13617082436073,
-      "lat": 49.22957865328978
     }
   },
   {
@@ -326,22 +190,62 @@
     }
   },
   {
-    "project": "500 Cardero St",
+    "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
     "street": null,
-    "location": "500 Cardero St",
-    "comp_date": "2025-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59116b77-1002-4346-ae26-0df3c209f2ea",
+    "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12f56be9-c024-477a-b8f8-7b2b37d52e18",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.12744237697521,
-            49.29110070762883
+            [
+              -123.13972176222764,
+              49.2865930141532
+            ],
+            [
+              -123.14025887653892,
+              49.28624552599376
+            ]
           ],
           [
-            -123.12862753172284,
-            49.29186647506049
+            [
+              -123.14025678663162,
+              49.286225085437536
+            ],
+            [
+              -123.13988268748247,
+              49.28597434721664
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1400231301578,
+      "lat": 49.286287249007906
+    }
+  },
+  {
+    "project": "W 46th Av from Hudson St to Cartier St",
+    "street": null,
+    "location": "W 46th Av from Hudson St to Cartier St",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e64c443f-0c0b-40dc-bfae-9aee35f4989a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13498758350674,
+            49.229537576932074
+          ],
+          [
+            -123.13735406521474,
+            49.22961972964748
           ]
         ],
         "type": "LineString"
@@ -349,8 +253,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12803495434903,
-      "lat": 49.29148359134466
+      "lon": -123.13617082436073,
+      "lat": 49.22957865328978
     }
   },
   {
@@ -466,6 +370,34 @@
     }
   },
   {
+    "project": "500 Cardero St",
+    "street": null,
+    "location": "500 Cardero St",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59116b77-1002-4346-ae26-0df3c209f2ea",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12744237697521,
+            49.29110070762883
+          ],
+          [
+            -123.12862753172284,
+            49.29186647506049
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12803495434903,
+      "lat": 49.29148359134466
+    }
+  },
+  {
     "project": "W 12th Av from Tolmie St to Sasamat St",
     "street": null,
     "location": "W 12th Av from Tolmie St to Sasamat St",
@@ -491,6 +423,34 @@
     "geo_point_2d": {
       "lon": -123.21068489342736,
       "lat": 49.26202524453375
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3600 Block of Dundas St. From West PL of 3639 to Eas",
+    "street": null,
+    "location": "Both Sides of the Street of 3600 Block of Dundas St. From West PL of 3639 to Eas",
+    "comp_date": "2025-12-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3a6610f0-f650-4127-a404-af45e516f622",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02466892731702,
+            49.284769105889694
+          ],
+          [
+            -123.02421078652212,
+            49.28477262171546
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02443985691957,
+      "lat": 49.28477086380258
     }
   },
   {
