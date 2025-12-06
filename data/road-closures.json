@@ -158,6 +158,38 @@
     }
   },
   {
+    "project": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
+    "street": null,
+    "location": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
+    "comp_date": "2025-12-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08bbfac7-8c8f-4d80-b314-0685af03fcd8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03374910232093,
+            49.26845729853571
+          ],
+          [
+            -123.03376268399693,
+            49.26755112448501
+          ],
+          [
+            -123.03408864422121,
+            49.26755334008979
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03380080299351,
+      "lat": 49.26788464858089
+    }
+  },
+  {
     "project": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
     "street": null,
     "location": "East Side of 1100 Block of Bidwell St from Davie St to See-em-ia Lane and South",
@@ -226,38 +258,6 @@
     }
   },
   {
-    "project": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
-    "street": null,
-    "location": "W/S of 1800 Block of Rupert St from E 2nd Ave to E 3rd Ave\r\nB/S of 3200 Block of",
-    "comp_date": "2025-12-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/08bbfac7-8c8f-4d80-b314-0685af03fcd8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03374910232093,
-            49.26845729853571
-          ],
-          [
-            -123.03376268399693,
-            49.26755112448501
-          ],
-          [
-            -123.03408864422121,
-            49.26755334008979
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03380080299351,
-      "lat": 49.26788464858089
-    }
-  },
-  {
     "project": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
     "street": null,
     "location": "Both Sides of the Street of 0 Block of E 40th Av. from West PL of 50 to East Pl",
@@ -314,34 +314,6 @@
     }
   },
   {
-    "project": "500 Cardero St",
-    "street": null,
-    "location": "500 Cardero St",
-    "comp_date": "2025-12-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59116b77-1002-4346-ae26-0df3c209f2ea",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12744237697521,
-            49.29110070762883
-          ],
-          [
-            -123.12862753172284,
-            49.29186647506049
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12803495434903,
-      "lat": 49.29148359134466
-    }
-  },
-  {
     "project": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
     "street": null,
     "location": "Both Sides of the Street of 3400 Block of Garden Dr. From North PL 3420 to South",
@@ -395,6 +367,34 @@
     "geo_point_2d": {
       "lon": -123.098592229313,
       "lat": 49.220999700621135
+    }
+  },
+  {
+    "project": "500 Cardero St",
+    "street": null,
+    "location": "500 Cardero St",
+    "comp_date": "2025-12-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/59116b77-1002-4346-ae26-0df3c209f2ea",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12744237697521,
+            49.29110070762883
+          ],
+          [
+            -123.12862753172284,
+            49.29186647506049
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12803495434903,
+      "lat": 49.29148359134466
     }
   },
   {
