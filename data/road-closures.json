@@ -1,21 +1,21 @@
 [
   {
-    "project": "Homer St - Davie to Drake St",
+    "project": "Alberni St - Cardero St to Nicola St",
     "street": null,
-    "location": "Homer St - Davie to Drake St",
-    "comp_date": "2025-12-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/32d504b5-ed36-4cce-8790-0c5e35064cce",
+    "location": "Alberni St - Cardero St to Nicola St",
+    "comp_date": "2025-12-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3c1311b4-a83c-4738-9792-85c0aaad9a32",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.12326640383532,
-            49.27525166243217
+            -123.13004382164875,
+            49.2893796068187
           ],
           [
-            -123.12486044367438,
-            49.27419627241335
+            -123.13122603035521,
+            49.290144577560085
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12406342375485,
-      "lat": 49.27472396742276
+      "lon": -123.13063492600199,
+      "lat": 49.28976209218939
     }
   },
   {
@@ -125,34 +125,6 @@
     "geo_point_2d": {
       "lon": -123.11445951017012,
       "lat": 49.282361074615864
-    }
-  },
-  {
-    "project": "B/S of 2300-2500 blk Maple St",
-    "street": null,
-    "location": "B/S of 2300-2500 blk Maple St",
-    "comp_date": "2025-12-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/887394d4-c365-4a87-b822-6c399fea74b8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15044983743788,
-            49.26550187957949
-          ],
-          [
-            -123.15060381222213,
-            49.262811256013606
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15052682482998,
-      "lat": 49.26415656779655
     }
   },
   {
@@ -601,34 +573,6 @@
     "geo_point_2d": {
       "lon": -123.14038724550365,
       "lat": 49.26662636739607
-    }
-  },
-  {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18815934348683,
-            49.24519436177815
-          ],
-          [
-            -123.18817356592662,
-            49.241433898919325
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
     }
   },
   {
