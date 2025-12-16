@@ -476,34 +476,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
-    "street": null,
-    "location": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
-    "comp_date": "2025-12-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c6f8f0bd-1e42-48a2-a825-f89cad5c36c8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02505879615033,
-            49.22967466438985
-          ],
-          [
-            -123.02505340625865,
-            49.22988584909703
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02505610120448,
-      "lat": 49.22978025674344
-    }
-  },
-  {
     "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
     "street": null,
     "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
@@ -587,6 +559,34 @@
     "geo_point_2d": {
       "lon": -123.15197983954884,
       "lat": 49.27489347972702
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
+    "street": null,
+    "location": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
+    "comp_date": "2025-12-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c6f8f0bd-1e42-48a2-a825-f89cad5c36c8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.02505879615033,
+            49.22967466438985
+          ],
+          [
+            -123.02505340625865,
+            49.22988584909703
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02505610120448,
+      "lat": 49.22978025674344
     }
   },
   {
