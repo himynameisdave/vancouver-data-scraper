@@ -1,62 +1,30 @@
 [
   {
-    "project": "600 Block of W 37th Ave",
+    "project": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
     "street": null,
-    "location": "600 Block of W 37th Ave",
-    "comp_date": "2025-12-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2cf84378-2ccb-432d-9e75-afd82cf9f79a",
+    "location": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
+    "comp_date": "2025-12-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c6f8f0bd-1e42-48a2-a825-f89cad5c36c8",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.12001177030223,
-              49.23738495995522
-            ],
-            [
-              -123.12077156504951,
-              49.23741145973108
-            ]
+            -123.02505879615033,
+            49.22967466438985
           ],
           [
-            [
-              -123.11925270369976,
-              49.23735814859228
-            ],
-            [
-              -123.12001177030223,
-              49.23738495995522
-            ]
-          ],
-          [
-            [
-              -123.11849743093188,
-              49.23733196701309
-            ],
-            [
-              -123.11925270369976,
-              49.23735814859228
-            ]
-          ],
-          [
-            [
-              -123.11773783279793,
-              49.23730624366215
-            ],
-            [
-              -123.11849743093188,
-              49.23733196701309
-            ]
+            -123.02505340625865,
+            49.22988584909703
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11925471099347,
-      "lat": 49.237358501656644
+      "lon": -123.02505610120448,
+      "lat": 49.22978025674344
     }
   },
   {
@@ -110,22 +78,22 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
+    "project": "Both sides of 1500 Block of Alberni St from Nicola St to W PL 1550.",
     "street": null,
-    "location": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
+    "location": "Both sides of 1500 Block of Alberni St from Nicola St to W PL 1550.",
     "comp_date": "2025-12-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c6f8f0bd-1e42-48a2-a825-f89cad5c36c8",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f4eed206-a559-4621-b2cd-5b5e761d8e18",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.02505879615033,
-            49.22967466438985
+            -123.13005208992763,
+            49.28940040302845
           ],
           [
-            -123.02505340625865,
-            49.22988584909703
+            -123.13101688054277,
+            49.290036703637895
           ]
         ],
         "type": "LineString"
@@ -133,8 +101,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.02505610120448,
-      "lat": 49.22978025674344
+      "lon": -123.13053448523522,
+      "lat": 49.289718553333174
     }
   },
   {
