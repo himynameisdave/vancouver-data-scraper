@@ -1,111 +1,5 @@
 [
   {
-    "project": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
-    "street": null,
-    "location": "Both Sides of the Street of 5900 Block of Ormidale St. From South PL 5969 to Nor",
-    "comp_date": "2025-12-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c6f8f0bd-1e42-48a2-a825-f89cad5c36c8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02505879615033,
-            49.22967466438985
-          ],
-          [
-            -123.02505340625865,
-            49.22988584909703
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02505610120448,
-      "lat": 49.22978025674344
-    }
-  },
-  {
-    "project": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
-    "street": null,
-    "location": "North Side of 1400-1500 Block of Alberni St from Cardero St to 15m East of Nicol",
-    "comp_date": "2025-12-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/71891bcd-0881-469d-9c53-7ecb2eac5745",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12942470597284,
-              49.289802592739676
-            ],
-            [
-              -123.13004006187779,
-              49.28939789054209
-            ]
-          ],
-          [
-            [
-              -123.13122781742351,
-              49.29015862534149
-            ],
-            [
-              -123.13005810609384,
-              49.289395992867384
-            ]
-          ],
-          [
-            [
-              -123.13004955934764,
-              49.28939861356619
-            ],
-            [
-              -123.12991539743784,
-              49.28931230779784
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13030444607118,
-      "lat": 49.28969106444507
-    }
-  },
-  {
-    "project": "Both sides of 1500 Block of Alberni St from Nicola St to W PL 1550.",
-    "street": null,
-    "location": "Both sides of 1500 Block of Alberni St from Nicola St to W PL 1550.",
-    "comp_date": "2025-12-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f4eed206-a559-4621-b2cd-5b5e761d8e18",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13005208992763,
-            49.28940040302845
-          ],
-          [
-            -123.13101688054277,
-            49.290036703637895
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13053448523522,
-      "lat": 49.289718553333174
-    }
-  },
-  {
     "project": "B/S of 2000-2200 blk of Alberta St",
     "street": null,
     "location": "B/S of 2000-2200 blk of Alberta St",
@@ -255,6 +149,66 @@
     "geo_point_2d": {
       "lon": -123.08760519779383,
       "lat": 49.2408232609722
+    }
+  },
+  {
+    "project": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
+    "street": null,
+    "location": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
+    "comp_date": "2026-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3cee61c5-b5e2-4ed3-ae64-911685e183eb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08419848456504,
+            49.20879342711859
+          ],
+          [
+            -123.08403139792219,
+            49.209765279822676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08411494124361,
+      "lat": 49.209279353470635
+    }
+  },
+  {
+    "project": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
+    "street": null,
+    "location": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
+    "comp_date": "2026-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dc8d0047-d6c5-4092-a9b7-839e3bf29c83",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03646852315278,
+            49.23758008827727
+          ],
+          [
+            -123.03567441244164,
+            49.23725602852369
+          ],
+          [
+            -123.0361590535374,
+            49.236726090933416
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0360009521636,
+      "lat": 49.23722346687744
     }
   },
   {
