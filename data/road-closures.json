@@ -1,21 +1,29 @@
 [
   {
-    "project": "W 1th Av from Dunbar St to Collingwood St",
+    "project": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
     "street": null,
-    "location": "W 1th Av from Dunbar St to Collingwood St",
-    "comp_date": "2026-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c78471a8-0098-47c4-980a-febc35e628ea",
+    "location": "E/S of 1200 Block of Arbutus St from Creelman Ave to Whyte Ave\r\nB/S of the Lane",
+    "comp_date": "2026-01-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f1675c9a-37dc-4f5b-9eeb-a96d4b51d98a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.18191483577667,
-            49.262492146466656
+            -123.1525265298508,
+            49.27455499480163
           ],
           [
-            -123.18385071541186,
-            49.26252337199773
+            -123.15252116543274,
+            49.27464599300737
+          ],
+          [
+            -123.15223148685914,
+            49.2749679853105
+          ],
+          [
+            -123.15126857382279,
+            49.27495223573584
           ]
         ],
         "type": "LineString"
@@ -23,8 +31,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18288277559427,
-      "lat": 49.26250775923219
+      "lon": -123.15197983954884,
+      "lat": 49.27489347972702
     }
   },
   {
@@ -53,6 +61,146 @@
     "geo_point_2d": {
       "lon": -123.15074643871527,
       "lat": 49.2586455531229
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 4800 Block of Prince Albert St. From Lane North of D",
+    "street": null,
+    "location": "Both Sides of the Street of 4800 Block of Prince Albert St. From Lane North of D",
+    "comp_date": "2026-01-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/620548a3-eaf4-4f51-a9c0-665ddfdd8eba",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08794266266932,
+              49.24127440705007
+            ],
+            [
+              -123.08796961212784,
+              49.240299654882676
+            ]
+          ],
+          [
+            [
+              -123.08793727277761,
+              49.24085917201691
+            ],
+            [
+              -123.08671376736062,
+              49.24084509619186
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08760519779383,
+      "lat": 49.2408232609722
+    }
+  },
+  {
+    "project": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
+    "street": null,
+    "location": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
+    "comp_date": "2026-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3cee61c5-b5e2-4ed3-ae64-911685e183eb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08419848456504,
+            49.20879342711859
+          ],
+          [
+            -123.08403139792219,
+            49.209765279822676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08411494124361,
+      "lat": 49.209279353470635
+    }
+  },
+  {
+    "project": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
+    "street": null,
+    "location": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
+    "comp_date": "2026-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dc8d0047-d6c5-4092-a9b7-839e3bf29c83",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03646852315278,
+            49.23758008827727
+          ],
+          [
+            -123.03567441244164,
+            49.23725602852369
+          ],
+          [
+            -123.0361590535374,
+            49.236726090933416
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0360009521636,
+      "lat": 49.23722346687744
+    }
+  },
+  {
+    "project": "Both Sides of the Lane South of 2500 Block of Franklin St. From Penticton St to",
+    "street": null,
+    "location": "Both Sides of the Lane South of 2500 Block of Franklin St. From Penticton St to",
+    "comp_date": "2026-01-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9f35a074-54d8-4250-a20a-c333077551d1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05379669053329,
+              49.281634024959914
+            ],
+            [
+              -123.05198568692053,
+              49.28162699286054
+            ]
+          ],
+          [
+            [
+              -123.0519641273537,
+              49.28207704519872
+            ],
+            [
+              -123.0519641273537,
+              49.28114529166666
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05257625438763,
+      "lat": 49.281623938708194
     }
   },
   {
