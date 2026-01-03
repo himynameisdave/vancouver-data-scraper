@@ -25032,18 +25032,18 @@
     "state": "Lost"
   },
   {
-    "breed": "Boxer",
-    "color": "Brindle",
-    "date": "2001-10-28",
-    "name": "Wally",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Rotty",
     "color": "Black & Brown",
     "date": "2001-10-28",
     "name": "Rocky",
+    "sex": "M/N",
+    "state": "Lost"
+  },
+  {
+    "breed": "Boxer",
+    "color": "Brindle",
+    "date": "2001-10-28",
+    "name": "Wally",
     "sex": "M/N",
     "state": "Lost"
   },
@@ -27712,14 +27712,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Ridgeback X Whippet",
-    "color": null,
-    "date": "2002-03-08",
-    "name": null,
-    "sex": "M",
-    "state": "Lost"
-  },
-  {
     "breed": "Pitbull",
     "color": "Tan & White",
     "date": "2002-03-08",
@@ -27733,6 +27725,14 @@
     "date": "2002-03-08",
     "name": "Lucky",
     "sex": "M/N",
+    "state": "Lost"
+  },
+  {
+    "breed": "Ridgeback X Whippet",
+    "color": null,
+    "date": "2002-03-08",
+    "name": null,
+    "sex": "M",
     "state": "Lost"
   },
   {
@@ -27808,20 +27808,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Pitbull X",
-    "color": "Black w White on Chest",
-    "date": "2002-03-15",
-    "name": "Diamond",
-    "sex": "F",
-    "state": "Lost"
-  },
-  {
     "breed": "Cairn Terrier",
     "color": "Grey & Wheaton",
     "date": "2002-03-15",
     "name": "Angus",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Pitbull X",
+    "color": "Black w White on Chest",
+    "date": "2002-03-15",
+    "name": "Diamond",
+    "sex": "F",
+    "state": "Lost"
   },
   {
     "breed": "Poodle X",
@@ -47792,6 +47792,14 @@
     "state": "Matched"
   },
   {
+    "breed": "Collie X",
+    "color": "Brown & Black",
+    "date": "2004-08-17",
+    "name": "Pumba",
+    "sex": "M/N",
+    "state": "Matched"
+  },
+  {
     "breed": "Chihuahua X Pomeranian",
     "color": "Tan & Brown",
     "date": "2004-08-17",
@@ -47816,12 +47824,12 @@
     "state": "Matched"
   },
   {
-    "breed": "Collie X",
-    "color": "Brown & Black",
+    "breed": "Cat",
+    "color": "Grey",
     "date": "2004-08-17",
-    "name": "Pumba",
-    "sex": "M/N",
-    "state": "Matched"
+    "name": null,
+    "sex": "F",
+    "state": "Lost"
   },
   {
     "breed": "Husky X",
@@ -47838,14 +47846,6 @@
     "name": "Honey",
     "sex": "F/S",
     "state": "Matched"
-  },
-  {
-    "breed": "Cat",
-    "color": "Grey",
-    "date": "2004-08-17",
-    "name": null,
-    "sex": "F",
-    "state": "Lost"
   },
   {
     "breed": "Lab Shepherd Mix",
@@ -92128,6 +92128,14 @@
     "state": "Lost"
   },
   {
+    "breed": "Husky",
+    "color": "White",
+    "date": "2015-09-24",
+    "name": "Monty",
+    "sex": "M/N",
+    "state": "Lost"
+  },
+  {
     "breed": "Lab X",
     "color": "Black",
     "date": "2015-09-24",
@@ -92149,14 +92157,6 @@
     "date": "2015-09-24",
     "name": "Little Feather",
     "sex": null,
-    "state": "Lost"
-  },
-  {
-    "breed": "Husky",
-    "color": "White",
-    "date": "2015-09-24",
-    "name": "Monty",
-    "sex": "M/N",
     "state": "Lost"
   },
   {
@@ -144040,6 +144040,14 @@
     "state": "Matched"
   },
   {
+    "breed": "Cat - DSH",
+    "color": "Orange Tabby",
+    "date": "2025-10-28",
+    "name": "Marty",
+    "sex": "M/N",
+    "state": "Lost"
+  },
+  {
     "breed": "Pitbull Boxer",
     "color": "Golden",
     "date": "2025-10-28",
@@ -144054,14 +144062,6 @@
     "name": "Misty",
     "sex": "M/N",
     "state": "Matched"
-  },
-  {
-    "breed": "Cat - DSH",
-    "color": "Orange Tabby",
-    "date": "2025-10-28",
-    "name": "Marty",
-    "sex": "M/N",
-    "state": "Lost"
   },
   {
     "breed": "Chihuahua Mix",
@@ -144496,20 +144496,20 @@
     "state": "Lost"
   },
   {
-    "breed": "Chihuahua",
-    "color": "Brown & cream",
-    "date": "2025-12-15",
-    "name": "Canela",
-    "sex": "F",
-    "state": "Matched"
-  },
-  {
     "breed": "cat - DMH",
     "color": "orange tabby",
     "date": "2025-12-15",
     "name": "unknown",
     "sex": "F/S",
     "state": "Lost"
+  },
+  {
+    "breed": "Chihuahua",
+    "color": "Brown & cream",
+    "date": "2025-12-15",
+    "name": "Canela",
+    "sex": "F",
+    "state": "Matched"
   },
   {
     "breed": "Rabbit - Holland Lop",
