@@ -132,34 +132,6 @@
     }
   },
   {
-    "project": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
-    "street": null,
-    "location": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
-    "comp_date": "2026-01-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e266d82d-a8c8-43be-b7f9-0ad11f8dfb0e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15069279453499,
-            49.26003547510584
-          ],
-          [
-            -123.15080008289556,
-            49.25725563113997
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15074643871527,
-      "lat": 49.2586455531229
-    }
-  },
-  {
     "project": "Both Sides of the Street of 4800 Block of Prince Albert St. From Lane North of D",
     "street": null,
     "location": "Both Sides of the Street of 4800 Block of Prince Albert St. From Lane North of D",
@@ -459,6 +431,34 @@
     "geo_point_2d": {
       "lon": -123.07451483767278,
       "lat": 49.21504995764013
+    }
+  },
+  {
+    "project": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
+    "street": null,
+    "location": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
+    "comp_date": "2026-01-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e266d82d-a8c8-43be-b7f9-0ad11f8dfb0e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15069279453499,
+            49.26003547510584
+          ],
+          [
+            -123.15080008289556,
+            49.25725563113997
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15074643871527,
+      "lat": 49.2586455531229
     }
   },
   {
