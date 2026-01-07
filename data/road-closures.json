@@ -40,6 +40,34 @@
     }
   },
   {
+    "project": "Macdonald St from W 47th Ave to W 49th Ave",
+    "street": null,
+    "location": "Macdonald St from W 47th Ave to W 49th Ave",
+    "comp_date": "2026-01-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/98722232-72e6-4a79-858b-075cad4fca32",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16743938150657,
+            49.229325042552944
+          ],
+          [
+            -123.1674625790907,
+            49.22730906219874
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16745098029864,
+      "lat": 49.22831705237584
+    }
+  },
+  {
     "project": "South Side of the Street of 2000 Block of E Pender St. From Semlin Dr to Lakewoo",
     "street": null,
     "location": "South Side of the Street of 2000 Block of E Pender St. From Semlin Dr to Lakewoo",
@@ -101,34 +129,6 @@
     "geo_point_2d": {
       "lon": -123.15197983954884,
       "lat": 49.27489347972702
-    }
-  },
-  {
-    "project": "Macdonald St from W 47th Ave to W 49th Ave",
-    "street": null,
-    "location": "Macdonald St from W 47th Ave to W 49th Ave",
-    "comp_date": "2026-01-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/98722232-72e6-4a79-858b-075cad4fca32",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16743938150657,
-            49.229325042552944
-          ],
-          [
-            -123.1674625790907,
-            49.22730906219874
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16745098029864,
-      "lat": 49.22831705237584
     }
   },
   {
@@ -200,6 +200,34 @@
     }
   },
   {
+    "project": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
+    "street": null,
+    "location": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
+    "comp_date": "2026-01-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3cee61c5-b5e2-4ed3-ae64-911685e183eb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08419848456504,
+            49.20879342711859
+          ],
+          [
+            -123.08403139792219,
+            49.209765279822676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08411494124361,
+      "lat": 49.209279353470635
+    }
+  },
+  {
     "project": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
     "street": null,
     "location": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
@@ -229,34 +257,6 @@
     "geo_point_2d": {
       "lon": -123.0360009521636,
       "lat": 49.23722346687744
-    }
-  },
-  {
-    "project": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
-    "street": null,
-    "location": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
-    "comp_date": "2026-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3cee61c5-b5e2-4ed3-ae64-911685e183eb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08419848456504,
-            49.20879342711859
-          ],
-          [
-            -123.08403139792219,
-            49.209765279822676
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08411494124361,
-      "lat": 49.209279353470635
     }
   },
   {
