@@ -1,105 +1,5 @@
 [
   {
-    "project": "Ontario St from E 1st Av to E 2nd Av",
-    "street": null,
-    "location": "Ontario St from E 1st Av to E 2nd Av",
-    "comp_date": "2026-01-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1f73a53d-9ccc-4289-b7a1-6132a6931c12",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1045978633537,
-              49.27018918089729
-            ],
-            [
-              -123.10461624796606,
-              49.26973675986696
-            ]
-          ],
-          [
-            [
-              -123.10461624796606,
-              49.26973675986696
-            ],
-            [
-              -123.1046370392008,
-              49.26923948656608
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10461731240812,
-      "lat": 49.26971432800704
-    }
-  },
-  {
-    "project": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
-    "street": null,
-    "location": "South Side of the Street of 3300 Block of Euclid Av. From Mckinnon St to 40m Wes",
-    "comp_date": "2026-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dc8d0047-d6c5-4092-a9b7-839e3bf29c83",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03646852315278,
-            49.23758008827727
-          ],
-          [
-            -123.03567441244164,
-            49.23725602852369
-          ],
-          [
-            -123.0361590535374,
-            49.236726090933416
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0360009521636,
-      "lat": 49.23722346687744
-    }
-  },
-  {
-    "project": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
-    "street": null,
-    "location": "Both Side of the Street of 8100-8200 Block of Ross St. From E Kent Av North to 8",
-    "comp_date": "2026-01-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3cee61c5-b5e2-4ed3-ae64-911685e183eb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08419848456504,
-            49.20879342711859
-          ],
-          [
-            -123.08403139792219,
-            49.209765279822676
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08411494124361,
-      "lat": 49.209279353470635
-    }
-  },
-  {
     "project": "Normandy Dr from Mons Dr to Ln E of Mons Dr",
     "street": null,
     "location": "Normandy Dr from Mons Dr to Ln E of Mons Dr",
@@ -378,6 +278,34 @@
     }
   },
   {
+    "project": "B/S pf 6100-6300 blk of Carnarvon St",
+    "street": null,
+    "location": "B/S pf 6100-6300 blk of Carnarvon St",
+    "comp_date": "2026-01-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e22b1e8a-f6e7-40da-a0c2-40c725c6844d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17360091460682,
+            49.229416428875936
+          ],
+          [
+            -123.17362382549967,
+            49.23016450036798
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17361237005325,
+      "lat": 49.229790464621956
+    }
+  },
+  {
     "project": "Both Sides of the Lane South of 2500 Block of Franklin St. From Penticton St to",
     "street": null,
     "location": "Both Sides of the Lane South of 2500 Block of Franklin St. From Penticton St to",
@@ -415,6 +343,34 @@
     "geo_point_2d": {
       "lon": -123.05257625438763,
       "lat": 49.281623938708194
+    }
+  },
+  {
+    "project": "300-400 Block of West 45th Avenue",
+    "street": null,
+    "location": "300-400 Block of West 45th Avenue",
+    "comp_date": "2026-01-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e72c0c44-a12a-4a62-89d9-9b5e61a988ab",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11466418991493,
+            49.229765926206056
+          ],
+          [
+            -123.11388457229184,
+            49.229738824153344
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11427438110339,
+      "lat": 49.2297523751797
     }
   },
   {
