@@ -1,33 +1,5 @@
 [
   {
-    "project": "Normandy Dr from Mons Dr to Ln E of Mons Dr",
-    "street": null,
-    "location": "Normandy Dr from Mons Dr to Ln E of Mons Dr",
-    "comp_date": "2026-01-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5d499322-7287-403a-80cd-b913b82b377a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03019115154767,
-            49.25344160604433
-          ],
-          [
-            -123.0297389230445,
-            49.25314466518813
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02996503729608,
-      "lat": 49.25329313561623
-    }
-  },
-  {
     "project": "E 38th Av from Quebec St to Main St",
     "street": null,
     "location": "E 38th Av from Quebec St to Main St",
@@ -227,6 +199,34 @@
     "geo_point_2d": {
       "lon": -123.07451483767278,
       "lat": 49.21504995764013
+    }
+  },
+  {
+    "project": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
+    "street": null,
+    "location": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
+    "comp_date": "2026-01-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/86aa2860-cede-4a3a-b096-368cf27e3959",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16787299359045,
+            49.265794062255026
+          ],
+          [
+            -123.16788820363337,
+            49.26535477724536
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1678805986119,
+      "lat": 49.265574419750195
     }
   },
   {
@@ -632,6 +632,34 @@
     }
   },
   {
+    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "street": null,
+    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "comp_date": "2026-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18206593324169,
+            49.23169438252842
+          ],
+          [
+            -123.18445861061963,
+            49.231707116329204
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18326227193066,
+      "lat": 49.23170074942881
+    }
+  },
+  {
     "project": "SB Hemlock, W Broadway to W 10th Av",
     "street": null,
     "location": "SB Hemlock, W Broadway to W 10th Av",
@@ -669,34 +697,6 @@
     "geo_point_2d": {
       "lon": -123.13611385256088,
       "lat": 49.26307620743456
-    }
-  },
-  {
-    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "street": null,
-    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "comp_date": "2026-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18206593324169,
-            49.23169438252842
-          ],
-          [
-            -123.18445861061963,
-            49.231707116329204
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18326227193066,
-      "lat": 49.23170074942881
     }
   },
   {
