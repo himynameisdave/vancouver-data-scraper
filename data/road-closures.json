@@ -1,111 +1,5 @@
 [
   {
-    "project": "Ash St from McGuigan St to W 35th Av",
-    "street": null,
-    "location": "Ash St from McGuigan St to W 35th Av",
-    "comp_date": "2026-01-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bc0b6b12-d6cf-482e-9baf-0183cb38a543",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11952114179294,
-            49.23982759684904
-          ],
-          [
-            -123.11798113729265,
-            49.23844935427056
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1187511395428,
-      "lat": 49.2391384755598
-    }
-  },
-  {
-    "project": "E 62nd Av - Knight St to Argyle St                  \r\nE 61st Av - Knight St to A",
-    "street": null,
-    "location": "E 62nd Av - Knight St to Argyle St                  \r\nE 61st Av - Knight St to A",
-    "comp_date": "2026-01-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e67c3a11-0ee9-40ef-a83d-8539840a6af1",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07711268128811,
-              49.21378156602759
-            ],
-            [
-              -123.07207605346363,
-              49.21375532514034
-            ]
-          ],
-          [
-            [
-              -123.07711937882875,
-              49.21464750749172
-            ],
-            [
-              -123.07204926330107,
-              49.21460377350482
-            ]
-          ],
-          [
-            [
-              -123.07707249543107,
-              49.21547407382937
-            ],
-            [
-              -123.07204926330107,
-              49.215439087107825
-            ]
-          ],
-          [
-            [
-              -123.07707249543107,
-              49.21638809147794
-            ],
-            [
-              -123.07442692610047,
-              49.21640995758682
-            ],
-            [
-              -123.074018370296,
-              49.21631811930408
-            ],
-            [
-              -123.0720425654538,
-              49.21629625315461
-            ]
-          ],
-          [
-            [
-              -123.07403127363992,
-              49.21631535165608
-            ],
-            [
-              -123.07406502790224,
-              49.21375315493651
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07451483767278,
-      "lat": 49.21504995764013
-    }
-  },
-  {
     "project": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
     "street": null,
     "location": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
@@ -219,34 +113,6 @@
     "geo_point_2d": {
       "lon": -123.1045794991666,
       "lat": 49.28053014827358
-    }
-  },
-  {
-    "project": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
-    "street": null,
-    "location": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
-    "comp_date": "2026-01-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e266d82d-a8c8-43be-b7f9-0ad11f8dfb0e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15069279453499,
-            49.26003547510584
-          ],
-          [
-            -123.15080008289556,
-            49.25725563113997
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15074643871527,
-      "lat": 49.2586455531229
     }
   },
   {
@@ -601,6 +467,34 @@
     "geo_point_2d": {
       "lon": -123.13611385256088,
       "lat": 49.26307620743456
+    }
+  },
+  {
+    "project": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
+    "street": null,
+    "location": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
+    "comp_date": "2026-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e266d82d-a8c8-43be-b7f9-0ad11f8dfb0e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15069279453499,
+            49.26003547510584
+          ],
+          [
+            -123.15080008289556,
+            49.25725563113997
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15074643871527,
+      "lat": 49.2586455531229
     }
   },
   {
