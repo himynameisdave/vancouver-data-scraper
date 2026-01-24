@@ -1,21 +1,21 @@
 [
   {
-    "project": "E 20th Av from Clark Dr to Knight St",
+    "project": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
     "street": null,
-    "location": "E 20th Av from Clark Dr to Knight St",
-    "comp_date": "2026-01-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/83c5d380-28c6-49d2-ba81-c87d8e312a47",
+    "location": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
+    "comp_date": "2026-01-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9726acc1-9258-43a5-9375-72bb436a9c5a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07795054033284,
-            49.25262620865428
+            -123.16787299359045,
+            49.265794062255026
           ],
           [
-            -123.07601657383968,
-            49.252595951066695
+            -123.16788820363337,
+            49.26535477724536
           ]
         ],
         "type": "LineString"
@@ -23,68 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07698355708627,
-      "lat": 49.252611079860486
-    }
-  },
-  {
-    "project": "B/S of 100 blk of Keefer, Lane north of 100 of Keefer St\r\n- S/S of 0 to 100, W P",
-    "street": null,
-    "location": "B/S of 100 blk of Keefer, Lane north of 100 of Keefer St\r\n- S/S of 0 to 100, W P",
-    "comp_date": "2026-01-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d869dd95-8180-48ea-99ef-8beff1dc96e3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10846123039804,
-              49.281231672015224
-            ],
-            [
-              -123.109174697996,
-              49.28136815078406
-            ]
-          ],
-          [
-            [
-              -123.1044110947858,
-              49.28050377886893
-            ],
-            [
-              -123.10612770855533,
-              49.28082573293176
-            ]
-          ],
-          [
-            [
-              -123.10848268807038,
-              49.28121067524799
-            ],
-            [
-              -123.10875627338991,
-              49.28104270078862
-            ]
-          ],
-          [
-            [
-              -123.1022760564108,
-              49.279989347906195
-            ],
-            [
-              -123.10052189171506,
-              49.279947353304976
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1045794991666,
-      "lat": 49.28053014827358
+      "lon": -123.1678805986119,
+      "lat": 49.265574419750195
     }
   },
   {
