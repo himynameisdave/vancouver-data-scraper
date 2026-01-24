@@ -1,5 +1,33 @@
 [
   {
+    "project": "E 20th Av from Clark Dr to Knight St",
+    "street": null,
+    "location": "E 20th Av from Clark Dr to Knight St",
+    "comp_date": "2026-01-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/83c5d380-28c6-49d2-ba81-c87d8e312a47",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07795054033284,
+            49.25262620865428
+          ],
+          [
+            -123.07601657383968,
+            49.252595951066695
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07698355708627,
+      "lat": 49.252611079860486
+    }
+  },
+  {
     "project": "B/S of 100 blk of Keefer, Lane north of 100 of Keefer St\r\n- S/S of 0 to 100, W P",
     "street": null,
     "location": "B/S of 100 blk of Keefer, Lane north of 100 of Keefer St\r\n- S/S of 0 to 100, W P",
@@ -57,34 +85,6 @@
     "geo_point_2d": {
       "lon": -123.1045794991666,
       "lat": 49.28053014827358
-    }
-  },
-  {
-    "project": "E 20th Av from Clark Dr to Knight St",
-    "street": null,
-    "location": "E 20th Av from Clark Dr to Knight St",
-    "comp_date": "2026-01-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/83c5d380-28c6-49d2-ba81-c87d8e312a47",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07795054033284,
-            49.25262620865428
-          ],
-          [
-            -123.07601657383968,
-            49.252595951066695
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07698355708627,
-      "lat": 49.252611079860486
     }
   },
   {
@@ -430,34 +430,6 @@
     }
   },
   {
-    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "street": null,
-    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "comp_date": "2026-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18206593324169,
-            49.23169438252842
-          ],
-          [
-            -123.18445861061963,
-            49.231707116329204
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18326227193066,
-      "lat": 49.23170074942881
-    }
-  },
-  {
     "project": "SB Hemlock, W Broadway to W 10th Av",
     "street": null,
     "location": "SB Hemlock, W Broadway to W 10th Av",
@@ -523,6 +495,34 @@
     "geo_point_2d": {
       "lon": -123.15074643871527,
       "lat": 49.2586455531229
+    }
+  },
+  {
+    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "street": null,
+    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "comp_date": "2026-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18206593324169,
+            49.23169438252842
+          ],
+          [
+            -123.18445861061963,
+            49.231707116329204
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18326227193066,
+      "lat": 49.23170074942881
     }
   },
   {
