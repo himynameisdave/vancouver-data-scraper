@@ -1,5 +1,49 @@
 [
   {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-01-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/360aee9d-dc1f-4169-a670-5b2ab0abf813",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10458539412542,
+              49.271935008734715
+            ],
+            [
+              -123.10458539412542,
+              49.27158465135798
+            ]
+          ],
+          [
+            [
+              -123.10458012461095,
+              49.27194577928529
+            ],
+            [
+              -123.10294626374711,
+              49.271932367148224
+            ],
+            [
+              -123.10218585053224,
+              49.27301203566299
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1033719981258,
+      "lat": 49.27213310203995
+    }
+  },
+  {
     "project": "300-400 Block of West 45th Avenue",
     "street": null,
     "location": "300-400 Block of West 45th Avenue",
@@ -28,22 +72,22 @@
     }
   },
   {
-    "project": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
+    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
     "street": null,
-    "location": "Alignment is along Highbury Street through Memorial West Park, between W 31st Av",
-    "comp_date": "2026-02-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d7ad385-d4e0-46fb-8e14-7a40f958b1ef",
+    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "comp_date": "2026-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.18815934348683,
-            49.24519436177815
+            -123.18206593324169,
+            49.23169438252842
           ],
           [
-            -123.18817356592662,
-            49.241433898919325
+            -123.18445861061963,
+            49.231707116329204
           ]
         ],
         "type": "LineString"
@@ -51,8 +95,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18816645470673,
-      "lat": 49.243314130348736
+      "lon": -123.18326227193066,
+      "lat": 49.23170074942881
     }
   },
   {
@@ -93,62 +137,6 @@
     "geo_point_2d": {
       "lon": -123.13611385256088,
       "lat": 49.26307620743456
-    }
-  },
-  {
-    "project": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
-    "street": null,
-    "location": "Both Sides of 2900-3100 Block of Maple Street From W 13th Avenue to W 16th Avenu",
-    "comp_date": "2026-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e266d82d-a8c8-43be-b7f9-0ad11f8dfb0e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15069279453499,
-            49.26003547510584
-          ],
-          [
-            -123.15080008289556,
-            49.25725563113997
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15074643871527,
-      "lat": 49.2586455531229
-    }
-  },
-  {
-    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "street": null,
-    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "comp_date": "2026-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18206593324169,
-            49.23169438252842
-          ],
-          [
-            -123.18445861061963,
-            49.231707116329204
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18326227193066,
-      "lat": 49.23170074942881
     }
   },
   {
