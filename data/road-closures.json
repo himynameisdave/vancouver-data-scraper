@@ -1,33 +1,5 @@
 [
   {
-    "project": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
-    "street": null,
-    "location": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
-    "comp_date": "2026-01-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9726acc1-9258-43a5-9375-72bb436a9c5a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.16787299359045,
-            49.265794062255026
-          ],
-          [
-            -123.16788820363337,
-            49.26535477724536
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1678805986119,
-      "lat": 49.265574419750195
-    }
-  },
-  {
     "project": "W 23rd Av from Crown St to Wallace St",
     "street": null,
     "location": "W 23rd Av from Crown St to Wallace St",
@@ -56,6 +28,34 @@
     }
   },
   {
+    "project": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
+    "street": null,
+    "location": "Ln E of Macdonald St from W 7th Av to Ln S of W 7th Av",
+    "comp_date": "2026-01-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9726acc1-9258-43a5-9375-72bb436a9c5a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16787299359045,
+            49.265794062255026
+          ],
+          [
+            -123.16788820363337,
+            49.26535477724536
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1678805986119,
+      "lat": 49.265574419750195
+    }
+  },
+  {
     "project": "B/S pf 6100-6300 blk of Carnarvon St",
     "street": null,
     "location": "B/S pf 6100-6300 blk of Carnarvon St",
@@ -81,6 +81,66 @@
     "geo_point_2d": {
       "lon": -123.17361237005325,
       "lat": 49.229790464621956
+    }
+  },
+  {
+    "project": "W/S of 0 blk of Jackson Ave\r\nB/S of LS of 400 blk Railway St\r\nE/S of 0-100 blk o",
+    "street": null,
+    "location": "W/S of 0 blk of Jackson Ave\r\nB/S of LS of 400 blk Railway St\r\nE/S of 0-100 blk o",
+    "comp_date": "2026-01-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11b8925e-8d96-4764-886a-e25442ff63ba",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.09329097543844,
+              49.28476032890026
+            ],
+            [
+              -123.09332331478866,
+              49.2842786583135
+            ]
+          ],
+          [
+            [
+              -123.0933340945721,
+              49.28442984009919
+            ],
+            [
+              -123.09524750612727,
+              49.284461482739886
+            ]
+          ],
+          [
+            [
+              -123.09523854999297,
+              49.28455756350709
+            ],
+            [
+              -123.09529783880171,
+              49.28357311820443
+            ]
+          ],
+          [
+            [
+              -123.09525471966808,
+              49.284019636902286
+            ],
+            [
+              -123.09488820703216,
+              49.28401260514309
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09449757451658,
+      "lat": 49.28431312745552
     }
   },
   {
@@ -193,66 +253,6 @@
     "geo_point_2d": {
       "lon": -123.15199559423075,
       "lat": 49.30926575004158
-    }
-  },
-  {
-    "project": "W/S of 0 blk of Jackson Ave\r\nB/S of LS of 400 blk Railway St\r\nE/S of 0-100 blk o",
-    "street": null,
-    "location": "W/S of 0 blk of Jackson Ave\r\nB/S of LS of 400 blk Railway St\r\nE/S of 0-100 blk o",
-    "comp_date": "2026-01-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/11b8925e-8d96-4764-886a-e25442ff63ba",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09329097543844,
-              49.28476032890026
-            ],
-            [
-              -123.09332331478866,
-              49.2842786583135
-            ]
-          ],
-          [
-            [
-              -123.0933340945721,
-              49.28442984009919
-            ],
-            [
-              -123.09524750612727,
-              49.284461482739886
-            ]
-          ],
-          [
-            [
-              -123.09523854999297,
-              49.28455756350709
-            ],
-            [
-              -123.09529783880171,
-              49.28357311820443
-            ]
-          ],
-          [
-            [
-              -123.09525471966808,
-              49.284019636902286
-            ],
-            [
-              -123.09488820703216,
-              49.28401260514309
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09449757451658,
-      "lat": 49.28431312745552
     }
   },
   {
@@ -482,6 +482,34 @@
     }
   },
   {
+    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "street": null,
+    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "comp_date": "2026-02-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18206593324169,
+            49.23169438252842
+          ],
+          [
+            -123.18445861061963,
+            49.231707116329204
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18326227193066,
+      "lat": 49.23170074942881
+    }
+  },
+  {
     "project": "SB Hemlock, W Broadway to W 10th Av",
     "street": null,
     "location": "SB Hemlock, W Broadway to W 10th Av",
@@ -547,34 +575,6 @@
     "geo_point_2d": {
       "lon": -123.15074643871527,
       "lat": 49.2586455531229
-    }
-  },
-  {
-    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "street": null,
-    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "comp_date": "2026-02-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18206593324169,
-            49.23169438252842
-          ],
-          [
-            -123.18445861061963,
-            49.231707116329204
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18326227193066,
-      "lat": 49.23170074942881
     }
   },
   {
