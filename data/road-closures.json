@@ -112,6 +112,38 @@
     }
   },
   {
+    "project": "W 6th Av from Trafalgar St to Larch St",
+    "street": null,
+    "location": "W 6th Av from Trafalgar St to Larch St",
+    "comp_date": "2026-01-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7394c657-6f0b-40d9-a405-f7d75eee3756",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.16230742960856,
+            49.26656666091864
+          ],
+          [
+            -123.16444064262436,
+            49.266600309062056
+          ],
+          [
+            -123.16457937932539,
+            49.266584918627444
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1634437957087,
+      "lat": 49.26658404558828
+    }
+  },
+  {
     "project": "Both Sides of the Lane South of 2500 Block of Franklin St. From Penticton St to",
     "street": null,
     "location": "Both Sides of the Lane South of 2500 Block of Franklin St. From Penticton St to",
