@@ -28,34 +28,6 @@
     }
   },
   {
-    "project": "Water St - Abbott to Cambie St",
-    "street": null,
-    "location": "Water St - Abbott to Cambie St",
-    "comp_date": "2026-02-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5e6906f-02e7-439a-8992-67d49bcc4b49",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10638331443363,
-            49.283884968733105
-          ],
-          [
-            -123.10877737817344,
-            49.28431923067458
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10758034630354,
-      "lat": 49.284102099703844
-    }
-  },
-  {
     "project": "W 2nd Av - Ash to Cambie St \\t",
     "street": null,
     "location": "W 2nd Av - Ash to Cambie St \\t",
@@ -281,6 +253,34 @@
     "geo_point_2d": {
       "lon": -123.11524043561414,
       "lat": 49.26763990438932
+    }
+  },
+  {
+    "project": "Water St - Abbott to Cambie St",
+    "street": null,
+    "location": "Water St - Abbott to Cambie St",
+    "comp_date": "2026-02-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a5e6906f-02e7-439a-8992-67d49bcc4b49",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10638331443363,
+            49.283884968733105
+          ],
+          [
+            -123.10877737817344,
+            49.28431923067458
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10758034630354,
+      "lat": 49.284102099703844
     }
   },
   {
