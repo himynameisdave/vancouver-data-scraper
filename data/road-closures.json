@@ -1,5 +1,33 @@
 [
   {
+    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "street": null,
+    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
+    "comp_date": "2026-02-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18206593324169,
+            49.23169438252842
+          ],
+          [
+            -123.18445861061963,
+            49.231707116329204
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18326227193066,
+      "lat": 49.23170074942881
+    }
+  },
+  {
     "project": "W 18th Av from Highbury St to Dunbar St",
     "street": null,
     "location": "W 18th Av from Highbury St to Dunbar St",
@@ -37,34 +65,6 @@
     "geo_point_2d": {
       "lon": -123.18657686119784,
       "lat": 49.25648936807938
-    }
-  },
-  {
-    "project": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "street": null,
-    "location": "Collingwood Pl - Collingwood St to 6075 Collingwood Pl",
-    "comp_date": "2026-02-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a3a4425d-7bd3-4374-a1a5-80aca81ac438",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18206593324169,
-            49.23169438252842
-          ],
-          [
-            -123.18445861061963,
-            49.231707116329204
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18326227193066,
-      "lat": 49.23170074942881
     }
   },
   {
