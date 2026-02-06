@@ -40,34 +40,6 @@
     }
   },
   {
-    "project": "North Side of the Street of 100 Block of Union St. From Quebec St to Main St",
-    "street": null,
-    "location": "North Side of the Street of 100 Block of Union St. From Quebec St to Main St",
-    "comp_date": "2026-02-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/edebed01-e455-40a1-bfab-375332f82e5a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10211041901962,
-            49.277653653599
-          ],
-          [
-            -123.10061911080734,
-            49.27769914986456
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10136476491348,
-      "lat": 49.27767640173178
-    }
-  },
-  {
     "project": "Quesnel Dr from W 27th Av to W 28th Av",
     "street": null,
     "location": "Quesnel Dr from W 27th Av to W 28th Av",
@@ -447,6 +419,34 @@
     "geo_point_2d": {
       "lon": -123.0609656661303,
       "lat": 49.2650189484976
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
+    "street": null,
+    "location": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
+    "comp_date": "2026-02-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3da92cf6-dfd3-4514-bb09-298fa0c69e25",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18491220432885,
+            49.23690839967395
+          ],
+          [
+            -123.18430853645793,
+            49.23690839967395
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18461037039339,
+      "lat": 49.23690839967395
     }
   },
   {
