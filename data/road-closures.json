@@ -932,34 +932,6 @@
     }
   },
   {
-    "project": "W 10th Av - Willow St to Laurel St",
-    "street": null,
-    "location": "W 10th Av - Willow St to Laurel St",
-    "comp_date": "2026-03-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ec6431bd-f2ab-40f6-aae5-0887c2799100",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12185644845239,
-            49.26236322732828
-          ],
-          [
-            -123.12422631908619,
-            49.26240148786917
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12304138376929,
-      "lat": 49.262382357598725
-    }
-  },
-  {
     "project": "Various Locations",
     "street": null,
     "location": "Various Locations",
@@ -1143,50 +1115,6 @@
     "geo_point_2d": {
       "lon": -123.06878422872697,
       "lat": 49.250336009378195
-    }
-  },
-  {
-    "project": "Howe St - Hastings to Cordova St",
-    "street": null,
-    "location": "Howe St - Hastings to Cordova St",
-    "comp_date": "2026-07-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/887751ff-5746-4e4a-91f0-54f1d1d1a180",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11386659612707,
-              49.28661684901729
-            ],
-            [
-              -123.11400728821938,
-              49.28651185359371
-            ],
-            [
-              -123.11435582323828,
-              49.286281034937446
-            ]
-          ],
-          [
-            [
-              -123.11435582323828,
-              49.286281034937446
-            ],
-            [
-              -123.11485723786092,
-              49.28594992012157
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11435938896426,
-      "lat": 49.286279780917035
     }
   },
   {
