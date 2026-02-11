@@ -56,34 +56,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
-    "street": null,
-    "location": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
-    "comp_date": "2026-02-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3da92cf6-dfd3-4514-bb09-298fa0c69e25",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18491220432885,
-            49.23690839967395
-          ],
-          [
-            -123.18430853645793,
-            49.23690839967395
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18461037039339,
-      "lat": 49.23690839967395
-    }
-  },
-  {
     "project": "E 21st Av from Quebec St to Ontario St",
     "street": null,
     "location": "E 21st Av from Quebec St to Ontario St",
@@ -121,6 +93,34 @@
     "geo_point_2d": {
       "lon": -123.10387736777469,
       "lat": 49.25184956102387
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
+    "street": null,
+    "location": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
+    "comp_date": "2026-02-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3da92cf6-dfd3-4514-bb09-298fa0c69e25",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18491220432885,
+            49.23690839967395
+          ],
+          [
+            -123.18430853645793,
+            49.23690839967395
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18461037039339,
+      "lat": 49.23690839967395
     }
   },
   {
