@@ -1,21 +1,21 @@
 [
   {
-    "project": "Both Sides of the Street of 500-600 Block of Bute St. From 38m North of Melville",
+    "project": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
     "street": null,
-    "location": "Both Sides of the Street of 500-600 Block of Bute St. From 38m North of Melville",
-    "comp_date": "2026-02-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cccd0865-98fa-428c-880b-c319e87109e1",
+    "location": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
+    "comp_date": "2026-02-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3da92cf6-dfd3-4514-bb09-298fa0c69e25",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.12368990909772,
-            49.28819765326955
+            -123.18491220432885,
+            49.23690839967395
           ],
           [
-            -123.12467086938797,
-            49.287547266414975
+            -123.18430853645793,
+            49.23690839967395
           ]
         ],
         "type": "LineString"
@@ -23,36 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12418038924282,
-      "lat": 49.28787245984226
-    }
-  },
-  {
-    "project": "Both sides of 2100 Block of E 6th Ave from W PL 2131 to E PL 2139.",
-    "street": null,
-    "location": "Both sides of 2100 Block of E 6th Ave from W PL 2131 to E PL 2139.",
-    "comp_date": "2026-02-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8600d456-ea0a-4065-aea5-016f1cbc1c77",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06114320146537,
-            49.26502174012802
-          ],
-          [
-            -123.06078813079522,
-            49.265016156867176
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0609656661303,
-      "lat": 49.2650189484976
+      "lon": -123.18461037039339,
+      "lat": 49.23690839967395
     }
   },
   {
@@ -93,34 +65,6 @@
     "geo_point_2d": {
       "lon": -123.10387736777469,
       "lat": 49.25184956102387
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
-    "street": null,
-    "location": "Both Sides of the Street of 3500 Block of Mayfair Av. From West PL 3587 to East",
-    "comp_date": "2026-02-12",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3da92cf6-dfd3-4514-bb09-298fa0c69e25",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18491220432885,
-            49.23690839967395
-          ],
-          [
-            -123.18430853645793,
-            49.23690839967395
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18461037039339,
-      "lat": 49.23690839967395
     }
   },
   {
@@ -224,6 +168,34 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 600 Block of E 21st Av. From West PL 627 to East Pl",
+    "street": null,
+    "location": "Both Sides of the Street of 600 Block of E 21st Av. From West PL 627 to East Pl",
+    "comp_date": "2026-02-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b4a3d0d6-7020-491d-920f-9e8f272f983e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09145687206076,
+            49.251923875100914
+          ],
+          [
+            -123.09108496953311,
+            49.25191683876588
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09127092079693,
+      "lat": 49.25192035693339
+    }
+  },
+  {
     "project": "Burrard St - Cordova and Hastings St",
     "street": null,
     "location": "Burrard St - Cordova and Hastings St",
@@ -249,6 +221,34 @@
     "geo_point_2d": {
       "lon": -123.11662948881711,
       "lat": 49.28738310334852
+    }
+  },
+  {
+    "project": "Ln W of Granville St from Helmcken St to Davie St",
+    "street": null,
+    "location": "Ln W of Granville St from Helmcken St to Davie St",
+    "comp_date": "2026-02-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a81f164d-0bbb-43ed-9b72-649198657edd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12511277489124,
+            49.278531679557034
+          ],
+          [
+            -123.12670485074402,
+            49.27747808386809
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12590881281763,
+      "lat": 49.27800488171256
     }
   },
   {
