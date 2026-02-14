@@ -224,34 +224,6 @@
     }
   },
   {
-    "project": "W 11th Av from Crown St and Camosun St",
-    "street": null,
-    "location": "W 11th Av from Crown St and Camosun St",
-    "comp_date": "2026-02-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a50250cb-91d4-4be6-8ba5-3c4fee0bd92e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1939337498442,
-            49.262674882164845
-          ],
-          [
-            -123.19697360598141,
-            49.262719726171355
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19545367791281,
-      "lat": 49.2626973041681
-    }
-  },
-  {
     "project": "E 6th Av from Renfrew St to Nootka St",
     "street": null,
     "location": "E 6th Av from Renfrew St to Nootka St",
@@ -289,6 +261,34 @@
     "geo_point_2d": {
       "lon": -123.04291067971772,
       "lat": 49.264757937987675
+    }
+  },
+  {
+    "project": "W 11th Av from Crown St and Camosun St",
+    "street": null,
+    "location": "W 11th Av from Crown St and Camosun St",
+    "comp_date": "2026-02-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a50250cb-91d4-4be6-8ba5-3c4fee0bd92e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1939337498442,
+            49.262674882164845
+          ],
+          [
+            -123.19697360598141,
+            49.262719726171355
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19545367791281,
+      "lat": 49.2626973041681
     }
   },
   {
