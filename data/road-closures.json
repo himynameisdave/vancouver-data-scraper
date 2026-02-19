@@ -1,70 +1,32 @@
 [
   {
-    "project": "W 11th Av from Crown St and Camosun St",
+    "project": "W 45th Av from Trafalgar St to Elm St",
     "street": null,
-    "location": "W 11th Av from Crown St and Camosun St",
-    "comp_date": "2026-02-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a50250cb-91d4-4be6-8ba5-3c4fee0bd92e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1939337498442,
-            49.262674882164845
-          ],
-          [
-            -123.19697360598141,
-            49.262719726171355
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19545367791281,
-      "lat": 49.2626973041681
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3800 Block of W 2nd Av. From Wallace St to 70m East",
-    "street": null,
-    "location": "Both Sides of the Street of 3800 Block of W 2nd Av. From Wallace St to 70m East",
-    "comp_date": "2026-02-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a79bbe32-88bc-408a-b2a1-7e9a81e64372",
+    "location": "W 45th Av from Trafalgar St to Elm St",
+    "comp_date": "2026-02-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55f7445e-3638-448c-83a6-beb77aee7a9a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.18948646904722,
-              49.27048852373977
+              -123.16508156987354,
+              49.2310026340858
             ],
             [
-              -123.18838504467736,
-              49.27046496087917
+              -123.16583698411907,
+              49.231014523275604
             ]
           ],
           [
             [
-              -123.18754702094905,
-              49.270463547872396
+              -123.16429513821136,
+              49.23098988454788
             ],
             [
-              -123.1875891519359,
-              49.27000406982728
-            ]
-          ],
-          [
-            [
-              -123.18761924549796,
-              49.26911651892257
-            ],
-            [
-              -123.18762526421035,
-              49.2686766647694
+              -123.16508156987354,
+              49.2310026340858
             ]
           ]
         ],
@@ -73,48 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.18833222822795,
-      "lat": 49.27007374639497
-    }
-  },
-  {
-    "project": "E 6th Av from Renfrew St to Nootka St",
-    "street": null,
-    "location": "E 6th Av from Renfrew St to Nootka St",
-    "comp_date": "2026-02-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ad34c022-8e06-47ba-9b8f-d6c48c75ab37",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0442757626305,
-              49.2647625325624
-            ],
-            [
-              -123.0435156790571,
-              49.26476009578164
-            ]
-          ],
-          [
-            [
-              -123.0435156790571,
-              49.26476009578164
-            ],
-            [
-              -123.04154559737057,
-              49.26475317504324
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04291067971772,
-      "lat": 49.264757937987675
+      "lon": -123.16506605970908,
+      "lat": 49.23100229506076
     }
   },
   {
@@ -171,6 +93,34 @@
     "geo_point_2d": {
       "lon": -123.12590881281763,
       "lat": 49.27800488171256
+    }
+  },
+  {
+    "project": "Both Side of the Street of 2800 Block of E 25th Av. From West PL 2821 to East PL",
+    "street": null,
+    "location": "Both Side of the Street of 2800 Block of E 25th Av. From West PL 2821 to East PL",
+    "comp_date": "2026-02-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80066652-39f6-4cc2-8838-8738d157da3f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04639198751761,
+            49.247923556848406
+          ],
+          [
+            -123.04579370953836,
+            49.24792003839593
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04609284852799,
+      "lat": 49.24792179762217
     }
   },
   {
