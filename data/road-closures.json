@@ -28,6 +28,56 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 3800 Block of W 2nd Av. From Wallace St to 70m East",
+    "street": null,
+    "location": "Both Sides of the Street of 3800 Block of W 2nd Av. From Wallace St to 70m East",
+    "comp_date": "2026-02-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a79bbe32-88bc-408a-b2a1-7e9a81e64372",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18948646904722,
+              49.27048852373977
+            ],
+            [
+              -123.18838504467736,
+              49.27046496087917
+            ]
+          ],
+          [
+            [
+              -123.18754702094905,
+              49.270463547872396
+            ],
+            [
+              -123.1875891519359,
+              49.27000406982728
+            ]
+          ],
+          [
+            [
+              -123.18761924549796,
+              49.26911651892257
+            ],
+            [
+              -123.18762526421035,
+              49.2686766647694
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18833222822795,
+      "lat": 49.27007374639497
+    }
+  },
+  {
     "project": "E 6th Av from Renfrew St to Nootka St",
     "street": null,
     "location": "E 6th Av from Renfrew St to Nootka St",
@@ -65,6 +115,34 @@
     "geo_point_2d": {
       "lon": -123.04291067971772,
       "lat": 49.264757937987675
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 5500-5600 Block of Fleming St. From South PL 5611 to",
+    "street": null,
+    "location": "Both Sides of the Street of 5500-5600 Block of Fleming St. From South PL 5611 to",
+    "comp_date": "2026-02-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/692c7cc9-3322-4578-8138-56c9d6d64bbd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07287611872404,
+            49.2334969678879
+          ],
+          [
+            -123.07287072883233,
+            49.23383483684316
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07287342377819,
+      "lat": 49.23366590236553
     }
   },
   {
