@@ -1,83 +1,5 @@
 [
   {
-    "project": "Earles St from Kingsway to E 38th Av",
-    "street": null,
-    "location": "Earles St from Kingsway to E 38th Av",
-    "comp_date": "2026-02-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/96f3770e-5eb5-4a6e-9257-540523250d00",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.04884462165494,
-              49.237602591088915
-            ],
-            [
-              -123.04884395980564,
-              49.237056786868834
-            ]
-          ],
-          [
-            [
-              -123.04884395980564,
-              49.237056786868834
-            ],
-            [
-              -123.04884381012971,
-              49.236932859430254
-            ]
-          ],
-          [
-            [
-              -123.04884381012971,
-              49.236932859430254
-            ],
-            [
-              -123.04884206253288,
-              49.23584315798274
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04884342330546,
-      "lat": 49.23672287442149
-    }
-  },
-  {
-    "project": "Both Side of the Street of 2800 Block of E 25th Av. From West PL 2821 to East PL",
-    "street": null,
-    "location": "Both Side of the Street of 2800 Block of E 25th Av. From West PL 2821 to East PL",
-    "comp_date": "2026-02-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/80066652-39f6-4cc2-8838-8738d157da3f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04639198751761,
-            49.247923556848406
-          ],
-          [
-            -123.04579370953836,
-            49.24792003839593
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04609284852799,
-      "lat": 49.24792179762217
-    }
-  },
-  {
     "project": "Hemlock On-Ramp",
     "street": null,
     "location": "Hemlock On-Ramp",
@@ -954,34 +876,6 @@
     }
   },
   {
-    "project": "W 11th Av from Camosun St to Crown St",
-    "street": null,
-    "location": "W 11th Av from Camosun St to Crown St",
-    "comp_date": "2026-03-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/da31a867-ee9b-4942-9a2c-7a4f3224f2cd",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1939337498442,
-            49.262674882164845
-          ],
-          [
-            -123.19697360598141,
-            49.262719726171355
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.19545367791281,
-      "lat": 49.2626973041681
-    }
-  },
-  {
     "project": "E Georgia St from Salsbury Dr to Victoria Dr",
     "street": null,
     "location": "E Georgia St from Salsbury Dr to Victoria Dr",
@@ -1011,6 +905,34 @@
     "geo_point_2d": {
       "lon": -123.06696350178329,
       "lat": 49.278429655554675
+    }
+  },
+  {
+    "project": "W 11th Av from Camosun St to Crown St",
+    "street": null,
+    "location": "W 11th Av from Camosun St to Crown St",
+    "comp_date": "2026-03-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/da31a867-ee9b-4942-9a2c-7a4f3224f2cd",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1939337498442,
+            49.262674882164845
+          ],
+          [
+            -123.19697360598141,
+            49.262719726171355
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19545367791281,
+      "lat": 49.2626973041681
     }
   },
   {
@@ -1091,6 +1013,84 @@
     "geo_point_2d": {
       "lon": -123.04780898104684,
       "lat": 49.22841165420416
+    }
+  },
+  {
+    "project": "W 11th Av from Camosun St to Crown St",
+    "street": null,
+    "location": "W 11th Av from Camosun St to Crown St",
+    "comp_date": "2026-03-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f52b32cf-1aa4-4a86-9f81-68397340c4e7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1939337498442,
+            49.262674882164845
+          ],
+          [
+            -123.19697360598141,
+            49.262719726171355
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19545367791281,
+      "lat": 49.2626973041681
+    }
+  },
+  {
+    "project": "Drake St - Seymour St to laneway E of Richards St",
+    "street": null,
+    "location": "Drake St - Seymour St to laneway E of Richards St",
+    "comp_date": "2026-03-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6fb3cb32-4eb0-4ac0-83d7-ec643b96dde1",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1263162579781,
+              49.27513928394515
+            ],
+            [
+              -123.12680124793647,
+              49.275453413433354
+            ]
+          ],
+          [
+            [
+              -123.12583104003365,
+              49.27482498174544
+            ],
+            [
+              -123.1263162579781,
+              49.27513928394515
+            ]
+          ],
+          [
+            [
+              -123.12534518109142,
+              49.27451027340459
+            ],
+            [
+              -123.12583104003365,
+              49.27482498174544
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12607321208371,
+      "lat": 49.27498184717097
     }
   },
   {
