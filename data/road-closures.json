@@ -1,77 +1,5 @@
 [
   {
-    "project": "Elgin St from E 47th Av to E 49th Av",
-    "street": null,
-    "location": "Elgin St from E 47th Av to E 49th Av",
-    "comp_date": "2026-03-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5ecf2230-e165-490b-b248-012a1c5188e3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.08382774008565,
-              49.22728409788496
-            ],
-            [
-              -123.08380922361854,
-              49.22719341209313
-            ],
-            [
-              -123.08385545485868,
-              49.22587102088937
-            ]
-          ],
-          [
-            [
-              -123.08385545485868,
-              49.22587102088937
-            ],
-            [
-              -123.08387260792827,
-              49.22539174973642
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08383968161978,
-      "lat": 49.22633878153691
-    }
-  },
-  {
-    "project": "E 24th Av from Cassiar St to Skeena St",
-    "street": null,
-    "location": "E 24th Av from Cassiar St to Skeena St",
-    "comp_date": "2026-03-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7789e998-9d3e-4101-82b8-89d4964e4048",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03107256116252,
-            49.248751568669064
-          ],
-          [
-            -123.02853957300607,
-            49.248781087839546
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0298060670843,
-      "lat": 49.248766328254305
-    }
-  },
-  {
     "project": "Both Sides of the Street of 2600 Block of Ward St. From West PL 4848 Duchess St",
     "street": null,
     "location": "Both Sides of the Street of 2600 Block of Ward St. From West PL 4848 Duchess St",
@@ -97,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.05090961574179,
       "lat": 49.24048121523195
+    }
+  },
+  {
+    "project": "Victoria Dr from Ln N of E Hastings St to Franklin St",
+    "street": null,
+    "location": "Victoria Dr from Ln N of E Hastings St to Franklin St",
+    "comp_date": "2026-03-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d6ff3379-c7dd-4cdf-9e4e-748600f134e3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06557170747503,
+            49.28167991681599
+          ],
+          [
+            -123.0655741616909,
+            49.28117690514296
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06557293458297,
+      "lat": 49.28142841097947
     }
   },
   {
@@ -165,6 +121,34 @@
     "geo_point_2d": {
       "lon": -123.13971095865386,
       "lat": 49.292504874086696
+    }
+  },
+  {
+    "project": "Argyle St from E 61st Av to E 62nd Av",
+    "street": null,
+    "location": "Argyle St from E 61st Av to E 62nd Av",
+    "comp_date": "2026-03-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07c62380-151e-4255-b23e-3153d3ce0849",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0720454730379,
+            49.21458180029299
+          ],
+          [
+            -123.07205866967998,
+            49.21373240354956
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07205207135894,
+      "lat": 49.21415710192127
     }
   },
   {
