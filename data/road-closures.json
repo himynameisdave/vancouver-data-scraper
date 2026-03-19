@@ -1,61 +1,5 @@
 [
   {
-    "project": "Argyle St from E 61st Av to E 62nd Av",
-    "street": null,
-    "location": "Argyle St from E 61st Av to E 62nd Av",
-    "comp_date": "2026-03-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/07c62380-151e-4255-b23e-3153d3ce0849",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0720454730379,
-            49.21458180029299
-          ],
-          [
-            -123.07205866967998,
-            49.21373240354956
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07205207135894,
-      "lat": 49.21415710192127
-    }
-  },
-  {
-    "project": "Both sides of 2600 Block of E 4th Ave from W PL 2646 to E PL 2666.",
-    "street": null,
-    "location": "Both sides of 2600 Block of E 4th Ave from W PL 2646 to E PL 2666.",
-    "comp_date": "2026-03-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34e1af5e-742b-4eef-a955-c811fc6dd01d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0507225075145,
-            49.26667521224468
-          ],
-          [
-            -123.05115275901818,
-            49.26667668931822
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.05093763326633,
-      "lat": 49.26667595078145
-    }
-  },
-  {
     "project": "Both Sides of the Street of 5500 Block of Stamford St. From South PL 5560 to Nor",
     "street": null,
     "location": "Both Sides of the Street of 5500 Block of Stamford St. From South PL 5560 to Nor",
@@ -184,34 +128,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
-    "street": null,
-    "location": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
-    "comp_date": "2026-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10520e41-4f86-430d-a5c3-9be8e80a68a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1832306134017,
-            49.23774056052844
-          ],
-          [
-            -123.18385045094774,
-            49.23774056052844
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18354053217473,
-      "lat": 49.23774056052844
-    }
-  },
-  {
     "project": "St. George St from",
     "street": null,
     "location": "St. George St from",
@@ -259,6 +175,34 @@
     "geo_point_2d": {
       "lon": -123.09406887535575,
       "lat": 49.22604544739884
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
+    "street": null,
+    "location": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
+    "comp_date": "2026-03-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10520e41-4f86-430d-a5c3-9be8e80a68a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1832306134017,
+            49.23774056052844
+          ],
+          [
+            -123.18385045094774,
+            49.23774056052844
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18354053217473,
+      "lat": 49.23774056052844
     }
   },
   {
@@ -449,6 +393,34 @@
     "geo_point_2d": {
       "lon": -123.11828769589711,
       "lat": 49.26301034265017
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
+    "street": null,
+    "location": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
+    "comp_date": "2026-04-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26552196-e296-4552-9ef1-5e27f0f87d68",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04226872036352,
+            49.208110301828015
+          ],
+          [
+            -123.04226872036352,
+            49.2074447737825
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04226872036351,
+      "lat": 49.207777537805256
     }
   },
   {
