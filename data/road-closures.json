@@ -1,5 +1,33 @@
 [
   {
+    "project": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
+    "street": null,
+    "location": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
+    "comp_date": "2026-03-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10520e41-4f86-430d-a5c3-9be8e80a68a3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1832306134017,
+            49.23774056052844
+          ],
+          [
+            -123.18385045094774,
+            49.23774056052844
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18354053217473,
+      "lat": 49.23774056052844
+    }
+  },
+  {
     "project": "St. George St from",
     "street": null,
     "location": "St. George St from",
@@ -47,34 +75,6 @@
     "geo_point_2d": {
       "lon": -123.09406887535575,
       "lat": 49.22604544739884
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
-    "street": null,
-    "location": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
-    "comp_date": "2026-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10520e41-4f86-430d-a5c3-9be8e80a68a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1832306134017,
-            49.23774056052844
-          ],
-          [
-            -123.18385045094774,
-            49.23774056052844
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18354053217473,
-      "lat": 49.23774056052844
     }
   },
   {
@@ -324,46 +324,6 @@
     }
   },
   {
-    "project": "Pine Crescent from W 36th Av to W 37th Av",
-    "street": null,
-    "location": "Pine Crescent from W 36th Av to W 37th Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14697778787693,
-              49.2390626894522
-            ],
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ]
-          ],
-          [
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ],
-            [
-              -123.14700777345845,
-              49.23816800200777
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14699304556505,
-      "lat": 49.23861535460846
-    }
-  },
-  {
     "project": "Intersection of Angus Dr and W 35th Av",
     "street": null,
     "location": "Intersection of Angus Dr and W 35th Av",
@@ -441,6 +401,46 @@
     "geo_point_2d": {
       "lon": -123.14557357914263,
       "lat": 49.24022736498019
+    }
+  },
+  {
+    "project": "Pine Crescent from W 36th Av to W 37th Av",
+    "street": null,
+    "location": "Pine Crescent from W 36th Av to W 37th Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14697778787693,
+              49.2390626894522
+            ],
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ]
+          ],
+          [
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14699304556505,
+      "lat": 49.23861535460846
     }
   },
   {
