@@ -1,115 +1,5 @@
 [
   {
-    "project": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
-    "street": null,
-    "location": "Both Sides of the Street of 3500 Block of W 38th Av. From West PL 3553 to East P",
-    "comp_date": "2026-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/10520e41-4f86-430d-a5c3-9be8e80a68a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.1832306134017,
-            49.23774056052844
-          ],
-          [
-            -123.18385045094774,
-            49.23774056052844
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18354053217473,
-      "lat": 49.23774056052844
-    }
-  },
-  {
-    "project": "St. George St from",
-    "street": null,
-    "location": "St. George St from",
-    "comp_date": "2026-03-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4cb2d2b9-5efc-478b-bfd9-b07399061750",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09406254555542,
-              49.22619310679639
-            ],
-            [
-              -123.09406876331136,
-              49.22604637997972
-            ]
-          ],
-          [
-            [
-              -123.09404717270378,
-              49.22656716936518
-            ],
-            [
-              -123.09406254555542,
-              49.22619310679639
-            ]
-          ],
-          [
-            [
-              -123.09406876331136,
-              49.22604637997972
-            ],
-            [
-              -123.09409085811365,
-              49.225523737107665
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09406887535575,
-      "lat": 49.22604544739884
-    }
-  },
-  {
-    "project": "OFFSITE SEWER WORKS IN RELATION TO DEVELOPMENT AT 908-950 RAYMUR. POSSE PERMIT T",
-    "street": null,
-    "location": "OFFSITE SEWER WORKS IN RELATION TO DEVELOPMENT AT 908-950 RAYMUR. POSSE PERMIT T",
-    "comp_date": "2026-03-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/761d6a3e-9ca1-4581-8155-c21ed7b81751",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08263185948526,
-            49.27599504077608
-          ],
-          [
-            -123.08263543708162,
-            49.27580838267852
-          ],
-          [
-            -123.08206659042034,
-            49.27579904979248
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08242084517536,
-      "lat": 49.27582792829733
-    }
-  },
-  {
     "project": "W 61st Av from Heather St to Ash St",
     "street": null,
     "location": "W 61st Av from Heather St to Ash St",
@@ -203,6 +93,38 @@
     "geo_point_2d": {
       "lon": -123.10097048018831,
       "lat": 49.27766765245329
+    }
+  },
+  {
+    "project": "OFFSITE SEWER WORKS IN RELATION TO DEVELOPMENT AT 908-950 RAYMUR. POSSE PERMIT T",
+    "street": null,
+    "location": "OFFSITE SEWER WORKS IN RELATION TO DEVELOPMENT AT 908-950 RAYMUR. POSSE PERMIT T",
+    "comp_date": "2026-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/761d6a3e-9ca1-4581-8155-c21ed7b81751",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08263185948526,
+            49.27599504077608
+          ],
+          [
+            -123.08263543708162,
+            49.27580838267852
+          ],
+          [
+            -123.08206659042034,
+            49.27579904979248
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08242084517536,
+      "lat": 49.27582792829733
     }
   },
   {
@@ -321,6 +243,38 @@
     "geo_point_2d": {
       "lon": -123.04226872036351,
       "lat": 49.207777537805256
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "street": null,
+    "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "comp_date": "2026-04-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55ddf25b-d559-4c0b-90e9-e42501d03726",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06143378287678,
+            49.260407949340475
+          ],
+          [
+            -123.06016814647296,
+            49.2599029420204
+          ],
+          [
+            -123.06014847336824,
+            49.26039083053291
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0606314312322,
+      "lat": 49.26015318769482
     }
   },
   {
@@ -905,6 +859,66 @@
     "geo_point_2d": {
       "lon": -123.06878422872697,
       "lat": 49.250336009378195
+    }
+  },
+  {
+    "project": "W 23rd Av - Cambie St to Manitoba St                        \r\nColumbia St - W 23",
+    "street": null,
+    "location": "W 23rd Av - Cambie St to Manitoba St                        \r\nColumbia St - W 23",
+    "comp_date": "2026-07-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3f5f7853-e084-495b-bc4d-848587fa40f8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11536037145135,
+              49.25008557826274
+            ],
+            [
+              -123.10739788443595,
+              49.24997439991202
+            ]
+          ],
+          [
+            [
+              -123.10999771587181,
+              49.250014806571414
+            ],
+            [
+              -123.11004394677045,
+              49.24895857714182
+            ]
+          ],
+          [
+            [
+              -123.10732113286002,
+              49.25191150673322
+            ],
+            [
+              -123.10739520196937,
+              49.249977570395345
+            ]
+          ],
+          [
+            [
+              -123.10741998903484,
+              49.24997614815695
+            ],
+            [
+              -123.10752087768643,
+              49.247824802571245
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11003383390457,
+      "lat": 49.249935625669664
     }
   },
   {
