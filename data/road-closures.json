@@ -1,33 +1,5 @@
 [
   {
-    "project": "Arbutus St - W 49th Av to W 51st Av",
-    "street": null,
-    "location": "Arbutus St - W 49th Av to W 51st Av",
-    "comp_date": "2026-03-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1203a2c7-1e90-4b56-a701-a17974eaf33a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.15515214129859,
-            49.2271583106463
-          ],
-          [
-            -123.15523291044629,
-            49.2249826337804
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15519252587244,
-      "lat": 49.22607047221335
-    }
-  },
-  {
     "project": "E King Edward - St George to Fraser St",
     "street": null,
     "location": "E King Edward - St George to Fraser St",
@@ -117,66 +89,6 @@
     "geo_point_2d": {
       "lon": -123.08242084517536,
       "lat": 49.27582792829733
-    }
-  },
-  {
-    "project": "Cypress St – Whyte Av to Creelman / Creelman Av – Chestnut to Cypress",
-    "street": null,
-    "location": "Cypress St – Whyte Av to Creelman / Creelman Av – Chestnut to Cypress",
-    "comp_date": "2026-03-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c8a91ea8-a2f7-4818-bfc0-25f0463273f2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14769434160986,
-              49.275334219098625
-            ],
-            [
-              -123.14771100606495,
-              49.2748929117605
-            ]
-          ],
-          [
-            [
-              -123.14771100606495,
-              49.2748929117605
-            ],
-            [
-              -123.147727519787,
-              49.27445186543926
-            ]
-          ],
-          [
-            [
-              -123.14629347568913,
-              49.27442845845829
-            ],
-            [
-              -123.14698701495607,
-              49.27443729309903
-            ]
-          ],
-          [
-            [
-              -123.14698701495607,
-              49.27443729309903
-            ],
-            [
-              -123.147727519787,
-              49.27445186543926
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14727742364249,
-      "lat": 49.274611963520705
     }
   },
   {
