@@ -1,109 +1,5 @@
 [
   {
-    "project": "W 23rd Av from Cambie St to Ln E of Cambie St",
-    "street": null,
-    "location": "W 23rd Av from Cambie St to Ln E of Cambie St",
-    "comp_date": "2026-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/12e9f8a1-f76b-4343-adf7-d361d21c5d7b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11465756182385,
-            49.25009752921176
-          ],
-          [
-            -123.11519100588062,
-            49.25010759495336
-          ],
-          [
-            -123.11535912021054,
-            49.25009353858218
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11500855245737,
-      "lat": 49.25010208274286
-    }
-  },
-  {
-    "project": "Frances St from Clark Dr to McLean Dr",
-    "street": null,
-    "location": "Frances St from Clark Dr to McLean Dr",
-    "comp_date": "2026-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3d53f414-1b61-40d3-a762-2b7a15afbaff",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.077148348173,
-              49.27947127862427
-            ],
-            [
-              -123.07697695706864,
-              49.27945636198197
-            ],
-            [
-              -123.07588478353809,
-              49.27944345670164
-            ]
-          ],
-          [
-            [
-              -123.07588478353809,
-              49.27944345670164
-            ],
-            [
-              -123.07413285903493,
-              49.279427233253074
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07564091329975,
-      "lat": 49.2794422431209
-    }
-  },
-  {
-    "project": "North Side of the Street of 100 Block of Union St. From Quebec St to Main St",
-    "street": null,
-    "location": "North Side of the Street of 100 Block of Union St. From Quebec St to Main St",
-    "comp_date": "2026-03-25",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d2012853-cf87-4672-99ea-ae75141ec9a2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10210505460161,
-            49.27765715331324
-          ],
-          [
-            -123.09983590577502,
-            49.277678151593335
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10097048018831,
-      "lat": 49.27766765245329
-    }
-  },
-  {
     "project": "OFFSITE SEWER WORKS IN RELATION TO DEVELOPMENT AT 908-950 RAYMUR. POSSE PERMIT T",
     "street": null,
     "location": "OFFSITE SEWER WORKS IN RELATION TO DEVELOPMENT AT 908-950 RAYMUR. POSSE PERMIT T",
@@ -133,6 +29,56 @@
     "geo_point_2d": {
       "lon": -123.08242084517536,
       "lat": 49.27582792829733
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1700-1800 Block of E 13th Av. From Victoria Dr to 5m",
+    "street": null,
+    "location": "Both Sides of the Street of 1700-1800 Block of E 13th Av. From Victoria Dr to 5m",
+    "comp_date": "2026-03-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9e72eba4-8abb-4ad4-81af-32f979a375bc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.06598140839614,
+              49.25862116412287
+            ],
+            [
+              -123.06670904377629,
+              49.258628199502255
+            ]
+          ],
+          [
+            [
+              -123.06599757807126,
+              49.25772745586201
+            ],
+            [
+              -123.06671443366798,
+              49.25772745586201
+            ]
+          ],
+          [
+            [
+              -123.06601374774637,
+              49.25682690271333
+            ],
+            [
+              -123.06674138312651,
+              49.25682690271333
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06635961673798,
+      "lat": 49.2577263553579
     }
   },
   {
@@ -329,34 +275,6 @@
     "geo_point_2d": {
       "lon": -123.11828769589711,
       "lat": 49.26301034265017
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
-    "street": null,
-    "location": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
-    "comp_date": "2026-04-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26552196-e296-4552-9ef1-5e27f0f87d68",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04226872036352,
-            49.208110301828015
-          ],
-          [
-            -123.04226872036352,
-            49.2074447737825
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04226872036351,
-      "lat": 49.207777537805256
     }
   },
   {
@@ -1173,6 +1091,34 @@
     "geo_point_2d": {
       "lon": -123.14383529615506,
       "lat": 49.28970857517757
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
+    "street": null,
+    "location": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
+    "comp_date": "2026-04-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26552196-e296-4552-9ef1-5e27f0f87d68",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04226872036352,
+            49.208110301828015
+          ],
+          [
+            -123.04226872036352,
+            49.2074447737825
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04226872036351,
+      "lat": 49.207777537805256
     }
   },
   {
