@@ -1,111 +1,5 @@
 [
   {
-    "project": "Both Sides of the Street of 2300 Block of Woodland Dr. From E 7th Av to E 8th Av",
-    "street": null,
-    "location": "Both Sides of the Street of 2300 Block of Woodland Dr. From E 7th Av to E 8th Av",
-    "comp_date": "2026-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c5b2206a-3b14-4f2d-9ead-9b362c73089c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07362439363037,
-            49.264217911056676
-          ],
-          [
-            -123.07364048688444,
-            49.26331823127555
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0736324402574,
-      "lat": 49.26376807116611
-    }
-  },
-  {
-    "project": "Bruce St from E 47th Av to E 49th Av",
-    "street": null,
-    "location": "Bruce St from E 47th Av to E 49th Av",
-    "comp_date": "2026-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9614bac7-27e7-4d51-8a46-963f9ad81636",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0698265214062,
-              49.22766908767892
-            ],
-            [
-              -123.06984359828127,
-              49.2272436914501
-            ]
-          ],
-          [
-            [
-              -123.06984359828127,
-              49.2272436914501
-            ],
-            [
-              -123.06990632262867,
-              49.225665668521714
-            ]
-          ],
-          [
-            [
-              -123.06990632262867,
-              49.225665668521714
-            ],
-            [
-              -123.06992405422945,
-              49.2252185751577
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06987537333104,
-      "lat": 49.226443834830306
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 3600 Block of Tanner St. From West PL 3650 to East P",
-    "street": null,
-    "location": "Both Sides of the Street of 3600 Block of Tanner St. From West PL 3650 to East P",
-    "comp_date": "2026-03-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/bff0aecf-d3dc-49e7-944e-b32521b6fbb8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.02556364934003,
-            49.241724827545085
-          ],
-          [
-            -123.02581158435845,
-            49.24183039425435
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02568761684923,
-      "lat": 49.24177761089972
-    }
-  },
-  {
     "project": "W. 27th & Quesnel intersection",
     "street": null,
     "location": "W. 27th & Quesnel intersection",
@@ -892,74 +786,6 @@
     }
   },
   {
-    "project": "Pine Crescent from W 36th Av to W 37th Av",
-    "street": null,
-    "location": "Pine Crescent from W 36th Av to W 37th Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14697778787693,
-              49.2390626894522
-            ],
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ]
-          ],
-          [
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ],
-            [
-              -123.14700777345845,
-              49.23816800200777
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14699304556505,
-      "lat": 49.23861535460846
-    }
-  },
-  {
-    "project": "Lillooet St from E 22nd Av to E 23rd Av",
-    "street": null,
-    "location": "Lillooet St from E 22nd Av to E 23rd Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03906641659485,
-            49.25060607158579
-          ],
-          [
-            -123.03908205580079,
-            49.24966852097043
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03907423619782,
-      "lat": 49.25013729627812
-    }
-  },
-  {
     "project": "Intersection of Angus Dr and W 35th Av",
     "street": null,
     "location": "Intersection of Angus Dr and W 35th Av",
@@ -1037,6 +863,74 @@
     "geo_point_2d": {
       "lon": -123.14557357914263,
       "lat": 49.24022736498019
+    }
+  },
+  {
+    "project": "Pine Crescent from W 36th Av to W 37th Av",
+    "street": null,
+    "location": "Pine Crescent from W 36th Av to W 37th Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14697778787693,
+              49.2390626894522
+            ],
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ]
+          ],
+          [
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14699304556505,
+      "lat": 49.23861535460846
+    }
+  },
+  {
+    "project": "Lillooet St from E 22nd Av to E 23rd Av",
+    "street": null,
+    "location": "Lillooet St from E 22nd Av to E 23rd Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03906641659485,
+            49.25060607158579
+          ],
+          [
+            -123.03908205580079,
+            49.24966852097043
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03907423619782,
+      "lat": 49.25013729627812
     }
   },
   {
