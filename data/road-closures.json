@@ -90,6 +90,34 @@
     }
   },
   {
+    "project": "Angus Dr from W 45th Av to W 47th Av",
+    "street": null,
+    "location": "Angus Dr from W 45th Av to W 47th Av",
+    "comp_date": "2026-04-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/44d7088a-8268-4d5b-9ca6-8f4ee0140d55",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14781836100435,
+            49.23073880409868
+          ],
+          [
+            -123.14788621477426,
+            49.228879837577324
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14785228788931,
+      "lat": 49.229809320838
+    }
+  },
+  {
     "project": "Both Sides of the Street of 700 Block of Windermere St. From E Georgia St Lanewa",
     "street": null,
     "location": "Both Sides of the Street of 700 Block of Windermere St. From E Georgia St Lanewa",
@@ -699,46 +727,6 @@
     "geo_point_2d": {
       "lon": -123.13688065967763,
       "lat": 49.26786832232676
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1500 Block of Woodland Dr. From Graveley St to 60m N",
-    "street": null,
-    "location": "Both Sides of the Street of 1500 Block of Woodland Dr. From Graveley St to 60m N",
-    "comp_date": "2026-04-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9f190340-9146-4766-a475-5b972583d032",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07348697311714,
-              49.270551400595224
-            ],
-            [
-              -123.07347619333373,
-              49.271230145959066
-            ]
-          ],
-          [
-            [
-              -123.07348697311717,
-              49.27053733323501
-            ],
-            [
-              -123.0715681716703,
-              49.27052678271227
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07277687820618,
-      "lat": 49.2706257988487
     }
   },
   {
