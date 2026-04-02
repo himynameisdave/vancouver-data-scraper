@@ -730,74 +730,6 @@
     }
   },
   {
-    "project": "Pine Crescent from W 36th Av to W 37th Av",
-    "street": null,
-    "location": "Pine Crescent from W 36th Av to W 37th Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14697778787693,
-              49.2390626894522
-            ],
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ]
-          ],
-          [
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ],
-            [
-              -123.14700777345845,
-              49.23816800200777
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14699304556505,
-      "lat": 49.23861535460846
-    }
-  },
-  {
-    "project": "Lillooet St from E 22nd Av to E 23rd Av",
-    "street": null,
-    "location": "Lillooet St from E 22nd Av to E 23rd Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03906641659485,
-            49.25060607158579
-          ],
-          [
-            -123.03908205580079,
-            49.24966852097043
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03907423619782,
-      "lat": 49.25013729627812
-    }
-  },
-  {
     "project": "Intersection of Angus Dr and W 35th Av",
     "street": null,
     "location": "Intersection of Angus Dr and W 35th Av",
@@ -875,6 +807,74 @@
     "geo_point_2d": {
       "lon": -123.14557357914263,
       "lat": 49.24022736498019
+    }
+  },
+  {
+    "project": "Pine Crescent from W 36th Av to W 37th Av",
+    "street": null,
+    "location": "Pine Crescent from W 36th Av to W 37th Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14697778787693,
+              49.2390626894522
+            ],
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ]
+          ],
+          [
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14699304556505,
+      "lat": 49.23861535460846
+    }
+  },
+  {
+    "project": "Lillooet St from E 22nd Av to E 23rd Av",
+    "street": null,
+    "location": "Lillooet St from E 22nd Av to E 23rd Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03906641659485,
+            49.25060607158579
+          ],
+          [
+            -123.03908205580079,
+            49.24966852097043
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03907423619782,
+      "lat": 49.25013729627812
     }
   },
   {
@@ -1658,46 +1658,6 @@
     }
   },
   {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
-    }
-  },
-  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1891,6 +1851,46 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
+    }
+  },
+  {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
     }
   },
   {
