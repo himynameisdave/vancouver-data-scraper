@@ -28,34 +28,6 @@
     }
   },
   {
-    "project": "W 44th Av from Maple St to Cypress St",
-    "street": null,
-    "location": "W 44th Av from Maple St to Cypress St",
-    "comp_date": "2026-04-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/68cff1e7-eb75-4cc9-8202-119db6a7333b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14933010072363,
-            49.23173560339262
-          ],
-          [
-            -123.15215185267337,
-            49.23177925439387
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15074097669849,
-      "lat": 49.231757428893246
-    }
-  },
-  {
     "project": "Hemlock On-Ramp",
     "street": null,
     "location": "Hemlock On-Ramp",
@@ -640,6 +612,34 @@
     }
   },
   {
+    "project": "W 44th Av from Maple St to Cypress St",
+    "street": null,
+    "location": "W 44th Av from Maple St to Cypress St",
+    "comp_date": "2026-04-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/68cff1e7-eb75-4cc9-8202-119db6a7333b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14933010072363,
+            49.23173560339262
+          ],
+          [
+            -123.15215185267337,
+            49.23177925439387
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15074097669849,
+      "lat": 49.231757428893246
+    }
+  },
+  {
     "project": "Both sides of 300 Block of E 16th Ave from W PL 338 to E PL 370.",
     "street": null,
     "location": "Both sides of 300 Block of E 16th Ave from W PL 338 to E PL 370.",
@@ -665,74 +665,6 @@
     "geo_point_2d": {
       "lon": -123.09760139439297,
       "lat": 49.256552375142036
-    }
-  },
-  {
-    "project": "Pine Crescent from W 36th Av to W 37th Av",
-    "street": null,
-    "location": "Pine Crescent from W 36th Av to W 37th Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14697778787693,
-              49.2390626894522
-            ],
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ]
-          ],
-          [
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ],
-            [
-              -123.14700777345845,
-              49.23816800200777
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14699304556505,
-      "lat": 49.23861535460846
-    }
-  },
-  {
-    "project": "Lillooet St from E 22nd Av to E 23rd Av",
-    "street": null,
-    "location": "Lillooet St from E 22nd Av to E 23rd Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03906641659485,
-            49.25060607158579
-          ],
-          [
-            -123.03908205580079,
-            49.24966852097043
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03907423619782,
-      "lat": 49.25013729627812
     }
   },
   {
@@ -813,6 +745,74 @@
     "geo_point_2d": {
       "lon": -123.14557357914263,
       "lat": 49.24022736498019
+    }
+  },
+  {
+    "project": "Pine Crescent from W 36th Av to W 37th Av",
+    "street": null,
+    "location": "Pine Crescent from W 36th Av to W 37th Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14697778787693,
+              49.2390626894522
+            ],
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ]
+          ],
+          [
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14699304556505,
+      "lat": 49.23861535460846
+    }
+  },
+  {
+    "project": "Lillooet St from E 22nd Av to E 23rd Av",
+    "street": null,
+    "location": "Lillooet St from E 22nd Av to E 23rd Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03906641659485,
+            49.25060607158579
+          ],
+          [
+            -123.03908205580079,
+            49.24966852097043
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03907423619782,
+      "lat": 49.25013729627812
     }
   },
   {
