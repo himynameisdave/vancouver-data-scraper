@@ -1,45 +1,5 @@
 [
   {
-    "project": "Pacific St – Rolston to Continental",
-    "street": null,
-    "location": "Pacific St – Rolston to Continental",
-    "comp_date": "2026-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4aba7e7d-c1f7-4b2b-8687-d289435e7066",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12990771356897,
-              49.275359399110556
-            ],
-            [
-              -123.12944208178259,
-              49.275047689667446
-            ]
-          ],
-          [
-            [
-              -123.12891059938514,
-              49.27469188543628
-            ],
-            [
-              -123.12944208178259,
-              49.275047689667446
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12940915516093,
-      "lat": 49.27502564423939
-    }
-  },
-  {
     "project": "Pacific St – Bute to Jervis",
     "street": null,
     "location": "Pacific St – Bute to Jervis",
@@ -65,38 +25,6 @@
     "geo_point_2d": {
       "lon": -123.137334238206,
       "lat": 49.28018097546841
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2026-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7381cdd-998e-462c-a6f4-9bee70c84380",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11446690982777,
-            49.25485318722846
-          ],
-          [
-            -123.11499013917677,
-            49.2548630391415
-          ],
-          [
-            -123.11515613345091,
-            49.254899475361526
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1148130018367,
-      "lat": 49.25486378666738
     }
   },
   {
@@ -224,35 +152,133 @@
     }
   },
   {
-    "project": "1000 Dunsmuir St, from Burrard to Melville",
+    "project": "Pacific St – Rolston to Continental",
     "street": null,
-    "location": "1000 Dunsmuir St, from Burrard to Melville",
+    "location": "Pacific St – Rolston to Continental",
     "comp_date": "2026-04-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dd553b83-ad90-4bc1-b92c-323afe28dff8",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4aba7e7d-c1f7-4b2b-8687-d289435e7066",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.11946212399704,
-            49.28559655356818
+            [
+              -123.12990771356897,
+              49.275359399110556
+            ],
+            [
+              -123.12944208178259,
+              49.275047689667446
+            ]
           ],
           [
-            -123.11993523602078,
-            49.28586548070618
-          ],
-          [
-            -123.12125319094403,
-            49.28608150308261
+            [
+              -123.12891059938514,
+              49.27469188543628
+            ],
+            [
+              -123.12944208178259,
+              49.275047689667446
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12033494848046,
-      "lat": 49.28590329326949
+      "lon": -123.12940915516093,
+      "lat": 49.27502564423939
+    }
+  },
+  {
+    "project": "E 1st Ave / Boundary Rd",
+    "street": null,
+    "location": "E 1st Ave / Boundary Rd",
+    "comp_date": "2026-04-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/13bb33ee-5025-42a8-8b67-a072f09ee9b0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.02539926595874,
+              49.26946092014052
+            ],
+            [
+              -123.02364264510658,
+              49.269456750358955
+            ]
+          ],
+          [
+            [
+              -123.02363872233244,
+              49.270309225696735
+            ],
+            [
+              -123.02364264510658,
+              49.269456750358955
+            ]
+          ],
+          [
+            [
+              -123.02364264510658,
+              49.269456750358955
+            ],
+            [
+              -123.02365349690257,
+              49.26846294095506
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02407189640496,
+      "lat": 49.269421547630614
+    }
+  },
+  {
+    "project": "E 1st Av - Hwy 1 to Boundary Rd",
+    "street": null,
+    "location": "E 1st Av - Hwy 1 to Boundary Rd",
+    "comp_date": "2026-04-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2187bafe-bfcc-4384-a34c-1e6d47ce6243",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0279261040214,
+              49.269466876561694
+            ],
+            [
+              -123.02539926595874,
+              49.26946092014052
+            ]
+          ],
+          [
+            [
+              -123.02539926595874,
+              49.26946092014052
+            ],
+            [
+              -123.02364264510658,
+              49.269456750358955
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02578437454378,
+      "lat": 49.2694618220035
     }
   },
   {
