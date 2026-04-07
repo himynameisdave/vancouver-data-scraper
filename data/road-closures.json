@@ -1,155 +1,5 @@
 [
   {
-    "project": "E 1st Ave / Boundary Rd",
-    "street": null,
-    "location": "E 1st Ave / Boundary Rd",
-    "comp_date": "2026-04-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/13bb33ee-5025-42a8-8b67-a072f09ee9b0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.02539926595874,
-              49.26946092014052
-            ],
-            [
-              -123.02364264510658,
-              49.269456750358955
-            ]
-          ],
-          [
-            [
-              -123.02363872233244,
-              49.270309225696735
-            ],
-            [
-              -123.02364264510658,
-              49.269456750358955
-            ]
-          ],
-          [
-            [
-              -123.02364264510658,
-              49.269456750358955
-            ],
-            [
-              -123.02365349690257,
-              49.26846294095506
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02407189640496,
-      "lat": 49.269421547630614
-    }
-  },
-  {
-    "project": "E King Edward - Knight St to Dumfries St",
-    "street": null,
-    "location": "E King Edward - Knight St to Dumfries St",
-    "comp_date": "2026-04-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c31fed8e-8e8f-4d60-af51-a0bd8294c6db",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07615143162906,
-              49.24850306172735
-            ],
-            [
-              -123.07558519110874,
-              49.24849567968465
-            ]
-          ],
-          [
-            [
-              -123.07558519110874,
-              49.24849567968465
-            ],
-            [
-              -123.07465737673957,
-              49.24848263720983
-            ]
-          ],
-          [
-            [
-              -123.07465737673957,
-              49.24848263720983
-            ],
-            [
-              -123.07352040152541,
-              49.2484664283227
-            ]
-          ],
-          [
-            [
-              -123.07352040152541,
-              49.2484664283227
-            ],
-            [
-              -123.07335514493096,
-              49.24846602064031
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07475329184288,
-      "lat": 49.24848392425505
-    }
-  },
-  {
-    "project": "E 1st Av - Hwy 1 to Boundary Rd",
-    "street": null,
-    "location": "E 1st Av - Hwy 1 to Boundary Rd",
-    "comp_date": "2026-04-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2187bafe-bfcc-4384-a34c-1e6d47ce6243",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.0279261040214,
-              49.269466876561694
-            ],
-            [
-              -123.02539926595874,
-              49.26946092014052
-            ]
-          ],
-          [
-            [
-              -123.02539926595874,
-              49.26946092014052
-            ],
-            [
-              -123.02364264510658,
-              49.269456750358955
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.02578437454378,
-      "lat": 49.2694618220035
-    }
-  },
-  {
     "project": "Both sides of 300 Block of E 16th Ave from W PL 338 to E PL 370.",
     "street": null,
     "location": "Both sides of 300 Block of E 16th Ave from W PL 338 to E PL 370.",
@@ -363,6 +213,34 @@
     "geo_point_2d": {
       "lon": -123.14383529615506,
       "lat": 49.28970857517757
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
+    "street": null,
+    "location": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
+    "comp_date": "2026-04-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26552196-e296-4552-9ef1-5e27f0f87d68",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04226872036352,
+            49.208110301828015
+          ],
+          [
+            -123.04226872036352,
+            49.2074447737825
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04226872036351,
+      "lat": 49.207777537805256
     }
   },
   {
@@ -1078,46 +956,6 @@
     }
   },
   {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
-    }
-  },
-  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1311,6 +1149,46 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
+    }
+  },
+  {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
     }
   },
   {
