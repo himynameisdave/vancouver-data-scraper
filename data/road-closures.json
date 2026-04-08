@@ -28,6 +28,94 @@
     }
   },
   {
+    "project": "Kingsway from Rupert St to Kerr St",
+    "street": null,
+    "location": "Kingsway from Rupert St to Kerr St",
+    "comp_date": "2026-04-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8d7f2b88-e4e6-4949-b62d-e9917c25b480",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.04231600102635,
+              49.23594291744541
+            ],
+            [
+              -123.04078930276677,
+              49.23580693671647
+            ]
+          ],
+          [
+            [
+              -123.04078930276677,
+              49.23580693671647
+            ],
+            [
+              -123.04037026932062,
+              49.23576961870339
+            ],
+            [
+              -123.04029789807498,
+              49.23576311342143
+            ],
+            [
+              -123.04022571850001,
+              49.2357557894598
+            ],
+            [
+              -123.04015373059192,
+              49.23574763782369
+            ],
+            [
+              -123.04008198929445,
+              49.235738649499126
+            ],
+            [
+              -123.04001048090329,
+              49.23572886047231
+            ],
+            [
+              -123.0399392603475,
+              49.23571824373889
+            ],
+            [
+              -123.03986831391535,
+              49.235706826289885
+            ],
+            [
+              -123.0397976965503,
+              49.235694599111696
+            ],
+            [
+              -123.03972742199241,
+              49.235681562200085
+            ],
+            [
+              -123.03965749025214,
+              49.23566772455098
+            ],
+            [
+              -123.03958794254311,
+              49.23565308615085
+            ],
+            [
+              -123.0395244532365,
+              49.235638958365314
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04091720620038,
+      "lat": 49.235812939115746
+    }
+  },
+  {
     "project": "Intersection of Angus Dr and W 35th Av",
     "street": null,
     "location": "Intersection of Angus Dr and W 35th Av",
@@ -273,6 +361,34 @@
     "geo_point_2d": {
       "lon": -123.0606314312322,
       "lat": 49.26015318769482
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
+    "street": null,
+    "location": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
+    "comp_date": "2026-04-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd58661b-1fe6-4bbe-891e-e6a526a35945",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0867819445219,
+            49.24084030033191
+          ],
+          [
+            -123.08796203379406,
+            49.24084421029576
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.087371989158,
+      "lat": 49.24084225531384
     }
   },
   {
@@ -956,6 +1072,46 @@
     }
   },
   {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
+    }
+  },
+  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1149,46 +1305,6 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
-    }
-  },
-  {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
     }
   },
   {
