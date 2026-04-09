@@ -1,21 +1,25 @@
 [
   {
-    "project": "Both sides of 300 Block of E 16th Ave from W PL 338 to E PL 370.",
+    "project": "Both Sides of the Street of 1200 Block of Arbutus St. From Lane South of Wyte Av",
     "street": null,
-    "location": "Both sides of 300 Block of E 16th Ave from W PL 338 to E PL 370.",
-    "comp_date": "2026-04-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/aea3ddc1-ebf7-4ed3-a3b5-97274b83b723",
+    "location": "Both Sides of the Street of 1200 Block of Arbutus St. From Lane South of Wyte Av",
+    "comp_date": "2026-04-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9fd9af80-e49d-4f9a-9d0f-dec55b0eb7a5",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.09788537105429,
-            49.256559410816806
+            -123.15223701893157,
+            49.27497939099632
           ],
           [
-            -123.09731741773166,
-            49.256545339467266
+            -123.15254100882372,
+            49.27465710052982
+          ],
+          [
+            -123.15254100882372,
+            49.274530387461965
           ]
         ],
         "type": "LineString"
@@ -23,8 +27,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09760139439297,
-      "lat": 49.256552375142036
+      "lon": -123.15242281778028,
+      "lat": 49.274768316235296
     }
   },
   {
@@ -116,6 +120,74 @@
     }
   },
   {
+    "project": "Pine Crescent from W 36th Av to W 37th Av",
+    "street": null,
+    "location": "Pine Crescent from W 36th Av to W 37th Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14697778787693,
+              49.2390626894522
+            ],
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ]
+          ],
+          [
+            [
+              -123.14699329087973,
+              49.238615947780744
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14699304556505,
+      "lat": 49.23861535460846
+    }
+  },
+  {
+    "project": "Lillooet St from E 22nd Av to E 23rd Av",
+    "street": null,
+    "location": "Lillooet St from E 22nd Av to E 23rd Av",
+    "comp_date": "2026-04-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03906641659485,
+            49.25060607158579
+          ],
+          [
+            -123.03908205580079,
+            49.24966852097043
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03907423619782,
+      "lat": 49.25013729627812
+    }
+  },
+  {
     "project": "Intersection of Angus Dr and W 35th Av",
     "street": null,
     "location": "Intersection of Angus Dr and W 35th Av",
@@ -196,74 +268,6 @@
     }
   },
   {
-    "project": "Pine Crescent from W 36th Av to W 37th Av",
-    "street": null,
-    "location": "Pine Crescent from W 36th Av to W 37th Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8bd112d3-8063-4272-a298-506c6f9f6c59",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14697778787693,
-              49.2390626894522
-            ],
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ]
-          ],
-          [
-            [
-              -123.14699329087973,
-              49.238615947780744
-            ],
-            [
-              -123.14700777345845,
-              49.23816800200777
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14699304556505,
-      "lat": 49.23861535460846
-    }
-  },
-  {
-    "project": "Lillooet St from E 22nd Av to E 23rd Av",
-    "street": null,
-    "location": "Lillooet St from E 22nd Av to E 23rd Av",
-    "comp_date": "2026-04-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b9874297-0f58-484c-94f6-d175ad53a507",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03906641659485,
-            49.25060607158579
-          ],
-          [
-            -123.03908205580079,
-            49.24966852097043
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03907423619782,
-      "lat": 49.25013729627812
-    }
-  },
-  {
     "project": "B/S of 1000 blk Chilco St  (24 hours)\r\nS/S of 1900 Pendrell St  (day time only)",
     "street": null,
     "location": "B/S of 1000 blk Chilco St  (24 hours)\r\nS/S of 1900 Pendrell St  (day time only)",
@@ -301,6 +305,34 @@
     "geo_point_2d": {
       "lon": -123.14383529615506,
       "lat": 49.28970857517757
+    }
+  },
+  {
+    "project": "Napier St from Slocan St to Penticton St",
+    "street": null,
+    "location": "Napier St from Slocan St to Penticton St",
+    "comp_date": "2026-04-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6bc546e0-aba6-4b71-b28e-621845cf1b23",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0520015680233,
+            49.274971854829886
+          ],
+          [
+            -123.04937847843269,
+            49.27497179121045
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05069002322799,
+      "lat": 49.27497182302017
     }
   },
   {
@@ -389,6 +421,34 @@
     "geo_point_2d": {
       "lon": -123.087371989158,
       "lat": 49.24084225531384
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "street": null,
+    "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "comp_date": "2026-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2eec7ba8-ecbf-4959-ab22-90241f56d11a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12496602103263,
+            49.28189727012642
+          ],
+          [
+            -123.12569683777933,
+            49.282377791903826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12533142940597,
+      "lat": 49.282137531015124
     }
   },
   {
