@@ -1,33 +1,5 @@
 [
   {
-    "project": "Richards St - Drake to Pacific St",
-    "street": null,
-    "location": "Richards St - Drake to Pacific St",
-    "comp_date": "2026-04-11",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f0998804-8547-4b3c-897e-5b088a65005c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12583104003365,
-            49.27482498174544
-          ],
-          [
-            -123.1274799938117,
-            49.27373470227727
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12665551692268,
-      "lat": 49.27427984201135
-    }
-  },
-  {
     "project": "Both Sides of the Street of 2600 Block of W 10th Av. From Stephens St to Trafalg",
     "street": null,
     "location": "Both Sides of the Street of 2600 Block of W 10th Av. From Stephens St to Trafalg",
@@ -65,6 +37,34 @@
     "geo_point_2d": {
       "lon": -123.16565673527342,
       "lat": 49.26333374861683
+    }
+  },
+  {
+    "project": "Richards St - Drake to Pacific St",
+    "street": null,
+    "location": "Richards St - Drake to Pacific St",
+    "comp_date": "2026-04-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f0998804-8547-4b3c-897e-5b088a65005c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12583104003365,
+            49.27482498174544
+          ],
+          [
+            -123.1274799938117,
+            49.27373470227727
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12665551692268,
+      "lat": 49.27427984201135
     }
   },
   {
@@ -678,6 +678,74 @@
     }
   },
   {
+    "project": "W 49th Av from Churchill St to Granville St",
+    "street": null,
+    "location": "W 49th Av from Churchill St to Granville St",
+    "comp_date": "2026-04-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fd9b8e5-3a99-42ca-b483-f169ca61bfba",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14081935452472,
+              49.22697968450649
+            ],
+            [
+              -123.14168376008125,
+              49.22698919697737
+            ]
+          ],
+          [
+            [
+              -123.1398432484298,
+              49.22696583019666
+            ],
+            [
+              -123.14081935452472,
+              49.22697968450649
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14076349504803,
+      "lat": 49.226978244397735
+    }
+  },
+  {
+    "project": "1500 Block of W 49th Ave.",
+    "street": null,
+    "location": "1500 Block of W 49th Ave.",
+    "comp_date": "2026-04-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29015e41-d144-4bc3-ae1a-9d239f95f82d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14168437737652,
+            49.22699077327417
+          ],
+          [
+            -123.1398421224298,
+            49.22695963276385
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14076324990316,
+      "lat": 49.22697520301901
+    }
+  },
+  {
     "project": "2900 Block of East 29th Ave",
     "street": null,
     "location": "2900 Block of East 29th Ave",
@@ -783,74 +851,6 @@
     "geo_point_2d": {
       "lon": -123.05069002322799,
       "lat": 49.27497182302017
-    }
-  },
-  {
-    "project": "1500 Block of W 49th Ave.",
-    "street": null,
-    "location": "1500 Block of W 49th Ave.",
-    "comp_date": "2026-04-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/29015e41-d144-4bc3-ae1a-9d239f95f82d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14168437737652,
-            49.22699077327417
-          ],
-          [
-            -123.1398421224298,
-            49.22695963276385
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14076324990316,
-      "lat": 49.22697520301901
-    }
-  },
-  {
-    "project": "W 49th Av from Churchill St to Granville St",
-    "street": null,
-    "location": "W 49th Av from Churchill St to Granville St",
-    "comp_date": "2026-04-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5fd9b8e5-3a99-42ca-b483-f169ca61bfba",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14081935452472,
-              49.22697968450649
-            ],
-            [
-              -123.14168376008125,
-              49.22698919697737
-            ]
-          ],
-          [
-            [
-              -123.1398432484298,
-              49.22696583019666
-            ],
-            [
-              -123.14081935452472,
-              49.22697968450649
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14076349504803,
-      "lat": 49.226978244397735
     }
   },
   {
