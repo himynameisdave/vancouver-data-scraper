@@ -204,34 +204,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
-    "street": null,
-    "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
-    "comp_date": "2026-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2eec7ba8-ecbf-4959-ab22-90241f56d11a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12496602103263,
-            49.28189727012642
-          ],
-          [
-            -123.12569683777933,
-            49.282377791903826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12533142940597,
-      "lat": 49.282137531015124
-    }
-  },
-  {
     "project": "B/S of 1800-1900 Blk of Vine St and Balsam St",
     "street": null,
     "location": "B/S of 1800-1900 Blk of Vine St and Balsam St",
@@ -269,6 +241,34 @@
     "geo_point_2d": {
       "lon": -123.15861530637699,
       "lat": 49.269106355363
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "street": null,
+    "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "comp_date": "2026-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2eec7ba8-ecbf-4959-ab22-90241f56d11a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12496602103263,
+            49.28189727012642
+          ],
+          [
+            -123.12569683777933,
+            49.282377791903826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12533142940597,
+      "lat": 49.282137531015124
     }
   },
   {
@@ -952,46 +952,6 @@
     }
   },
   {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
-    }
-  },
-  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1185,6 +1145,46 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
+    }
+  },
+  {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
     }
   },
   {
