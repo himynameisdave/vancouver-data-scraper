@@ -1,21 +1,21 @@
 [
   {
-    "project": "Napier St from Slocan St to Penticton St",
+    "project": "E 2nd Av from Kamloops St to Penticton St",
     "street": null,
-    "location": "Napier St from Slocan St to Penticton St",
-    "comp_date": "2026-04-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6bc546e0-aba6-4b71-b28e-621845cf1b23",
+    "location": "E 2nd Av from Kamloops St to Penticton St",
+    "comp_date": "2026-04-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0f244157-3ee0-455d-afe5-0937c8b6e07a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.0520015680233,
-            49.274971854829886
+            -123.0546913809196,
+            49.268485565584996
           ],
           [
-            -123.04937847843269,
-            49.27497179121045
+            -123.05210613262963,
+            49.26848399883596
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.05069002322799,
-      "lat": 49.27497182302017
+      "lon": -123.05339875677461,
+      "lat": 49.268484782210486
     }
   },
   {
@@ -144,38 +144,6 @@
     }
   },
   {
-    "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
-    "street": null,
-    "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
-    "comp_date": "2026-04-18",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55ddf25b-d559-4c0b-90e9-e42501d03726",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06143378287678,
-            49.260407949340475
-          ],
-          [
-            -123.06016814647296,
-            49.2599029420204
-          ],
-          [
-            -123.06014847336824,
-            49.26039083053291
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0606314312322,
-      "lat": 49.26015318769482
-    }
-  },
-  {
     "project": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
     "street": null,
     "location": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
@@ -201,6 +169,34 @@
     "geo_point_2d": {
       "lon": -123.087371989158,
       "lat": 49.24084225531384
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "street": null,
+    "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "comp_date": "2026-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2eec7ba8-ecbf-4959-ab22-90241f56d11a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12496602103263,
+            49.28189727012642
+          ],
+          [
+            -123.12569683777933,
+            49.282377791903826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12533142940597,
+      "lat": 49.282137531015124
     }
   },
   {
@@ -241,34 +237,6 @@
     "geo_point_2d": {
       "lon": -123.15861530637699,
       "lat": 49.269106355363
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
-    "street": null,
-    "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
-    "comp_date": "2026-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2eec7ba8-ecbf-4959-ab22-90241f56d11a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12496602103263,
-            49.28189727012642
-          ],
-          [
-            -123.12569683777933,
-            49.282377791903826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12533142940597,
-      "lat": 49.282137531015124
     }
   },
   {
@@ -597,6 +565,38 @@
     "geo_point_2d": {
       "lon": -123.10196016583677,
       "lat": 49.26293674426415
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "street": null,
+    "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "comp_date": "2026-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55ddf25b-d559-4c0b-90e9-e42501d03726",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06143378287678,
+            49.260407949340475
+          ],
+          [
+            -123.06016814647296,
+            49.2599029420204
+          ],
+          [
+            -123.06014847336824,
+            49.26039083053291
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0606314312322,
+      "lat": 49.26015318769482
     }
   },
   {
@@ -952,6 +952,46 @@
     }
   },
   {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
+    }
+  },
+  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1145,46 +1185,6 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
-    }
-  },
-  {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
     }
   },
   {
