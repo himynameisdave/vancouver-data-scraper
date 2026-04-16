@@ -1,61 +1,5 @@
 [
   {
-    "project": "E/S of 600 Blk Beatty St",
-    "street": null,
-    "location": "E/S of 600 Blk Beatty St",
-    "comp_date": "2026-04-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a2b3e9c0-ba2d-4663-a228-90aa6c38a1a3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11215167567138,
-            49.27877909044875
-          ],
-          [
-            -123.11138658054388,
-            49.279239072798305
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11176912810762,
-      "lat": 49.27900908162352
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
-    "street": null,
-    "location": "Both Sides of the Street of 8400-8500 Block of Kerr St. From SE Marine Dr to 20m",
-    "comp_date": "2026-04-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26552196-e296-4552-9ef1-5e27f0f87d68",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.04226872036352,
-            49.208110301828015
-          ],
-          [
-            -123.04226872036352,
-            49.2074447737825
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.04226872036351,
-      "lat": 49.207777537805256
-    }
-  },
-  {
     "project": "Carnarvon St from W 26th Av to W 28th Av",
     "street": null,
     "location": "Carnarvon St from W 26th Av to W 28th Av",
@@ -113,6 +57,46 @@
     "geo_point_2d": {
       "lon": -123.17294149310021,
       "lat": 49.24802008690835
+    }
+  },
+  {
+    "project": "Highbury St from W 24th Av to W King Edward Av",
+    "street": null,
+    "location": "Highbury St from W 24th Av to W King Edward Av",
+    "comp_date": "2026-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/81eb978f-d4f3-42d0-b8fc-cb5de912db62",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18807612759794,
+              49.25106695846932
+            ],
+            [
+              -123.18808125371012,
+              49.2506149937484
+            ]
+          ],
+          [
+            [
+              -123.18808125371012,
+              49.2506149937484
+            ],
+            [
+              -123.18808690167528,
+              49.25007254510422
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1880816292493,
+      "lat": 49.25056975303341
     }
   },
   {
@@ -500,6 +484,38 @@
     }
   },
   {
+    "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "street": null,
+    "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "comp_date": "2026-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55ddf25b-d559-4c0b-90e9-e42501d03726",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06143378287678,
+            49.260407949340475
+          ],
+          [
+            -123.06016814647296,
+            49.2599029420204
+          ],
+          [
+            -123.06014847336824,
+            49.26039083053291
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0606314312322,
+      "lat": 49.26015318769482
+    }
+  },
+  {
     "project": "Broadway - Main Street to Quebec Street",
     "street": null,
     "location": "Broadway - Main Street to Quebec Street",
@@ -537,38 +553,6 @@
     "geo_point_2d": {
       "lon": -123.10196016583677,
       "lat": 49.26293674426415
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
-    "street": null,
-    "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
-    "comp_date": "2026-05-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55ddf25b-d559-4c0b-90e9-e42501d03726",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06143378287678,
-            49.260407949340475
-          ],
-          [
-            -123.06016814647296,
-            49.2599029420204
-          ],
-          [
-            -123.06014847336824,
-            49.26039083053291
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0606314312322,
-      "lat": 49.26015318769482
     }
   },
   {
@@ -824,46 +808,6 @@
     }
   },
   {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
-    }
-  },
-  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1057,6 +1001,46 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
+    }
+  },
+  {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
     }
   },
   {
