@@ -1,5 +1,45 @@
 [
   {
+    "project": "Highbury St from W 24th Av to W King Edward Av",
+    "street": null,
+    "location": "Highbury St from W 24th Av to W King Edward Av",
+    "comp_date": "2026-04-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/81eb978f-d4f3-42d0-b8fc-cb5de912db62",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18807612759794,
+              49.25106695846932
+            ],
+            [
+              -123.18808125371012,
+              49.2506149937484
+            ]
+          ],
+          [
+            [
+              -123.18808125371012,
+              49.2506149937484
+            ],
+            [
+              -123.18808690167528,
+              49.25007254510422
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1880816292493,
+      "lat": 49.25056975303341
+    }
+  },
+  {
     "project": "Carnarvon St from W 26th Av to W 28th Av",
     "street": null,
     "location": "Carnarvon St from W 26th Av to W 28th Av",
@@ -60,46 +100,6 @@
     }
   },
   {
-    "project": "Highbury St from W 24th Av to W King Edward Av",
-    "street": null,
-    "location": "Highbury St from W 24th Av to W King Edward Av",
-    "comp_date": "2026-04-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/81eb978f-d4f3-42d0-b8fc-cb5de912db62",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18807612759794,
-              49.25106695846932
-            ],
-            [
-              -123.18808125371012,
-              49.2506149937484
-            ]
-          ],
-          [
-            [
-              -123.18808125371012,
-              49.2506149937484
-            ],
-            [
-              -123.18808690167528,
-              49.25007254510422
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1880816292493,
-      "lat": 49.25056975303341
-    }
-  },
-  {
     "project": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
     "street": null,
     "location": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
@@ -125,34 +125,6 @@
     "geo_point_2d": {
       "lon": -123.087371989158,
       "lat": 49.24084225531384
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
-    "street": null,
-    "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
-    "comp_date": "2026-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2eec7ba8-ecbf-4959-ab22-90241f56d11a",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.12496602103263,
-            49.28189727012642
-          ],
-          [
-            -123.12569683777933,
-            49.282377791903826
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12533142940597,
-      "lat": 49.282137531015124
     }
   },
   {
@@ -193,6 +165,34 @@
     "geo_point_2d": {
       "lon": -123.15861530637699,
       "lat": 49.269106355363
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "street": null,
+    "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
+    "comp_date": "2026-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2eec7ba8-ecbf-4959-ab22-90241f56d11a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12496602103263,
+            49.28189727012642
+          ],
+          [
+            -123.12569683777933,
+            49.282377791903826
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12533142940597,
+      "lat": 49.282137531015124
     }
   },
   {
@@ -484,6 +484,46 @@
     }
   },
   {
+    "project": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
+    "street": null,
+    "location": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
+    "comp_date": "2026-04-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0ff0e0b-bf14-4d1a-8361-75e487dab25b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13389867597425,
+              49.281443022414635
+            ],
+            [
+              -123.13468560016317,
+              49.280933190636546
+            ]
+          ],
+          [
+            [
+              -123.13488502615624,
+              49.28137973323908
+            ],
+            [
+              -123.134049592942,
+              49.28085583638901
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13438193043156,
+      "lat": 49.28115205983223
+    }
+  },
+  {
     "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
     "street": null,
     "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
@@ -695,7 +735,7 @@
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2026-07-23",
+    "comp_date": "2026-07-29",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3f5f7853-e084-495b-bc4d-848587fa40f8",
     "geom": {
       "type": "Feature",
