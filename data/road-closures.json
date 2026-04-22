@@ -28,6 +28,46 @@
     }
   },
   {
+    "project": "B/S of 1800-1900 Blk of Vine St and Balsam St",
+    "street": null,
+    "location": "B/S of 1800-1900 Blk of Vine St and Balsam St",
+    "comp_date": "2026-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/545dd6dc-aa6d-4a4c-912f-2e14aa049100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15750102589466,
+              49.26860714073254
+            ],
+            [
+              -123.1574717000327,
+              49.26953576381146
+            ]
+          ],
+          [
+            [
+              -123.15987330414201,
+              49.26956317575849
+            ],
+            [
+              -123.15986630238075,
+              49.268727104522156
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15861530637699,
+      "lat": 49.269106355363
+    }
+  },
+  {
     "project": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
     "street": null,
     "location": "Both Sides of the Street of 1000 Block of Barclay St. From Burrard St to 60m Wes",
@@ -109,46 +149,6 @@
     "geo_point_2d": {
       "lon": -123.17768346123755,
       "lat": 49.24804025204676
-    }
-  },
-  {
-    "project": "B/S of 1800-1900 Blk of Vine St and Balsam St",
-    "street": null,
-    "location": "B/S of 1800-1900 Blk of Vine St and Balsam St",
-    "comp_date": "2026-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/545dd6dc-aa6d-4a4c-912f-2e14aa049100",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.15750102589466,
-              49.26860714073254
-            ],
-            [
-              -123.1574717000327,
-              49.26953576381146
-            ]
-          ],
-          [
-            [
-              -123.15987330414201,
-              49.26956317575849
-            ],
-            [
-              -123.15986630238075,
-              49.268727104522156
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.15861530637699,
-      "lat": 49.269106355363
     }
   },
   {
@@ -552,46 +552,6 @@
     }
   },
   {
-    "project": "Broadway - Main Street to Quebec Street",
-    "street": null,
-    "location": "Broadway - Main Street to Quebec Street",
-    "comp_date": "2026-06-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/595dacda-d252-4c24-b8cd-e3bfef1415f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10176134138447,
-              49.26293206479838
-            ],
-            [
-              -123.10095954934879,
-              49.262913455480145
-            ]
-          ],
-          [
-            [
-              -123.10296078030674,
-              49.262960119659624
-            ],
-            [
-              -123.10176134138447,
-              49.26293206479838
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10196016583677,
-      "lat": 49.26293674426415
-    }
-  },
-  {
     "project": "SB Hemlock, W Broadway to W 10th Av",
     "street": null,
     "location": "SB Hemlock, W Broadway to W 10th Av",
@@ -629,6 +589,46 @@
     "geo_point_2d": {
       "lon": -123.13611385256088,
       "lat": 49.26307620743456
+    }
+  },
+  {
+    "project": "Broadway - Main Street to Quebec Street",
+    "street": null,
+    "location": "Broadway - Main Street to Quebec Street",
+    "comp_date": "2026-06-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/595dacda-d252-4c24-b8cd-e3bfef1415f5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10176134138447,
+              49.26293206479838
+            ],
+            [
+              -123.10095954934879,
+              49.262913455480145
+            ]
+          ],
+          [
+            [
+              -123.10296078030674,
+              49.262960119659624
+            ],
+            [
+              -123.10176134138447,
+              49.26293206479838
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10196016583677,
+      "lat": 49.26293674426415
     }
   },
   {
