@@ -1,32 +1,32 @@
 [
   {
-    "project": "W 29th Av from Blenheim St to Balaclava St",
+    "project": "W 28th Av from Blenheim St to Balaclava St",
     "street": null,
-    "location": "W 29th Av from Blenheim St to Balaclava St",
-    "comp_date": "2026-04-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8316892a-187f-4819-99ae-7eb810a76ff7",
+    "location": "W 28th Av from Blenheim St to Balaclava St",
+    "comp_date": "2026-04-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56a38d35-c2ba-48cd-b043-39b5b799ae35",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.17571909226888,
-              49.24613248680504
+              -123.17792405726787,
+              49.2470900102081
             ],
             [
-              -123.17793338246143,
-              49.24614054861735
+              -123.17861503960488,
+              49.24709259605038
             ]
           ],
           [
             [
-              -123.17793338246143,
-              49.24614054861735
+              -123.17571089021637,
+              49.24708129883663
             ],
             [
-              -123.17862411794206,
-              49.24614312578555
+              -123.17792405726787,
+              49.2470900102081
             ]
           ]
         ],
@@ -35,36 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.17717160519304,
-      "lat": 49.246137782540494
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
-    "street": null,
-    "location": "Both Sides of the Street of 800 Block of Durward Av. From Prince Albert St to 90",
-    "comp_date": "2026-04-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd58661b-1fe6-4bbe-891e-e6a526a35945",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.0867819445219,
-            49.24084030033191
-          ],
-          [
-            -123.08796203379406,
-            49.24084421029576
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.087371989158,
-      "lat": 49.24084225531384
+      "lon": -123.17716296471464,
+      "lat": 49.24708699849089
     }
   },
   {
@@ -124,6 +96,46 @@
     }
   },
   {
+    "project": "Both sides of:\r\n1) 800 Block of W 61st Ave from Mid PL 803 to Heather St.\r\n2) 76",
+    "street": null,
+    "location": "Both sides of:\r\n1) 800 Block of W 61st Ave from Mid PL 803 to Heather St.\r\n2) 76",
+    "comp_date": "2026-04-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/03b5789e-2a1e-4531-bb6d-c72429ebbb5d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.12429506751113,
+              49.21554481900577
+            ],
+            [
+              -123.12397167400884,
+              49.21553953786673
+            ]
+          ],
+          [
+            [
+              -123.12396358917131,
+              49.215634598283685
+            ],
+            [
+              -123.12396897906301,
+              49.215453279182015
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1240733326616,
+      "lat": 49.215542810951575
+    }
+  },
+  {
     "project": "Both sides of 3200 block W 27th Ave from West PL of 3282 W 27th Ave to East PL o",
     "street": null,
     "location": "Both sides of 3200 block W 27th Ave from West PL of 3282 W 27th Ave to East PL o",
@@ -149,6 +161,90 @@
     "geo_point_2d": {
       "lon": -123.17768346123755,
       "lat": 49.24804025204676
+    }
+  },
+  {
+    "project": "W 22nd Av from Wallace St to Highbury St",
+    "street": null,
+    "location": "W 22nd Av from Wallace St to Highbury St",
+    "comp_date": "2026-04-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7835a3d8-70b8-4f58-aca5-dff0941ae0e7",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18805891613151,
+            49.25287733029896
+          ],
+          [
+            -123.19082340461698,
+            49.25288757651742
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18944116037426,
+      "lat": 49.25288245340819
+    }
+  },
+  {
+    "project": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
+    "street": null,
+    "location": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
+    "comp_date": "2026-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e0124b89-9477-4992-b602-9e7f00a349f4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.22191679421404,
+            49.27197063474097
+          ],
+          [
+            -123.22160418049516,
+            49.271756113233636
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.2217604873546,
+      "lat": 49.2718633739873
+    }
+  },
+  {
+    "project": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
+    "street": null,
+    "location": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
+    "comp_date": "2026-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/82301798-bb2f-42c4-a9a8-957cb14fa9f5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09914645089287,
+            49.24708146673805
+          ],
+          [
+            -123.09915723067625,
+            49.24686683701756
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09915184078457,
+      "lat": 49.24697415187781
     }
   },
   {
@@ -620,33 +716,33 @@
     }
   },
   {
-    "project": "SB Hemlock, W Broadway to W 10th Av",
+    "project": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
     "street": null,
-    "location": "SB Hemlock, W Broadway to W 10th Av",
-    "comp_date": "2026-06-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/170e49e6-7228-4bb5-a884-333fba1b4938",
+    "location": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
+    "comp_date": "2026-05-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/759021fb-d500-4404-8641-511a74e6a329",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.13609687250835,
-              49.26355955208382
+              -123.08258748762327,
+              49.2767853435798
             ],
             [
-              -123.13611422808661,
-              49.263053434256534
+              -123.08261967413145,
+              49.27581589611103
             ]
           ],
           [
             [
-              -123.13611422808661,
-              49.263053434256534
+              -123.08258212320524,
+              49.27580539657566
             ],
             [
-              -123.13613172244024,
-              49.26259289494274
+              -123.08139658682066,
+              49.27578789734508
             ]
           ]
         ],
@@ -655,8 +751,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13611385256088,
-      "lat": 49.26307620743456
+      "lon": -123.08226573967255,
+      "lat": 49.276023420827045
     }
   },
   {
@@ -1429,6 +1525,34 @@
     "geo_point_2d": {
       "lon": -123.17958724765407,
       "lat": 49.260873385484295
+    }
+  },
+  {
+    "project": "2500 Yukon St",
+    "street": null,
+    "location": "2500 Yukon St",
+    "comp_date": "2027-12-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9d5234cb-7222-4864-8b3c-da68a4070dd5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11290372071929,
+            49.26314262917117
+          ],
+          [
+            -123.11292025581048,
+            49.26271116343494
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11291198826488,
+      "lat": 49.26292689630306
     }
   },
   {
