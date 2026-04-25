@@ -1,101 +1,5 @@
 [
   {
-    "project": "Both sides of 300 Block of W 20th Ave from W PL 327 to E PL 307.",
-    "street": null,
-    "location": "Both sides of 300 Block of W 20th Ave from W PL 327 to E PL 307.",
-    "comp_date": "2026-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/52b68d49-6430-4114-aa24-e8adc6446765",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11152882876914,
-            49.25288198002244
-          ],
-          [
-            -123.11112997678298,
-            49.25288198002244
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11132940277605,
-      "lat": 49.25288198002244
-    }
-  },
-  {
-    "project": "Both sides of:\r\n1) 800 Block of W 61st Ave from Mid PL 803 to Heather St.\r\n2) 76",
-    "street": null,
-    "location": "Both sides of:\r\n1) 800 Block of W 61st Ave from Mid PL 803 to Heather St.\r\n2) 76",
-    "comp_date": "2026-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/03b5789e-2a1e-4531-bb6d-c72429ebbb5d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.12429506751113,
-              49.21554481900577
-            ],
-            [
-              -123.12397167400884,
-              49.21553953786673
-            ]
-          ],
-          [
-            [
-              -123.12396358917131,
-              49.215634598283685
-            ],
-            [
-              -123.12396897906301,
-              49.215453279182015
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1240733326616,
-      "lat": 49.215542810951575
-    }
-  },
-  {
-    "project": "Both sides of 3200 block W 27th Ave from West PL of 3282 W 27th Ave to East PL o",
-    "street": null,
-    "location": "Both sides of 3200 block W 27th Ave from West PL of 3282 W 27th Ave to East PL o",
-    "comp_date": "2026-04-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1f947e14-6123-45b5-9a67-b70d44fdd770",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17795565076864,
-            49.24804201126878
-          ],
-          [
-            -123.17741127170646,
-            49.24803849282475
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17768346123755,
-      "lat": 49.24804025204676
-    }
-  },
-  {
     "project": "W 22nd Av from Wallace St to Highbury St",
     "street": null,
     "location": "W 22nd Av from Wallace St to Highbury St",
@@ -124,34 +28,6 @@
     }
   },
   {
-    "project": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
-    "street": null,
-    "location": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
-    "comp_date": "2026-04-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e0124b89-9477-4992-b602-9e7f00a349f4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.22191679421404,
-            49.27197063474097
-          ],
-          [
-            -123.22160418049516,
-            49.271756113233636
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.2217604873546,
-      "lat": 49.2718633739873
-    }
-  },
-  {
     "project": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
     "street": null,
     "location": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
@@ -177,6 +53,34 @@
     "geo_point_2d": {
       "lon": -123.09915184078457,
       "lat": 49.24697415187781
+    }
+  },
+  {
+    "project": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
+    "street": null,
+    "location": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
+    "comp_date": "2026-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e0124b89-9477-4992-b602-9e7f00a349f4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.22191679421404,
+            49.27197063474097
+          ],
+          [
+            -123.22160418049516,
+            49.271756113233636
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.2217604873546,
+      "lat": 49.2718633739873
     }
   },
   {
@@ -468,33 +372,33 @@
     }
   },
   {
-    "project": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
+    "project": "Both sides of:\r\n1) 400 Blk of Dunsmuir St from Richards St to Homer St.\r\n2) 600",
     "street": null,
-    "location": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
-    "comp_date": "2026-04-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0ff0e0b-bf14-4d1a-8361-75e487dab25b",
+    "location": "Both sides of:\r\n1) 400 Blk of Dunsmuir St from Richards St to Homer St.\r\n2) 600",
+    "comp_date": "2026-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b0b1ef81-a660-4e7c-8a8e-ec2274100f7e",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.13389867597425,
-              49.281443022414635
+              -123.11444835344247,
+              49.28236671037567
             ],
             [
-              -123.13468560016317,
-              49.280933190636546
+              -123.11348895271905,
+              49.281747890986736
             ]
           ],
           [
             [
-              -123.13488502615624,
-              49.28137973323908
+              -123.11643722348147,
+              49.28363245312107
             ],
             [
-              -123.134049592942,
-              49.28085583638901
+              -123.11541314405757,
+              49.2829784900926
             ]
           ]
         ],
@@ -503,8 +407,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.13438193043156,
-      "lat": 49.28115205983223
+      "lon": -123.11497739242631,
+      "lat": 49.28270082706691
     }
   },
   {
@@ -645,6 +549,46 @@
     "geo_point_2d": {
       "lon": -123.17304735535211,
       "lat": 49.23450079537339
+    }
+  },
+  {
+    "project": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
+    "street": null,
+    "location": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
+    "comp_date": "2026-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0ff0e0b-bf14-4d1a-8361-75e487dab25b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13389867597425,
+              49.281443022414635
+            ],
+            [
+              -123.13468560016317,
+              49.280933190636546
+            ]
+          ],
+          [
+            [
+              -123.13488502615624,
+              49.28137973323908
+            ],
+            [
+              -123.134049592942,
+              49.28085583638901
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13438193043156,
+      "lat": 49.28115205983223
     }
   },
   {
@@ -950,46 +894,6 @@
     }
   },
   {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
-    }
-  },
-  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1183,6 +1087,46 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
+    }
+  },
+  {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
     }
   },
   {
@@ -1510,34 +1454,6 @@
     }
   },
   {
-    "project": "2500 Quebec St from Broadway to Lane South",
-    "street": null,
-    "location": "2500 Quebec St from Broadway to Lane South",
-    "comp_date": "2027-12-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c9e9b93-e601-45b1-952d-5cfc44133302",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10296640189127,
-            49.26291993074807
-          ],
-          [
-            -123.10298400887085,
-            49.262549373000354
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10297520538107,
-      "lat": 49.262734651874204
-    }
-  },
-  {
     "project": "2500 Yukon St",
     "street": null,
     "location": "2500 Yukon St",
@@ -1563,6 +1479,34 @@
     "geo_point_2d": {
       "lon": -123.11291198826488,
       "lat": 49.26292689630306
+    }
+  },
+  {
+    "project": "2500 Quebec St from Broadway to Lane South",
+    "street": null,
+    "location": "2500 Quebec St from Broadway to Lane South",
+    "comp_date": "2027-12-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c9e9b93-e601-45b1-952d-5cfc44133302",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10296640189127,
+            49.26291993074807
+          ],
+          [
+            -123.10298400887085,
+            49.262549373000354
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10297520538107,
+      "lat": 49.262734651874204
     }
   },
   {
