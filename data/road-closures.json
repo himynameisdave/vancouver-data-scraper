@@ -1,5 +1,33 @@
 [
   {
+    "project": "W 19th Av at Oak St",
+    "street": null,
+    "location": "W 19th Av at Oak St",
+    "comp_date": "2026-04-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b4688ae-8950-4065-a16f-508c33f43f7e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.12660275112513,
+            49.25441854242632
+          ],
+          [
+            -123.12733676304241,
+            49.254431804293716
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12696975708377,
+      "lat": 49.25442517336002
+    }
+  },
+  {
     "project": "W 22nd Av from Wallace St to Highbury St",
     "street": null,
     "location": "W 22nd Av from Wallace St to Highbury St",
@@ -28,22 +56,22 @@
     }
   },
   {
-    "project": "W 19th Av at Oak St",
+    "project": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
     "street": null,
-    "location": "W 19th Av at Oak St",
-    "comp_date": "2026-04-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/2b4688ae-8950-4065-a16f-508c33f43f7e",
+    "location": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
+    "comp_date": "2026-04-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/82301798-bb2f-42c4-a9a8-957cb14fa9f5",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.12660275112513,
-            49.25441854242632
+            -123.09914645089287,
+            49.24708146673805
           ],
           [
-            -123.12733676304241,
-            49.254431804293716
+            -123.09915723067625,
+            49.24686683701756
           ]
         ],
         "type": "LineString"
@@ -51,8 +79,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12696975708377,
-      "lat": 49.25442517336002
+      "lon": -123.09915184078457,
+      "lat": 49.24697415187781
     }
   },
   {
@@ -84,22 +112,22 @@
     }
   },
   {
-    "project": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
+    "project": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
     "street": null,
-    "location": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
-    "comp_date": "2026-04-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/82301798-bb2f-42c4-a9a8-957cb14fa9f5",
+    "location": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
+    "comp_date": "2026-04-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/92162487-023a-4a63-99bf-05685c50ce4b",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.09914645089287,
-            49.24708146673805
+            -123.06847257720128,
+            49.223476577865114
           ],
           [
-            -123.09915723067625,
-            49.24686683701756
+            -123.06810067467366,
+            49.223469537476205
           ]
         ],
         "type": "LineString"
@@ -107,8 +135,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.09915184078457,
-      "lat": 49.24697415187781
+      "lon": -123.06828662593747,
+      "lat": 49.22347305767066
     }
   },
   {
@@ -400,74 +428,6 @@
     }
   },
   {
-    "project": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
-    "street": null,
-    "location": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
-    "comp_date": "2026-04-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/92162487-023a-4a63-99bf-05685c50ce4b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06847257720128,
-            49.223476577865114
-          ],
-          [
-            -123.06810067467366,
-            49.223469537476205
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06828662593747,
-      "lat": 49.22347305767066
-    }
-  },
-  {
-    "project": "Both sides of:\r\n1) 400 Blk of Dunsmuir St from Richards St to Homer St.\r\n2) 600",
-    "street": null,
-    "location": "Both sides of:\r\n1) 400 Blk of Dunsmuir St from Richards St to Homer St.\r\n2) 600",
-    "comp_date": "2026-05-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b0b1ef81-a660-4e7c-8a8e-ec2274100f7e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11444835344247,
-              49.28236671037567
-            ],
-            [
-              -123.11348895271905,
-              49.281747890986736
-            ]
-          ],
-          [
-            [
-              -123.11643722348147,
-              49.28363245312107
-            ],
-            [
-              -123.11541314405757,
-              49.2829784900926
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11497739242631,
-      "lat": 49.28270082706691
-    }
-  },
-  {
     "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
     "street": null,
     "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
@@ -525,6 +485,46 @@
     "geo_point_2d": {
       "lon": -123.18469202725271,
       "lat": 49.230166200900065
+    }
+  },
+  {
+    "project": "Both sides of:\r\n1) 400 Blk of Dunsmuir St from Richards St to Homer St.\r\n2) 600",
+    "street": null,
+    "location": "Both sides of:\r\n1) 400 Blk of Dunsmuir St from Richards St to Homer St.\r\n2) 600",
+    "comp_date": "2026-05-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b0b1ef81-a660-4e7c-8a8e-ec2274100f7e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11444835344247,
+              49.28236671037567
+            ],
+            [
+              -123.11348895271905,
+              49.281747890986736
+            ]
+          ],
+          [
+            [
+              -123.11643722348147,
+              49.28363245312107
+            ],
+            [
+              -123.11541314405757,
+              49.2829784900926
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11497739242631,
+      "lat": 49.28270082706691
     }
   },
   {
@@ -1046,46 +1046,6 @@
     }
   },
   {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
-    }
-  },
-  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1279,6 +1239,46 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
+    }
+  },
+  {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
     }
   },
   {
@@ -1606,34 +1606,6 @@
     }
   },
   {
-    "project": "2500 Quebec St from Broadway to Lane South",
-    "street": null,
-    "location": "2500 Quebec St from Broadway to Lane South",
-    "comp_date": "2027-12-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c9e9b93-e601-45b1-952d-5cfc44133302",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10296640189127,
-            49.26291993074807
-          ],
-          [
-            -123.10298400887085,
-            49.262549373000354
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10297520538107,
-      "lat": 49.262734651874204
-    }
-  },
-  {
     "project": "2500 Yukon St",
     "street": null,
     "location": "2500 Yukon St",
@@ -1659,6 +1631,34 @@
     "geo_point_2d": {
       "lon": -123.11291198826488,
       "lat": 49.26292689630306
+    }
+  },
+  {
+    "project": "2500 Quebec St from Broadway to Lane South",
+    "street": null,
+    "location": "2500 Quebec St from Broadway to Lane South",
+    "comp_date": "2027-12-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c9e9b93-e601-45b1-952d-5cfc44133302",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10296640189127,
+            49.26291993074807
+          ],
+          [
+            -123.10298400887085,
+            49.262549373000354
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10297520538107,
+      "lat": 49.262734651874204
     }
   },
   {
