@@ -1,61 +1,5 @@
 [
   {
-    "project": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
-    "street": null,
-    "location": "Both sides of 1600-1700 Block of Drummond Dr from N PL 1750 to S PL 1750.",
-    "comp_date": "2026-04-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e0124b89-9477-4992-b602-9e7f00a349f4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.22191679421404,
-            49.27197063474097
-          ],
-          [
-            -123.22160418049516,
-            49.271756113233636
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.2217604873546,
-      "lat": 49.2718633739873
-    }
-  },
-  {
-    "project": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
-    "street": null,
-    "location": "Both sides of 4200-4300 Block of Sophia St from N PL 4248 to S PL 4274.",
-    "comp_date": "2026-04-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/82301798-bb2f-42c4-a9a8-957cb14fa9f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09914645089287,
-            49.24708146673805
-          ],
-          [
-            -123.09915723067625,
-            49.24686683701756
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09915184078457,
-      "lat": 49.24697415187781
-    }
-  },
-  {
     "project": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
     "street": null,
     "location": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
@@ -81,6 +25,46 @@
     "geo_point_2d": {
       "lon": -123.06828662593747,
       "lat": 49.22347305767066
+    }
+  },
+  {
+    "project": "Adera St from W 49th Av to W 52nd Av",
+    "street": null,
+    "location": "Adera St from W 49th Av to W 52nd Av",
+    "comp_date": "2026-04-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/156f1af2-a5c8-465a-8368-87883a86b77c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14359730615118,
+              49.22647924930641
+            ],
+            [
+              -123.14364993986644,
+              49.22412589588103
+            ]
+          ],
+          [
+            [
+              -123.14358422902994,
+              49.22701414203985
+            ],
+            [
+              -123.14359730615118,
+              49.22647924930641
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14361753806274,
+      "lat": 49.22557002957807
     }
   },
   {
@@ -400,6 +384,34 @@
     }
   },
   {
+    "project": "Both sides of 100 Block of W 17th Ave from W PL 1790 to E PL 165.",
+    "street": null,
+    "location": "Both sides of 100 Block of W 17th Ave from W PL 1790 to E PL 165.",
+    "comp_date": "2026-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7ce5f03b-c787-4bbc-8572-fc2f35803e4c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10911685223127,
+            49.255738593741
+          ],
+          [
+            -123.10875303454121,
+            49.255738593741
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10893494338623,
+      "lat": 49.255738593741
+    }
+  },
+  {
     "project": "B/S of 3500 blk SW Marine Dr",
     "street": null,
     "location": "B/S of 3500 blk SW Marine Dr",
@@ -536,34 +548,6 @@
     }
   },
   {
-    "project": "Collingwood St from W 41st Av to Ln S of W 41st Av",
-    "street": null,
-    "location": "Collingwood St from W 41st Av to Ln S of W 41st Av",
-    "comp_date": "2026-05-08",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bde47e9-5284-4f02-9256-5f6cfe5a3e2b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.182025918027,
-            49.234759548750645
-          ],
-          [
-            -123.18203204401787,
-            49.23428464355999
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18202898102243,
-      "lat": 49.23452209615532
-    }
-  },
-  {
     "project": "B/S of 1800-1900 Blk of Vine St and Balsam St",
     "street": null,
     "location": "B/S of 1800-1900 Blk of Vine St and Balsam St",
@@ -629,6 +613,34 @@
     "geo_point_2d": {
       "lon": -123.17304735535211,
       "lat": 49.23450079537339
+    }
+  },
+  {
+    "project": "Collingwood St from W 41st Av to Ln S of W 41st Av",
+    "street": null,
+    "location": "Collingwood St from W 41st Av to Ln S of W 41st Av",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bde47e9-5284-4f02-9256-5f6cfe5a3e2b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.182025918027,
+            49.234759548750645
+          ],
+          [
+            -123.18203204401787,
+            49.23428464355999
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18202898102243,
+      "lat": 49.23452209615532
     }
   },
   {
@@ -1074,46 +1086,6 @@
     }
   },
   {
-    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "street": null,
-    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
-    "comp_date": "2027-01-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1129737668724,
-              49.2259953800569
-            ],
-            [
-              -123.11302045911887,
-              49.23061984286076
-            ]
-          ],
-          [
-            [
-              -123.11301425964687,
-              49.23063895272443
-            ],
-            [
-              -123.11301425964687,
-              49.230649719459365
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11299715282193,
-      "lat": 49.228313038938786
-    }
-  },
-  {
     "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
     "street": null,
     "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
@@ -1307,6 +1279,46 @@
     "geo_point_2d": {
       "lon": -123.05345445032457,
       "lat": 49.264177976498175
+    }
+  },
+  {
+    "project": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "street": null,
+    "location": "Alberta St. from W 49th Ave. to W 44th Ave.",
+    "comp_date": "2027-01-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/34467bd9-f227-406a-960c-60ac6832b577",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1129737668724,
+              49.2259953800569
+            ],
+            [
+              -123.11302045911887,
+              49.23061984286076
+            ]
+          ],
+          [
+            [
+              -123.11301425964687,
+              49.23063895272443
+            ],
+            [
+              -123.11301425964687,
+              49.230649719459365
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11299715282193,
+      "lat": 49.228313038938786
     }
   },
   {
@@ -1634,34 +1646,6 @@
     }
   },
   {
-    "project": "2500 Quebec St from Broadway to Lane South",
-    "street": null,
-    "location": "2500 Quebec St from Broadway to Lane South",
-    "comp_date": "2027-12-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c9e9b93-e601-45b1-952d-5cfc44133302",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10296640189127,
-            49.26291993074807
-          ],
-          [
-            -123.10298400887085,
-            49.262549373000354
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10297520538107,
-      "lat": 49.262734651874204
-    }
-  },
-  {
     "project": "2500 Yukon St",
     "street": null,
     "location": "2500 Yukon St",
@@ -1687,6 +1671,34 @@
     "geo_point_2d": {
       "lon": -123.11291198826488,
       "lat": 49.26292689630306
+    }
+  },
+  {
+    "project": "2500 Quebec St from Broadway to Lane South",
+    "street": null,
+    "location": "2500 Quebec St from Broadway to Lane South",
+    "comp_date": "2027-12-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c9e9b93-e601-45b1-952d-5cfc44133302",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10296640189127,
+            49.26291993074807
+          ],
+          [
+            -123.10298400887085,
+            49.262549373000354
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10297520538107,
+      "lat": 49.262734651874204
     }
   },
   {
