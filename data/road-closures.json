@@ -1,73 +1,5 @@
 [
   {
-    "project": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
-    "street": null,
-    "location": "Both sides of 1800-1900 Block of E 51st Ave from W PL 1835 to E PL 1855.",
-    "comp_date": "2026-04-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/92162487-023a-4a63-99bf-05685c50ce4b",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06847257720128,
-            49.223476577865114
-          ],
-          [
-            -123.06810067467366,
-            49.223469537476205
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06828662593747,
-      "lat": 49.22347305767066
-    }
-  },
-  {
-    "project": "Adera St from W 49th Av to W 52nd Av",
-    "street": null,
-    "location": "Adera St from W 49th Av to W 52nd Av",
-    "comp_date": "2026-04-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/156f1af2-a5c8-465a-8368-87883a86b77c",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14359730615118,
-              49.22647924930641
-            ],
-            [
-              -123.14364993986644,
-              49.22412589588103
-            ]
-          ],
-          [
-            [
-              -123.14358422902994,
-              49.22701414203985
-            ],
-            [
-              -123.14359730615118,
-              49.22647924930641
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14361753806274,
-      "lat": 49.22557002957807
-    }
-  },
-  {
     "project": "Between Oak Street (west) and Hudson Street (east), from the south side of the W",
     "street": null,
     "location": "Between Oak Street (west) and Hudson Street (east), from the south side of the W",
@@ -356,6 +288,34 @@
     }
   },
   {
+    "project": "W 19th Av from Highbury St to Wallace St",
+    "street": null,
+    "location": "W 19th Av from Highbury St to Wallace St",
+    "comp_date": "2026-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/48397152-74b5-45dd-be59-7ac87a9ddc8d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18803411457486,
+            49.25559126617634
+          ],
+          [
+            -123.19079743664126,
+            49.25560184779647
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18941577560807,
+      "lat": 49.2555965569864
+    }
+  },
+  {
     "project": "Ashtrey Alley from Cambie St to Abbott St",
     "street": null,
     "location": "Ashtrey Alley from Cambie St to Abbott St",
@@ -576,6 +536,180 @@
     }
   },
   {
+    "project": "E 59th Ave (between Ontario St to Prince Albert St",
+    "street": null,
+    "location": "E 59th Ave (between Ontario St to Prince Albert St",
+    "comp_date": "2026-05-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d6b2c5d4-4dcb-4738-beb9-ef23d885a8ec",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10130255640658,
+              49.21674283082854
+            ],
+            [
+              -123.0985282196305,
+              49.21670146853896
+            ]
+          ],
+          [
+            [
+              -123.10195823292658,
+              49.21675207679209
+            ],
+            [
+              -123.10130255640658,
+              49.21674283082854
+            ]
+          ],
+          [
+            [
+              -123.1026186765812,
+              49.21676229528438
+            ],
+            [
+              -123.10195823292658,
+              49.21675207679209
+            ]
+          ],
+          [
+            [
+              -123.10552099110107,
+              49.2168063479688
+            ],
+            [
+              -123.1026186765812,
+              49.21676229528438
+            ]
+          ],
+          [
+            [
+              -123.10560891764983,
+              49.21680768886793
+            ],
+            [
+              -123.10552099110107,
+              49.2168063479688
+            ]
+          ],
+          [
+            [
+              -123.10625229643155,
+              49.21681246004175
+            ],
+            [
+              -123.10560891764983,
+              49.21680768886793
+            ]
+          ],
+          [
+            [
+              -123.0970281910381,
+              49.21663772939732
+            ],
+            [
+              -123.09414359085481,
+              49.216591991656514
+            ]
+          ],
+          [
+            [
+              -123.09714667316159,
+              49.21664076017058
+            ],
+            [
+              -123.0970281910381,
+              49.21663772939732
+            ]
+          ],
+          [
+            [
+              -123.09781935423707,
+              49.21665354147436
+            ],
+            [
+              -123.09714667316159,
+              49.21664076017058
+            ]
+          ],
+          [
+            [
+              -123.0985282196305,
+              49.21670146853896
+            ],
+            [
+              -123.0978180821911,
+              49.21669086396449
+            ]
+          ],
+          [
+            [
+              -123.09170108061323,
+              49.21653708835507
+            ],
+            [
+              -123.09100180473457,
+              49.21652433735315
+            ]
+          ],
+          [
+            [
+              -123.09182587767232,
+              49.21653957086045
+            ],
+            [
+              -123.09170108061323,
+              49.21653708835507
+            ]
+          ],
+          [
+            [
+              -123.09414359085481,
+              49.216591991656514
+            ],
+            [
+              -123.09182587767232,
+              49.21653957086045
+            ]
+          ],
+          [
+            [
+              -123.09100029964641,
+              49.2165571892979
+            ],
+            [
+              -123.09037829663414,
+              49.21654742301956
+            ],
+            [
+              -123.09028858518721,
+              49.216545712111156
+            ]
+          ],
+          [
+            [
+              -123.09028858518721,
+              49.216545712111156
+            ],
+            [
+              -123.08785206914038,
+              49.21650667136686
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09705259471794,
+      "lat": 49.21665572937566
+    }
+  },
+  {
     "project": "B/S of 1800-1900 Blk of Vine St and Balsam St",
     "street": null,
     "location": "B/S of 1800-1900 Blk of Vine St and Balsam St",
@@ -641,6 +775,56 @@
     "geo_point_2d": {
       "lon": -123.17304735535211,
       "lat": 49.23450079537339
+    }
+  },
+  {
+    "project": "Ln E of Blenheim St from W 39th Av to W 41st Av",
+    "street": null,
+    "location": "Ln E of Blenheim St from W 39th Av to W 41st Av",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/db1a227b-2779-40a2-b0ba-bd4e46b926d3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17771674195552,
+              49.23664789439391
+            ],
+            [
+              -123.17772575644032,
+              49.23556517588517
+            ]
+          ],
+          [
+            [
+              -123.17772907170995,
+              49.235175955129705
+            ],
+            [
+              -123.17773251007038,
+              49.23475213840709
+            ]
+          ],
+          [
+            [
+              -123.17772575644032,
+              49.23556517588517
+            ],
+            [
+              -123.17772907170995,
+              49.235175955129705
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17772464806579,
+      "lat": 49.23570001657914
     }
   },
   {
@@ -1001,7 +1185,7 @@
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2026-07-29",
+    "comp_date": "2026-07-31",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3f5f7853-e084-495b-bc4d-848587fa40f8",
     "geom": {
       "type": "Feature",
