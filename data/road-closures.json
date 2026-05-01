@@ -412,6 +412,34 @@
     }
   },
   {
+    "project": "W 19th Av from Highbury St to Wallace St",
+    "street": null,
+    "location": "W 19th Av from Highbury St to Wallace St",
+    "comp_date": "2026-05-01",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c2c2d1a5-38de-4725-8e13-55cd9178baa5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18803411457486,
+            49.25559126617634
+          ],
+          [
+            -123.19079743664126,
+            49.25560184779647
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18941577560807,
+      "lat": 49.2555965569864
+    }
+  },
+  {
     "project": "B/S of 3500 blk SW Marine Dr",
     "street": null,
     "location": "B/S of 3500 blk SW Marine Dr",
@@ -1027,34 +1055,6 @@
     "geo_point_2d": {
       "lon": -123.11003383390457,
       "lat": 49.249935625669664
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2026-08-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/18634ab8-7fc4-4cc4-92eb-0494819dad30",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.11290033043566,
-            49.27496804283456
-          ],
-          [
-            -123.11129697328438,
-            49.2756723276795
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11209865186002,
-      "lat": 49.27532018525703
     }
   },
   {
