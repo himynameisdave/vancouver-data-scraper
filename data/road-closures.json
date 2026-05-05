@@ -1,56 +1,32 @@
 [
   {
-    "project": "1000–1100 W Pender and W Hastings",
+    "project": "Gladstone St from Masumi Mitsui Greenway to Bonnyvale Av",
     "street": null,
-    "location": "1000–1100 W Pender and W Hastings",
-    "comp_date": "2026-05-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/43df11f3-2f91-4b3e-b39a-9c4cb37497c7",
+    "location": "Gladstone St from Masumi Mitsui Greenway to Bonnyvale Av",
+    "comp_date": "2026-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56a74744-2529-4c11-a867-9a226cc91a50",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.11978378180703,
-              49.28793339958469
+              -123.06204057290772,
+              49.21800729725226
             ],
             [
-              -123.1227521396862,
-              49.288802177134045
+              -123.0620532372768,
+              49.21758229963112
             ]
           ],
           [
             [
-              -123.12040692371967,
-              49.28752033246391
+              -123.0620532372768,
+              49.21758229963112
             ],
             [
-              -123.12337272983372,
-              49.28839156146529
-            ]
-          ],
-          [
-            [
-              -123.11702347327036,
-              49.287122803779226
-            ],
-            [
-              -123.11978378180703,
-              49.28793339958469
-            ]
-          ],
-          [
-            [
-              -123.11782870533737,
-              49.28658844598908
-            ],
-            [
-              -123.11833712880906,
-              49.28691329974387
-            ],
-            [
-              -123.12040692371967,
-              49.28752033246391
+              -123.0620675431616,
+              49.217119547916695
             ]
           ]
         ],
@@ -59,52 +35,38 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.12022498616507,
-      "lat": 49.28776320513357
+      "lon": -123.06205393451656,
+      "lat": 49.217563418834864
     }
   },
   {
-    "project": "E 57th Av - Prince Albert to Fraser St",
+    "project": "Both sides of:\r\n1) 2700 Block of W 3rd Ave from Stephens St to W PL 2721.\r\n2) 18",
     "street": null,
-    "location": "E 57th Av - Prince Albert to Fraser St",
-    "comp_date": "2026-05-10",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/255b8518-c3ca-4cd1-b7eb-645d6215a013",
+    "location": "Both sides of:\r\n1) 2700 Block of W 3rd Ave from Stephens St to W PL 2721.\r\n2) 18",
+    "comp_date": "2026-05-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/45613bb1-5817-41f6-a2ea-854af49c8d56",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.09095311706717,
-              49.21825548091152
+              -123.16636190300363,
+              49.2692313775793
             ],
             [
-              -123.09078884511115,
-              49.218265405995965
-            ],
-            [
-              -123.09031023075575,
-              49.21825912467307
+              -123.16696220808532,
+              49.26925013448363
             ]
           ],
           [
             [
-              -123.09031023075575,
-              49.21825912467307
+              -123.16634033516428,
+              49.26924075603233
             ],
             [
-              -123.08846876370144,
-              49.2182358936378
-            ]
-          ],
-          [
-            [
-              -123.08846876370144,
-              49.2182358936378
-            ],
-            [
-              -123.08780176729636,
-              49.21822588707201
+              -123.16632236207451,
+              49.26948694072681
             ]
           ]
         ],
@@ -113,8 +75,346 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08937757043445,
-      "lat": 49.218246908192235
+      "lon": -123.16656572794373,
+      "lat": 49.26927661010546
+    }
+  },
+  {
+    "project": "Both sides of 2600 Block of William St from W PL 2664 to E PL 2676.",
+    "street": null,
+    "location": "Both sides of 2600 Block of William St from W PL 2664 to E PL 2676.",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1d63ef8f-57d5-4524-82fc-9edd6d18b893",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.05039032422289,
+            49.27414526166024
+          ],
+          [
+            -123.04998607783247,
+            49.27414526166024
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05018820102768,
+      "lat": 49.27414526166024
+    }
+  },
+  {
+    "project": "B/S of 1800-1900 Blk of Vine St and Balsam St",
+    "street": null,
+    "location": "B/S of 1800-1900 Blk of Vine St and Balsam St",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/545dd6dc-aa6d-4a4c-912f-2e14aa049100",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15750102589466,
+              49.26860714073254
+            ],
+            [
+              -123.1574717000327,
+              49.26953576381146
+            ]
+          ],
+          [
+            [
+              -123.15987330414201,
+              49.26956317575849
+            ],
+            [
+              -123.15986630238075,
+              49.268727104522156
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15861530637699,
+      "lat": 49.269106355363
+    }
+  },
+  {
+    "project": "Carnarvon St from W 41st Av to Ln S of W 41st Av",
+    "street": null,
+    "location": "Carnarvon St from W 41st Av to Ln S of W 41st Av",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8d449aa5-d31d-4af8-8314-10fcaf0dc4a6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17304438089394,
+            49.23474445880575
+          ],
+          [
+            -123.17305032981027,
+            49.234257131941035
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17304735535211,
+      "lat": 49.23450079537339
+    }
+  },
+  {
+    "project": "Both sides of 2700 Block of Kitchener St from W PL 2702 to E PL 2716.",
+    "street": null,
+    "location": "Both sides of 2700 Block of Kitchener St from W PL 2702 to E PL 2716.",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/cd4e06b8-c15e-49ab-a95d-460b88a0b3d5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04944065047314,
+            49.27230453843822
+          ],
+          [
+            -123.04887022007985,
+            49.27230010765527
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0491554352765,
+      "lat": 49.272302323046745
+    }
+  },
+  {
+    "project": "Ln E of Blenheim St from W 39th Av to W 41st Av",
+    "street": null,
+    "location": "Ln E of Blenheim St from W 39th Av to W 41st Av",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/db1a227b-2779-40a2-b0ba-bd4e46b926d3",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.17771674195552,
+              49.23664789439391
+            ],
+            [
+              -123.17772575644032,
+              49.23556517588517
+            ]
+          ],
+          [
+            [
+              -123.17772907170995,
+              49.235175955129705
+            ],
+            [
+              -123.17773251007038,
+              49.23475213840709
+            ]
+          ],
+          [
+            [
+              -123.17772575644032,
+              49.23556517588517
+            ],
+            [
+              -123.17772907170995,
+              49.235175955129705
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.17772464806579,
+      "lat": 49.23570001657914
+    }
+  },
+  {
+    "project": "Collingwood St from W 41st Av to Ln S of W 41st Av",
+    "street": null,
+    "location": "Collingwood St from W 41st Av to Ln S of W 41st Av",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bde47e9-5284-4f02-9256-5f6cfe5a3e2b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.182025918027,
+            49.234759548750645
+          ],
+          [
+            -123.18203204401787,
+            49.23428464355999
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18202898102243,
+      "lat": 49.23452209615532
+    }
+  },
+  {
+    "project": "Both sides of 0 Block of Dunlevy Ave from N PL 395 to S PL 395(property on Railw",
+    "street": null,
+    "location": "Both sides of 0 Block of Dunlevy Ave from N PL 395 to S PL 395(property on Railw",
+    "comp_date": "2026-05-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/66ee2551-6367-47b2-840f-93d0e6413fe8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.0952513558209,
+            49.284465571985976
+          ],
+          [
+            -123.09527291538772,
+            49.284012025566966
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09526213560432,
+      "lat": 49.28423879877647
+    }
+  },
+  {
+    "project": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
+    "street": null,
+    "location": "1) 1200-1300 Block of Bute St from 30m s/o Burnaby St to Pantages Ln.\r\n2) 1100-1",
+    "comp_date": "2026-05-09",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d0ff0e0b-bf14-4d1a-8361-75e487dab25b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13389867597425,
+              49.281443022414635
+            ],
+            [
+              -123.13468560016317,
+              49.280933190636546
+            ]
+          ],
+          [
+            [
+              -123.13488502615624,
+              49.28137973323908
+            ],
+            [
+              -123.134049592942,
+              49.28085583638901
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13438193043156,
+      "lat": 49.28115205983223
+    }
+  },
+  {
+    "project": "Both sides of 5600 blk Collingwood St from W 41st Ave to W 40th Ave.\r\nBoth sides",
+    "street": null,
+    "location": "Both sides of 5600 blk Collingwood St from W 41st Ave to W 40th Ave.\r\nBoth sides",
+    "comp_date": "2026-05-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c6fabea-444d-4dcf-b616-94f6e2bc72f6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18201792231496,
+              49.23567847142601
+            ],
+            [
+              -123.18203121738115,
+              49.23481036365774
+            ]
+          ],
+          [
+            [
+              -123.18202456984805,
+              49.23528782481836
+            ],
+            [
+              -123.18092107935306,
+              49.23528782481836
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18171577762995,
+      "lat": 49.23526871105278
+    }
+  },
+  {
+    "project": "E/S of 300 blk of Abbott St",
+    "street": null,
+    "location": "E/S of 300 blk of Abbott St",
+    "comp_date": "2026-05-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/325b3594-0aa4-4a61-b115-541fdc63b1c6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10718816931625,
+            49.28202082539133
+          ],
+          [
+            -123.10696179386464,
+            49.282548225849496
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10707498159044,
+      "lat": 49.28228452562041
     }
   },
   {
@@ -165,6 +465,78 @@
     "geo_point_2d": {
       "lon": -123.09048844349124,
       "lat": 49.21868866709782
+    }
+  },
+  {
+    "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "street": null,
+    "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
+    "comp_date": "2026-05-16",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55ddf25b-d559-4c0b-90e9-e42501d03726",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06143378287678,
+            49.260407949340475
+          ],
+          [
+            -123.06016814647296,
+            49.2599029420204
+          ],
+          [
+            -123.06014847336824,
+            49.26039083053291
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0606314312322,
+      "lat": 49.26015318769482
+    }
+  },
+  {
+    "project": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
+    "street": null,
+    "location": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
+    "comp_date": "2026-05-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/759021fb-d500-4404-8641-511a74e6a329",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08258748762327,
+              49.2767853435798
+            ],
+            [
+              -123.08261967413145,
+              49.27581589611103
+            ]
+          ],
+          [
+            [
+              -123.08258212320524,
+              49.27580539657566
+            ],
+            [
+              -123.08139658682066,
+              49.27578789734508
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08226573967255,
+      "lat": 49.276023420827045
     }
   },
   {
@@ -261,6 +633,290 @@
     "geo_point_2d": {
       "lon": -123.06878422872697,
       "lat": 49.250336009378195
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-07-31",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3f5f7853-e084-495b-bc4d-848587fa40f8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11536037145135,
+              49.25008557826274
+            ],
+            [
+              -123.10739788443595,
+              49.24997439991202
+            ]
+          ],
+          [
+            [
+              -123.10999771587181,
+              49.250014806571414
+            ],
+            [
+              -123.11004394677045,
+              49.24895857714182
+            ]
+          ],
+          [
+            [
+              -123.10732113286002,
+              49.25191150673322
+            ],
+            [
+              -123.10739520196937,
+              49.249977570395345
+            ]
+          ],
+          [
+            [
+              -123.10741998903484,
+              49.24997614815695
+            ],
+            [
+              -123.10752087768643,
+              49.247824802571245
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11003383390457,
+      "lat": 49.249935625669664
+    }
+  },
+  {
+    "project": "Argyle St from E 62nd Av to E 63rd Av",
+    "street": null,
+    "location": "Argyle St from E 62nd Av to E 63rd Av",
+    "comp_date": "2026-11-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ae07980-7734-4828-b227-c631e3ff9724",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07205866967998,
+            49.21373240354956
+          ],
+          [
+            -123.0720714454169,
+            49.21286767897749
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07206505754843,
+      "lat": 49.21330004126352
+    }
+  },
+  {
+    "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
+    "street": null,
+    "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
+    "comp_date": "2027-01-01",
+    "url_link": "https://vancouver.ca/streets-transportation/nanaimo-east-kamloops-sewer-upgrades.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05467830220574,
+              49.26573259723932
+            ],
+            [
+              -123.05327818909997,
+              49.26572909667905
+            ]
+          ],
+          [
+            [
+              -123.05584308266539,
+              49.26572879581772
+            ],
+            [
+              -123.05584399186698,
+              49.265231216817426
+            ]
+          ],
+          [
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ],
+            [
+              -123.05584399186698,
+              49.265231216817426
+            ],
+            [
+              -123.05584466322799,
+              49.26477866787289
+            ]
+          ],
+          [
+            [
+              -123.05469773006136,
+              49.264778667819854
+            ],
+            [
+              -123.05215954665029,
+              49.26477800650349
+            ]
+          ],
+          [
+            [
+              -123.05131360749871,
+              49.26478068246428
+            ],
+            [
+              -123.0521558211294,
+              49.26477718183645
+            ]
+          ],
+          [
+            [
+              -123.04952598656209,
+              49.26522995992116
+            ],
+            [
+              -123.05215199657462,
+              49.26523058551331
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ],
+            [
+              -123.05469773006136,
+              49.264778667819854
+            ],
+            [
+              -123.05584466322799,
+              49.26477866787289
+            ],
+            [
+              -123.05584577615005,
+              49.264327656859024
+            ],
+            [
+              -123.05584851024813,
+              49.263876042347476
+            ]
+          ],
+          [
+            [
+              -123.05469946702819,
+              49.26387554859798
+            ],
+            [
+              -123.05584851024813,
+              49.263876042347476
+            ],
+            [
+              -123.05584744989747,
+              49.26342362906135
+            ]
+          ],
+          [
+            [
+              -123.04954919068666,
+              49.26387341043542
+            ],
+            [
+              -123.05217422197147,
+              49.26387442272801
+            ],
+            [
+              -123.05469946702819,
+              49.26387554859798
+            ],
+            [
+              -123.05470008080094,
+              49.263423611255774
+            ],
+            [
+              -123.05584744989747,
+              49.26342362906135
+            ],
+            [
+              -123.05584827120965,
+              49.262979804761954
+            ],
+            [
+              -123.05584529985741,
+              49.26297985579009
+            ]
+          ],
+          [
+            [
+              -123.05470008080094,
+              49.263423611255774
+            ],
+            [
+              -123.05470032278009,
+              49.262971053384916
+            ],
+            [
+              -123.05584828660625,
+              49.26297148467873
+            ],
+            [
+              -123.05584827120965,
+              49.262979804761954
+            ],
+            [
+              -123.05616888820468,
+              49.26297429868691
+            ]
+          ],
+          [
+            [
+              -123.0495683519754,
+              49.26296893440485
+            ],
+            [
+              -123.05218904699089,
+              49.26296992122997
+            ],
+            [
+              -123.05470032278009,
+              49.262971053384916
+            ],
+            [
+              -123.0547006440623,
+              49.26251563496538
+            ],
+            [
+              -123.05470337749718,
+              49.262016741533415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05345445032457,
+      "lat": 49.264177976498175
     }
   },
   {
