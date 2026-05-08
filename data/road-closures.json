@@ -1,85 +1,5 @@
 [
   {
-    "project": "Gladstone St from Masumi Mitsui Greenway to Bonnyvale Av",
-    "street": null,
-    "location": "Gladstone St from Masumi Mitsui Greenway to Bonnyvale Av",
-    "comp_date": "2026-05-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56a74744-2529-4c11-a867-9a226cc91a50",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06204057290772,
-              49.21800729725226
-            ],
-            [
-              -123.0620532372768,
-              49.21758229963112
-            ]
-          ],
-          [
-            [
-              -123.0620532372768,
-              49.21758229963112
-            ],
-            [
-              -123.0620675431616,
-              49.217119547916695
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06205393451656,
-      "lat": 49.217563418834864
-    }
-  },
-  {
-    "project": "Both sides of:\r\n1) 2700 Block of W 3rd Ave from Stephens St to W PL 2721.\r\n2) 18",
-    "street": null,
-    "location": "Both sides of:\r\n1) 2700 Block of W 3rd Ave from Stephens St to W PL 2721.\r\n2) 18",
-    "comp_date": "2026-05-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/45613bb1-5817-41f6-a2ea-854af49c8d56",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.16636190300363,
-              49.2692313775793
-            ],
-            [
-              -123.16696220808532,
-              49.26925013448363
-            ]
-          ],
-          [
-            [
-              -123.16634033516428,
-              49.26924075603233
-            ],
-            [
-              -123.16632236207451,
-              49.26948694072681
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.16656572794373,
-      "lat": 49.26927661010546
-    }
-  },
-  {
     "project": "Both sides of 2600 Block of William St from W PL 2664 to E PL 2676.",
     "street": null,
     "location": "Both sides of 2600 Block of William St from W PL 2664 to E PL 2676.",
@@ -455,6 +375,34 @@
     "geo_point_2d": {
       "lon": -123.13438193043156,
       "lat": 49.28115205983223
+    }
+  },
+  {
+    "project": "W King Edward Av from Highbury St to Ln W of Dunbar St",
+    "street": null,
+    "location": "W King Edward Av from Highbury St to Ln W of Dunbar St",
+    "comp_date": "2026-05-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/61b0952f-e632-4085-a404-3dae2cd10c0a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18586784037814,
+            49.250063426174904
+          ],
+          [
+            -123.18808690167528,
+            49.25007254510422
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1869773710267,
+      "lat": 49.25006798563956
     }
   },
   {
