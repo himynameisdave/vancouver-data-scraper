@@ -4896,14 +4896,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Dacshund",
-    "color": "Black & Brown",
-    "date": "1999-08-15",
-    "name": "Shrimpy",
-    "sex": "F/S",
-    "state": "Lost"
-  },
-  {
     "breed": "Rotty",
     "color": "Black & Tan",
     "date": "1999-08-15",
@@ -4916,6 +4908,14 @@
     "color": "Beige",
     "date": "1999-08-15",
     "name": "Cleo",
+    "sex": "F/S",
+    "state": "Lost"
+  },
+  {
+    "breed": "Dacshund",
+    "color": "Black & Brown",
+    "date": "1999-08-15",
+    "name": "Shrimpy",
     "sex": "F/S",
     "state": "Lost"
   },
@@ -5048,20 +5048,20 @@
     "state": "Matched"
   },
   {
-    "breed": "American Eskimo",
-    "color": "White",
-    "date": "1999-08-20",
-    "name": "Fluffy",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Poodle X",
     "color": "Grey",
     "date": "1999-08-20",
     "name": null,
     "sex": "F",
     "state": "Found"
+  },
+  {
+    "breed": "American Eskimo",
+    "color": "White",
+    "date": "1999-08-20",
+    "name": "Fluffy",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "Poodle X",
@@ -5520,6 +5520,14 @@
     "state": "Lost"
   },
   {
+    "breed": "Am Staff",
+    "color": "Tan",
+    "date": "1999-09-09",
+    "name": "Coko",
+    "sex": "F/S",
+    "state": "Lost"
+  },
+  {
     "breed": "Rottweiler",
     "color": "Black & Brown",
     "date": "1999-09-09",
@@ -5534,14 +5542,6 @@
     "name": null,
     "sex": "M",
     "state": "Found"
-  },
-  {
-    "breed": "Am Staff",
-    "color": "Tan",
-    "date": "1999-09-09",
-    "name": "Coko",
-    "sex": "F/S",
-    "state": "Lost"
   },
   {
     "breed": "Rottweiler",
@@ -15768,20 +15768,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Shep X Husky",
-    "color": "Black & Tan",
-    "date": "2000-10-10",
-    "name": null,
-    "sex": "M",
-    "state": "Matched"
-  },
-  {
     "breed": "Retriever",
     "color": "Red",
     "date": "2000-10-10",
     "name": "Silver",
     "sex": "F",
     "state": "Lost"
+  },
+  {
+    "breed": "Shep X Husky",
+    "color": "Black & Tan",
+    "date": "2000-10-10",
+    "name": null,
+    "sex": "M",
+    "state": "Matched"
   },
   {
     "breed": "Malamute Husky X",
@@ -43320,14 +43320,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Shih Tzu",
-    "color": "Black w White Patch on Chest",
-    "date": "2004-01-06",
-    "name": "Barney",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Pitbull",
     "color": "Brown & White",
     "date": "2004-01-06",
@@ -43342,6 +43334,14 @@
     "name": "Lou",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Shih Tzu",
+    "color": "Black w White Patch on Chest",
+    "date": "2004-01-06",
+    "name": "Barney",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "Bird, Chucker",
@@ -44496,6 +44496,14 @@
     "state": "Matched"
   },
   {
+    "breed": "Springer Span X",
+    "color": "Black & White",
+    "date": "2004-03-15",
+    "name": "Teka",
+    "sex": "F/S",
+    "state": "Matched"
+  },
+  {
     "breed": "Labrador Retreiver",
     "color": "Black",
     "date": "2004-03-15",
@@ -44509,14 +44517,6 @@
     "date": "2004-03-15",
     "name": "Bo Bear",
     "sex": "M",
-    "state": "Matched"
-  },
-  {
-    "breed": "Springer Span X",
-    "color": "Black & White",
-    "date": "2004-03-15",
-    "name": "Teka",
-    "sex": "F/S",
     "state": "Matched"
   },
   {
@@ -67584,6 +67584,14 @@
     "state": "Matched"
   },
   {
+    "breed": "Maltipoo",
+    "color": "White",
+    "date": "2011-10-14",
+    "name": "Bebe or Yucci",
+    "sex": "M",
+    "state": "Lost"
+  },
+  {
     "breed": "German Shepard X",
     "color": "Brown/Black",
     "date": "2011-10-14",
@@ -67592,11 +67600,11 @@
     "state": "Lost"
   },
   {
-    "breed": "Maltipoo",
-    "color": "White",
-    "date": "2011-10-14",
-    "name": "Bebe or Yucci",
-    "sex": "M",
+    "breed": "DMH Cat",
+    "color": "Black/White",
+    "date": "2011-10-15",
+    "name": "Bumbalina",
+    "sex": "F",
     "state": "Lost"
   },
   {
@@ -67606,14 +67614,6 @@
     "name": "Tina",
     "sex": "F",
     "state": "Matched"
-  },
-  {
-    "breed": "DMH Cat",
-    "color": "Black/White",
-    "date": "2011-10-15",
-    "name": "Bumbalina",
-    "sex": "F",
-    "state": "Lost"
   },
   {
     "breed": "Blue Heeler",
@@ -67696,14 +67696,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Bichon Frise",
-    "color": "White",
-    "date": "2011-10-20",
-    "name": "Lou",
-    "sex": "M/N",
-    "state": "Matched"
-  },
-  {
     "breed": "Mut/Dezi Dogs",
     "color": "Brown/Fawn",
     "date": "2011-10-20",
@@ -67718,6 +67710,14 @@
     "name": "Loumis",
     "sex": "F/S",
     "state": "Lost"
+  },
+  {
+    "breed": "Bichon Frise",
+    "color": "White",
+    "date": "2011-10-20",
+    "name": "Lou",
+    "sex": "M/N",
+    "state": "Matched"
   },
   {
     "breed": "Cat DSH",
@@ -67800,6 +67800,14 @@
     "state": "Lost"
   },
   {
+    "breed": "Collie X",
+    "color": "Tri Colour",
+    "date": "2011-10-31",
+    "name": "Rocko",
+    "sex": "M",
+    "state": "Matched"
+  },
+  {
     "breed": "Blk/Brown & Blk/White",
     "color": "Japanese X Yorkie",
     "date": "2011-10-31",
@@ -67808,12 +67816,12 @@
     "state": "Matched"
   },
   {
-    "breed": "Collie X",
-    "color": "Tri Colour",
+    "breed": "Cocker Spaniel",
+    "color": "Gold",
     "date": "2011-10-31",
-    "name": "Rocko",
-    "sex": "M",
-    "state": "Matched"
+    "name": "Ginger",
+    "sex": "F/S",
+    "state": "Lost"
   },
   {
     "breed": "Lab X Border Collie",
@@ -67830,14 +67838,6 @@
     "name": "Callie",
     "sex": "F",
     "state": "Matched"
-  },
-  {
-    "breed": "Cocker Spaniel",
-    "color": "Gold",
-    "date": "2011-10-31",
-    "name": "Ginger",
-    "sex": "F/S",
-    "state": "Lost"
   },
   {
     "breed": "Shihtzu X Bichon",
@@ -67920,20 +67920,20 @@
     "state": "Lost"
   },
   {
-    "breed": "Retriever",
-    "color": "Gold",
-    "date": "2011-11-10",
-    "name": "Sherman",
-    "sex": "M/N",
-    "state": "Matched"
-  },
-  {
     "breed": "Whippet",
     "color": "White w/ brindle patches",
     "date": "2011-11-10",
     "name": "Ozzie",
     "sex": "M/N",
     "state": "Lost"
+  },
+  {
+    "breed": "Retriever",
+    "color": "Gold",
+    "date": "2011-11-10",
+    "name": "Sherman",
+    "sex": "M/N",
+    "state": "Matched"
   },
   {
     "breed": "Cocker Spaniel",
@@ -67944,20 +67944,20 @@
     "state": "Lost"
   },
   {
-    "breed": "Husky",
-    "color": "Black and white",
-    "date": "2011-11-11",
-    "name": "Nuka",
-    "sex": "F",
-    "state": "Matched"
-  },
-  {
     "breed": "Cockapoo",
     "color": "Blonde",
     "date": "2011-11-11",
     "name": "Milo",
     "sex": "M",
     "state": "Lost"
+  },
+  {
+    "breed": "Husky",
+    "color": "Black and white",
+    "date": "2011-11-11",
+    "name": "Nuka",
+    "sex": "F",
+    "state": "Matched"
   },
   {
     "breed": "Hound",
@@ -67984,14 +67984,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Border Collie G Shep",
-    "color": "Black with some white",
-    "date": "2011-11-12",
-    "name": "Gypsy",
-    "sex": "F",
-    "state": "Matched"
-  },
-  {
     "breed": "Labrador",
     "color": "Black",
     "date": "2011-11-12",
@@ -68000,11 +67992,11 @@
     "state": "Lost"
   },
   {
-    "breed": "Amer. Staff",
-    "color": "Blue",
-    "date": "2011-11-13",
-    "name": "Zeus",
-    "sex": "M",
+    "breed": "Border Collie G Shep",
+    "color": "Black with some white",
+    "date": "2011-11-12",
+    "name": "Gypsy",
+    "sex": "F",
     "state": "Matched"
   },
   {
@@ -68022,6 +68014,14 @@
     "name": "Meenu",
     "sex": "F/S",
     "state": "Lost"
+  },
+  {
+    "breed": "Amer. Staff",
+    "color": "Blue",
+    "date": "2011-11-13",
+    "name": "Zeus",
+    "sex": "M",
+    "state": "Matched"
   },
   {
     "breed": "DSH",
@@ -71608,20 +71608,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Budgie",
-    "color": "Blue & white",
-    "date": "2012-07-17",
-    "name": "Apollo",
-    "sex": "X",
-    "state": "Lost"
-  },
-  {
     "breed": "Schnauzer",
     "color": "Silver/White",
     "date": "2012-07-17",
     "name": "Winnie",
     "sex": "M",
     "state": "Matched"
+  },
+  {
+    "breed": "Budgie",
+    "color": "Blue & white",
+    "date": "2012-07-17",
+    "name": "Apollo",
+    "sex": "X",
+    "state": "Lost"
   },
   {
     "breed": "Shih Tzu",
@@ -72296,14 +72296,6 @@
     "state": "Lost"
   },
   {
-    "breed": "DSH",
-    "color": "Dark Grey",
-    "date": "2012-08-10",
-    "name": "Gustav",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Bischon Frise",
     "color": "White",
     "date": "2012-08-10",
@@ -72317,6 +72309,14 @@
     "date": "2012-08-10",
     "name": "Vader",
     "sex": "F/S",
+    "state": "Lost"
+  },
+  {
+    "breed": "DSH",
+    "color": "Dark Grey",
+    "date": "2012-08-10",
+    "name": "Gustav",
+    "sex": "M/N",
     "state": "Lost"
   },
   {
@@ -72448,19 +72448,19 @@
     "state": "Lost"
   },
   {
-    "breed": "DSH",
-    "color": "Solid Gray",
-    "date": "2012-08-14",
-    "name": "Isabella",
-    "sex": "F/S",
-    "state": "Lost"
-  },
-  {
     "breed": "Brussels Griffon",
     "color": "Tan/ Black",
     "date": "2012-08-14",
     "name": "Mick",
     "sex": "M/N",
+    "state": "Lost"
+  },
+  {
+    "breed": "DSH",
+    "color": "Solid Gray",
+    "date": "2012-08-14",
+    "name": "Isabella",
+    "sex": "F/S",
     "state": "Lost"
   },
   {
@@ -72480,19 +72480,19 @@
     "state": "Lost"
   },
   {
-    "breed": "DSH",
-    "color": "Black/Brown/Grey Tabby",
-    "date": "2012-08-15",
-    "name": "Mookie",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Yorkshire Terrior",
     "color": "Brown/Black",
     "date": "2012-08-15",
     "name": "Kacy",
     "sex": "F/S",
+    "state": "Lost"
+  },
+  {
+    "breed": "DSH",
+    "color": "Black/Brown/Grey Tabby",
+    "date": "2012-08-15",
+    "name": "Mookie",
+    "sex": "M/N",
     "state": "Lost"
   },
   {
@@ -72528,19 +72528,19 @@
     "state": "Matched"
   },
   {
-    "breed": "Pomeranian",
-    "color": "Blonde/Tan w/White Chest",
-    "date": "2012-08-19",
-    "name": "Yuki",
-    "sex": "F/S",
-    "state": "Lost"
-  },
-  {
     "breed": "Shih Tzu",
     "color": "White",
     "date": "2012-08-19",
     "name": "Fluffy",
     "sex": "M",
+    "state": "Lost"
+  },
+  {
+    "breed": "Pomeranian",
+    "color": "Blonde/Tan w/White Chest",
+    "date": "2012-08-19",
+    "name": "Yuki",
+    "sex": "F/S",
     "state": "Lost"
   },
   {
@@ -72560,19 +72560,19 @@
     "state": "Matched"
   },
   {
-    "breed": "DSH",
-    "color": "Dark Gray",
-    "date": "2012-08-20",
-    "name": "Gemini",
-    "sex": "F",
-    "state": "Lost"
-  },
-  {
     "breed": "Cockatiel",
     "color": "Grey, white, yellow, black wit",
     "date": "2012-08-20",
     "name": "Holly",
     "sex": null,
+    "state": "Lost"
+  },
+  {
+    "breed": "DSH",
+    "color": "Dark Gray",
+    "date": "2012-08-20",
+    "name": "Gemini",
+    "sex": "F",
     "state": "Lost"
   },
   {
@@ -114232,20 +114232,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH Tabby",
-    "color": "Orange and white",
-    "date": "2019-11-01",
-    "name": "Chance",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Pomeranian",
     "color": "Red",
     "date": "2019-11-01",
     "name": "Dudley",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DSH Tabby",
+    "color": "Orange and white",
+    "date": "2019-11-01",
+    "name": "Chance",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "Bernese Mtn. Dog",
@@ -123760,6 +123760,14 @@
     "state": "Lost"
   },
   {
+    "breed": "Pit Bull",
+    "color": "White w/Black eye patch",
+    "date": "2021-09-25",
+    "name": "Titan",
+    "sex": "M/N",
+    "state": "Matched"
+  },
+  {
     "breed": "DSH - Calico",
     "color": "Black, White & Orange",
     "date": "2021-09-25",
@@ -123768,10 +123776,10 @@
     "state": "Matched"
   },
   {
-    "breed": "Pit Bull",
-    "color": "White w/Black eye patch",
+    "breed": "Cat - DMH",
+    "color": "Black",
     "date": "2021-09-25",
-    "name": "Titan",
+    "name": "Token",
     "sex": "M/N",
     "state": "Matched"
   },
@@ -123788,14 +123796,6 @@
     "color": "Orange & White",
     "date": "2021-09-25",
     "name": "Governor",
-    "sex": "M/N",
-    "state": "Matched"
-  },
-  {
-    "breed": "Cat - DMH",
-    "color": "Black",
-    "date": "2021-09-25",
-    "name": "Token",
     "sex": "M/N",
     "state": "Matched"
   },
@@ -145661,7 +145661,7 @@
     "date": "2026-05-09",
     "name": "PP",
     "sex": "F/S",
-    "state": "Lost"
+    "state": "Matched"
   },
   {
     "breed": "Cat - Maine Coon",
@@ -145669,6 +145669,14 @@
     "date": "2026-05-09",
     "name": "Lila",
     "sex": "F",
+    "state": "Lost"
+  },
+  {
+    "breed": "Cat - DMH Maine Coon",
+    "color": "Grey & White Mane/Paws",
+    "date": "2026-05-10",
+    "name": "Tyrion",
+    "sex": "M/N",
     "state": "Lost"
   }
 ]
