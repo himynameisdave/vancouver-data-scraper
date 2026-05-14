@@ -156,6 +156,62 @@
     }
   },
   {
+    "project": "Union St from Heatley Av to Princess Av",
+    "street": null,
+    "location": "Union St from Heatley Av to Princess Av",
+    "comp_date": "2026-05-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a198965e-52f2-4ec4-ad81-043191f2da87",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09164266511806,
+            49.27751684244703
+          ],
+          [
+            -123.08969008097252,
+            49.27748074769869
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09066637304528,
+      "lat": 49.27749879507286
+    }
+  },
+  {
+    "project": "Ln S of E 64th Av from Sophia St to Prince Edward St",
+    "street": null,
+    "location": "Ln S of E 64th Av from Sophia St to Prince Edward St",
+    "comp_date": "2026-05-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/252e90a3-e0ad-4651-8097-61582f38c417",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10023440791127,
+            49.212169139693145
+          ],
+          [
+            -123.09796600203701,
+            49.212113480042404
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09910020497415,
+      "lat": 49.212141309867775
+    }
+  },
+  {
     "project": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
     "street": null,
     "location": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
@@ -221,6 +277,86 @@
     "geo_point_2d": {
       "lon": -123.13308780260246,
       "lat": 49.281953502778435
+    }
+  },
+  {
+    "project": "Ln S of E 19th Av from Main St to Sophia St",
+    "street": null,
+    "location": "Ln S of E 19th Av from Main St to Sophia St",
+    "comp_date": "2026-05-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/025f8317-abbf-40cb-b927-65a899b3b34a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10017559130975,
+              49.25342556309454
+            ],
+            [
+              -123.0985442945081,
+              49.25340063700057
+            ]
+          ],
+          [
+            [
+              -123.10089362129004,
+              49.2534359754234
+            ],
+            [
+              -123.10017559130975,
+              49.25342556309454
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09971895500922,
+      "lat": 49.253418500284546
+    }
+  },
+  {
+    "project": "Manitoba St from W 26th Av to W King Edward St",
+    "street": null,
+    "location": "Manitoba St from W 26th Av to W King Edward St",
+    "comp_date": "2026-05-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/180cef8e-3fac-47f3-a8ab-5b2b78e399a4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10744904673571,
+              49.24888865423367
+            ],
+            [
+              -123.10747094361403,
+              49.24834168793268
+            ]
+          ],
+          [
+            [
+              -123.10747094361403,
+              49.24834168793268
+            ],
+            [
+              -123.1074947258243,
+              49.24779628499135
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10747139945477,
+      "lat": 49.24834244925399
     }
   },
   {
