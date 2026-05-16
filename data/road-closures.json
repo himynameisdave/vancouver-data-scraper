@@ -1,33 +1,5 @@
 [
   {
-    "project": "Both sides of 4700-4800 Block of Henry St from N PL 4831 to S PL 4841.",
-    "street": null,
-    "location": "Both sides of 4700-4800 Block of Henry St from N PL 4831 to S PL 4841.",
-    "comp_date": "2026-05-15",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9b200b16-8c6a-48d0-8e3d-478dfd01cbc7",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07767671560237,
-            49.24127675300082
-          ],
-          [
-            -123.07768210549405,
-            49.241037465453246
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0776794105482,
-      "lat": 49.24115710922703
-    }
-  },
-  {
     "project": "Lime St from W 49th Av to W 51st Av",
     "street": null,
     "location": "Lime St from W 49th Av to W 51st Av",
@@ -531,6 +503,66 @@
     "geo_point_2d": {
       "lon": -123.06878422872697,
       "lat": 49.250336009378195
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-07-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56d3faad-3a24-4167-bad5-f41c54260776",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08921266195411,
+              49.23829910788797
+            ],
+            [
+              -123.08926375485105,
+              49.236525473758434
+            ]
+          ],
+          [
+            [
+              -123.0904644379292,
+              49.23655327415776
+            ],
+            [
+              -123.08805455629009,
+              49.236519913676716
+            ]
+          ],
+          [
+            [
+              -123.08810880520542,
+              49.23567150855419
+            ],
+            [
+              -123.08812583617106,
+              49.234759631017965
+            ]
+          ],
+          [
+            [
+              -123.08811732068823,
+              49.23477075157709
+            ],
+            [
+              -123.08479628238702,
+              49.23472626932548
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08802543276603,
+      "lat": 49.235872548469864
     }
   },
   {
