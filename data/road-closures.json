@@ -1,88 +1,32 @@
 [
   {
-    "project": "Union St from Heatley Av to Princess Av",
+    "project": "Broadway - Main Street to Quebec Street",
     "street": null,
-    "location": "Union St from Heatley Av to Princess Av",
-    "comp_date": "2026-05-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a198965e-52f2-4ec4-ad81-043191f2da87",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.09164266511806,
-            49.27751684244703
-          ],
-          [
-            -123.08969008097252,
-            49.27748074769869
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09066637304528,
-      "lat": 49.27749879507286
-    }
-  },
-  {
-    "project": "Ln S of E 64th Av from Sophia St to Prince Edward St",
-    "street": null,
-    "location": "Ln S of E 64th Av from Sophia St to Prince Edward St",
-    "comp_date": "2026-05-19",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/252e90a3-e0ad-4651-8097-61582f38c417",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.10023440791127,
-            49.212169139693145
-          ],
-          [
-            -123.09796600203701,
-            49.212113480042404
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09910020497415,
-      "lat": 49.212141309867775
-    }
-  },
-  {
-    "project": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
-    "street": null,
-    "location": "B/S of 900 blk of Raymur Ave\r\nB/S of 1000 blk of Parker St",
+    "location": "Broadway - Main Street to Quebec Street",
     "comp_date": "2026-05-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/759021fb-d500-4404-8641-511a74e6a329",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/595dacda-d252-4c24-b8cd-e3bfef1415f5",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.08258748762327,
-              49.2767853435798
+              -123.10176134138447,
+              49.26293206479838
             ],
             [
-              -123.08261967413145,
-              49.27581589611103
+              -123.10095954934879,
+              49.262913455480145
             ]
           ],
           [
             [
-              -123.08258212320524,
-              49.27580539657566
+              -123.10296078030674,
+              49.262960119659624
             ],
             [
-              -123.08139658682066,
-              49.27578789734508
+              -123.10176134138447,
+              49.26293206479838
             ]
           ]
         ],
@@ -91,8 +35,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.08226573967255,
-      "lat": 49.276023420827045
+      "lon": -123.10196016583677,
+      "lat": 49.26293674426415
     }
   },
   {
@@ -161,6 +105,66 @@
     "geo_point_2d": {
       "lon": -123.09971895500922,
       "lat": 49.253418500284546
+    }
+  },
+  {
+    "project": "Tanner St from Boundary Rd to Joyce St",
+    "street": null,
+    "location": "Tanner St from Boundary Rd to Joyce St",
+    "comp_date": "2026-05-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a17c75fd-9701-498c-b22f-adde947b3165",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.02768872008788,
+              49.24258933705261
+            ],
+            [
+              -123.0270853577528,
+              49.24234519643608
+            ]
+          ],
+          [
+            [
+              -123.0270853577528,
+              49.24234519643608
+            ],
+            [
+              -123.02506490783966,
+              49.24151748790601
+            ]
+          ],
+          [
+            [
+              -123.02506490783966,
+              49.24151748790601
+            ],
+            [
+              -123.02427678344469,
+              49.24151270882885
+            ]
+          ],
+          [
+            [
+              -123.02427678344469,
+              49.24151270882885
+            ],
+            [
+              -123.02370144310366,
+              49.24151263939774
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.02572898697835,
+      "lat": 49.2418789074675
     }
   },
   {
@@ -241,46 +245,6 @@
     "geo_point_2d": {
       "lon": -123.18171577762995,
       "lat": 49.23526871105278
-    }
-  },
-  {
-    "project": "Broadway - Main Street to Quebec Street",
-    "street": null,
-    "location": "Broadway - Main Street to Quebec Street",
-    "comp_date": "2026-06-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/595dacda-d252-4c24-b8cd-e3bfef1415f5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10176134138447,
-              49.26293206479838
-            ],
-            [
-              -123.10095954934879,
-              49.262913455480145
-            ]
-          ],
-          [
-            [
-              -123.10296078030674,
-              49.262960119659624
-            ],
-            [
-              -123.10176134138447,
-              49.26293206479838
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10196016583677,
-      "lat": 49.26293674426415
     }
   },
   {
