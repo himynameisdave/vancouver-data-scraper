@@ -31680,6 +31680,14 @@
     "state": "Lost"
   },
   {
+    "breed": "Cat",
+    "color": "Black & Brown",
+    "date": "2002-08-22",
+    "name": "Shadow",
+    "sex": "F/S",
+    "state": "Lost"
+  },
+  {
     "breed": "West Highland Terrier",
     "color": "White",
     "date": "2002-08-22",
@@ -31693,14 +31701,6 @@
     "date": "2002-08-22",
     "name": "Jaonuu",
     "sex": "M",
-    "state": "Lost"
-  },
-  {
-    "breed": "Cat",
-    "color": "Black & Brown",
-    "date": "2002-08-22",
-    "name": "Shadow",
-    "sex": "F/S",
     "state": "Lost"
   },
   {
@@ -37288,18 +37288,18 @@
     "state": "Lost"
   },
   {
-    "breed": "Pitbull X",
-    "color": "Brown & Black & White",
-    "date": "2003-05-12",
-    "name": "Nero",
-    "sex": "M",
-    "state": "Lost"
-  },
-  {
     "breed": "Shep",
     "color": "Black & Tan",
     "date": "2003-05-12",
     "name": "Win Win",
+    "sex": "M",
+    "state": "Lost"
+  },
+  {
+    "breed": "Pitbull X",
+    "color": "Brown & Black & White",
+    "date": "2003-05-12",
+    "name": "Nero",
     "sex": "M",
     "state": "Lost"
   },
@@ -39672,14 +39672,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Rotty",
-    "color": "Black & Tan",
-    "date": "2003-08-03",
-    "name": "Zoomy",
-    "sex": "M/N",
-    "state": "Matched"
-  },
-  {
     "breed": "Border Collie X",
     "color": "Black & White",
     "date": "2003-08-03",
@@ -39726,6 +39718,14 @@
     "name": "Zoe",
     "sex": "F/S",
     "state": "Lost"
+  },
+  {
+    "breed": "Rotty",
+    "color": "Black & Tan",
+    "date": "2003-08-03",
+    "name": "Zoomy",
+    "sex": "M/N",
+    "state": "Matched"
   },
   {
     "breed": "Border Collie",
@@ -102472,22 +102472,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Boxer",
-    "color": "White",
-    "date": "2017-06-25",
-    "name": "Junior",
-    "sex": "M/N",
-    "state": "Matched"
-  },
-  {
-    "breed": "Puggle",
-    "color": "Tan/White",
-    "date": "2017-06-25",
-    "name": "Bandy",
-    "sex": "F",
-    "state": "Matched"
-  },
-  {
     "breed": "Pekingese",
     "color": "White",
     "date": "2017-06-25",
@@ -102501,6 +102485,22 @@
     "date": "2017-06-25",
     "name": "Bowser",
     "sex": "M",
+    "state": "Matched"
+  },
+  {
+    "breed": "Boxer",
+    "color": "White",
+    "date": "2017-06-25",
+    "name": "Junior",
+    "sex": "M/N",
+    "state": "Matched"
+  },
+  {
+    "breed": "Puggle",
+    "color": "Tan/White",
+    "date": "2017-06-25",
+    "name": "Bandy",
+    "sex": "F",
     "state": "Matched"
   },
   {
@@ -103456,14 +103456,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Zuchon",
-    "color": "Cream/White",
-    "date": "2017-08-05",
-    "name": "Remi",
-    "sex": "F/S",
-    "state": "Matched"
-  },
-  {
     "breed": "Pit Bull",
     "color": "White/Grey",
     "date": "2017-08-05",
@@ -103477,6 +103469,14 @@
     "date": "2017-08-05",
     "name": "Tiana",
     "sex": "F",
+    "state": "Matched"
+  },
+  {
+    "breed": "Zuchon",
+    "color": "Cream/White",
+    "date": "2017-08-05",
+    "name": "Remi",
+    "sex": "F/S",
     "state": "Matched"
   },
   {
@@ -114224,14 +114224,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH Tabby",
-    "color": "Orange and white",
-    "date": "2019-11-01",
-    "name": "Chance",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Poodle/Japanese Spitz X",
     "color": "White",
     "date": "2019-11-01",
@@ -114246,6 +114238,14 @@
     "name": "Jiffy",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DSH Tabby",
+    "color": "Orange and white",
+    "date": "2019-11-01",
+    "name": "Chance",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "Bernese Mtn. Dog",
@@ -122136,20 +122136,20 @@
     "state": "Lost"
   },
   {
-    "breed": "Pomeranian",
-    "color": "Tan",
-    "date": "2021-07-09",
-    "name": "Molly",
-    "sex": "F",
-    "state": "Lost"
-  },
-  {
     "breed": "Mastiff/Mtn Dog X",
     "color": "Black w/ white toes",
     "date": "2021-07-09",
     "name": "Luna",
     "sex": "F/S",
     "state": "Matched"
+  },
+  {
+    "breed": "Pomeranian",
+    "color": "Tan",
+    "date": "2021-07-09",
+    "name": "Molly",
+    "sex": "F",
+    "state": "Lost"
   },
   {
     "breed": "Shiba Inu/Chihauhua X",
@@ -128856,20 +128856,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH",
-    "color": "Black",
-    "date": "2022-08-11",
-    "name": "BJ",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Cat - DMH",
     "color": "Black & White",
     "date": "2022-08-11",
     "name": "Stevie",
     "sex": "F/S",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DSH",
+    "color": "Black",
+    "date": "2022-08-11",
+    "name": "BJ",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "Pug X",
@@ -145088,19 +145088,19 @@
     "state": "Matched"
   },
   {
-    "breed": "Pitbull Lab X",
-    "color": "Black",
-    "date": "2026-03-10",
-    "name": "Roxy",
-    "sex": "F",
-    "state": "Lost"
-  },
-  {
     "breed": "Cat - DSH",
     "color": "Black",
     "date": "2026-03-10",
     "name": "Sushi",
     "sex": "F/S",
+    "state": "Lost"
+  },
+  {
+    "breed": "Pitbull Lab X",
+    "color": "Black",
+    "date": "2026-03-10",
+    "name": "Roxy",
+    "sex": "F",
     "state": "Lost"
   },
   {
@@ -145337,7 +145337,7 @@
   },
   {
     "breed": "Cat - DSH",
-    "color": "Grey/brown, dilute",
+    "color": "Gray with orange",
     "date": "2026-04-09",
     "name": "Daisy",
     "sex": "F/S",
@@ -145345,7 +145345,7 @@
   },
   {
     "breed": "Cat - DSH",
-    "color": "Gray with orange",
+    "color": "Grey/brown, dilute",
     "date": "2026-04-09",
     "name": "Daisy",
     "sex": "F/S",
@@ -145408,14 +145408,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DLH - Himalayan Mix",
-    "color": "Grey w/ Brown",
-    "date": "2026-04-17",
-    "name": "Angel",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Cat - DLH",
     "color": "Grey",
     "date": "2026-04-17",
@@ -145430,6 +145422,14 @@
     "name": "Willow",
     "sex": "F/S",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DLH - Himalayan Mix",
+    "color": "Grey w/ Brown",
+    "date": "2026-04-17",
+    "name": "Angel",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "Pitbull X",
