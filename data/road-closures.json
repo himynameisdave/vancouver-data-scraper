@@ -1,75 +1,5 @@
 [
   {
-    "project": "W 64th Av from Fremlin St to Heather St",
-    "street": null,
-    "location": "W 64th Av from Fremlin St to Heather St",
-    "comp_date": "2026-05-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0411cb5a-f942-4432-8b13-b4347a5068aa",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1266417643515,
-              49.21293607737164
-            ],
-            [
-              -123.12733399036868,
-              49.212946515489534
-            ]
-          ],
-          [
-            [
-              -123.12595030755041,
-              49.212925643262
-            ],
-            [
-              -123.1266417643515,
-              49.21293607737164
-            ]
-          ],
-          [
-            [
-              -123.12504448129984,
-              49.21291196509668
-            ],
-            [
-              -123.12595030755041,
-              49.212925643262
-            ]
-          ],
-          [
-            [
-              -123.12466645082134,
-              49.21290625691924
-            ],
-            [
-              -123.12504448129984,
-              49.21291196509668
-            ]
-          ],
-          [
-            [
-              -123.12404255171842,
-              49.21289682688621
-            ],
-            [
-              -123.12466645082134,
-              49.21290625691924
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.12568827088211,
-      "lat": 49.21292168188104
-    }
-  },
-  {
     "project": "Oliver Crescent from Macdonald St to Trafalgar St",
     "street": null,
     "location": "Oliver Crescent from Macdonald St to Trafalgar St",
@@ -135,6 +65,46 @@
     "geo_point_2d": {
       "lon": -123.04075742389931,
       "lat": 49.275377370620674
+    }
+  },
+  {
+    "project": "W 47th Av from West Boulevard to Yew St",
+    "street": null,
+    "location": "W 47th Av from West Boulevard to Yew St",
+    "comp_date": "2026-05-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/abc6d022-a1bb-4313-8b30-e9d386f08f0c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.15644469238786,
+              49.22901021249092
+            ],
+            [
+              -123.1587211478245,
+              49.2290440326712
+            ]
+          ],
+          [
+            [
+              -123.15576270297848,
+              49.22900015086228
+            ],
+            [
+              -123.15644469238786,
+              49.22901021249092
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.15724192580214,
+      "lat": 49.22902206470516
     }
   },
   {
