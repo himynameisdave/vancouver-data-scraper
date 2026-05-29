@@ -1,21 +1,21 @@
 [
   {
-    "project": "Oliver Crescent from Macdonald St to Trafalgar St",
+    "project": "East Boulevard from W 19th Av to W 20th Av",
     "street": null,
-    "location": "Oliver Crescent from Macdonald St to Trafalgar St",
-    "comp_date": "2026-05-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ba924292-c679-48d0-8ce4-1067c505e406",
+    "location": "East Boulevard from W 19th Av to W 20th Av",
+    "comp_date": "2026-05-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4fd0833f-af07-4ff5-86ff-9db586a4fec5",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.16535451498378,
-            49.24911821948112
+            -123.15251345110232,
+            49.254487927646665
           ],
           [
-            -123.16785877633986,
-            49.24912890154104
+            -123.15255048995476,
+            49.25326732585032
           ]
         ],
         "type": "LineString"
@@ -23,8 +23,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.1666066456618,
-      "lat": 49.24912356051108
+      "lon": -123.15253197052854,
+      "lat": 49.25387762674849
+    }
+  },
+  {
+    "project": "Lillooet St from E 22nd Av to E 23rd Av",
+    "street": null,
+    "location": "Lillooet St from E 22nd Av to E 23rd Av",
+    "comp_date": "2026-05-29",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/802e1675-a4c6-49b3-8198-da40ac7e5205",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03906641659485,
+            49.25060607158579
+          ],
+          [
+            -123.03908205580079,
+            49.24966852097043
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03907423619782,
+      "lat": 49.25013729627812
     }
   },
   {
@@ -145,6 +173,46 @@
     "geo_point_2d": {
       "lon": -123.14384213725216,
       "lat": 49.28919957470926
+    }
+  },
+  {
+    "project": "E 39th Av from Main St to Sophia St",
+    "street": null,
+    "location": "E 39th Av from Main St to Sophia St",
+    "comp_date": "2026-06-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/621daf18-5016-4b6f-b2db-9691988b327d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10160277146323,
+              49.23543147948607
+            ],
+            [
+              -123.10094148645314,
+              49.23542027541603
+            ]
+          ],
+          [
+            [
+              -123.10094148645314,
+              49.23542027541603
+            ],
+            [
+              -123.09941795877951,
+              49.23538951953006
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10051035123878,
+      "lat": 49.23541124729084
     }
   },
   {
@@ -704,66 +772,6 @@
     }
   },
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2026-07-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3f5f7853-e084-495b-bc4d-848587fa40f8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11536037145135,
-              49.25008557826274
-            ],
-            [
-              -123.10739788443595,
-              49.24997439991202
-            ]
-          ],
-          [
-            [
-              -123.10999771587181,
-              49.250014806571414
-            ],
-            [
-              -123.11004394677045,
-              49.24895857714182
-            ]
-          ],
-          [
-            [
-              -123.10732113286002,
-              49.25191150673322
-            ],
-            [
-              -123.10739520196937,
-              49.249977570395345
-            ]
-          ],
-          [
-            [
-              -123.10741998903484,
-              49.24997614815695
-            ],
-            [
-              -123.10752087768643,
-              49.247824802571245
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11003383390457,
-      "lat": 49.249935625669664
-    }
-  },
-  {
     "project": "Pacific - Nelson to Carrall",
     "street": null,
     "location": "Pacific - Nelson to Carrall",
@@ -896,31 +904,63 @@
     }
   },
   {
-    "project": "Argyle St from E 62nd Av to E 63rd Av",
+    "project": null,
     "street": null,
-    "location": "Argyle St from E 62nd Av to E 63rd Av",
-    "comp_date": "2026-11-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0ae07980-7734-4828-b227-c631e3ff9724",
+    "location": null,
+    "comp_date": "2026-08-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3f5f7853-e084-495b-bc4d-848587fa40f8",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.07205866967998,
-            49.21373240354956
+            [
+              -123.11536037145135,
+              49.25008557826274
+            ],
+            [
+              -123.10739788443595,
+              49.24997439991202
+            ]
           ],
           [
-            -123.0720714454169,
-            49.21286767897749
+            [
+              -123.10999771587181,
+              49.250014806571414
+            ],
+            [
+              -123.11004394677045,
+              49.24895857714182
+            ]
+          ],
+          [
+            [
+              -123.10732113286002,
+              49.25191150673322
+            ],
+            [
+              -123.10739520196937,
+              49.249977570395345
+            ]
+          ],
+          [
+            [
+              -123.10741998903484,
+              49.24997614815695
+            ],
+            [
+              -123.10752087768643,
+              49.247824802571245
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07206505754843,
-      "lat": 49.21330004126352
+      "lon": -123.11003383390457,
+      "lat": 49.249935625669664
     }
   },
   {
