@@ -1,33 +1,5 @@
 [
   {
-    "project": "B/S 1500 blk of W35th Ave",
-    "street": null,
-    "location": "B/S 1500 blk of W35th Ave",
-    "comp_date": "2026-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c5a0c737-faae-4d0c-931e-ddf4d09940b5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13940350711964,
-            49.23996154147801
-          ],
-          [
-            -123.1398732361817,
-            49.23996154147801
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13963837165068,
-      "lat": 49.23996154147801
-    }
-  },
-  {
     "project": "Wiltshire St from W 45th Av to W 47th Av",
     "street": null,
     "location": "Wiltshire St from W 45th Av to W 47th Av",
@@ -53,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.14648376892418,
       "lat": 49.22978814885437
+    }
+  },
+  {
+    "project": "W 21st Av from Crown St to Wallace St",
+    "street": null,
+    "location": "W 21st Av from Crown St to Wallace St",
+    "comp_date": "2026-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/439cd8cc-1c9d-4b31-865b-c20dda529dd0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.19081422225152,
+            49.253792367605314
+          ],
+          [
+            -123.1935801089117,
+            49.253802545572256
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1921971655816,
+      "lat": 49.253797456588785
     }
   },
   {
@@ -268,46 +268,6 @@
     }
   },
   {
-    "project": "Alberta St – W 7th Av to W 6th Av",
-    "street": null,
-    "location": "Alberta St – W 7th Av to W 6th Av",
-    "comp_date": "2026-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a519617f-9c63-4fbb-82aa-b7b9fd7756a5",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11085140859302,
-              49.265690149544184
-            ],
-            [
-              -123.11087316663239,
-              49.26523591587778
-            ]
-          ],
-          [
-            [
-              -123.11087316663239,
-              49.26523591587778
-            ],
-            [
-              -123.11089075043989,
-              49.26478374607936
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11087209875951,
-      "lat": 49.26523699203999
-    }
-  },
-  {
     "project": "W 7th Ave – Cambie to Alberta St",
     "street": null,
     "location": "W 7th Ave – Cambie to Alberta St",
@@ -345,6 +305,46 @@
     "geo_point_2d": {
       "lon": -123.11282606244029,
       "lat": 49.26482063211278
+    }
+  },
+  {
+    "project": "Alberta St – W 7th Av to W 6th Av",
+    "street": null,
+    "location": "Alberta St – W 7th Av to W 6th Av",
+    "comp_date": "2026-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a519617f-9c63-4fbb-82aa-b7b9fd7756a5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11085140859302,
+              49.265690149544184
+            ],
+            [
+              -123.11087316663239,
+              49.26523591587778
+            ]
+          ],
+          [
+            [
+              -123.11087316663239,
+              49.26523591587778
+            ],
+            [
+              -123.11089075043989,
+              49.26478374607936
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11087209875951,
+      "lat": 49.26523699203999
     }
   },
   {
@@ -511,6 +511,34 @@
     "geo_point_2d": {
       "lon": -123.10403418435376,
       "lat": 49.25573683479074
+    }
+  },
+  {
+    "project": "B/S 1500 blk of W35th Ave",
+    "street": null,
+    "location": "B/S 1500 blk of W35th Ave",
+    "comp_date": "2026-06-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c5a0c737-faae-4d0c-931e-ddf4d09940b5",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13940350711964,
+            49.23996154147801
+          ],
+          [
+            -123.1398732361817,
+            49.23996154147801
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13963837165068,
+      "lat": 49.23996154147801
     }
   },
   {
@@ -835,6 +863,34 @@
     "geo_point_2d": {
       "lon": -123.06878422872697,
       "lat": 49.250336009378195
+    }
+  },
+  {
+    "project": "Marguerite St from W 33rd Av to W 35th Av",
+    "street": null,
+    "location": "Marguerite St from W 33rd Av to W 35th Av",
+    "comp_date": "2026-06-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ca0a54b8-6635-4161-8fcf-366d00f0f737",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14411712226772,
+            49.24194278366832
+          ],
+          [
+            -123.1441873687601,
+            49.239913962798255
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14415224551391,
+      "lat": 49.24092837323329
     }
   },
   {
