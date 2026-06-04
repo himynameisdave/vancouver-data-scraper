@@ -1,45 +1,5 @@
 [
   {
-    "project": "E 39th Av from Main St to Sophia St",
-    "street": null,
-    "location": "E 39th Av from Main St to Sophia St",
-    "comp_date": "2026-06-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/621daf18-5016-4b6f-b2db-9691988b327d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10160277146323,
-              49.23543147948607
-            ],
-            [
-              -123.10094148645314,
-              49.23542027541603
-            ]
-          ],
-          [
-            [
-              -123.10094148645314,
-              49.23542027541603
-            ],
-            [
-              -123.09941795877951,
-              49.23538951953006
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10051035123878,
-      "lat": 49.23541124729084
-    }
-  },
-  {
     "project": "B/S 1500 blk of W35th Ave",
     "street": null,
     "location": "B/S 1500 blk of W35th Ave",
@@ -65,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.13963837165068,
       "lat": 49.23996154147801
+    }
+  },
+  {
+    "project": "Wiltshire St from W 45th Av to W 47th Av",
+    "street": null,
+    "location": "Wiltshire St from W 45th Av to W 47th Av",
+    "comp_date": "2026-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/250b7d60-45ed-47c8-9d43-e335d862ade8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14644981639199,
+            49.23071763623838
+          ],
+          [
+            -123.14651772145639,
+            49.228858661470355
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14648376892418,
+      "lat": 49.22978814885437
     }
   },
   {
@@ -240,33 +228,33 @@
     }
   },
   {
-    "project": "W 7th Ave – Cambie to Alberta St",
+    "project": "Arbutus from W 8th Av to Broadway",
     "street": null,
-    "location": "W 7th Ave – Cambie to Alberta St",
-    "comp_date": "2026-06-13",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/354a192f-1736-4f5f-a24e-9fbb54490dc8",
+    "location": "Arbutus from W 8th Av to Broadway",
+    "comp_date": "2026-06-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b4535aa5-3c24-4e33-8199-566ed18de6c3",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.11282756670643,
-              49.264820685295916
+              -123.15291028384895,
+              49.264306552831954
             ],
             [
-              -123.11476137537484,
-              49.264857469100605
+              -123.1529275546611,
+              49.26382856961291
             ]
           ],
           [
             [
-              -123.11089075043989,
-              49.26478374607936
+              -123.1528938088216,
+              49.2647396938506
             ],
             [
-              -123.11282756670643,
-              49.264820685295916
+              -123.15291028384895,
+              49.264306552831954
             ]
           ]
         ],
@@ -275,8 +263,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.11282606244029,
-      "lat": 49.26482063211278
+      "lon": -123.1529108977102,
+      "lat": 49.26428413974083
     }
   },
   {
@@ -317,6 +305,46 @@
     "geo_point_2d": {
       "lon": -123.11087209875951,
       "lat": 49.26523699203999
+    }
+  },
+  {
+    "project": "W 7th Ave – Cambie to Alberta St",
+    "street": null,
+    "location": "W 7th Ave – Cambie to Alberta St",
+    "comp_date": "2026-06-13",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/354a192f-1736-4f5f-a24e-9fbb54490dc8",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.11282756670643,
+              49.264820685295916
+            ],
+            [
+              -123.11476137537484,
+              49.264857469100605
+            ]
+          ],
+          [
+            [
+              -123.11089075043989,
+              49.26478374607936
+            ],
+            [
+              -123.11282756670643,
+              49.264820685295916
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.11282606244029,
+      "lat": 49.26482063211278
     }
   },
   {
@@ -455,6 +483,34 @@
     "geo_point_2d": {
       "lon": -123.12727082437391,
       "lat": 49.28060975325694
+    }
+  },
+  {
+    "project": "B/S of 0 blk of E17th Ave",
+    "street": null,
+    "location": "B/S of 0 blk of E17th Ave",
+    "comp_date": "2026-06-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/78bde76d-915d-4c3f-bcf1-d61aabd8d71a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10496394067283,
+            49.255752665320585
+          ],
+          [
+            -123.10310442803471,
+            49.25572100426089
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10403418435376,
+      "lat": 49.25573683479074
     }
   },
   {
