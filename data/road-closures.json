@@ -56,6 +56,46 @@
     }
   },
   {
+    "project": "W 65th Av from Adera St to Granville St",
+    "street": null,
+    "location": "W 65th Av from Adera St to Granville St",
+    "comp_date": "2026-06-05",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/88fc8576-6443-4038-a40b-46746fbcef69",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14103884429956,
+              49.21226535718466
+            ],
+            [
+              -123.14356371972116,
+              49.21230626960718
+            ]
+          ],
+          [
+            [
+              -123.14039803010785,
+              49.212254461969934
+            ],
+            [
+              -123.14103884429956,
+              49.21226535718466
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14198087152789,
+      "lat": 49.21228056976433
+    }
+  },
+  {
     "project": "Both sides of 3100 blk E45th Ave",
     "street": null,
     "location": "Both sides of 3100 blk E45th Ave",
@@ -197,6 +237,46 @@
     "geo_point_2d": {
       "lon": -123.05196967843965,
       "lat": 49.28254016668863
+    }
+  },
+  {
+    "project": "S/S of 3500 blk Point Grey Rd",
+    "street": null,
+    "location": "S/S of 3500 blk Point Grey Rd",
+    "comp_date": "2026-06-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9fc82a99-24f6-4b57-b8c3-3e729326690f",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.18347979796802,
+              49.27214691107986
+            ],
+            [
+              -123.18273950827992,
+              49.27205940837527
+            ]
+          ],
+          [
+            [
+              -123.18169344676411,
+              49.27194390456751
+            ],
+            [
+              -123.18187583697713,
+              49.27196490527999
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18284780627907,
+      "lat": 49.27207376301417
     }
   },
   {
@@ -511,6 +591,34 @@
     "geo_point_2d": {
       "lon": -123.10403418435376,
       "lat": 49.25573683479074
+    }
+  },
+  {
+    "project": "N/S of 1500 blk of W34th Ave",
+    "street": null,
+    "location": "N/S of 1500 blk of W34th Ave",
+    "comp_date": "2026-06-19",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/954db709-c718-42ae-a05d-6db9b45ba6be",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13941652866284,
+            49.24089759448307
+          ],
+          [
+            -123.14023192020333,
+            49.240918608409146
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13982422443308,
+      "lat": 49.24090810144612
     }
   },
   {
