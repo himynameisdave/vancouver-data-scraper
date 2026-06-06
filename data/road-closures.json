@@ -1,129 +1,5 @@
 [
   {
-    "project": "Wiltshire St from W 45th Av to W 47th Av",
-    "street": null,
-    "location": "Wiltshire St from W 45th Av to W 47th Av",
-    "comp_date": "2026-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/250b7d60-45ed-47c8-9d43-e335d862ade8",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14644981639199,
-            49.23071763623838
-          ],
-          [
-            -123.14651772145639,
-            49.228858661470355
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14648376892418,
-      "lat": 49.22978814885437
-    }
-  },
-  {
-    "project": "W 21st Av from Crown St to Wallace St",
-    "street": null,
-    "location": "W 21st Av from Crown St to Wallace St",
-    "comp_date": "2026-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/439cd8cc-1c9d-4b31-865b-c20dda529dd0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.19081422225152,
-            49.253792367605314
-          ],
-          [
-            -123.1935801089117,
-            49.253802545572256
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.1921971655816,
-      "lat": 49.253797456588785
-    }
-  },
-  {
-    "project": "W 65th Av from Adera St to Granville St",
-    "street": null,
-    "location": "W 65th Av from Adera St to Granville St",
-    "comp_date": "2026-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/88fc8576-6443-4038-a40b-46746fbcef69",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14103884429956,
-              49.21226535718466
-            ],
-            [
-              -123.14356371972116,
-              49.21230626960718
-            ]
-          ],
-          [
-            [
-              -123.14039803010785,
-              49.212254461969934
-            ],
-            [
-              -123.14103884429956,
-              49.21226535718466
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14198087152789,
-      "lat": 49.21228056976433
-    }
-  },
-  {
-    "project": "Both sides of 3100 blk E45th Ave",
-    "street": null,
-    "location": "Both sides of 3100 blk E45th Ave",
-    "comp_date": "2026-06-05",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f6adaf52-2d30-4936-ae93-eff9061a8877",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03863414834095,
-            49.22929379105017
-          ],
-          [
-            -123.0377275616939,
-            49.22929729419468
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03818085501743,
-      "lat": 49.229295542622424
-    }
-  },
-  {
     "project": "W14th Av between Alder and Spruce St",
     "street": null,
     "location": "W14th Av between Alder and Spruce St",
@@ -149,38 +25,6 @@
     "geo_point_2d": {
       "lon": -123.13035544329492,
       "lat": 49.25878252235552
-    }
-  },
-  {
-    "project": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
-    "street": null,
-    "location": "Both Sides of the Street of 2100 Block of Grandview Hwy North. From E 11th Av to",
-    "comp_date": "2026-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/55ddf25b-d559-4c0b-90e9-e42501d03726",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06143378287678,
-            49.260407949340475
-          ],
-          [
-            -123.06016814647296,
-            49.2599029420204
-          ],
-          [
-            -123.06014847336824,
-            49.26039083053291
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0606314312322,
-      "lat": 49.26015318769482
     }
   },
   {
@@ -237,46 +81,6 @@
     "geo_point_2d": {
       "lon": -123.05196967843965,
       "lat": 49.28254016668863
-    }
-  },
-  {
-    "project": "S/S of 3500 blk Point Grey Rd",
-    "street": null,
-    "location": "S/S of 3500 blk Point Grey Rd",
-    "comp_date": "2026-06-06",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9fc82a99-24f6-4b57-b8c3-3e729326690f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.18347979796802,
-              49.27214691107986
-            ],
-            [
-              -123.18273950827992,
-              49.27205940837527
-            ]
-          ],
-          [
-            [
-              -123.18169344676411,
-              49.27194390456751
-            ],
-            [
-              -123.18187583697713,
-              49.27196490527999
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18284780627907,
-      "lat": 49.27207376301417
     }
   },
   {
@@ -345,6 +149,62 @@
     "geo_point_2d": {
       "lon": -123.1529108977102,
       "lat": 49.26428413974083
+    }
+  },
+  {
+    "project": "W 6th Av from Balsam St to Vine St",
+    "street": null,
+    "location": "W 6th Av from Balsam St to Vine St",
+    "comp_date": "2026-06-08",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/53a33f48-2b8a-4343-af54-7c058b3c3b1c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.15756987662317,
+            49.266491542386234
+          ],
+          [
+            -123.15993900753482,
+            49.26652874764443
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.158754442079,
+      "lat": 49.26651014501533
+    }
+  },
+  {
+    "project": "W 21st Av from Ln E of Cambie St to Yukon St",
+    "street": null,
+    "location": "W 21st Av from Ln E of Cambie St to Yukon St",
+    "comp_date": "2026-06-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d71b12a9-a8e4-4ff1-9471-27161e63dc2b",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.11270091226764,
+            49.25201517673213
+          ],
+          [
+            -123.11457467575897,
+            49.2520505469582
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1136377940133,
+      "lat": 49.252032861845166
     }
   },
   {
