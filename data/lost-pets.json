@@ -19723,6 +19723,14 @@
     "breed": "Rotty",
     "color": "Black & Tan",
     "date": "2001-03-30",
+    "name": "Lucky",
+    "sex": "M",
+    "state": "Lost"
+  },
+  {
+    "breed": "Rotty",
+    "color": "Black & Tan",
+    "date": "2001-03-30",
     "name": "sheeka",
     "sex": "M",
     "state": "Lost"
@@ -19741,14 +19749,6 @@
     "date": "2001-03-30",
     "name": "Buddy",
     "sex": "M/N",
-    "state": "Lost"
-  },
-  {
-    "breed": "Rotty",
-    "color": "Black & Tan",
-    "date": "2001-03-30",
-    "name": "Lucky",
-    "sex": "M",
     "state": "Lost"
   },
   {
@@ -23737,6 +23737,14 @@
   },
   {
     "breed": "Pitbull",
+    "color": "Tan & White",
+    "date": "2001-09-08",
+    "name": "Kaya",
+    "sex": "F",
+    "state": "Lost"
+  },
+  {
+    "breed": "Pitbull",
     "color": "Brindle",
     "date": "2001-09-08",
     "name": "Nikita",
@@ -23749,14 +23757,6 @@
     "date": "2001-09-08",
     "name": null,
     "sex": "M",
-    "state": "Lost"
-  },
-  {
-    "breed": "Pitbull",
-    "color": "Tan & White",
-    "date": "2001-09-08",
-    "name": "Kaya",
-    "sex": "F",
     "state": "Lost"
   },
   {
@@ -24768,14 +24768,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Border Collie",
-    "color": "Liver & White",
-    "date": "2001-10-15",
-    "name": "Joe",
-    "sex": "M",
-    "state": "Matched"
-  },
-  {
     "breed": "Shih Tzu (?)",
     "color": "Cream & Brown",
     "date": "2001-10-15",
@@ -24790,6 +24782,14 @@
     "name": "Cirrus",
     "sex": "M",
     "state": "Lost"
+  },
+  {
+    "breed": "Border Collie",
+    "color": "Liver & White",
+    "date": "2001-10-15",
+    "name": "Joe",
+    "sex": "M",
+    "state": "Matched"
   },
   {
     "breed": "Short Haired Small Dog JR?",
@@ -87728,6 +87728,14 @@
     "state": "Lost"
   },
   {
+    "breed": "Pug",
+    "color": "Brown",
+    "date": "2015-01-27",
+    "name": "Bo",
+    "sex": "M",
+    "state": "Lost"
+  },
+  {
     "breed": "Toy Poodle",
     "color": "Brown",
     "date": "2015-01-27",
@@ -87736,10 +87744,10 @@
     "state": "Matched"
   },
   {
-    "breed": "Pug",
-    "color": "Brown",
+    "breed": "Lab X",
+    "color": "Charcoal",
     "date": "2015-01-27",
-    "name": "Bo",
+    "name": "Dutch",
     "sex": "M",
     "state": "Lost"
   },
@@ -87749,14 +87757,6 @@
     "date": "2015-01-27",
     "name": "Rooney",
     "sex": "X",
-    "state": "Lost"
-  },
-  {
-    "breed": "Lab X",
-    "color": "Charcoal",
-    "date": "2015-01-27",
-    "name": "Dutch",
-    "sex": "M",
     "state": "Lost"
   },
   {
@@ -101064,22 +101064,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Border Collie/Lab X",
-    "color": "Black/Brown",
-    "date": "2017-03-27",
-    "name": "Sona",
-    "sex": "F/S",
-    "state": "Matched"
-  },
-  {
-    "breed": "Cairn Terrier",
-    "color": "Golden/Brown",
-    "date": "2017-03-27",
-    "name": "Dulce",
-    "sex": "F/S",
-    "state": "Matched"
-  },
-  {
     "breed": "French Bulldog",
     "color": "Black/Brown/White",
     "date": "2017-03-27",
@@ -101092,6 +101076,22 @@
     "color": "Blonde/Brown",
     "date": "2017-03-27",
     "name": "Sevine",
+    "sex": "F/S",
+    "state": "Matched"
+  },
+  {
+    "breed": "Border Collie/Lab X",
+    "color": "Black/Brown",
+    "date": "2017-03-27",
+    "name": "Sona",
+    "sex": "F/S",
+    "state": "Matched"
+  },
+  {
+    "breed": "Cairn Terrier",
+    "color": "Golden/Brown",
+    "date": "2017-03-27",
+    "name": "Dulce",
     "sex": "F/S",
     "state": "Matched"
   },
@@ -114224,14 +114224,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH Tabby",
-    "color": "Orange and white",
-    "date": "2019-11-01",
-    "name": "Chance",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Pomeranian",
     "color": "Red",
     "date": "2019-11-01",
@@ -114246,6 +114238,14 @@
     "name": "Jiffy",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DSH Tabby",
+    "color": "Orange and white",
+    "date": "2019-11-01",
+    "name": "Chance",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "Bernese Mtn. Dog",
@@ -145576,22 +145576,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Bichon Frise",
-    "color": "White",
-    "date": "2026-05-04",
-    "name": "Unknown",
-    "sex": "M",
-    "state": "Lost"
-  },
-  {
-    "breed": "Cat - DMH",
-    "color": "Black, white & grey tabby",
-    "date": "2026-05-04",
-    "name": "Merlot / Constance",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Cat - DSH",
     "color": "Orange & White",
     "date": "2026-05-04",
@@ -145608,6 +145592,22 @@
     "state": "Matched"
   },
   {
+    "breed": "Bichon Frise",
+    "color": "White",
+    "date": "2026-05-04",
+    "name": "Unknown",
+    "sex": "M",
+    "state": "Lost"
+  },
+  {
+    "breed": "Cat - DMH",
+    "color": "Black, white & grey tabby",
+    "date": "2026-05-04",
+    "name": "Merlot / Constance",
+    "sex": "M/N",
+    "state": "Lost"
+  },
+  {
     "breed": "Cat - DMH",
     "color": "Brown, black, & grey",
     "date": "2026-05-04",
@@ -145616,19 +145616,19 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH",
-    "color": "Blonde & Orange",
-    "date": "2026-05-07",
-    "name": "Hogie",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Cat - DLH - Seal Point Rag Dol",
     "color": "Grey & Black, paws, face, tail",
     "date": "2026-05-07",
     "name": "Mimi",
     "sex": "F/S",
+    "state": "Lost"
+  },
+  {
+    "breed": "Cat - DSH",
+    "color": "Blonde & Orange",
+    "date": "2026-05-07",
+    "name": "Hogie",
+    "sex": "M/N",
     "state": "Lost"
   },
   {
@@ -145824,20 +145824,20 @@
     "state": "Lost"
   },
   {
-    "breed": "Cat - DSH Tortoisehsell",
-    "color": "Black & Orange",
-    "date": "2026-05-24",
-    "name": "Melba",
-    "sex": "F/S",
-    "state": "Lost"
-  },
-  {
     "breed": "Jindo, Korean",
     "color": "Cream",
     "date": "2026-05-24",
     "name": "Hari",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DSH Tortoisehsell",
+    "color": "Black & Orange",
+    "date": "2026-05-24",
+    "name": "Melba",
+    "sex": "F/S",
+    "state": "Lost"
   },
   {
     "breed": "Cat - DSH - Grey",
@@ -145872,20 +145872,20 @@
     "state": "Matched"
   },
   {
-    "breed": "CAT - DSH - Tortico",
-    "color": "Black cream orange w white",
-    "date": "2026-05-28",
-    "name": "Calli",
-    "sex": "F/S",
-    "state": "Lost"
-  },
-  {
     "breed": "CAT - DLH - Blonde",
     "color": "Blonde",
     "date": "2026-05-28",
     "name": "Milky",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "CAT - DSH - Tortico",
+    "color": "Black cream orange w white",
+    "date": "2026-05-28",
+    "name": "Calli",
+    "sex": "F/S",
+    "state": "Lost"
   },
   {
     "breed": "CAT - DSH",
@@ -145992,19 +145992,19 @@
     "state": "Lost"
   },
   {
-    "breed": "Jack Russell Terrier",
-    "color": null,
-    "date": "2026-06-07",
-    "name": "Volt",
-    "sex": "M",
-    "state": "Matched"
-  },
-  {
     "breed": "Mixed",
     "color": "Black",
     "date": "2026-06-07",
     "name": "Bruno",
     "sex": "M/N",
+    "state": "Matched"
+  },
+  {
+    "breed": "Jack Russell Terrier",
+    "color": null,
+    "date": "2026-06-07",
+    "name": "Volt",
+    "sex": "M",
     "state": "Matched"
   },
   {
