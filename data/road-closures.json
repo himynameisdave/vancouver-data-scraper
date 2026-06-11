@@ -1,5 +1,45 @@
 [
   {
+    "project": "W 17th Av from Willow St to Heather St",
+    "street": null,
+    "location": "W 17th Av from Willow St to Heather St",
+    "comp_date": "2026-06-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/989f584e-6674-4538-9a49-c37638f15c31",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1207802975173,
+              49.25611680374152
+            ],
+            [
+              -123.12206367118652,
+              49.25614418571453
+            ]
+          ],
+          [
+            [
+              -123.1201149182985,
+              49.256102790224645
+            ],
+            [
+              -123.1207802975173,
+              49.25611680374152
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12108929601908,
+      "lat": 49.25612342774862
+    }
+  },
+  {
     "project": "W 21st Av from Ln E of Cambie St to Yukon St",
     "street": null,
     "location": "W 21st Av from Ln E of Cambie St to Yukon St",
