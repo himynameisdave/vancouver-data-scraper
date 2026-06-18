@@ -152,6 +152,46 @@
     }
   },
   {
+    "project": "Clark Dr from E 14th Av to E 15th Av",
+    "street": null,
+    "location": "Clark Dr from E 14th Av to E 15th Av",
+    "comp_date": "2026-06-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85d3195b-2192-4e89-968c-8f8630956288",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07758749997357,
+              49.25781557843004
+            ],
+            [
+              -123.07759944536652,
+              49.25736147399738
+            ]
+          ],
+          [
+            [
+              -123.07759944536652,
+              49.25736147399738
+            ],
+            [
+              -123.07761246760121,
+              49.25667398793584
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07760099014641,
+      "lat": 49.2572448059501
+    }
+  },
+  {
     "project": "Bayswater St between W 6th and W 7th Av",
     "street": null,
     "location": "Bayswater St between W 6th and W 7th Av",
