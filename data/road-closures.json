@@ -1,73 +1,5 @@
 [
   {
-    "project": "Clark Dr from E 14th Av to E 15th Av",
-    "street": null,
-    "location": "Clark Dr from E 14th Av to E 15th Av",
-    "comp_date": "2026-06-23",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85d3195b-2192-4e89-968c-8f8630956288",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07758749997357,
-              49.25781557843004
-            ],
-            [
-              -123.07759944536652,
-              49.25736147399738
-            ]
-          ],
-          [
-            [
-              -123.07759944536652,
-              49.25736147399738
-            ],
-            [
-              -123.07761246760121,
-              49.25667398793584
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07760099014641,
-      "lat": 49.2572448059501
-    }
-  },
-  {
-    "project": "Bayswater St between W 6th and W 7th Av",
-    "street": null,
-    "location": "Bayswater St between W 6th and W 7th Av",
-    "comp_date": "2026-06-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/98cda8a2-a5e8-41b7-af15-c4cfb742076e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.17114447861454,
-            49.266648939185586
-          ],
-          [
-            -123.17117232799235,
-            49.26587474197456
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.17115840330345,
-      "lat": 49.26626184058007
-    }
-  },
-  {
     "project": "E 22nd Ave from Welwyn to Commercial St",
     "street": null,
     "location": "E 22nd Ave from Welwyn to Commercial St",
@@ -121,6 +53,66 @@
     "geo_point_2d": {
       "lon": -123.04796224263427,
       "lat": 49.271351475104225
+    }
+  },
+  {
+    "project": "E 22nd Av from Glen Dr to Inverness St",
+    "street": null,
+    "location": "E 22nd Av from Glen Dr to Inverness St",
+    "comp_date": "2026-06-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3bd65508-418b-4440-b930-ad6a90ed9a3c",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.08187285053087,
+              49.25088035629301
+            ],
+            [
+              -123.0812726240709,
+              49.250870741415554
+            ]
+          ],
+          [
+            [
+              -123.0812726240709,
+              49.250870741415554
+            ],
+            [
+              -123.08054005407841,
+              49.25085902991498
+            ]
+          ],
+          [
+            [
+              -123.08054005407841,
+              49.25085902991498
+            ],
+            [
+              -123.08036438415145,
+              49.250856597600176
+            ]
+          ],
+          [
+            [
+              -123.08036438415145,
+              49.250856597600176
+            ],
+            [
+              -123.07994154625422,
+              49.250849712761806
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08090719903201,
+      "lat": 49.250864988151974
     }
   },
   {
