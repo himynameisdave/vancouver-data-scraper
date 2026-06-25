@@ -222,6 +222,38 @@
     }
   },
   {
+    "project": "Brooks St from E 49th Av to E 52nd Av",
+    "street": null,
+    "location": "Brooks St from E 49th Av to E 52nd Av",
+    "comp_date": "2026-06-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1abaf4a2-b26d-4cb3-b100-ef84d94af748",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.03518386934425,
+            49.22469403449267
+          ],
+          [
+            -123.03519826871745,
+            49.223813492556474
+          ],
+          [
+            -123.03526322458669,
+            49.22236038624874
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03521578338326,
+      "lat": 49.22352697341845
+    }
+  },
+  {
     "project": "Marguerite St from W 33rd Av to W 35th Av",
     "street": null,
     "location": "Marguerite St from W 33rd Av to W 35th Av",
