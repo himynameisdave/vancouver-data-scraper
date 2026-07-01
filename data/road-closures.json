@@ -1,21 +1,21 @@
 [
   {
-    "project": "Adanac St from Kaslo St to Renfrew St",
+    "project": "E 37th Av from Inverness St to Culloden St",
     "street": null,
-    "location": "Adanac St from Kaslo St to Renfrew St",
-    "comp_date": "2026-06-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/273ca9e9-79cb-4c5a-ab82-e0b35cbcc5a0",
+    "location": "E 37th Av from Inverness St to Culloden St",
+    "comp_date": "2026-07-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ca40a214-5b69-47a8-8ca9-6caaf8ca87c9",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.04670763718248,
-            49.27745545566782
+            -123.07968598623039,
+            49.236417734389164
           ],
           [
-            -123.04408379627628,
-            49.277454309658026
+            -123.07911711004873,
+            49.23641135196564
           ]
         ],
         "type": "LineString"
@@ -23,96 +23,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.0453957167294,
-      "lat": 49.27745488266292
-    }
-  },
-  {
-    "project": "Brooks St from E 49th Av to E 52nd Av",
-    "street": null,
-    "location": "Brooks St from E 49th Av to E 52nd Av",
-    "comp_date": "2026-06-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1abaf4a2-b26d-4cb3-b100-ef84d94af748",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.03518386934425,
-            49.22469403449267
-          ],
-          [
-            -123.03519826871745,
-            49.223813492556474
-          ],
-          [
-            -123.03526322458669,
-            49.22236038624874
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03521578338326,
-      "lat": 49.22352697341845
-    }
-  },
-  {
-    "project": "B/S of 800 blk of E16th Ave",
-    "street": null,
-    "location": "B/S of 800 blk of E16th Ave",
-    "comp_date": "2026-06-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b7f709a2-eea4-4f4b-883b-33d56dfb6ee6",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08711621260788,
-            49.25638236440014
-          ],
-          [
-            -123.08664190213788,
-            49.25638940009864
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08687905737288,
-      "lat": 49.25638588224939
-    }
-  },
-  {
-    "project": "Marguerite St from W 33rd Av to W 35th Av",
-    "street": null,
-    "location": "Marguerite St from W 33rd Av to W 35th Av",
-    "comp_date": "2026-06-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ca0a54b8-6635-4161-8fcf-366d00f0f737",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.14411712226772,
-            49.24194278366832
-          ],
-          [
-            -123.1441873687601,
-            49.239913962798255
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14415224551391,
-      "lat": 49.24092837323329
+      "lon": -123.07940154813957,
+      "lat": 49.2364145431774
     }
   },
   {
@@ -153,6 +65,122 @@
     "geo_point_2d": {
       "lon": -123.08434591729967,
       "lat": 49.25877262958273
+    }
+  },
+  {
+    "project": "Culloden St from E 53rd Av to E 54th Av",
+    "street": null,
+    "location": "Culloden St from E 53rd Av to E 54th Av",
+    "comp_date": "2026-07-06",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1ce6eaf2-9bf3-4659-9c57-40ebf6bf6a14",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07880501551327,
+            49.221815732197
+          ],
+          [
+            -123.07885568908144,
+            49.22045981336879
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07883035229736,
+      "lat": 49.22113777278289
+    }
+  },
+  {
+    "project": "E 20th Av from Nootka St to Lillooet St",
+    "street": null,
+    "location": "E 20th Av from Nootka St to Lillooet St",
+    "comp_date": "2026-07-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/61676c21-2817-40df-8b53-74251e806aee",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04159640360407,
+            49.25233063408709
+          ],
+          [
+            -123.03905617710994,
+            49.25232743690472
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.040326290357,
+      "lat": 49.252329035495904
+    }
+  },
+  {
+    "project": "Marguerite St from W 35th Av from W 37th Av",
+    "street": null,
+    "location": "Marguerite St from W 35th Av from W 37th Av",
+    "comp_date": "2026-07-17",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/18c8cb17-ef8b-4f18-bb70-1579176fdff9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1441873687601,
+              49.239913962798255
+            ],
+            [
+              -123.14420284262354,
+              49.23946735654067
+            ]
+          ],
+          [
+            [
+              -123.14420284262354,
+              49.23946735654067
+            ],
+            [
+              -123.14421830245266,
+              49.23902074126846
+            ]
+          ],
+          [
+            [
+              -123.14421830245266,
+              49.23902074126846
+            ],
+            [
+              -123.14423387199133,
+              49.23857415280821
+            ]
+          ],
+          [
+            [
+              -123.14423387199133,
+              49.23857415280821
+            ],
+            [
+              -123.14424933109599,
+              49.23812747449648
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14421834257956,
+      "lat": 49.23902071839138
     }
   },
   {
