@@ -7248,14 +7248,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Retriever",
-    "color": "Gold",
-    "date": "1999-11-20",
-    "name": "Brutus",
-    "sex": "M",
-    "state": "Lost"
-  },
-  {
     "breed": "Husky X",
     "color": "White & Grey",
     "date": "1999-11-20",
@@ -7285,6 +7277,14 @@
     "date": "1999-11-20",
     "name": "Daisy",
     "sex": "F/S",
+    "state": "Lost"
+  },
+  {
+    "breed": "Retriever",
+    "color": "Gold",
+    "date": "1999-11-20",
+    "name": "Brutus",
+    "sex": "M",
     "state": "Lost"
   },
   {
@@ -59280,20 +59280,20 @@
     "state": "Lost"
   },
   {
-    "breed": "Dobie (pure breed)",
-    "color": "Redish Brown",
-    "date": "2006-04-06",
-    "name": "Billie",
-    "sex": "F/S",
-    "state": "Lost"
-  },
-  {
     "breed": "German Shep",
     "color": "Black & Tan",
     "date": "2006-04-06",
     "name": "Dodger",
     "sex": "M/N",
     "state": "Found"
+  },
+  {
+    "breed": "Dobie (pure breed)",
+    "color": "Redish Brown",
+    "date": "2006-04-06",
+    "name": "Billie",
+    "sex": "F/S",
+    "state": "Lost"
   },
   {
     "breed": "Min Doberman",
@@ -71744,20 +71744,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Mixed breed beagle colouring",
-    "color": "White/Black/Brown",
-    "date": "2012-07-20",
-    "name": "Tosh",
-    "sex": "M",
-    "state": "Matched"
-  },
-  {
     "breed": "DSH Cat",
     "color": "Black & Tan",
     "date": "2012-07-20",
     "name": "Athena",
     "sex": "F/S",
     "state": "Lost"
+  },
+  {
+    "breed": "Mixed breed beagle colouring",
+    "color": "White/Black/Brown",
+    "date": "2012-07-20",
+    "name": "Tosh",
+    "sex": "M",
+    "state": "Matched"
   },
   {
     "breed": "DLH",
@@ -71800,6 +71800,14 @@
     "state": "Lost"
   },
   {
+    "breed": "DMH",
+    "color": "Grey, white paws & white face",
+    "date": "2012-07-22",
+    "name": "Sophia",
+    "sex": "F",
+    "state": "Lost"
+  },
+  {
     "breed": "Shelti X",
     "color": "Light Brown",
     "date": "2012-07-22",
@@ -71814,14 +71822,6 @@
     "name": "Simon",
     "sex": "M",
     "state": "Matched"
-  },
-  {
-    "breed": "DMH",
-    "color": "Grey, white paws & white face",
-    "date": "2012-07-22",
-    "name": "Sophia",
-    "sex": "F",
-    "state": "Lost"
   },
   {
     "breed": "Shiba Inu",
@@ -127680,18 +127680,18 @@
     "state": "Matched"
   },
   {
-    "breed": "Labrador",
-    "color": "Black",
-    "date": "2022-06-27",
-    "name": "George",
-    "sex": "M",
-    "state": "Matched"
-  },
-  {
     "breed": "Bird, Cockatiel",
     "color": "Grey w/ Yellow",
     "date": "2022-06-27",
     "name": "Oscar",
+    "sex": "M",
+    "state": "Matched"
+  },
+  {
+    "breed": "Labrador",
+    "color": "Black",
+    "date": "2022-06-27",
+    "name": "George",
     "sex": "M",
     "state": "Matched"
   },
@@ -131720,20 +131720,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DLH",
-    "color": "White",
-    "date": "2023-03-27",
-    "name": "Teemo",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Papillion",
     "color": "Tan & White",
     "date": "2023-03-27",
     "name": "Micha",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DLH",
+    "color": "White",
+    "date": "2023-03-27",
+    "name": "Teemo",
+    "sex": "M/N",
+    "state": "Lost"
   },
   {
     "breed": "DSH - Ginger Tabby",
