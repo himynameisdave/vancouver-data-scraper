@@ -1,33 +1,5 @@
 [
   {
-    "project": "Both sides of 2200 Block Glen Dr from E 6th Av to 30m South of E 6th Av.",
-    "street": null,
-    "location": "Both sides of 2200 Block Glen Dr from E 6th Av to 30m South of E 6th Av.",
-    "comp_date": "2026-07-16",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/c1fd31db-1587-43ea-96cf-cab32b014aa4",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08133106217817,
-            49.265206687268716
-          ],
-          [
-            -123.08133645206988,
-            49.26485144671503
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.08133375712401,
-      "lat": 49.265029066991865
-    }
-  },
-  {
     "project": "Marguerite St from W 35th Av from W 37th Av",
     "street": null,
     "location": "Marguerite St from W 35th Av from W 37th Av",
@@ -85,6 +57,34 @@
     "geo_point_2d": {
       "lon": -123.14421834257956,
       "lat": 49.23902071839138
+    }
+  },
+  {
+    "project": "W 15th Av from Highbury St to Wallace St",
+    "street": null,
+    "location": "W 15th Av from Highbury St to Wallace St",
+    "comp_date": "2026-07-20",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/05185726-6049-40fe-b431-d1a909e40e19",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18798053102421,
+            49.25896700784119
+          ],
+          [
+            -123.19102091163565,
+            49.25901234036499
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18950072132992,
+      "lat": 49.25898967410309
     }
   },
   {
@@ -228,138 +228,6 @@
     }
   },
   {
-    "project": "Pacific - Nelson to Carrall",
-    "street": null,
-    "location": "Pacific - Nelson to Carrall",
-    "comp_date": "2026-08-01",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a140604c-784d-4a03-a7d5-b28af5e3e8e3",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1063807966682,
-              49.27709577831109
-            ],
-            [
-              -123.10767644058164,
-              49.27711991764235
-            ]
-          ],
-          [
-            [
-              -123.10767644058164,
-              49.27711991764235
-            ],
-            [
-              -123.10898698513616,
-              49.27668056046571
-            ]
-          ],
-          [
-            [
-              -123.10898698513616,
-              49.27668056046571
-            ],
-            [
-              -123.10905200979744,
-              49.276659774207616
-            ],
-            [
-              -123.10913759867042,
-              49.27663134956913
-            ],
-            [
-              -123.10922241540037,
-              49.27660195411693
-            ],
-            [
-              -123.1093064462355,
-              49.27657158786565
-            ],
-            [
-              -123.10938964996754,
-              49.27654026884636
-            ],
-            [
-              -123.10947199911683,
-              49.27650800608211
-            ],
-            [
-              -123.10955346618404,
-              49.27647479960078
-            ],
-            [
-              -123.10963403747785,
-              49.2764406764027
-            ],
-            [
-              -123.10971369924752,
-              49.27640563650283
-            ],
-            [
-              -123.10979241026614,
-              49.27636968893742
-            ],
-            [
-              -123.10987015682329,
-              49.276332851711715
-            ],
-            [
-              -123.10994689769252,
-              49.27629513386216
-            ],
-            [
-              -123.11153338711672,
-              49.27551831822748
-            ],
-            [
-              -123.11268901081883,
-              49.27499331722521
-            ],
-            [
-              -123.11300391485565,
-              49.27485370119757
-            ]
-          ],
-          [
-            [
-              -123.11301228043324,
-              49.27485072460357
-            ],
-            [
-              -123.11356756407069,
-              49.274604521560775
-            ],
-            [
-              -123.11375669515498,
-              49.274540622590905
-            ],
-            [
-              -123.11408588758314,
-              49.2744294053376
-            ],
-            [
-              -123.11459624679955,
-              49.274230214559196
-            ],
-            [
-              -123.11500145644801,
-              49.27412373170043
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11073197895766,
-      "lat": 49.27583234214914
-    }
-  },
-  {
     "project": "Both sides of 900-1000 Block Bute St from Barclay St to 15m South of Nelson St.",
     "street": null,
     "location": "Both sides of 900-1000 Block Bute St from Barclay St to 15m South of Nelson St.",
@@ -429,6 +297,46 @@
     "geo_point_2d": {
       "lon": -123.10895742613842,
       "lat": 49.27008596632098
+    }
+  },
+  {
+    "project": "Pine Crescent from W 36th Av to W 37th Av",
+    "street": null,
+    "location": "Pine Crescent from W 36th Av to W 37th Av",
+    "comp_date": "2026-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/90d5e905-4f3a-488f-b1ce-6f601ac043cf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14697778787693,
+              49.2390626894522
+            ],
+            [
+              -123.14699329087973,
+              49.23861594778077
+            ]
+          ],
+          [
+            [
+              -123.14699329087973,
+              49.23861594778077
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14699304556507,
+      "lat": 49.23861535460847
     }
   },
   {
