@@ -1,65 +1,5 @@
 [
   {
-    "project": "Marguerite St from W 35th Av from W 37th Av",
-    "street": null,
-    "location": "Marguerite St from W 35th Av from W 37th Av",
-    "comp_date": "2026-07-17",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/18c8cb17-ef8b-4f18-bb70-1579176fdff9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.1441873687601,
-              49.239913962798255
-            ],
-            [
-              -123.14420284262354,
-              49.23946735654067
-            ]
-          ],
-          [
-            [
-              -123.14420284262354,
-              49.23946735654067
-            ],
-            [
-              -123.14421830245266,
-              49.23902074126846
-            ]
-          ],
-          [
-            [
-              -123.14421830245266,
-              49.23902074126846
-            ],
-            [
-              -123.14423387199133,
-              49.23857415280821
-            ]
-          ],
-          [
-            [
-              -123.14423387199133,
-              49.23857415280821
-            ],
-            [
-              -123.14424933109599,
-              49.23812747449648
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14421834257956,
-      "lat": 49.23902071839138
-    }
-  },
-  {
     "project": "W 15th Av from Highbury St to Wallace St",
     "street": null,
     "location": "W 15th Av from Highbury St to Wallace St",
@@ -85,6 +25,34 @@
     "geo_point_2d": {
       "lon": -123.18950072132992,
       "lat": 49.25898967410309
+    }
+  },
+  {
+    "project": "W 17th Av from Columbia St to Manitoba St",
+    "street": null,
+    "location": "W 17th Av from Columbia St to Manitoba St",
+    "comp_date": "2026-07-22",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e200089-be1b-4abe-b121-54601416c3fc",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10714854922202,
+            49.25570494715035
+          ],
+          [
+            -123.10974464427126,
+            49.25575421486647
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10844659674663,
+      "lat": 49.2557295810084
     }
   },
   {
