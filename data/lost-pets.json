@@ -18024,14 +18024,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Shih Ttzu",
-    "color": "Black & Brown",
-    "date": "2001-01-08",
-    "name": "Miko",
-    "sex": "F/S",
-    "state": "Lost"
-  },
-  {
     "breed": "Rottweiler",
     "color": "Black & Tan",
     "date": "2001-01-08",
@@ -18044,6 +18036,14 @@
     "color": "Brown & White",
     "date": "2001-01-08",
     "name": "Tasha",
+    "sex": "F/S",
+    "state": "Lost"
+  },
+  {
+    "breed": "Shih Ttzu",
+    "color": "Black & Brown",
+    "date": "2001-01-08",
+    "name": "Miko",
     "sex": "F/S",
     "state": "Lost"
   },
@@ -35784,19 +35784,19 @@
     "state": "Lost"
   },
   {
-    "breed": "Mini Schnauzer",
-    "color": "Grey Speckled",
-    "date": "2003-02-18",
-    "name": "Jake",
-    "sex": "M/N",
-    "state": "Matched"
-  },
-  {
     "breed": "Pomeranian",
     "color": "Golden Brown",
     "date": "2003-02-18",
     "name": null,
     "sex": "M",
+    "state": "Matched"
+  },
+  {
+    "breed": "Mini Schnauzer",
+    "color": "Grey Speckled",
+    "date": "2003-02-18",
+    "name": "Jake",
+    "sex": "M/N",
     "state": "Matched"
   },
   {
@@ -92096,6 +92096,22 @@
     "state": "Matched"
   },
   {
+    "breed": "Husky",
+    "color": "White",
+    "date": "2015-09-24",
+    "name": "Monty",
+    "sex": "M/N",
+    "state": "Lost"
+  },
+  {
+    "breed": "DSH",
+    "color": "Black",
+    "date": "2015-09-24",
+    "name": "Kat",
+    "sex": "F",
+    "state": "Lost"
+  },
+  {
     "breed": "Husky X",
     "color": "White",
     "date": "2015-09-24",
@@ -92120,28 +92136,12 @@
     "state": "Lost"
   },
   {
-    "breed": "Husky",
-    "color": "White",
-    "date": "2015-09-24",
-    "name": "Monty",
-    "sex": "M/N",
-    "state": "Lost"
-  },
-  {
     "breed": "Lab X",
     "color": "Black",
     "date": "2015-09-24",
     "name": "Speath",
     "sex": "F",
     "state": "Matched"
-  },
-  {
-    "breed": "DSH",
-    "color": "Black",
-    "date": "2015-09-24",
-    "name": "Kat",
-    "sex": "F",
-    "state": "Lost"
   },
   {
     "breed": "Terrier X",
@@ -146016,19 +146016,19 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH",
-    "color": "Black",
-    "date": "2026-06-09",
-    "name": "Honey",
-    "sex": "F",
-    "state": "Lost"
-  },
-  {
     "breed": "Pomeranian",
     "color": "Caramel",
     "date": "2026-06-09",
     "name": "Axil",
     "sex": "M",
+    "state": "Lost"
+  },
+  {
+    "breed": "Cat - DSH",
+    "color": "Black",
+    "date": "2026-06-09",
+    "name": "Honey",
+    "sex": "F",
     "state": "Lost"
   },
   {
@@ -146280,14 +146280,6 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH",
-    "color": "White orange and brown",
-    "date": "2026-06-25",
-    "name": "Jazzy",
-    "sex": "F/S",
-    "state": "Matched"
-  },
-  {
     "breed": "Lab X",
     "color": "Black",
     "date": "2026-06-25",
@@ -146304,12 +146296,12 @@
     "state": "Lost"
   },
   {
-    "breed": "Cat - DSH - Burmese",
-    "color": "Grey",
-    "date": "2026-06-26",
-    "name": "Mrs. Mouse",
+    "breed": "Cat - DSH",
+    "color": "White orange and brown",
+    "date": "2026-06-25",
+    "name": "Jazzy",
     "sex": "F/S",
-    "state": "Lost"
+    "state": "Matched"
   },
   {
     "breed": "Cat - DLH - Siberian",
@@ -146318,6 +146310,14 @@
     "name": "Oscar",
     "sex": "M/N",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DSH - Burmese",
+    "color": "Grey",
+    "date": "2026-06-26",
+    "name": "Mrs. Mouse",
+    "sex": "F/S",
+    "state": "Lost"
   },
   {
     "breed": "Cat - DSH - Black",
@@ -146432,20 +146432,20 @@
     "state": "Matched"
   },
   {
-    "breed": "Cat - DSH  Tabby",
-    "color": "Grey, White Underneath",
-    "date": "2026-07-04",
-    "name": "Sua",
-    "sex": "F",
-    "state": "Lost"
-  },
-  {
     "breed": "Dutch Shepherd",
     "color": "Black and brown",
     "date": "2026-07-04",
     "name": "Dhalia",
     "sex": "F/S",
     "state": "Matched"
+  },
+  {
+    "breed": "Cat - DSH  Tabby",
+    "color": "Grey, White Underneath",
+    "date": "2026-07-04",
+    "name": "Sua",
+    "sex": "F",
+    "state": "Lost"
   },
   {
     "breed": "Half Chow and Half Basenji",
@@ -146496,6 +146496,14 @@
     "state": "Matched"
   },
   {
+    "breed": "Cat - DLH - Maine Coon",
+    "color": "Gray Calico",
+    "date": "2026-07-10",
+    "name": "Tia",
+    "sex": "F/S",
+    "state": "Matched"
+  },
+  {
     "breed": "Chihuahua X",
     "color": "Black",
     "date": "2026-07-10",
@@ -146512,14 +146520,6 @@
     "state": "Lost"
   },
   {
-    "breed": "Cat - DLH - Maine Coon",
-    "color": "Gray Calico",
-    "date": "2026-07-10",
-    "name": "Tia",
-    "sex": "F/S",
-    "state": "Matched"
-  },
-  {
     "breed": "Cat - DSH - Tabby",
     "color": "Brown Tabby w white",
     "date": "2026-07-10",
@@ -146533,14 +146533,6 @@
     "date": "2026-07-11",
     "name": "GUCCI",
     "sex": "M",
-    "state": "Lost"
-  },
-  {
-    "breed": "Shih Tzu",
-    "color": "Brown and white",
-    "date": "2026-07-11",
-    "name": "Choco",
-    "sex": "F",
     "state": "Lost"
   },
   {
@@ -146560,6 +146552,14 @@
     "state": "Matched"
   },
   {
+    "breed": "Shih Tzu",
+    "color": "Brown and white",
+    "date": "2026-07-11",
+    "name": "Choco",
+    "sex": "F",
+    "state": "Lost"
+  },
+  {
     "breed": "DSH -Tabby",
     "color": "orange/black/white",
     "date": "2026-07-11",
@@ -146576,20 +146576,20 @@
     "state": "Lost"
   },
   {
-    "breed": "Pembroke Welsh Corgi",
-    "color": "Black, white & brown",
-    "date": "2026-07-14",
-    "name": "Kiki",
-    "sex": null,
-    "state": "Matched"
-  },
-  {
     "breed": "Chihuahua X",
     "color": "Blonde",
     "date": "2026-07-14",
     "name": "Frankie",
     "sex": "F/S",
     "state": "Lost"
+  },
+  {
+    "breed": "Pembroke Welsh Corgi",
+    "color": "Black, white & brown",
+    "date": "2026-07-14",
+    "name": "Kiki",
+    "sex": null,
+    "state": "Matched"
   },
   {
     "breed": "Cat - DLH Tabby/Calico",
