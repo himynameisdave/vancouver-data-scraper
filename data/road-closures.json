@@ -1,30 +1,42 @@
 [
   {
-    "project": "W 17th Av from Columbia St to Manitoba St",
+    "project": "Chester St from E 33rd Av to E 35th Av",
     "street": null,
-    "location": "W 17th Av from Columbia St to Manitoba St",
-    "comp_date": "2026-07-22",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8e200089-be1b-4abe-b121-54601416c3fc",
+    "location": "Chester St from E 33rd Av to E 35th Av",
+    "comp_date": "2026-07-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/85d9a4c1-79ec-45e5-b784-ad64cc4bb961",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.10714854922202,
-            49.25570494715035
+            [
+              -123.08913056984593,
+              49.24029668046683
+            ],
+            [
+              -123.08914130787902,
+              49.23989686965152
+            ]
           ],
           [
-            -123.10974464427126,
-            49.25575421486647
+            [
+              -123.08914130787902,
+              49.23989686965152
+            ],
+            [
+              -123.08919014048439,
+              49.23829136986686
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10844659674663,
-      "lat": 49.2557295810084
+      "lon": -123.08915978618779,
+      "lat": 49.2392940088732
     }
   },
   {
@@ -437,6 +449,46 @@
     "geo_point_2d": {
       "lon": -123.14699304556507,
       "lat": 49.23861535460847
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-08-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/42f7b9af-7654-458e-a7d4-4b83ceb4037d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0759838515341,
+              49.25350524658401
+            ],
+            [
+              -123.07424642132919,
+              49.2534769597645
+            ]
+          ],
+          [
+            [
+              -123.07796940939944,
+              49.252628139314055
+            ],
+            [
+              -123.07601276921204,
+              49.25260944065721
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07610873277677,
+      "lat": 49.253029083467915
     }
   },
   {
