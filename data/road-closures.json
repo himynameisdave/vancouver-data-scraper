@@ -1,141 +1,5 @@
 [
   {
-    "project": "South side of 1400 Block E 54th Ave from 10 meters West of Lanark St to 30 meter",
-    "street": null,
-    "location": "South side of 1400 Block E 54th Ave from 10 meters West of Lanark St to 30 meter",
-    "comp_date": "2026-07-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/3e274ee9-8d93-4a38-bf97-88d766585703",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07632704482155,
-              49.220434816332585
-            ],
-            [
-              -123.07573695883828,
-              49.22042780878661
-            ]
-          ],
-          [
-            [
-              -123.07289381728275,
-              49.22039277104193
-            ],
-            [
-              -123.07242174849614,
-              49.220389267266114
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07453238476316,
-      "lat": 49.2204134048068
-    }
-  },
-  {
-    "project": "Chester St from E 35th Av to E 37th Av",
-    "street": null,
-    "location": "Chester St from E 35th Av to E 37th Av",
-    "comp_date": "2026-07-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/d391b1cf-581e-4b17-ad6d-281acd96ca77",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.08919014048439,
-            49.23829136986686
-          ],
-          [
-            -123.08923673718041,
-            49.236536883054356
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0892134388324,
-      "lat": 49.23741412646061
-    }
-  },
-  {
-    "project": "Both sides of 1300-1400 Block Park Dr from French St to Montcalm St. Both sides",
-    "street": null,
-    "location": "Both sides of 1300-1400 Block Park Dr from French St to Montcalm St. Both sides",
-    "comp_date": "2026-07-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ce6cc191-70e4-48bc-960b-782141820baf",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.13759470732413,
-              49.216107451682035
-            ],
-            [
-              -123.13756453796594,
-              49.216622882305614
-            ]
-          ],
-          [
-            [
-              -123.1389350947512,
-              49.21700593107755
-            ],
-            [
-              -123.13624570000997,
-              49.21623419740769
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13758871882749,
-      "lat": 49.216580354815946
-    }
-  },
-  {
-    "project": "Culloden St from E 55th Av to E 57th Av",
-    "street": null,
-    "location": "Culloden St from E 55th Av to E 57th Av",
-    "comp_date": "2026-07-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e7f32f35-1c44-457f-ad92-b0ac1d76c97f",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07852665228826,
-            49.2195828274736
-          ],
-          [
-            -123.07854662190125,
-            49.2181373901461
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07853663709476,
-      "lat": 49.21886010880986
-    }
-  },
-  {
     "project": "Ontario St from W 10th Av to W 11th Av",
     "street": null,
     "location": "Ontario St from W 10th Av to W 11th Av",
@@ -3446,6 +3310,34 @@
     }
   },
   {
+    "project": "W 3rd Av from Tolmie St to Bellevue Dr",
+    "street": null,
+    "location": "W 3rd Av from Tolmie St to Bellevue Dr",
+    "comp_date": "2026-08-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0bd3a592-26ea-4687-a3e4-1a6159342580",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.20910485192636,
+            49.27019076849291
+          ],
+          [
+            -123.2119086686154,
+            49.27023390157697
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.21050676027087,
+      "lat": 49.270212335034934
+    }
+  },
+  {
     "project": "Both sides of 1700 Block Columbia St from W 2nd Ave from W 1st Ave. South side o",
     "street": null,
     "location": "Both sides of 1700 Block Columbia St from W 2nd Ave from W 1st Ave. South side o",
@@ -3903,6 +3795,86 @@
     "geo_point_2d": {
       "lon": -123.13113681456431,
       "lat": 49.24678274789856
+    }
+  },
+  {
+    "project": "Cypress St from W 35th Av to W 36th Av",
+    "street": null,
+    "location": "Cypress St from W 35th Av to W 36th Av",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d0081ad-298f-4ffc-9caa-32b71bd9d4d4",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14872947351677,
+              49.239983791576776
+            ],
+            [
+              -123.148746168789,
+              49.23953667040132
+            ]
+          ],
+          [
+            [
+              -123.148746168789,
+              49.23953667040132
+            ],
+            [
+              -123.14876253400837,
+              49.23908953162311
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14874608632562,
+      "lat": 49.23953666465226
+    }
+  },
+  {
+    "project": "W 37th Av from Cypress St to Angus Dr",
+    "street": null,
+    "location": "W 37th Av from Cypress St to Angus Dr",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9827e12d-2de3-495f-9daa-91e34c382817",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ],
+            [
+              -123.14879553750048,
+              49.2381949747508
+            ]
+          ],
+          [
+            [
+              -123.14657498017573,
+              49.23816165258006
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14768525991781,
+      "lat": 49.23817824109997
     }
   },
   {
