@@ -1,5 +1,45 @@
 [
   {
+    "project": "1400-1500 Block of Grandview Highway North",
+    "street": null,
+    "location": "1400-1500 Block of Grandview Highway North",
+    "comp_date": "2026-07-30",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a0d736fe-9629-4b6b-878f-6dcdae721187",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07550559450311,
+              49.2656413852778
+            ],
+            [
+              -123.07358017058662,
+              49.265013889839
+            ]
+          ],
+          [
+            [
+              -123.07358017058662,
+              49.265013889839
+            ],
+            [
+              -123.07166176299158,
+              49.264395083249724
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07358414918829,
+      "lat": 49.2650167833175
+    }
+  },
+  {
     "project": "Ontario St from W 10th Av to W 11th Av",
     "street": null,
     "location": "Ontario St from W 10th Av to W 11th Av",
@@ -3407,6 +3447,46 @@
     "geo_point_2d": {
       "lon": -123.14699304556507,
       "lat": 49.23861535460847
+    }
+  },
+  {
+    "project": "E 19th Av from Knight St",
+    "street": null,
+    "location": "E 19th Av from Knight St",
+    "comp_date": "2026-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5636e657-9edf-4161-9d7f-2cba4d0e3f74",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0759830447081,
+              49.25350040665285
+            ],
+            [
+              -123.075333645595,
+              49.25348992071224
+            ]
+          ],
+          [
+            [
+              -123.075333645595,
+              49.25348992071224
+            ],
+            [
+              -123.07424055455444,
+              49.253472466934596
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07511180021912,
+      "lat": 49.253486400183135
     }
   },
   {
