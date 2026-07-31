@@ -1,125 +1,5 @@
 [
   {
-    "project": "1400-1500 Block of Grandview Highway North",
-    "street": null,
-    "location": "1400-1500 Block of Grandview Highway North",
-    "comp_date": "2026-07-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a0d736fe-9629-4b6b-878f-6dcdae721187",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.07550559450311,
-              49.2656413852778
-            ],
-            [
-              -123.07358017058662,
-              49.265013889839
-            ]
-          ],
-          [
-            [
-              -123.07358017058662,
-              49.265013889839
-            ],
-            [
-              -123.07166176299158,
-              49.264395083249724
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07358414918829,
-      "lat": 49.2650167833175
-    }
-  },
-  {
-    "project": "Ontario St from W 10th Av to W 11th Av",
-    "street": null,
-    "location": "Ontario St from W 10th Av to W 11th Av",
-    "comp_date": "2026-07-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/819a63ad-bc41-45b4-85f8-3c9aba93c071",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10493460887064,
-              49.26207997084367
-            ],
-            [
-              -123.10495547514095,
-              49.26160160468311
-            ]
-          ],
-          [
-            [
-              -123.10495547514095,
-              49.26160160468311
-            ],
-            [
-              -123.10497389954418,
-              49.26117740985066
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10495427508224,
-      "lat": 49.26162869125579
-    }
-  },
-  {
-    "project": "W 11th Av from Manitoba St to Ontario St",
-    "street": null,
-    "location": "W 11th Av from Manitoba St to Ontario St",
-    "comp_date": "2026-07-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/eb945acd-74f8-4306-aa9b-b9605142bc9e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.10497389954418,
-              49.26117740985066
-            ],
-            [
-              -123.10637469377973,
-              49.26120178299678
-            ]
-          ],
-          [
-            [
-              -123.10637469377973,
-              49.26120178299678
-            ],
-            [
-              -123.106906385282,
-              49.26121122296709
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.10594014361546,
-      "lat": 49.26119424800475
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -3350,6 +3230,191 @@
     }
   },
   {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-08-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/213f7fc8-41d1-470a-9f3f-617e07b229bf",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "geometries": [
+          {
+            "coordinates": [
+              [
+                -123.09523195047173,
+                49.28399965053754
+              ],
+              [
+                -123.09136103120551,
+                49.28394295051143
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09343038123056,
+                49.28218330811407
+              ],
+              [
+                -123.0932750902266,
+                49.284805824778886
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09346257094853,
+                49.28217185536556
+              ],
+              [
+                -123.09347908275622,
+                49.281310150390965
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                [
+                  -123.09519631075675,
+                  49.28297969010407
+                ],
+                [
+                  -123.09521282256446,
+                  49.282333423371966
+                ],
+                [
+                  -123.09362768902547,
+                  49.28230110981298
+                ],
+                [
+                  -123.09357815360238,
+                  49.28297969010407
+                ],
+                [
+                  -123.09519631075675,
+                  49.28297969010407
+                ]
+              ]
+            ],
+            "type": "Polygon"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09532013558689,
+                49.282224717860174
+              ],
+              [
+                -123.0946967472486,
+                49.282213945484386
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09528710839015,
+                49.28310804466918
+              ],
+              [
+                -123.09532839238608,
+                49.282232797140495
+              ]
+            ],
+            "type": "LineString"
+          },
+          {
+            "coordinates": [
+              [
+                -123.09528230478959,
+                49.28310500331014
+              ],
+              [
+                -123.09339361491293,
+                49.28306565086271
+              ]
+            ],
+            "type": "LineString"
+          }
+        ],
+        "type": "GeometryCollection"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09439711542825,
+      "lat": 49.28264949414507
+    }
+  },
+  {
+    "project": "W 3rd from Manitoba to Ontario and 1900 Ontario closed from W 3rd to lane south",
+    "street": null,
+    "location": "W 3rd from Manitoba to Ontario and 1900 Ontario closed from W 3rd to lane south",
+    "comp_date": "2026-08-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e05750fa-4f29-4fa7-a03b-37eae0119d65",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1065184767484,
+              49.26834420791923
+            ],
+            [
+              -123.10471503480946,
+              49.268304652379555
+            ]
+          ],
+          [
+            [
+              -123.10468472486092,
+              49.268294763489706
+            ],
+            [
+              -123.1046998798352,
+              49.26784976139393
+            ]
+          ],
+          [
+            [
+              -123.10657373252205,
+              49.26743034508078
+            ],
+            [
+              -123.1058190973144,
+              49.26740939096774
+            ]
+          ],
+          [
+            [
+              -123.10656570448793,
+              49.26788609483802
+            ],
+            [
+              -123.10476742484413,
+              49.26785466395546
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1056408179927,
+      "lat": 49.26798882292318
+    }
+  },
+  {
     "project": "W 3rd Av from Tolmie St to Bellevue Dr",
     "street": null,
     "location": "W 3rd Av from Tolmie St to Bellevue Dr",
@@ -3447,6 +3512,38 @@
     "geo_point_2d": {
       "lon": -123.14699304556507,
       "lat": 49.23861535460847
+    }
+  },
+  {
+    "project": "B/S of 1600-1700 blk of Drummond Dr",
+    "street": null,
+    "location": "B/S of 1600-1700 blk of Drummond Dr",
+    "comp_date": "2026-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c21df53-b229-4bf7-a341-d1c206522aa9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.2226333276361,
+            49.27305245095258
+          ],
+          [
+            -123.22270882069996,
+            49.27276512450251
+          ],
+          [
+            -123.22249492368573,
+            49.272403911733676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.22263055014699,
+      "lat": 49.27271889851641
     }
   },
   {
