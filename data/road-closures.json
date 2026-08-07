@@ -1,37 +1,117 @@
 [
   {
-    "project": "W 3rd Av from Tolmie St to Bellevue Dr",
+    "project": null,
     "street": null,
-    "location": "W 3rd Av from Tolmie St to Bellevue Dr",
-    "comp_date": "2026-08-04",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0bd3a592-26ea-4687-a3e4-1a6159342580",
+    "location": null,
+    "comp_date": "2026-08-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b8d35dd8-875c-4237-801c-f5d6e4c1351a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.20910485192636,
-            49.27019076849291
+            [
+              -123.10229713578302,
+              49.28043456448188
+            ],
+            [
+              -123.10231671469197,
+              49.27998258433581
+            ]
           ],
           [
-            -123.2119086686154,
-            49.27023390157697
+            [
+              -123.10231671469197,
+              49.27998258433581
+            ],
+            [
+              -123.10233644329747,
+              49.27953002832669
+            ]
+          ],
+          [
+            [
+              -123.10233644329747,
+              49.27953002832669
+            ],
+            [
+              -123.10221604895952,
+              49.27927350237343
+            ]
+          ],
+          [
+            [
+              -123.1030779693263,
+              49.27999781123944
+            ],
+            [
+              -123.10288001313131,
+              49.27999333714996
+            ],
+            [
+              -123.10231671469197,
+              49.27998258433581
+            ]
+          ],
+          [
+            [
+              -123.10231671469197,
+              49.27998258433581
+            ],
+            [
+              -123.10046133090812,
+              49.27994785380662
+            ]
+          ],
+          [
+            [
+              -123.10233644329747,
+              49.27953002832669
+            ],
+            [
+              -123.1027618655141,
+              49.27952965976701
+            ],
+            [
+              -123.10304540861924,
+              49.279725969948004
+            ],
+            [
+              -123.10316185020204,
+              49.27977891962459
+            ],
+            [
+              -123.10328475331413,
+              49.27977880983329
+            ],
+            [
+              -123.10340779909653,
+              49.27984036174601
+            ],
+            [
+              -123.1034037194806,
+              49.28038804592853
+            ],
+            [
+              -123.10340453603351,
+              49.28044978811033
+            ]
           ]
         ],
-        "type": "LineString"
+        "type": "MultiLineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.21050676027087,
-      "lat": 49.270212335034934
+      "lon": -123.10229437949779,
+      "lat": 49.279895452194054
     }
   },
   {
     "project": "W 12th Ave between Balsam St and Yew St",
     "street": null,
     "location": "W 12th Ave between Balsam St and Yew St",
-    "comp_date": "2026-08-10",
+    "comp_date": "2026-08-13",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/33661b15-10ab-45ab-8dd5-1455cd2e081e",
     "geom": {
       "type": "Feature",
@@ -352,6 +432,38 @@
     }
   },
   {
+    "project": "B/S of 1600-1700 blk of Drummond Dr",
+    "street": null,
+    "location": "B/S of 1600-1700 blk of Drummond Dr",
+    "comp_date": "2026-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c21df53-b229-4bf7-a341-d1c206522aa9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.2226333276361,
+            49.27305245095258
+          ],
+          [
+            -123.22270882069996,
+            49.27276512450251
+          ],
+          [
+            -123.22249492368573,
+            49.272403911733676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.22263055014699,
+      "lat": 49.27271889851641
+    }
+  },
+  {
     "project": "E 19th Av from Knight St",
     "street": null,
     "location": "E 19th Av from Knight St",
@@ -392,50 +504,38 @@
     }
   },
   {
-    "project": null,
+    "project": "N/S of 2000 blk of Beach Ave",
     "street": null,
-    "location": null,
-    "comp_date": "2026-08-20",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/42f7b9af-7654-458e-a7d4-4b83ceb4037d",
+    "location": "N/S of 2000 blk of Beach Ave",
+    "comp_date": "2026-08-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/0bd7034a-38f1-4cfa-a2e8-88e93996a228",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.0759838515341,
-              49.25350524658401
-            ],
-            [
-              -123.07424642132919,
-              49.2534769597645
-            ]
+            -123.14557857129837,
+            49.29034606229317
           ],
           [
-            [
-              -123.07796940939944,
-              49.252628139314055
-            ],
-            [
-              -123.07601276921204,
-              49.25260944065721
-            ]
+            -123.14426882761416,
+            49.28950938327367
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.07610873277677,
-      "lat": 49.253029083467915
+      "lon": -123.14492369945626,
+      "lat": 49.28992772278342
     }
   },
   {
     "project": null,
     "street": null,
     "location": null,
-    "comp_date": "2026-08-20",
+    "comp_date": "2026-08-24",
     "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/56d3faad-3a24-4167-bad5-f41c54260776",
     "geom": {
       "type": "Feature",
@@ -889,6 +989,46 @@
     "geo_point_2d": {
       "lon": -123.14768525991781,
       "lat": 49.23817824109997
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/42f7b9af-7654-458e-a7d4-4b83ceb4037d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0759838515341,
+              49.25350524658401
+            ],
+            [
+              -123.07424642132919,
+              49.2534769597645
+            ]
+          ],
+          [
+            [
+              -123.07796940939944,
+              49.252628139314055
+            ],
+            [
+              -123.07601276921204,
+              49.25260944065721
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07610873277677,
+      "lat": 49.253029083467915
     }
   },
   {
