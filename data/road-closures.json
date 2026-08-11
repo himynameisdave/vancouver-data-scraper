@@ -324,38 +324,6 @@
     }
   },
   {
-    "project": "B/S of 1600-1700 blk of Drummond Dr",
-    "street": null,
-    "location": "B/S of 1600-1700 blk of Drummond Dr",
-    "comp_date": "2026-08-14",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c21df53-b229-4bf7-a341-d1c206522aa9",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.2226333276361,
-            49.27305245095258
-          ],
-          [
-            -123.22270882069996,
-            49.27276512450251
-          ],
-          [
-            -123.22249492368573,
-            49.272403911733676
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.22263055014699,
-      "lat": 49.27271889851641
-    }
-  },
-  {
     "project": "E 19th Av from Knight St",
     "street": null,
     "location": "E 19th Av from Knight St",
@@ -805,6 +773,38 @@
     "geo_point_2d": {
       "lon": -123.13113681456431,
       "lat": 49.24678274789856
+    }
+  },
+  {
+    "project": "B/S of 1600-1700 blk of Drummond Dr",
+    "street": null,
+    "location": "B/S of 1600-1700 blk of Drummond Dr",
+    "comp_date": "2026-08-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c21df53-b229-4bf7-a341-d1c206522aa9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.2226333276361,
+            49.27305245095258
+          ],
+          [
+            -123.22270882069996,
+            49.27276512450251
+          ],
+          [
+            -123.22249492368573,
+            49.272403911733676
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.22263055014699,
+      "lat": 49.27271889851641
     }
   },
   {
