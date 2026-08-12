@@ -1,5 +1,45 @@
 [
   {
+    "project": "W 17th Av from Trafalgar St to Macdonald St",
+    "street": null,
+    "location": "W 17th Av from Trafalgar St to Macdonald St",
+    "comp_date": "2026-08-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ceb50de8-7241-472d-be41-f704f1d97118",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1650603333137,
+              49.25704105922003
+            ],
+            [
+              -123.16773652814088,
+              49.2570827117153
+            ]
+          ],
+          [
+            [
+              -123.16773652814088,
+              49.2570827117153
+            ],
+            [
+              -123.16838182871601,
+              49.257092756225376
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.16672108102117,
+      "lat": 49.257066907318354
+    }
+  },
+  {
     "project": "W 12th Ave between Balsam St and Yew St",
     "street": null,
     "location": "W 12th Ave between Balsam St and Yew St",
@@ -284,6 +324,34 @@
     }
   },
   {
+    "project": "Both sides of 2000 Block E 6th Ave from West of PL 2041 to East of PL 2057.",
+    "street": null,
+    "location": "Both sides of 2000 Block E 6th Ave from West of PL 2041 to East of PL 2057.",
+    "comp_date": "2026-08-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/8c82fcb4-912b-4091-923b-fa9fc9b98a34",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06344180086373,
+            49.26503981190376
+          ],
+          [
+            -123.0628463504624,
+            49.26503631129435
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06314407566308,
+      "lat": 49.26503806159906
+    }
+  },
+  {
     "project": "Pine Crescent from W 36th Av to W 37th Av",
     "street": null,
     "location": "Pine Crescent from W 36th Av to W 37th Av",
@@ -425,6 +493,34 @@
     "geo_point_2d": {
       "lon": -123.13973077025626,
       "lat": 49.27409335876384
+    }
+  },
+  {
+    "project": "Both sides of 3600-3700 Block W 20th Ave from Dunbar St to West of PL 3706.",
+    "street": null,
+    "location": "Both sides of 3600-3700 Block W 20th Ave from Dunbar St to West of PL 3706.",
+    "comp_date": "2026-08-24",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4732a50f-6fd9-4a04-826f-2fbed6aed5b2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18521671604447,
+            49.25467863915847
+          ],
+          [
+            -123.18678312610919,
+            49.254685641846635
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18599992107683,
+      "lat": 49.25468214050255
     }
   },
   {
