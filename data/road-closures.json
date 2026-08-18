@@ -1,5 +1,61 @@
 [
   {
+    "project": "W 27th Av from Blenheim St to Ln E of Blenheim St",
+    "street": null,
+    "location": "W 27th Av from Blenheim St to Ln E of Blenheim St",
+    "comp_date": "2026-08-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/728bedd7-2a92-4dde-83b7-90527a5bc84a",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.17796495392297,
+            49.24803984405159
+          ],
+          [
+            -123.17860524839084,
+            49.24804259797858
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1782851011569,
+      "lat": 49.248041221015086
+    }
+  },
+  {
+    "project": "Chester St from E 35th Av to E 37th Av",
+    "street": null,
+    "location": "Chester St from E 35th Av to E 37th Av",
+    "comp_date": "2026-08-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/e5fe50b5-9337-4061-ab16-83be6a0c6df2",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08919014048439,
+            49.23829136986686
+          ],
+          [
+            -123.08923673718041,
+            49.236536883054356
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0892134388324,
+      "lat": 49.23741412646061
+    }
+  },
+  {
     "project": "Both sides of 3600-3700 Block W 20th Ave from Dunbar St to West of PL 3706.",
     "street": null,
     "location": "Both sides of 3600-3700 Block W 20th Ave from Dunbar St to West of PL 3706.",
