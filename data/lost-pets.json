@@ -7265,6 +7265,14 @@
   },
   {
     "date": "1999-11-20",
+    "breed": "Retriever",
+    "sex": "M",
+    "color": "Gold",
+    "name": "Brutus",
+    "state": "Lost"
+  },
+  {
+    "date": "1999-11-20",
     "breed": "Husky X",
     "sex": "F/S",
     "color": "White & Grey",
@@ -7293,14 +7301,6 @@
     "sex": "F/S",
     "color": "Tri Colour",
     "name": "Daisy",
-    "state": "Lost"
-  },
-  {
-    "date": "1999-11-20",
-    "breed": "Retriever",
-    "sex": "M",
-    "color": "Gold",
-    "name": "Brutus",
     "state": "Lost"
   },
   {
@@ -7393,6 +7393,14 @@
   },
   {
     "date": "1999-11-23",
+    "breed": "Pom",
+    "sex": "F",
+    "color": "Beige",
+    "name": "Mischeif",
+    "state": "Lost"
+  },
+  {
+    "date": "1999-11-23",
     "breed": "Husky X Collie",
     "sex": "M",
     "color": "Black & White",
@@ -7422,14 +7430,6 @@
     "color": "Black with White tip on tail",
     "name": "Rocky",
     "state": "Matched"
-  },
-  {
-    "date": "1999-11-23",
-    "breed": "Pom",
-    "sex": "F",
-    "color": "Beige",
-    "name": "Mischeif",
-    "state": "Lost"
   },
   {
     "date": "1999-11-24",
@@ -7705,6 +7705,14 @@
   },
   {
     "date": "1999-12-04",
+    "breed": "Cocker Spaniel",
+    "sex": "M/N",
+    "color": "Blonde",
+    "name": "Chewy",
+    "state": "Lost"
+  },
+  {
+    "date": "1999-12-04",
     "breed": "Blue Meryl X Heeler",
     "sex": null,
     "color": "Black",
@@ -7729,10 +7737,10 @@
   },
   {
     "date": "1999-12-04",
-    "breed": "Cocker Spaniel",
+    "breed": "Malamute X Shep",
     "sex": "M/N",
-    "color": "Blonde",
-    "name": "Chewy",
+    "color": "Black & Grey",
+    "name": "Jasper",
     "state": "Lost"
   },
   {
@@ -7742,14 +7750,6 @@
     "color": "Black & Brown",
     "name": "Rocky",
     "state": "Matched"
-  },
-  {
-    "date": "1999-12-04",
-    "breed": "Malamute X Shep",
-    "sex": "M/N",
-    "color": "Black & Grey",
-    "name": "Jasper",
-    "state": "Lost"
   },
   {
     "date": "1999-12-06",
@@ -37273,6 +37273,14 @@
   },
   {
     "date": "2003-05-12",
+    "breed": "Shep",
+    "sex": "M",
+    "color": "Black & Tan",
+    "name": "Win Win",
+    "state": "Lost"
+  },
+  {
+    "date": "2003-05-12",
     "breed": "Pomeranian",
     "sex": "M",
     "color": "Red",
@@ -37285,14 +37293,6 @@
     "sex": "M",
     "color": "Brown & Black & White",
     "name": "Nero",
-    "state": "Lost"
-  },
-  {
-    "date": "2003-05-12",
-    "breed": "Shep",
-    "sex": "M",
-    "color": "Black & Tan",
-    "name": "Win Win",
     "state": "Lost"
   },
   {
@@ -38889,19 +38889,19 @@
   },
   {
     "date": "2003-07-11",
-    "breed": "Shep X Doby",
-    "sex": "M",
-    "color": "Black & Tan",
-    "name": "Charlie",
-    "state": "Matched"
-  },
-  {
-    "date": "2003-07-11",
     "breed": "Pitbull",
     "sex": "F/S",
     "color": "White & Black Spots on Face",
     "name": "Envy",
     "state": "Lost"
+  },
+  {
+    "date": "2003-07-11",
+    "breed": "Shep X Doby",
+    "sex": "M",
+    "color": "Black & Tan",
+    "name": "Charlie",
+    "state": "Matched"
   },
   {
     "date": "2003-07-12",
@@ -39705,14 +39705,6 @@
   },
   {
     "date": "2003-08-05",
-    "breed": "Siberian Husky",
-    "sex": "F",
-    "color": "Black & White",
-    "name": "Pepe",
-    "state": "Matched"
-  },
-  {
-    "date": "2003-08-05",
     "breed": "Cockatiel (Bird)",
     "sex": "F",
     "color": "White & Yellow head/red cheeks",
@@ -39729,10 +39721,10 @@
   },
   {
     "date": "2003-08-05",
-    "breed": "Doberman",
-    "sex": "M/N",
-    "color": "Red & Tan",
-    "name": null,
+    "breed": "Siberian Husky",
+    "sex": "F",
+    "color": "Black & White",
+    "name": "Pepe",
     "state": "Matched"
   },
   {
@@ -39745,10 +39737,10 @@
   },
   {
     "date": "2003-08-05",
-    "breed": "Long Haired Bassett",
+    "breed": "Doberman",
     "sex": "M/N",
-    "color": "White with Brown patches",
-    "name": "Clauge",
+    "color": "Red & Tan",
+    "name": null,
     "state": "Matched"
   },
   {
@@ -39758,6 +39750,14 @@
     "color": "Green & Red",
     "name": null,
     "state": "Lost"
+  },
+  {
+    "date": "2003-08-05",
+    "breed": "Long Haired Bassett",
+    "sex": "M/N",
+    "color": "White with Brown patches",
+    "name": "Clauge",
+    "state": "Matched"
   },
   {
     "date": "2003-08-07",
@@ -43665,18 +43665,18 @@
   },
   {
     "date": "2004-01-29",
-    "breed": "Lab",
-    "sex": "M/N",
-    "color": "Yellow",
-    "name": "Beacon",
-    "state": "Matched"
-  },
-  {
-    "date": "2004-01-29",
     "breed": "Mini Schnauzer",
     "sex": "M",
     "color": "Grey",
     "name": "Bagel",
+    "state": "Matched"
+  },
+  {
+    "date": "2004-01-29",
+    "breed": "Lab",
+    "sex": "M/N",
+    "color": "Yellow",
+    "name": "Beacon",
     "state": "Matched"
   },
   {
@@ -92041,10 +92041,10 @@
   },
   {
     "date": "2015-09-24",
-    "breed": "Husky",
-    "sex": "M/N",
-    "color": "White",
-    "name": "Monty",
+    "breed": "DSH",
+    "sex": "F",
+    "color": "Black",
+    "name": "Kat",
     "state": "Lost"
   },
   {
@@ -92073,10 +92073,10 @@
   },
   {
     "date": "2015-09-24",
-    "breed": "DSH",
-    "sex": "F",
-    "color": "Black",
-    "name": "Kat",
+    "breed": "Husky",
+    "sex": "M/N",
+    "color": "White",
+    "name": "Monty",
     "state": "Lost"
   },
   {
@@ -107659,16 +107659,16 @@
     "date": "2018-06-15",
     "breed": "Cat - DSH",
     "sex": "M",
-    "color": "Brown",
-    "name": "Not provided",
+    "color": "Orange & White",
+    "name": "Sammy",
     "state": "Matched"
   },
   {
     "date": "2018-06-15",
     "breed": "Cat - DSH",
     "sex": "M",
-    "color": "Orange & White",
-    "name": "Sammy",
+    "color": "Brown",
+    "name": "Not provided",
     "state": "Matched"
   },
   {
@@ -146641,19 +146641,19 @@
   },
   {
     "date": "2026-07-27",
-    "breed": "Cat - DLH",
-    "sex": "M/N",
-    "color": "Orange & White",
-    "name": "Maimai",
-    "state": "Matched"
-  },
-  {
-    "date": "2026-07-27",
     "breed": "Cat - DLH - Tuxedo",
     "sex": "M/N",
     "color": "Black & White",
     "name": "Luka",
     "state": "Lost"
+  },
+  {
+    "date": "2026-07-27",
+    "breed": "Cat - DLH",
+    "sex": "M/N",
+    "color": "Orange & White",
+    "name": "Maimai",
+    "state": "Matched"
   },
   {
     "date": "2026-07-27",
@@ -146673,18 +146673,18 @@
   },
   {
     "date": "2026-07-28",
-    "breed": "Cat - DSH - Tabby",
-    "sex": "F/S",
-    "color": "Brown tabby",
-    "name": "Sia",
-    "state": "Lost"
-  },
-  {
-    "date": "2026-07-28",
     "breed": "Cat - DSH - Bengal Mix",
     "sex": "F/S",
     "color": "Brown Tabby with White",
     "name": "LUNA",
+    "state": "Lost"
+  },
+  {
+    "date": "2026-07-28",
+    "breed": "Cat - DSH - Tabby",
+    "sex": "F/S",
+    "color": "Brown tabby",
+    "name": "Sia",
     "state": "Lost"
   },
   {
@@ -146745,6 +146745,14 @@
   },
   {
     "date": "2026-08-04",
+    "breed": "Cat - DSH - Black",
+    "sex": "F/S",
+    "color": "Black",
+    "name": "Planterina",
+    "state": "Lost"
+  },
+  {
+    "date": "2026-08-04",
     "breed": "Jindo X Beagle",
     "sex": "M/N",
     "color": "Beige & White",
@@ -146758,14 +146766,6 @@
     "color": "Orange white brown",
     "name": "Lucia",
     "state": "Matched"
-  },
-  {
-    "date": "2026-08-04",
-    "breed": "Cat - DSH - Black",
-    "sex": "F/S",
-    "color": "Black",
-    "name": "Planterina",
-    "state": "Lost"
   },
   {
     "date": "2026-08-04",
@@ -146913,19 +146913,19 @@
   },
   {
     "date": "2026-08-15",
-    "breed": "fenchton",
-    "sex": "F/S",
-    "color": "Brown and White",
-    "name": "Hazel",
-    "state": "Matched"
-  },
-  {
-    "date": "2026-08-15",
     "breed": "Cat - DSH - Black & White",
     "sex": "F/S",
     "color": null,
     "name": "Laurel",
     "state": "Lost"
+  },
+  {
+    "date": "2026-08-15",
+    "breed": "fenchton",
+    "sex": "F/S",
+    "color": "Brown and White",
+    "name": "Hazel",
+    "state": "Matched"
   },
   {
     "date": "2026-08-15",
