@@ -1,79 +1,5 @@
 [
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2026-08-21",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5bbd76b6-e53e-48d8-b914-81fd30a5a41e",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.06973609148321,
-              49.26371793322272
-            ],
-            [
-              -123.06907591459846,
-              49.26346633813023
-            ]
-          ],
-          [
-            [
-              -123.06907591459846,
-              49.26346633813023
-            ],
-            [
-              -123.06868312473092,
-              49.26330987582054
-            ],
-            [
-              -123.06855594397722,
-              49.263258426818
-            ]
-          ],
-          [
-            [
-              -123.06855594397722,
-              49.263258426818
-            ],
-            [
-              -123.0674059026436,
-              49.262797280623886
-            ]
-          ],
-          [
-            [
-              -123.0674059026436,
-              49.262797280623886
-            ],
-            [
-              -123.0661467492861,
-              49.26229201900264
-            ]
-          ],
-          [
-            [
-              -123.0661467492861,
-              49.26229201900264
-            ],
-            [
-              -123.06589644267393,
-              49.262191613611606
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.06781432175757,
-      "lat": 49.2629597429248
-    }
-  },
-  {
     "project": "B/S of 500 blk of W17th Ave",
     "street": null,
     "location": "B/S of 500 blk of W17th Ave",
@@ -471,6 +397,62 @@
     "geo_point_2d": {
       "lon": -123.08802543276603,
       "lat": 49.235872548469864
+    }
+  },
+  {
+    "project": "Mannering Av from Gladstone St to Nanaimo St",
+    "street": null,
+    "location": "Mannering Av from Gladstone St to Nanaimo St",
+    "comp_date": "2026-08-26",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/03ce45f0-447f-49bb-b79b-5851b17ab767",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.06285122295812,
+            49.24066729053783
+          ],
+          [
+            -123.05869123880767,
+            49.24064396833924
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.0607712308829,
+      "lat": 49.240655629438535
+    }
+  },
+  {
+    "project": "E 37th Av from Argyle St to Fleming St",
+    "street": null,
+    "location": "E 37th Av from Argyle St to Fleming St",
+    "comp_date": "2026-08-27",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4df40860-5057-44e8-8b58-d2dbc7c66e2d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.07276145081562,
+            49.236806445279
+          ],
+          [
+            -123.07137979679293,
+            49.236780798241455
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07207062380428,
+      "lat": 49.23679362176022
     }
   },
   {
