@@ -1,33 +1,5 @@
 [
   {
-    "project": "Both sides of 3600-3700 Block W 20th Ave from Dunbar St to West of PL 3706.",
-    "street": null,
-    "location": "Both sides of 3600-3700 Block W 20th Ave from Dunbar St to West of PL 3706.",
-    "comp_date": "2026-08-24",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4732a50f-6fd9-4a04-826f-2fbed6aed5b2",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.18521671604447,
-            49.25467863915847
-          ],
-          [
-            -123.18678312610919,
-            49.254685641846635
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.18599992107683,
-      "lat": 49.25468214050255
-    }
-  },
-  {
     "project": null,
     "street": null,
     "location": null,
@@ -141,6 +113,46 @@
     "geo_point_2d": {
       "lon": -123.07207062380428,
       "lat": 49.23679362176022
+    }
+  },
+  {
+    "project": "Birch St from W 12th Av to W 13th Av",
+    "street": null,
+    "location": "Birch St from W 12th Av to W 13th Av",
+    "comp_date": "2026-08-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/02a86150-66a5-4faa-8f94-3e9643c011ad",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13384906127797,
+              49.26021428671524
+            ],
+            [
+              -123.13386645257954,
+              49.259753936541955
+            ]
+          ],
+          [
+            [
+              -123.13383168033728,
+              49.260693832619125
+            ],
+            [
+              -123.13384906127797,
+              49.26021428671524
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13384888657397,
+      "lat": 49.26022387792275
     }
   },
   {
