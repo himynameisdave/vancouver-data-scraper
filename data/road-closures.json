@@ -1,33 +1,5 @@
 [
   {
-    "project": "Mannering Av from Gladstone St to Nanaimo St",
-    "street": null,
-    "location": "Mannering Av from Gladstone St to Nanaimo St",
-    "comp_date": "2026-08-26",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/03ce45f0-447f-49bb-b79b-5851b17ab767",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.06285122295812,
-            49.24066729053783
-          ],
-          [
-            -123.05869123880767,
-            49.24064396833924
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.0607712308829,
-      "lat": 49.240655629438535
-    }
-  },
-  {
     "project": "E 37th Av from Argyle St to Fleming St",
     "street": null,
     "location": "E 37th Av from Argyle St to Fleming St",
@@ -413,6 +385,50 @@
     "geo_point_2d": {
       "lon": -123.22263055014699,
       "lat": 49.27271889851641
+    }
+  },
+  {
+    "project": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
+    "street": null,
+    "location": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
+    "comp_date": "2026-09-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b97c9876-201b-423a-9490-faf51466c8e9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14104387574422,
+              49.270482236035605
+            ],
+            [
+              -123.14079055083408,
+              49.270267708055854
+            ],
+            [
+              -123.14081211040089,
+              49.26971555798161
+            ]
+          ],
+          [
+            [
+              -123.14083366996773,
+              49.269697973482806
+            ],
+            [
+              -123.14141038838011,
+              49.269708524182846
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14095423913807,
+      "lat": 49.269964882256836
     }
   },
   {
