@@ -1,33 +1,5 @@
 [
   {
-    "project": "E 37th Av from Argyle St to Fleming St",
-    "street": null,
-    "location": "E 37th Av from Argyle St to Fleming St",
-    "comp_date": "2026-08-27",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4df40860-5057-44e8-8b58-d2dbc7c66e2d",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.07276145081562,
-            49.236806445279
-          ],
-          [
-            -123.07137979679293,
-            49.236780798241455
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.07207062380428,
-      "lat": 49.23679362176022
-    }
-  },
-  {
     "project": "Birch St from W 12th Av to W 13th Av",
     "street": null,
     "location": "Birch St from W 12th Av to W 13th Av",
@@ -356,26 +328,22 @@
     }
   },
   {
-    "project": "B/S of 1600-1700 blk of Drummond Dr",
+    "project": null,
     "street": null,
-    "location": "B/S of 1600-1700 blk of Drummond Dr",
+    "location": null,
     "comp_date": "2026-08-28",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9c21df53-b229-4bf7-a341-d1c206522aa9",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a7c23483-046b-4308-94c9-f728a24fc83a",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            -123.2226333276361,
-            49.27305245095258
+            -123.10433404199554,
+            49.28200126751588
           ],
           [
-            -123.22270882069996,
-            49.27276512450251
-          ],
-          [
-            -123.22249492368573,
-            49.272403911733676
+            -123.10434569751705,
+            49.28148776406317
           ]
         ],
         "type": "LineString"
@@ -383,52 +351,36 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.22263055014699,
-      "lat": 49.27271889851641
+      "lon": -123.1043398697563,
+      "lat": 49.281744515789526
     }
   },
   {
-    "project": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
+    "project": null,
     "street": null,
-    "location": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
-    "comp_date": "2026-09-02",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b97c9876-201b-423a-9490-faf51466c8e9",
+    "location": null,
+    "comp_date": "2026-08-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f050b1a7-fb0b-45c5-b859-f56e3c3a4c0d",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
-            [
-              -123.14104387574422,
-              49.270482236035605
-            ],
-            [
-              -123.14079055083408,
-              49.270267708055854
-            ],
-            [
-              -123.14081211040089,
-              49.26971555798161
-            ]
+            -123.10432712496784,
+            49.281999500347894
           ],
           [
-            [
-              -123.14083366996773,
-              49.269697973482806
-            ],
-            [
-              -123.14141038838011,
-              49.269708524182846
-            ]
+            -123.10433736576209,
+            49.281476196092115
           ]
         ],
-        "type": "MultiLineString"
+        "type": "LineString"
       },
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.14095423913807,
-      "lat": 49.269964882256836
+      "lon": -123.10433224536496,
+      "lat": 49.281737848220004
     }
   },
   {
@@ -512,6 +464,34 @@
     }
   },
   {
+    "project": "Manitoba St from W 49th Av to Ln N of W 49th Av",
+    "street": null,
+    "location": "Manitoba St from W 49th Av to Ln N of W 49th Av",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9a375fa5-f5b9-4328-bccb-053e4eabf480",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10839400369525,
+            49.226336382088476
+          ],
+          [
+            -123.10841439274239,
+            49.22581872144701
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10840419821884,
+      "lat": 49.226077551767744
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -589,6 +569,50 @@
     "geo_point_2d": {
       "lon": -123.04792415347266,
       "lat": 49.2425732050638
+    }
+  },
+  {
+    "project": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
+    "street": null,
+    "location": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
+    "comp_date": "2026-09-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b97c9876-201b-423a-9490-faf51466c8e9",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14104387574422,
+              49.270482236035605
+            ],
+            [
+              -123.14079055083408,
+              49.270267708055854
+            ],
+            [
+              -123.14081211040089,
+              49.26971555798161
+            ]
+          ],
+          [
+            [
+              -123.14083366996773,
+              49.269697973482806
+            ],
+            [
+              -123.14141038838011,
+              49.269708524182846
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14095423913807,
+      "lat": 49.269964882256836
     }
   },
   {
