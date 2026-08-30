@@ -1,125 +1,5 @@
 [
   {
-    "project": "B/S of 1400-1500 blk Cypress St\r\nB/S of 1800-1900 blk Cornwall St",
-    "street": null,
-    "location": "B/S of 1400-1500 blk Cypress St\r\nB/S of 1800-1900 blk Cornwall St",
-    "comp_date": "2026-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/1bb1f8a3-a7dc-45e8-951a-1cdd23384399",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.14775281734872,
-              49.273452055902055
-            ],
-            [
-              -123.14782791920113,
-              49.27161101498493
-            ]
-          ],
-          [
-            [
-              -123.1484180051844,
-              49.2724790428374
-            ],
-            [
-              -123.14641171284127,
-              49.27245104217735
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.14759461794635,
-      "lat": 49.272496873145094
-    }
-  },
-  {
-    "project": "Hornby St - Pender St to Hastings St",
-    "street": null,
-    "location": "Hornby St - Pender St to Hastings St",
-    "comp_date": "2026-08-29",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/7c46ea3c-e6a2-40d3-b227-77098ff5eecb",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.11632799483988,
-              49.28624610809189
-            ],
-            [
-              -123.1168090897909,
-              49.285928264137766
-            ]
-          ],
-          [
-            [
-              -123.11582734325417,
-              49.286577174538536
-            ],
-            [
-              -123.11632799483988,
-              49.28624610809189
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.11631818247825,
-      "lat": 49.286252667831526
-    }
-  },
-  {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2026-08-30",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/ac31e55d-f605-4837-983c-a50fa5f38523",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.09105344883959,
-              49.262489799942614
-            ],
-            [
-              -123.09106238831065,
-              49.26199242088822
-            ]
-          ],
-          [
-            [
-              -123.09106238831065,
-              49.26199242088822
-            ],
-            [
-              -123.09107028394136,
-              49.261540333488426
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.09106192656374,
-      "lat": 49.26201506778174
-    }
-  },
-  {
     "project": "W 4th Av - Stephens St to Bayswater St",
     "street": null,
     "location": "W 4th Av - Stephens St to Bayswater St",
@@ -197,6 +77,70 @@
     "geo_point_2d": {
       "lon": -123.04792415347266,
       "lat": 49.2425732050638
+    }
+  },
+  {
+    "project": "Water St - Richards St to Columbia St",
+    "street": null,
+    "location": "Water St - Richards St to Columbia St",
+    "comp_date": "2026-09-07",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4910f6ef-4879-43ab-9609-ce242ce799bb",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10426176613505,
+              49.283496673786686
+            ],
+            [
+              -123.10638331443363,
+              49.283884968733105
+            ]
+          ],
+          [
+            [
+              -123.10638331443363,
+              49.283884968733105
+            ],
+            [
+              -123.10877737817344,
+              49.28431923067458
+            ]
+          ],
+          [
+            [
+              -123.10877737817344,
+              49.28431923067458
+            ],
+            [
+              -123.10957636505753,
+              49.28446530399759
+            ]
+          ],
+          [
+            [
+              -123.10957636505753,
+              49.28446530399759
+            ],
+            [
+              -123.11054175598821,
+              49.284638225232214
+            ],
+            [
+              -123.11095341031987,
+              49.28467794017715
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10760506602185,
+      "lat": 49.28410498189255
     }
   },
   {
