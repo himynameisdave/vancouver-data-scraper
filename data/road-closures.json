@@ -1,32 +1,32 @@
 [
   {
-    "project": "W 4th Av - Stephens St to Bayswater St",
+    "project": "Cypress St from W 35th Av to W 36th Av",
     "street": null,
-    "location": "W 4th Av - Stephens St to Bayswater St",
-    "comp_date": "2026-08-31",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/884d1325-29c4-4d56-bfc2-9b9e85c957d5",
+    "location": "Cypress St from W 35th Av to W 36th Av",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/6d0081ad-298f-4ffc-9caa-32b71bd9d4d4",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.16636371819908,
-              49.26833886555977
+              -123.14872947351677,
+              49.239983791576776
             ],
             [
-              -123.16831249701178,
-              49.26836802114505
+              -123.148746168789,
+              49.23953667040132
             ]
           ],
           [
             [
-              -123.16831249701178,
-              49.26836802114505
+              -123.148746168789,
+              49.23953667040132
             ],
             [
-              -123.17106566546153,
-              49.268409493517936
+              -123.14876253400837,
+              49.23908953162311
             ]
           ]
         ],
@@ -35,8 +35,144 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.16871469270852,
-      "lat": 49.268374121039685
+      "lon": -123.14874608632562,
+      "lat": 49.23953666465226
+    }
+  },
+  {
+    "project": "W 37th Av from Cypress St to Angus Dr",
+    "street": null,
+    "location": "W 37th Av from Cypress St to Angus Dr",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9827e12d-2de3-495f-9daa-91e34c382817",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ],
+            [
+              -123.14879553750048,
+              49.2381949747508
+            ]
+          ],
+          [
+            [
+              -123.14657498017573,
+              49.23816165258006
+            ],
+            [
+              -123.14700777345845,
+              49.23816800200777
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14768525991781,
+      "lat": 49.23817824109997
+    }
+  },
+  {
+    "project": "Manitoba St from W 49th Av to Ln N of W 49th Av",
+    "street": null,
+    "location": "Manitoba St from W 49th Av to Ln N of W 49th Av",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/9a375fa5-f5b9-4328-bccb-053e4eabf480",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10839400369525,
+            49.226336382088476
+          ],
+          [
+            -123.10841439274239,
+            49.22581872144701
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10840419821884,
+      "lat": 49.226077551767744
+    }
+  },
+  {
+    "project": "Both sides of 3300-3400 Block W 55th Ave from Carrington St to East of PL 3435.",
+    "street": null,
+    "location": "Both sides of 3300-3400 Block W 55th Ave from Carrington St to East of PL 3435.",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/dbfae8bc-15fa-4934-b560-81bb89d75950",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.18278598222307,
+            49.22151992751486
+          ],
+          [
+            -123.1809230418335,
+            49.22150354025456
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.18185451202828,
+      "lat": 49.22151173388471
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/42f7b9af-7654-458e-a7d4-4b83ceb4037d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.0759838515341,
+              49.25350524658401
+            ],
+            [
+              -123.07424642132919,
+              49.2534769597645
+            ]
+          ],
+          [
+            [
+              -123.07796940939944,
+              49.252628139314055
+            ],
+            [
+              -123.07601276921204,
+              49.25260944065721
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07610873277677,
+      "lat": 49.253029083467915
     }
   },
   {
@@ -80,57 +216,37 @@
     }
   },
   {
-    "project": "Water St - Richards St to Columbia St",
+    "project": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
     "street": null,
-    "location": "Water St - Richards St to Columbia St",
-    "comp_date": "2026-09-07",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/4910f6ef-4879-43ab-9609-ce242ce799bb",
+    "location": "B/S of 1700 blk of Fir St \r\nB/S of 1600 blk of W2nd Ave",
+    "comp_date": "2026-09-11",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/b97c9876-201b-423a-9490-faf51466c8e9",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
           [
             [
-              -123.10426176613505,
-              49.283496673786686
+              -123.14104387574422,
+              49.270482236035605
             ],
             [
-              -123.10638331443363,
-              49.283884968733105
+              -123.14079055083408,
+              49.270267708055854
+            ],
+            [
+              -123.14081211040089,
+              49.26971555798161
             ]
           ],
           [
             [
-              -123.10638331443363,
-              49.283884968733105
+              -123.14083366996773,
+              49.269697973482806
             ],
             [
-              -123.10877737817344,
-              49.28431923067458
-            ]
-          ],
-          [
-            [
-              -123.10877737817344,
-              49.28431923067458
-            ],
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ]
-          ],
-          [
-            [
-              -123.10957636505753,
-              49.28446530399759
-            ],
-            [
-              -123.11054175598821,
-              49.284638225232214
-            ],
-            [
-              -123.11095341031987,
-              49.28467794017715
+              -123.14141038838011,
+              49.269708524182846
             ]
           ]
         ],
@@ -139,8 +255,8 @@
       "properties": {}
     },
     "geo_point_2d": {
-      "lon": -123.10760506602185,
-      "lat": 49.28410498189255
+      "lon": -123.14095423913807,
+      "lat": 49.269964882256836
     }
   },
   {
@@ -208,6 +324,88 @@
     }
   },
   {
+    "project": "Both sides of 1700 Block Columbia St from W 2nd Ave from W 1st Ave. South side o",
+    "street": null,
+    "location": "Both sides of 1700 Block Columbia St from W 2nd Ave from W 1st Ave. South side o",
+    "comp_date": "2026-10-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/fb506c73-64d8-462c-8f68-23ef3f6a4829",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.1094248390455,
+            49.26932551047008
+          ],
+          [
+            -123.10940874579143,
+            49.270281084551556
+          ],
+          [
+            -123.10791743757915,
+            49.270253082643876
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10895742613842,
+      "lat": 49.27008596632098
+    }
+  },
+  {
+    "project": null,
+    "street": null,
+    "location": null,
+    "comp_date": "2026-10-14",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/36e847e9-5152-4900-9585-e1feb81c1e82",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.13384671242984,
+              49.260684732724656
+            ],
+            [
+              -123.13390595533761,
+              49.25883992006817
+            ]
+          ],
+          [
+            [
+              -123.13148735127574,
+              49.25973691080418
+            ],
+            [
+              -123.13158189331278,
+              49.25788023476301
+            ]
+          ],
+          [
+            [
+              -123.13155724686312,
+              49.25880892067437
+            ],
+            [
+              -123.13628414360296,
+              49.25890707894732
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.1333849531794,
+      "lat": 49.259045042260134
+    }
+  },
+  {
     "project": null,
     "street": null,
     "location": null,
@@ -255,6 +453,202 @@
     "geo_point_2d": {
       "lon": -123.1732726104186,
       "lat": 49.248614646122135
+    }
+  },
+  {
+    "project": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
+    "street": null,
+    "location": "Nanaimo East Kamloops Sewer Upgrades is scheduled to begin with pre-work investi",
+    "comp_date": "2027-01-01",
+    "url_link": "https://vancouver.ca/streets-transportation/nanaimo-east-kamloops-sewer-upgrades.aspx",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.05467830220574,
+              49.26573259723932
+            ],
+            [
+              -123.05327818909997,
+              49.26572909667905
+            ]
+          ],
+          [
+            [
+              -123.05584308266539,
+              49.26572879581772
+            ],
+            [
+              -123.05584399186698,
+              49.265231216817426
+            ]
+          ],
+          [
+            [
+              -123.05469526101206,
+              49.265728328416486
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ],
+            [
+              -123.05584399186698,
+              49.265231216817426
+            ],
+            [
+              -123.05584466322799,
+              49.26477866787289
+            ]
+          ],
+          [
+            [
+              -123.05469773006136,
+              49.264778667819854
+            ],
+            [
+              -123.05215954665029,
+              49.26477800650349
+            ]
+          ],
+          [
+            [
+              -123.05131360749871,
+              49.26478068246428
+            ],
+            [
+              -123.0521558211294,
+              49.26477718183645
+            ]
+          ],
+          [
+            [
+              -123.04952598656209,
+              49.26522995992116
+            ],
+            [
+              -123.05215199657462,
+              49.26523058551331
+            ],
+            [
+              -123.05469653902755,
+              49.26523065929996
+            ],
+            [
+              -123.05469773006136,
+              49.264778667819854
+            ],
+            [
+              -123.05584466322799,
+              49.26477866787289
+            ],
+            [
+              -123.05584577615005,
+              49.264327656859024
+            ],
+            [
+              -123.05584851024813,
+              49.263876042347476
+            ]
+          ],
+          [
+            [
+              -123.05469946702819,
+              49.26387554859798
+            ],
+            [
+              -123.05584851024813,
+              49.263876042347476
+            ],
+            [
+              -123.05584744989747,
+              49.26342362906135
+            ]
+          ],
+          [
+            [
+              -123.04954919068666,
+              49.26387341043542
+            ],
+            [
+              -123.05217422197147,
+              49.26387442272801
+            ],
+            [
+              -123.05469946702819,
+              49.26387554859798
+            ],
+            [
+              -123.05470008080094,
+              49.263423611255774
+            ],
+            [
+              -123.05584744989747,
+              49.26342362906135
+            ],
+            [
+              -123.05584827120965,
+              49.262979804761954
+            ],
+            [
+              -123.05584529985741,
+              49.26297985579009
+            ]
+          ],
+          [
+            [
+              -123.05470008080094,
+              49.263423611255774
+            ],
+            [
+              -123.05470032278009,
+              49.262971053384916
+            ],
+            [
+              -123.05584828660625,
+              49.26297148467873
+            ],
+            [
+              -123.05584827120965,
+              49.262979804761954
+            ],
+            [
+              -123.05616888820468,
+              49.26297429868691
+            ]
+          ],
+          [
+            [
+              -123.0495683519754,
+              49.26296893440485
+            ],
+            [
+              -123.05218904699089,
+              49.26296992122997
+            ],
+            [
+              -123.05470032278009,
+              49.262971053384916
+            ],
+            [
+              -123.0547006440623,
+              49.26251563496538
+            ],
+            [
+              -123.05470337749718,
+              49.262016741533415
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.05345445032457,
+      "lat": 49.264177976498175
     }
   },
   {
@@ -375,6 +769,74 @@
     "geo_point_2d": {
       "lon": -123.11292257524582,
       "lat": 49.263182521092865
+    }
+  },
+  {
+    "project": "Manitoba St from W 23rd Av to W King Edward Av",
+    "street": null,
+    "location": "Manitoba St from W 23rd Av to W King Edward Av",
+    "comp_date": "2027-05-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/14a078dc-e00d-4cd5-b930-770b52c1513d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.10740264778333,
+              49.24996046982449
+            ],
+            [
+              -123.10742526792777,
+              49.249436089980065
+            ]
+          ],
+          [
+            [
+              -123.10742526792777,
+              49.249436089980065
+            ],
+            [
+              -123.10744904673571,
+              49.24888865423367
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10742580719152,
+      "lat": 49.24942456029466
+    }
+  },
+  {
+    "project": "Ln S of W 23rd Av from Columbia St to Manitoba St",
+    "street": null,
+    "location": "Ln S of W 23rd Av from Columbia St to Manitoba St",
+    "comp_date": "2027-06-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/5e53d20a-c7df-4ecb-b828-7a4edfa97cfa",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.10742526792777,
+            49.249436089980065
+          ],
+          [
+            -123.11002166562743,
+            49.249484919393865
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.10872346677762,
+      "lat": 49.24946050468697
     }
   },
   {
