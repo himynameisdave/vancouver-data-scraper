@@ -1,5 +1,111 @@
 [
   {
+    "project": "E 46th Av from Prince Edward St to St. George St",
+    "street": null,
+    "location": "E 46th Av from Prince Edward St to St. George St",
+    "comp_date": "2026-09-02",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/79fb80f6-16b6-4fdb-ada2-8759036ddf51",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.09741128686763,
+            49.22838880060851
+          ],
+          [
+            -123.09399617391203,
+            49.228332117272316
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.09570373038983,
+      "lat": 49.228360458940415
+    }
+  },
+  {
+    "project": "E 53rd Av from Mckinnon St to Doman St",
+    "street": null,
+    "location": "E 53rd Av from Mckinnon St to Doman St",
+    "comp_date": "2026-09-03",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26fbb9e8-6bfb-4955-91f4-9caeaaca28d0",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.03900554672293,
+              49.22126643788624
+            ],
+            [
+              -123.03834481260758,
+              49.221260749212206
+            ]
+          ],
+          [
+            [
+              -123.03834481260758,
+              49.221260749212206
+            ],
+            [
+              -123.03741933466483,
+              49.221252786061285
+            ]
+          ],
+          [
+            [
+              -123.03741933466483,
+              49.221252786061285
+            ],
+            [
+              -123.0367784449842,
+              49.221247198936254
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.03789199563995,
+      "lat": 49.221256843068026
+    }
+  },
+  {
+    "project": "E 6th Av from Lakewood Dr to Garden Dr",
+    "street": null,
+    "location": "E 6th Av from Lakewood Dr to Garden Dr",
+    "comp_date": "2026-09-04",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f78f3661-9349-46b1-a51c-17eaea69864e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.062008172512,
+            49.263210970669775
+          ],
+          [
+            -123.05813966442754,
+            49.26318251529432
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.06007391846977,
+      "lat": 49.263196742982046
+    }
+  },
+  {
     "project": "Cypress St from W 35th Av to W 36th Av",
     "street": null,
     "location": "Cypress St from W 35th Av to W 36th Av",
@@ -285,6 +391,34 @@
     "geo_point_2d": {
       "lon": -123.12218868664367,
       "lat": 49.27981299900378
+    }
+  },
+  {
+    "project": "N/S of 2000 blk of Beach Ave",
+    "street": null,
+    "location": "N/S of 2000 blk of Beach Ave",
+    "comp_date": "2026-09-12",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/58f5657a-5f0e-47c8-b8ee-583dccd77093",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.14430433474546,
+            49.28949789717703
+          ],
+          [
+            -123.14505535326963,
+            49.28999473475773
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.14467984400754,
+      "lat": 49.28974631596738
     }
   },
   {
