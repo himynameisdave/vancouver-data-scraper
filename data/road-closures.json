@@ -1,55 +1,5 @@
 [
   {
-    "project": "E 53rd Av from Mckinnon St to Doman St",
-    "street": null,
-    "location": "E 53rd Av from Mckinnon St to Doman St",
-    "comp_date": "2026-09-03",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/26fbb9e8-6bfb-4955-91f4-9caeaaca28d0",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            [
-              -123.03900554672293,
-              49.22126643788624
-            ],
-            [
-              -123.03834481260758,
-              49.221260749212206
-            ]
-          ],
-          [
-            [
-              -123.03834481260758,
-              49.221260749212206
-            ],
-            [
-              -123.03741933466483,
-              49.221252786061285
-            ]
-          ],
-          [
-            [
-              -123.03741933466483,
-              49.221252786061285
-            ],
-            [
-              -123.0367784449842,
-              49.221247198936254
-            ]
-          ]
-        ],
-        "type": "MultiLineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.03789199563995,
-      "lat": 49.221256843068026
-    }
-  },
-  {
     "project": "E 6th Av from Lakewood Dr to Garden Dr",
     "street": null,
     "location": "E 6th Av from Lakewood Dr to Garden Dr",
@@ -291,6 +241,34 @@
     "geo_point_2d": {
       "lon": -123.04792415347266,
       "lat": 49.2425732050638
+    }
+  },
+  {
+    "project": "E 6th Av from Nootka St to Lillooet St",
+    "street": null,
+    "location": "E 6th Av from Nootka St to Lillooet St",
+    "comp_date": "2026-09-10",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/90729154-c2b2-4759-806d-b014435cdb71",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.04154559737057,
+            49.264753175043296
+          ],
+          [
+            -123.03901543585819,
+            49.26474401847179
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.04028051661439,
+      "lat": 49.26474859675754
     }
   },
   {
@@ -707,6 +685,94 @@
     "geo_point_2d": {
       "lon": -123.13113681456431,
       "lat": 49.24678274789856
+    }
+  },
+  {
+    "project": "Wallace St from W 29th Av to W 31st Av",
+    "street": null,
+    "location": "Wallace St from W 29th Av to W 31st Av",
+    "comp_date": "2026-09-18",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/a450acf5-c27e-426d-a47e-58b79f868b1d",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1908753472345,
+              49.246197286142916
+            ],
+            [
+              -123.19088006224204,
+              49.245723813967146
+            ]
+          ],
+          [
+            [
+              -123.19088006224204,
+              49.245723813967146
+            ],
+            [
+              -123.1908853671711,
+              49.24525013388694
+            ]
+          ],
+          [
+            [
+              -123.1908853671711,
+              49.24525013388694
+            ],
+            [
+              -123.19089079653234,
+              49.24477667844286
+            ]
+          ],
+          [
+            [
+              -123.19089079653234,
+              49.24477667844286
+            ],
+            [
+              -123.19089612321362,
+              49.24430155900956
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.19088549691791,
+      "lat": 49.24524942004198
+    }
+  },
+  {
+    "project": "Bute St from Davie St to See-em-ia Lane",
+    "street": null,
+    "location": "Bute St from Davie St to See-em-ia Lane",
+    "comp_date": "2026-09-28",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/f76911b1-d32c-4fbb-81e6-1cad18e81010",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.13282737330037,
+            49.282135182890954
+          ],
+          [
+            -123.13335929648338,
+            49.2817831645734
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.13309333489185,
+      "lat": 49.281959173732176
     }
   },
   {
