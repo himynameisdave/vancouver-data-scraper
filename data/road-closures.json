@@ -1,33 +1,5 @@
 [
   {
-    "project": null,
-    "street": null,
-    "location": null,
-    "comp_date": "2026-09-09",
-    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/795d0484-87fa-4c75-a307-efa72618ab94",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          [
-            -123.13949308498083,
-            49.21716235091938
-          ],
-          [
-            -123.14021747785908,
-            49.21737190945083
-          ]
-        ],
-        "type": "LineString"
-      },
-      "properties": {}
-    },
-    "geo_point_2d": {
-      "lon": -123.13985528141995,
-      "lat": 49.2172671301851
-    }
-  },
-  {
     "project": "E 6th Av from Nootka St to Lillooet St",
     "street": null,
     "location": "E 6th Av from Nootka St to Lillooet St",
@@ -669,6 +641,66 @@
     "geo_point_2d": {
       "lon": -123.19088549691791,
       "lat": 49.24524942004198
+    }
+  },
+  {
+    "project": "Oak St - W 10th to W 12th Av",
+    "street": null,
+    "location": "Oak St - W 10th to W 12th Av",
+    "comp_date": "2026-09-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/074e67e1-73e0-47d7-bf2f-cb0a5462f4e6",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.1266249750388,
+              49.26244016299472
+            ],
+            [
+              -123.12664203669084,
+              49.26198020126196
+            ]
+          ],
+          [
+            [
+              -123.12664203669084,
+              49.26198020126196
+            ],
+            [
+              -123.1266591111564,
+              49.2615199966051
+            ]
+          ],
+          [
+            [
+              -123.1266591111564,
+              49.2615199966051
+            ],
+            [
+              -123.12667617182188,
+              49.26105989087125
+            ]
+          ],
+          [
+            [
+              -123.12667617182188,
+              49.26105989087125
+            ],
+            [
+              -123.12669395176864,
+              49.26058022871911
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.12665946926086,
+      "lat": 49.26151019607412
     }
   },
   {
