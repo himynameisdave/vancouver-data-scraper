@@ -60,6 +60,34 @@
     }
   },
   {
+    "project": "St. Catherines St from E 35th Av to E 37th Av",
+    "street": null,
+    "location": "St. Catherines St from E 35th Av to E 37th Av",
+    "comp_date": "2026-09-15",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/509fda86-e2c2-44b8-a570-3b0bcfe0dd72",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            -123.08688019507042,
+            49.23826210554557
+          ],
+          [
+            -123.0869276147779,
+            49.23650728622832
+          ]
+        ],
+        "type": "LineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.08690390492416,
+      "lat": 49.237384695886945
+    }
+  },
+  {
     "project": "Between Oak Street (west) and Hudson Street (east), from the south side of the W",
     "street": null,
     "location": "Between Oak Street (west) and Hudson Street (east), from the south side of the W",
@@ -465,6 +493,46 @@
     "geo_point_2d": {
       "lon": -123.12665946926086,
       "lat": 49.26151019607412
+    }
+  },
+  {
+    "project": "E 62nd Av from Borden St to Argyle St",
+    "street": null,
+    "location": "E 62nd Av from Borden St to Argyle St",
+    "comp_date": "2026-09-23",
+    "url_link": "http://vanmapp1.vancouver.ca/roadahead/events/details/33b6819f-559e-4008-b319-6859ca9cf41e",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              -123.07276987930759,
+              49.21373907295509
+            ],
+            [
+              -123.07205866967998,
+              49.21373240354956
+            ]
+          ],
+          [
+            [
+              -123.07404590247988,
+              49.213753113241154
+            ],
+            [
+              -123.07276987930759,
+              49.21373907295509
+            ]
+          ]
+        ],
+        "type": "MultiLineString"
+      },
+      "properties": {}
+    },
+    "geo_point_2d": {
+      "lon": -123.07305228986206,
+      "lat": 49.213742387247606
     }
   },
   {
