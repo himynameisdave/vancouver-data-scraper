@@ -7705,6 +7705,14 @@
   },
   {
     "date": "1999-12-04",
+    "breed": "Cocker Spaniel",
+    "sex": "M/N",
+    "color": "Blonde",
+    "name": "Chewy",
+    "state": "Lost"
+  },
+  {
+    "date": "1999-12-04",
     "breed": "Blue Meryl X Heeler",
     "sex": null,
     "color": "Black",
@@ -7729,11 +7737,11 @@
   },
   {
     "date": "1999-12-04",
-    "breed": "Cocker Spaniel",
+    "breed": "Shep",
     "sex": "M/N",
-    "color": "Blonde",
-    "name": "Chewy",
-    "state": "Lost"
+    "color": "Black & Brown",
+    "name": "Rocky",
+    "state": "Matched"
   },
   {
     "date": "1999-12-04",
@@ -7742,14 +7750,6 @@
     "color": "Black & Grey",
     "name": "Jasper",
     "state": "Lost"
-  },
-  {
-    "date": "1999-12-04",
-    "breed": "Shep",
-    "sex": "M/N",
-    "color": "Black & Brown",
-    "name": "Rocky",
-    "state": "Matched"
   },
   {
     "date": "1999-12-06",
@@ -11689,19 +11689,19 @@
   },
   {
     "date": "2000-05-25",
-    "breed": "Boxer",
-    "sex": "F",
-    "color": "Tan & White",
-    "name": "Scarlet",
-    "state": "Lost"
-  },
-  {
-    "date": "2000-05-25",
     "breed": "Lab",
     "sex": "F",
     "color": "Chocolate",
     "name": "Sophie",
     "state": "Matched"
+  },
+  {
+    "date": "2000-05-25",
+    "breed": "Boxer",
+    "sex": "F",
+    "color": "Tan & White",
+    "name": "Scarlet",
+    "state": "Lost"
   },
   {
     "date": "2000-05-25",
@@ -27265,18 +27265,18 @@
   },
   {
     "date": "2002-02-19",
-    "breed": "Pitbull X",
-    "sex": "F",
-    "color": "Black & White",
-    "name": "Shumbles",
-    "state": "Lost"
-  },
-  {
-    "date": "2002-02-19",
     "breed": "Shep X puppy",
     "sex": "F",
     "color": "Black & Tan",
     "name": "Lergi",
+    "state": "Lost"
+  },
+  {
+    "date": "2002-02-19",
+    "breed": "Pitbull X",
+    "sex": "F",
+    "color": "Black & White",
+    "name": "Shumbles",
     "state": "Lost"
   },
   {
@@ -27689,14 +27689,6 @@
   },
   {
     "date": "2002-03-08",
-    "breed": "Ridgeback X Whippet",
-    "sex": "M",
-    "color": null,
-    "name": null,
-    "state": "Lost"
-  },
-  {
-    "date": "2002-03-08",
     "breed": "Retreiver",
     "sex": "M",
     "color": "Red",
@@ -27718,6 +27710,14 @@
     "color": "Brown",
     "name": null,
     "state": "Matched"
+  },
+  {
+    "date": "2002-03-08",
+    "breed": "Ridgeback X Whippet",
+    "sex": "M",
+    "color": null,
+    "name": null,
+    "state": "Lost"
   },
   {
     "date": "2002-03-09",
@@ -69809,18 +69809,18 @@
   },
   {
     "date": "2012-05-04",
-    "breed": "Lab",
-    "sex": "M",
-    "color": "Tan",
-    "name": "Dragan",
-    "state": "Lost"
-  },
-  {
-    "date": "2012-05-04",
     "breed": "Shih Tzu",
     "sex": "F",
     "color": "White",
     "name": "Kulka",
+    "state": "Lost"
+  },
+  {
+    "date": "2012-05-04",
+    "breed": "Lab",
+    "sex": "M",
+    "color": "Tan",
+    "name": "Dragan",
     "state": "Lost"
   },
   {
@@ -71169,18 +71169,18 @@
   },
   {
     "date": "2012-07-01",
-    "breed": "DSH cat",
-    "sex": "F/S",
-    "color": "Tan",
-    "name": "Lillith",
-    "state": "Lost"
-  },
-  {
-    "date": "2012-07-01",
     "breed": "cockateil",
     "sex": "F",
     "color": "Grey/Yellow/White",
     "name": "Holly",
+    "state": "Lost"
+  },
+  {
+    "date": "2012-07-01",
+    "breed": "DSH cat",
+    "sex": "F/S",
+    "color": "Tan",
+    "name": "Lillith",
     "state": "Lost"
   },
   {
@@ -71331,6 +71331,14 @@
     "date": "2012-07-09",
     "breed": "Chihuahua",
     "sex": "M",
+    "color": "Tan & White",
+    "name": "Flea",
+    "state": "Lost"
+  },
+  {
+    "date": "2012-07-09",
+    "breed": "Chihuahua",
+    "sex": "M",
     "color": "Tan/White",
     "name": "Flee",
     "state": "Lost"
@@ -71341,14 +71349,6 @@
     "sex": null,
     "color": "Black w/white paws & chin",
     "name": "?",
-    "state": "Lost"
-  },
-  {
-    "date": "2012-07-09",
-    "breed": "Chihuahua",
-    "sex": "M",
-    "color": "Tan & White",
-    "name": "Flea",
     "state": "Lost"
   },
   {
@@ -71433,18 +71433,18 @@
   },
   {
     "date": "2012-07-14",
-    "breed": "Yorkie x poodle",
-    "sex": "F/S",
-    "color": "Black w/ white patch",
-    "name": null,
-    "state": "Lost"
-  },
-  {
-    "date": "2012-07-14",
     "breed": "DSH",
     "sex": "F/S",
     "color": "Calico",
     "name": "Leha (Lola)",
+    "state": "Lost"
+  },
+  {
+    "date": "2012-07-14",
+    "breed": "Yorkie x poodle",
+    "sex": "F/S",
+    "color": "Black w/ white patch",
+    "name": null,
     "state": "Lost"
   },
   {
@@ -71665,18 +71665,18 @@
   },
   {
     "date": "2012-07-20",
-    "breed": "Beagle X LasaApso",
-    "sex": "F/S",
-    "color": "Grey/White",
-    "name": "Lucky",
-    "state": "Lost"
-  },
-  {
-    "date": "2012-07-20",
     "breed": "DSH Cat",
     "sex": "F/S",
     "color": "Black & Tan",
     "name": "Athena",
+    "state": "Lost"
+  },
+  {
+    "date": "2012-07-20",
+    "breed": "Beagle X LasaApso",
+    "sex": "F/S",
+    "color": "Grey/White",
+    "name": "Lucky",
     "state": "Lost"
   },
   {
@@ -71753,19 +71753,19 @@
   },
   {
     "date": "2012-07-22",
-    "breed": "Shelti X",
-    "sex": "F/S",
-    "color": "Light Brown",
-    "name": "Lucy",
-    "state": "Lost"
-  },
-  {
-    "date": "2012-07-22",
     "breed": "Shepherd X",
     "sex": "M",
     "color": "Black and White",
     "name": "Simon",
     "state": "Matched"
+  },
+  {
+    "date": "2012-07-22",
+    "breed": "Shelti X",
+    "sex": "F/S",
+    "color": "Light Brown",
+    "name": "Lucy",
+    "state": "Lost"
   },
   {
     "date": "2012-07-23",
@@ -75633,14 +75633,6 @@
   },
   {
     "date": "2013-03-22",
-    "breed": "Long hair chihuahua",
-    "sex": "F",
-    "color": "Tan with white",
-    "name": "Cici",
-    "state": "Lost"
-  },
-  {
-    "date": "2013-03-22",
     "breed": "German Shorthair",
     "sex": "M",
     "color": "Brown & White",
@@ -75661,6 +75653,14 @@
     "sex": "M/N",
     "color": "Brown and White",
     "name": "Bagel",
+    "state": "Lost"
+  },
+  {
+    "date": "2013-03-22",
+    "breed": "Long hair chihuahua",
+    "sex": "F",
+    "color": "Tan with white",
+    "name": "Cici",
     "state": "Lost"
   },
   {
@@ -92041,18 +92041,18 @@
   },
   {
     "date": "2015-09-24",
-    "breed": "DSH",
-    "sex": "F",
-    "color": "Black",
-    "name": "Kat",
-    "state": "Lost"
-  },
-  {
-    "date": "2015-09-24",
     "breed": "Husky",
     "sex": "M/N",
     "color": "White",
     "name": "Monty",
+    "state": "Lost"
+  },
+  {
+    "date": "2015-09-24",
+    "breed": "DSH",
+    "sex": "F",
+    "color": "Black",
+    "name": "Kat",
     "state": "Lost"
   },
   {
