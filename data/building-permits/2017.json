@@ -2,8 +2,8 @@
   {
     "permitnumber": "BP-2016-00011",
     "permitnumbercreateddate": "2016-05-24",
-    "issuedate": "2017-08-16",
-    "permitelapseddays": 449,
+    "issuedate": "2017-07-11",
+    "permitelapseddays": 413,
     "projectvalue": 5300000.0,
     "typeofwork": "New Building",
     "address": "2328 GALT STREET, Vancouver, BC V5N 2Z9",
@@ -32,7 +32,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-08",
+    "yearmonth": "2017-07",
     "geo_point_2d": {
       "lon": -123.058686,
       "lat": 49.2429172
@@ -780,6 +780,45 @@
     }
   },
   {
+    "permitnumber": "BP-2016-00229",
+    "permitnumbercreateddate": "2016-06-06",
+    "issuedate": "2017-03-22",
+    "permitelapseddays": 289,
+    "projectvalue": 30500000.0,
+    "typeofwork": "New Building",
+    "address": "1668 DAVIE STREET, Vancouver, BC V6G 0C4",
+    "projectdescription": "Certified Professional Program - New Building - New 23-storey residential development with 6 levels underground parking and two ground floor commercial units.\r\n\r\nRelated to BP-2016-01899\r\n\r\nStage I -Excavation/shoring and foundation structure including Level 1 slab. (Issued Nov. 28, 2016-M.Vitkovic). \r\n\r\nStage II- Full Construction issued March 22, 2017     \r\nNote: Status indicates that Stage 2 is in review; however the permit was issued (full construction) and this should say \" completed\". Posse help has looked into this but could not change the status.        \r\nThe original mechanical engineer has been replaced by Douglas Reinbold (new Schedule B received)- April 24, 2017 \r\n\r\nRevision 1: To combine two CRUs into one unit and to change the CRU entrance (May 3).",
+    "permitcategory": null,
+    "applicant": "Robert Heikkila DBA: CFT Engineering Inc., a Jensen Hughes Company",
+    "applicantaddress": "#500 - 1901 Rosser Avenue\r\nBurnaby, BC  V5C 6R6",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": "Syncra Construction Corp",
+    "buildingcontractoraddress": "4180 LOUGHEED HIGHWAY  \r\nUnit 301\r\nBurnaby, BC  V5C 6A7",
+    "issueyear": "2017",
+    "geolocalarea": "West End",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1395034,
+          49.2853803
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-03",
+    "geo_point_2d": {
+      "lon": -123.1395034,
+      "lat": 49.2853803
+    }
+  },
+  {
     "permitnumber": "BP-2016-00237",
     "permitnumbercreateddate": "2016-06-06",
     "issuedate": "2017-02-02",
@@ -1018,49 +1057,10 @@
     }
   },
   {
-    "permitnumber": "BP-2016-00319",
-    "permitnumbercreateddate": "2016-06-09",
-    "issuedate": "2017-05-01",
-    "permitelapseddays": 326,
-    "projectvalue": 1613000.0,
-    "typeofwork": "New Building",
-    "address": "2757 HORLEY STREET, Vancouver, BC V5R 4R7",
-    "projectdescription": "Certified Professional Program - New Building - To develop a new three-storey plus partial four storey Multiple Dwelling building containing ten dwelling units and three lock-off units with seven surface parking spaces, at the rear of the site, having vehicular access from the lane.    \r\n\r\nSTAGE 1- excavation only - issued on Nov.10, 2016\r\nSTAGE 2 - full structure work -issued on Nov.10, 2016\r\nSTAGE 3 - Full construction - issued on May 01, 2017\r\n1`\r\nRev #1 - electrical design changes- approved 2017 Nov.15",
-    "permitcategory": null,
-    "applicant": "Richard Lau, P.ENG., CP DBA: Camphora Engineering",
-    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
-    "propertyuse": [
-      "Dwelling Uses"
-    ],
-    "specificusecategory": [
-      "Multiple Dwelling"
-    ],
-    "buildingcontractor": null,
-    "buildingcontractoraddress": null,
-    "issueyear": "2017",
-    "geolocalarea": "Renfrew-Collingwood",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.0478982,
-          49.2404516
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-05",
-    "geo_point_2d": {
-      "lon": -123.0478982,
-      "lat": 49.2404516
-    }
-  },
-  {
     "permitnumber": "BP-2016-00321",
     "permitnumbercreateddate": "2016-06-09",
-    "issuedate": "2017-02-15",
-    "permitelapseddays": 251,
+    "issuedate": "2017-04-28",
+    "permitelapseddays": 323,
     "projectvalue": 10000000.0,
     "typeofwork": "New Building",
     "address": "8223 SHERBROOKE STREET, Vancouver, BC V5X 4E6",
@@ -1095,7 +1095,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-02",
+    "yearmonth": "2017-04",
     "geo_point_2d": {
       "lon": -123.0826625,
       "lat": 49.2099233
@@ -4196,45 +4196,6 @@
     "geo_point_2d": {
       "lon": -123.0494461,
       "lat": 49.240841
-    }
-  },
-  {
-    "permitnumber": "BP-2016-01195",
-    "permitnumbercreateddate": "2016-07-18",
-    "issuedate": "2017-09-06",
-    "permitelapseddays": 415,
-    "projectvalue": 1236282.0,
-    "typeofwork": "New Building",
-    "address": "1155 VICTORIA DRIVE, Vancouver, BC V5L 4G4",
-    "projectdescription": "Certified Professional Program - New Building - To develop a 3 storey + cellar, 4 unit multiple dwelling building with 4 surface parking spaces at the rear, having vehicle access from the lane, on this site.\r\n\r\nAddressing approval is subject to Fire/Emergency access and layout as shown on submitted Architectural plans remains unchanged\r\n\r\nstage #1 - excavation and shoring only - issued 2017 Aug. 22\r\nstage #2 - full structural work up to roof - issued 2017 Sep. 06\r\nstage #3 - full construction - issued 2018 Nov. 28\r\nBuilding #1 (Multiple dwelling building at front of the site) - BP-2017-04389\r\nBuilding #2 (Multiple dwelling building at rear of the site) - BP-2017-04390\r\n\r\nRev #1 - minor amendment as per DP-2019-00779 - issued 2020-02-20 \r\nRev#2 - Structural design amendment to match DP-2019-00779 - issued 2020-03-25 - issued COVID2019",
-    "permitcategory": null,
-    "applicant": "Susana Chui DBA: Camphora Engineering",
-    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
-    "propertyuse": [
-      "Dwelling Uses"
-    ],
-    "specificusecategory": [
-      "Multiple Dwelling"
-    ],
-    "buildingcontractor": null,
-    "buildingcontractoraddress": null,
-    "issueyear": "2017",
-    "geolocalarea": "Grandview-Woodland",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.0659248,
-          49.274164
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-09",
-    "geo_point_2d": {
-      "lon": -123.0659248,
-      "lat": 49.274164
     }
   },
   {
@@ -9631,8 +9592,8 @@
   {
     "permitnumber": "BP-2016-02084",
     "permitnumbercreateddate": "2016-08-29",
-    "issuedate": "2017-02-23",
-    "permitelapseddays": 178,
+    "issuedate": "2017-05-30",
+    "permitelapseddays": 274,
     "projectvalue": 1174980.0,
     "typeofwork": "New Building",
     "address": "1510 VENABLES STREET, Vancouver, BC V5L 2G9",
@@ -9663,7 +9624,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-02",
+    "yearmonth": "2017-05",
     "geo_point_2d": {
       "lon": -123.0730921,
       "lat": 49.2764304
@@ -12804,6 +12765,84 @@
     }
   },
   {
+    "permitnumber": "BP-2016-02518",
+    "permitnumbercreateddate": "2016-09-19",
+    "issuedate": "2017-05-11",
+    "permitelapseddays": 234,
+    "projectvalue": 58000000.0,
+    "typeofwork": "New Building",
+    "address": "1768 COOK STREET, Vancouver, BC",
+    "projectdescription": "Certified Professional Program - New Building - Construction of a 17-storey multiple dwelling building containing 247 dwelling units and two levels of underground parking accessed from Cook Street on this site.\r\nThis permit has been issued for all Site Work and Below Grade facilities including 2 levels common underground parking for the proposed development.\r\n\r\nStage I (Excavation/Shoring) issued May 11, 2017.\r\nRevision #1 (Stage I) - to increase the depth of excavation and change the number of underground parkade floor levels to 3. \r\nStage II (Structural to Grade) issued May 29, 2018\r\nStage III (Full Construction) issued August 21, 2018.\r\nRevision #2: To increase the building height from 17 to 18 storeys and the total number of units from 247 to 249. (per DPMA DP-2019-00288) issued.\r\nConstruction costs increased to 58M from 55M.\r\n\r\nRevision #3 - Stage III per DPMA DP-2020-00641: to revise Levels 17, 18, 19 and parking layout, to add dog grooming room on P2, and to adjust bike lockers to suit site conditions. \r\n\r\nRevision #4-Addition of a clean agent suppression system in novus server room (P1 level).\r\nRevision#5: Construction of 5 enclosed garages with overhead gate and separate man door",
+    "permitcategory": null,
+    "applicant": "Barry Thorson DBA: Certified Professional",
+    "applicantaddress": "769 Roslyn Blvd\r\nNorth Vancouver, BC  V7G 1P4",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": "Centreville Construction Ltd",
+    "buildingcontractoraddress": "1095 W Pender St  \r\nUnit 900\r\nVancouver, BC  V6E 2M6",
+    "issueyear": "2017",
+    "geolocalarea": "Mount Pleasant",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1100528,
+          49.269671
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-05",
+    "geo_point_2d": {
+      "lon": -123.1100528,
+      "lat": 49.269671
+    }
+  },
+  {
+    "permitnumber": "BP-2016-02519",
+    "permitnumbercreateddate": "2016-09-19",
+    "issuedate": "2017-11-20",
+    "permitelapseddays": 427,
+    "projectvalue": 150000.0,
+    "typeofwork": "Addition / Alteration",
+    "address": "555 W 12TH AVENUE, Vancouver, BC V5Z 3X7",
+    "projectdescription": "Field Review - Addition / Alteration - #118\r\nInterior alterations only to provide tenant fit out for a new Health Care Office at unit #118 at this existing Heritage Designated 'M' and Vancouver Heritage Register 'A'  City Square Mall building.\r\n\r\nExisting unit # 118 tenant space approved as Health Care Office under BP-2016-01670.\r\n\r\nOK for field review as per Howie Chow, September 19, 2016.\r\n\r\nEnergy upgrade: L2 - Lighting - Upgrade all hard wired Lighting within scope of work area to High Efficiency light systems.",
+    "permitcategory": "Renovation - Commercial/ Mixed Use - Lower Complexity",
+    "applicant": "Alex Cheung DBA: General Contractor",
+    "applicantaddress": "1179 Durant Dr\r\nCoquitlam , BC  V3B6P7",
+    "propertyuse": [
+      "Office Uses"
+    ],
+    "specificusecategory": [
+      "Health Care Office"
+    ],
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Fairview",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1163251,
+          49.2609394
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-11",
+    "geo_point_2d": {
+      "lon": -123.1163251,
+      "lat": 49.2609394
+    }
+  },
+  {
     "permitnumber": "BP-2016-02534",
     "permitnumbercreateddate": "2016-09-20",
     "issuedate": "2017-02-06",
@@ -12845,8 +12884,8 @@
   {
     "permitnumber": "BP-2016-02541",
     "permitnumbercreateddate": "2016-09-20",
-    "issuedate": "2017-02-14",
-    "permitelapseddays": 147,
+    "issuedate": "2017-02-11",
+    "permitelapseddays": 144,
     "projectvalue": 0.0,
     "typeofwork": "Salvage and Abatement",
     "address": "1083 W 54TH AVENUE, Vancouver, BC V6P 1N2",
@@ -13313,8 +13352,8 @@
   {
     "permitnumber": "BP-2016-02588",
     "permitnumbercreateddate": "2016-09-22",
-    "issuedate": "2017-08-29",
-    "permitelapseddays": 341,
+    "issuedate": "2017-02-02",
+    "permitelapseddays": 133,
     "projectvalue": 65000000.0,
     "typeofwork": "New Building",
     "address": "620 CARDERO STREET, Vancouver, BC V6G 0C7",
@@ -13345,7 +13384,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-08",
+    "yearmonth": "2017-02",
     "geo_point_2d": {
       "lon": -123.1299138,
       "lat": 49.2906471
@@ -15421,8 +15460,8 @@
   {
     "permitnumber": "BP-2016-02877",
     "permitnumbercreateddate": "2016-10-06",
-    "issuedate": "2017-03-31",
-    "permitelapseddays": 176,
+    "issuedate": "2017-08-23",
+    "permitelapseddays": 321,
     "projectvalue": 2250000.0,
     "typeofwork": "Addition / Alteration",
     "address": "1872 PARKER STREET, Vancouver, BC V5L 2K9",
@@ -15451,7 +15490,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-03",
+    "yearmonth": "2017-08",
     "geo_point_2d": {
       "lon": -123.0659383,
       "lat": 49.2754705
@@ -15696,8 +15735,8 @@
   {
     "permitnumber": "BP-2016-02914",
     "permitnumbercreateddate": "2016-10-07",
-    "issuedate": "2017-03-31",
-    "permitelapseddays": 175,
+    "issuedate": "2017-08-23",
+    "permitelapseddays": 320,
     "projectvalue": 0.0,
     "typeofwork": "New Building",
     "address": "1027 VICTORIA DRIVE, Vancouver, BC V5L 2K9",
@@ -15726,7 +15765,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-03",
+    "yearmonth": "2017-08",
     "geo_point_2d": {
       "lon": -123.065691,
       "lat": 49.2754913
@@ -16983,8 +17022,8 @@
   {
     "permitnumber": "BP-2016-03074",
     "permitnumbercreateddate": "2016-10-18",
-    "issuedate": "2017-09-22",
-    "permitelapseddays": 339,
+    "issuedate": "2017-12-06",
+    "permitelapseddays": 414,
     "projectvalue": 5200000.0,
     "typeofwork": "New Building",
     "address": "443 W 63RD AVENUE, Vancouver, BC V1V 1V1",
@@ -17013,7 +17052,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-09",
+    "yearmonth": "2017-12",
     "geo_point_2d": {
       "lon": -123.1155282,
       "lat": 49.2134382
@@ -17056,47 +17095,6 @@
     "geo_point_2d": {
       "lon": -123.0483121,
       "lat": 49.2788542
-    }
-  },
-  {
-    "permitnumber": "BP-2016-03078",
-    "permitnumbercreateddate": "2016-10-18",
-    "issuedate": "2017-08-10",
-    "permitelapseddays": 296,
-    "projectvalue": 16000000.0,
-    "typeofwork": "New Building",
-    "address": "188 E 49TH AVENUE, Vancouver, BC V5W 2G2",
-    "projectdescription": "Certified Professional Program - New Building - To construct a 6 storey mixed-use building consisting of:\r\n\r\n1st storey - retail (shell)\r\n2nd-6th storeys - 75 rental dwelling units\r\n\r\nall over two (2) levels of underground parking with vehicular access from the lane.\r\n\r\nStage 1 (excavation and shoring) issued - 29-May-2017\r\nStage 2 (foundation and structure up to grade including main podium) issued - 10-Aug- 2017.\r\nStage 3 (full structural) issued - 16-Jan-2018.\r\nStage 4 (full construction) issued - 09-Apr-2018.\r\n\r\n\r\nRevision#1 - 08-Mar-2019 tn\r\n\r\nStructural upgrades for a RBC ( Royal Bank of Canada) vaults.",
-    "permitcategory": null,
-    "applicant": "Teddy  Lai DBA: GHL Consultants Ltd.",
-    "applicantaddress": "Suite 800 – 700 West Pender Street\r\nVancouver, BC  V6C 1G8",
-    "propertyuse": [
-      "Dwelling Uses",
-      "Retail Uses"
-    ],
-    "specificusecategory": [
-      "Multiple Dwelling",
-      "Retail Store"
-    ],
-    "buildingcontractor": "Orr Construction Corp",
-    "buildingcontractoraddress": "1847 W BROADWAY  \r\nUnit 310\r\nVancouver, BC  V6J 1Y6",
-    "issueyear": "2017",
-    "geolocalarea": "Sunset",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.1020661,
-          49.2253101
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-08",
-    "geo_point_2d": {
-      "lon": -123.1020661,
-      "lat": 49.2253101
     }
   },
   {
@@ -21316,8 +21314,8 @@
   {
     "permitnumber": "BP-2016-03442",
     "permitnumbercreateddate": "2016-11-02",
-    "issuedate": "2017-10-03",
-    "permitelapseddays": 335,
+    "issuedate": "2017-07-14",
+    "permitelapseddays": 254,
     "projectvalue": 42500000.0,
     "typeofwork": "New Building",
     "address": "885 CAMBIE STREET, Vancouver, BC V6B 2P4",
@@ -21350,7 +21348,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-10",
+    "yearmonth": "2017-07",
     "geo_point_2d": {
       "lon": -123.116531,
       "lat": 49.2775184
@@ -21434,6 +21432,47 @@
     "geo_point_2d": {
       "lon": -123.0370075,
       "lat": 49.2649969
+    }
+  },
+  {
+    "permitnumber": "BP-2016-03449",
+    "permitnumbercreateddate": "2016-11-03",
+    "issuedate": "2017-05-12",
+    "permitelapseddays": 190,
+    "projectvalue": 67744600.0,
+    "typeofwork": "New Building",
+    "address": "8533 RIVER DISTRICT CROSSING, Vancouver, BC V5S 0H2",
+    "projectdescription": "Certified Professional Program - New Building - To construct an 18 storey mixed use building containing a total of 258 dwelling units in three towers connected by a common podium on Level 2 all over 3 levels of underground parking.    \r\n\r\nApplication originally submitted under BU462996.\r\nThis permit has been reviewed under the 2007 Vancouver Building By-law (#9419) except as noted in the permit Terms.    \r\n\r\nNumber of units changed to 257 (DPMA DP-2017-00809).\r\n\r\nStage 1: Excavation & shoring - issued Nov.23/16\r\nRevision 1: To revise excavation and shoring design (south wall) issued April 12, 2017.\r\nStage 2: Foundation to grade, up to and including level 1 slab - issued May 12, 2017\r\nRevision 2: Structural revision to Stage 2 (July 6, 2017).\r\nStage 3 : Full building permit (December 12, 2017). \r\n\r\nRevision 3: Exterior alterations to the level 2  (podium) to allow for a future daycare, and addition of new lift for access from the north entry lobby to the town homes. (issued Oct.15, 2018).\r\n\r\nRevision 4: To delete demising walls between 7 commercial shell units to create one large commercial shell space (issued March 15, 2019).",
+    "permitcategory": null,
+    "applicant": "Robert Heikkila DBA: CFT Engineering Inc., a Jensen Hughes Company",
+    "applicantaddress": "#500 - 1901 Rosser Avenue\r\nBurnaby, BC  V5C 6R6",
+    "propertyuse": [
+      "Dwelling Uses",
+      "Retail Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling",
+      "Retail Store"
+    ],
+    "buildingcontractor": "Wesgroup Contracting Ltd",
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Killarney",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.0317586,
+          49.2063893
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-05",
+    "geo_point_2d": {
+      "lon": -123.0317586,
+      "lat": 49.2063893
     }
   },
   {
@@ -21946,6 +21985,45 @@
     }
   },
   {
+    "permitnumber": "BP-2016-03493",
+    "permitnumbercreateddate": "2016-11-04",
+    "issuedate": "2017-03-24",
+    "permitelapseddays": 140,
+    "projectvalue": 1144500.0,
+    "typeofwork": "New Building",
+    "address": "4095 PUGET DRIVE, Vancouver, BC V6L 2V3",
+    "projectdescription": "Low Density Housing - New Building - To construct a new two and half storey plus cellar one family dwelling with attached two car garage having vehicular access from W King Edward on this inside double fronting site.    \r\n\r\nA/C unit proposed at rear yard.",
+    "permitcategory": "New Build - Low Density Housing",
+    "applicant": "Ted  Seeberg",
+    "applicantaddress": "1324 East 6th Avenue\r\nVancouver, BC  V5N1P1",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Single Detached House"
+    ],
+    "buildingcontractor": "Homeworx Holdings Ltd",
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Dunbar-Southlands",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1709581,
+          49.2500998
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-03",
+    "geo_point_2d": {
+      "lon": -123.1709581,
+      "lat": 49.2500998
+    }
+  },
+  {
     "permitnumber": "BP-2016-03506",
     "permitnumbercreateddate": "2016-11-04",
     "issuedate": "2017-04-04",
@@ -22182,8 +22260,8 @@
   {
     "permitnumber": "BP-2016-03526",
     "permitnumbercreateddate": "2016-11-06",
-    "issuedate": "2017-09-01",
-    "permitelapseddays": 299,
+    "issuedate": "2017-06-20",
+    "permitelapseddays": 226,
     "projectvalue": 6482207.0,
     "typeofwork": "New Building",
     "address": "2687 MAPLE STREET, Vancouver, BC V1V 1V1",
@@ -22213,7 +22291,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-09",
+    "yearmonth": "2017-06",
     "geo_point_2d": {
       "lon": -123.1508664,
       "lat": 49.2621723
@@ -25466,8 +25544,8 @@
   {
     "permitnumber": "BP-2016-03780",
     "permitnumbercreateddate": "2016-11-21",
-    "issuedate": "2017-06-16",
-    "permitelapseddays": 207,
+    "issuedate": "2017-03-21",
+    "permitelapseddays": 120,
     "projectvalue": 26800000.0,
     "typeofwork": "New Building",
     "address": "6333 WEST BOULEVARD, Vancouver, BC V1V 1V1",
@@ -25496,7 +25574,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-06",
+    "yearmonth": "2017-03",
     "geo_point_2d": {
       "lon": -123.1558253,
       "lat": 49.2287002
@@ -27060,45 +27138,6 @@
     "geo_point_2d": {
       "lon": -123.0387934,
       "lat": 49.2847997
-    }
-  },
-  {
-    "permitnumber": "BP-2016-03878",
-    "permitnumbercreateddate": "2016-11-24",
-    "issuedate": "2017-03-24",
-    "permitelapseddays": 120,
-    "projectvalue": 11900000.0,
-    "typeofwork": "Addition / Alteration",
-    "address": "450 SW MARINE DRIVE, Vancouver, BC V5X 0C3",
-    "projectdescription": "Certified Professional Program - Addition / Alteration - Interior alteration to provide tenant improvement work on levels 7-10 and no cross-over floors located on these levels.  New interior partitions proposed. Reception Lobby for non Intel employees will be on the 7th floor\r\n\r\nStage #1 - interior work only - issued on Dec.22, 2016\r\nStage #2 - Exterior work - issued on Mar.24, 2017",
-    "permitcategory": null,
-    "applicant": "Robert Heikkila DBA: CFT Engineering Inc., a Jensen Hughes Company",
-    "applicantaddress": "#500 - 1901 Rosser Avenue\r\nBurnaby, BC  V5C 6R6",
-    "propertyuse": [
-      "Office Uses"
-    ],
-    "specificusecategory": [
-      "General Office"
-    ],
-    "buildingcontractor": null,
-    "buildingcontractoraddress": null,
-    "issueyear": "2017",
-    "geolocalarea": "Marpole",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.1161309,
-          49.209698
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-03",
-    "geo_point_2d": {
-      "lon": -123.1161309,
-      "lat": 49.209698
     }
   },
   {
@@ -30924,45 +30963,6 @@
     }
   },
   {
-    "permitnumber": "BP-2016-04096",
-    "permitnumbercreateddate": "2016-12-01",
-    "issuedate": "2017-08-08",
-    "permitelapseddays": 250,
-    "projectvalue": 17000000.0,
-    "typeofwork": "New Building",
-    "address": "4988 CAMBIE STREET, Vancouver, BC V5Z 2Z5",
-    "projectdescription": "Certified Professional Program - New Building - To construct 8-storey  (7 storey per Zoning and Development by-law) multi-residential dwelling highrise building consisting of 44 dwelling units with 3-levels of underground parking. \r\nNOTE: This Permit is related to BP-2017-00982 (4908 Cambie St.). \r\nThe vehicular access to the underground parking is through the adjacent site (4908 Cambie St.). The Occupancy Permit for 4988 Cambie St. cannot be granted until the adjacent building with the access ( 4908 Cambie St) obtains the Occupancy Permit. \r\n\r\nSTAGE 1.1(one-point-one) - issued 23-May-2017    \r\nEarthwork removal only. To excavate the soil to expose surface bedrock, no blasting, drilling or any kind of work associated  with blasting.\r\nSeparate Blast Permit is required for blast work and drilling.\r\n\r\nRevision #1 - 09-June-2017 tn To allow line drilling and pre-split drilling on this site as shown on Geotechnical Drawing G-A4, dated June 09, 2017.\r\nBlast work is not permitted, incl. test blast. \r\n\r\n\r\nSTAGE 1.2  (to Permit the Test Blast) - issued - 19-July-2017\r\n\r\nSTAGE 1.3 (Full Excavation, Shoring and Blasting) - issued August 8, 2017.\r\n\r\n\r\nSTAGE 2 (Full Structural) issued - 24-Nov-2017 tn.\r\nSTAGE 3 (Full Construction) issued - 20-July-2018 tn.\r\n \r\nREVISION#2 - 05-Nov-2019 tn\r\nAlterations to approved BP drawings to allow construction of a tunnel connecting 4998 Cambie St and 5048 Cambie St providing temporary vehicular access to 4988 Cambie St. Related to DP-2018-00670.",
-    "permitcategory": null,
-    "applicant": "Susana Chui DBA: Camphora Engineering",
-    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
-    "propertyuse": [
-      "Dwelling Uses"
-    ],
-    "specificusecategory": [
-      "Multiple Dwelling"
-    ],
-    "buildingcontractor": "Performance Builders Ltd",
-    "buildingcontractoraddress": "1283 HOWE ST  \r\nUnit 101\r\nVancouver, BC  V6Z 1R3",
-    "issueyear": "2017",
-    "geolocalarea": "Riley Park",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.1172713,
-          49.2401843
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-08",
-    "geo_point_2d": {
-      "lon": -123.1172713,
-      "lat": 49.2401843
-    }
-  },
-  {
     "permitnumber": "BP-2016-04097",
     "permitnumbercreateddate": "2016-12-01",
     "issuedate": "2017-05-09",
@@ -32257,6 +32257,47 @@
     }
   },
   {
+    "permitnumber": "BP-2016-04168",
+    "permitnumbercreateddate": "2016-12-06",
+    "issuedate": "2017-07-14",
+    "permitelapseddays": 220,
+    "projectvalue": 1400000.0,
+    "typeofwork": "New Building",
+    "address": "6668 FRASER STREET, Vancouver, BC V5X 3T5",
+    "projectdescription": "Certified Professional Program - New Building - To construct 3 storey mixed use commercial building with office on the ground floor and residential on the second and third floors.  There is parking on the first floor facing the lane. The building will be sprinklered and provided with a monitored fire alarm system.\r\n\r\n*For Stage 1 - Excavation only issued on May 19, 2017. \r\n*For Stage 2 - Foundation work only issued on July 14, 2017.\r\n*For Stage 3 - Structure only issued on Sept. 18, 2017.\r\n*For Stage 4 - Full Construction issued on June 29, 2018.\r\n\r\n**A change in CP from Richard Lau to Susana Chui from Camphora Engineering effective Thursday, July 12, 2018.\r\n\r\nRevision #1 - Project description and use changed from retail to office occupancy for the ground floor, July 17, 2019.",
+    "permitcategory": null,
+    "applicant": "Richard Lau, P.ENG., CP DBA: Camphora Engineering",
+    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
+    "propertyuse": [
+      "Dwelling Uses",
+      "Office Uses"
+    ],
+    "specificusecategory": [
+      "General Office",
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": "Sian Development And Contracting Ltd",
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Sunset",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.0904144,
+          49.2239604
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-07",
+    "geo_point_2d": {
+      "lon": -123.0904144,
+      "lat": 49.2239604
+    }
+  },
+  {
     "permitnumber": "BP-2016-04171",
     "permitnumbercreateddate": "2016-12-06",
     "issuedate": "2017-06-16",
@@ -32963,8 +33004,8 @@
   {
     "permitnumber": "BP-2016-04204",
     "permitnumbercreateddate": "2016-12-07",
-    "issuedate": "2017-03-13",
-    "permitelapseddays": 96,
+    "issuedate": "2017-07-19",
+    "permitelapseddays": 224,
     "projectvalue": 9754661.0,
     "typeofwork": "New Building",
     "address": "5656 VICTORIA DRIVE, Vancouver, BC V5P 3W4",
@@ -32995,7 +33036,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-03",
+    "yearmonth": "2017-07",
     "geo_point_2d": {
       "lon": -123.0650874,
       "lat": 49.2333269
@@ -45781,8 +45822,8 @@
   {
     "permitnumber": "BP-2017-00107",
     "permitnumbercreateddate": "2016-12-22",
-    "issuedate": "2017-09-07",
-    "permitelapseddays": 259,
+    "issuedate": "2017-12-18",
+    "permitelapseddays": 361,
     "projectvalue": 25000000.0,
     "typeofwork": "New Building",
     "address": "111 E 2ND AVENUE, Vancouver, BC V5T 1B4",
@@ -45813,7 +45854,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-09",
+    "yearmonth": "2017-12",
     "geo_point_2d": {
       "lon": -123.1019572,
       "lat": 49.2694989
@@ -45975,45 +46016,6 @@
     "geo_point_2d": {
       "lon": -123.109183,
       "lat": 49.2320409
-    }
-  },
-  {
-    "permitnumber": "BP-2017-00118",
-    "permitnumbercreateddate": "2017-01-09",
-    "issuedate": "2017-04-10",
-    "permitelapseddays": 91,
-    "projectvalue": 1000000.0,
-    "typeofwork": "Addition / Alteration",
-    "address": "768 SEYMOUR STREET, Vancouver, BC V6B 3K9",
-    "projectdescription": "Certified Professional Program - Addition / Alteration - Exterior and interior alterations to add mechanical doghouses and screens to the roof level following DP-2016-00175\r\n\r\nStage #1 - Equipment Relocation - issued 2017 Apr.10\r\nStage #2 - full construction - issued 2018 Dec.05",
-    "permitcategory": null,
-    "applicant": "Michael Meszaros DBA: Pioneer Code Consultants Ltd.",
-    "applicantaddress": "4138 MacDonald Ave\r\nBurnaby, BC  V5G 2Z5",
-    "propertyuse": [
-      "Office Uses"
-    ],
-    "specificusecategory": [
-      "General Office"
-    ],
-    "buildingcontractor": null,
-    "buildingcontractoraddress": null,
-    "issueyear": "2017",
-    "geolocalarea": "Downtown",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.1178815,
-          49.2809952
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-04",
-    "geo_point_2d": {
-      "lon": -123.1178815,
-      "lat": 49.2809952
     }
   },
   {
@@ -49765,8 +49767,8 @@
   {
     "permitnumber": "BP-2017-00284",
     "permitnumbercreateddate": "2017-01-17",
-    "issuedate": "2017-02-23",
-    "permitelapseddays": 37,
+    "issuedate": "2017-08-28",
+    "permitelapseddays": 223,
     "projectvalue": 20000000.0,
     "typeofwork": "New Building",
     "address": "1461 GRANVILLE STREET, Vancouver, BC V6Z 0E5",
@@ -49803,7 +49805,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-02",
+    "yearmonth": "2017-08",
     "geo_point_2d": {
       "lon": -123.1301732,
       "lat": 49.2749096
@@ -51593,8 +51595,8 @@
   {
     "permitnumber": "BP-2017-00365",
     "permitnumbercreateddate": "2017-01-23",
-    "issuedate": "2017-03-16",
-    "permitelapseddays": 52,
+    "issuedate": "2017-02-01",
+    "permitelapseddays": 9,
     "projectvalue": 18000.0,
     "typeofwork": "Addition / Alteration",
     "address": "609 GRANVILLE STREET, Vancouver, BC",
@@ -51623,7 +51625,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-03",
+    "yearmonth": "2017-02",
     "geo_point_2d": {
       "lon": -123.117746,
       "lat": 49.2833965
@@ -53194,8 +53196,8 @@
   {
     "permitnumber": "BP-2017-00428",
     "permitnumbercreateddate": "2017-01-25",
-    "issuedate": "2017-05-03",
-    "permitelapseddays": 98,
+    "issuedate": "2017-03-16",
+    "permitelapseddays": 50,
     "projectvalue": 0.0,
     "typeofwork": "New Building",
     "address": "8101 SHAUGHNESSY STREET, Vancouver, BC V1V 1V1",
@@ -53224,7 +53226,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-05",
+    "yearmonth": "2017-03",
     "geo_point_2d": {
       "lon": -123.1291342,
       "lat": 49.2119999
@@ -55807,6 +55809,32 @@
     }
   },
   {
+    "permitnumber": "BP-2017-00537",
+    "permitnumbercreateddate": "2017-01-31",
+    "issuedate": "2017-04-05",
+    "permitelapseddays": 64,
+    "projectvalue": 0.0,
+    "typeofwork": "New Building",
+    "address": null,
+    "projectdescription": "Certified Professional Program - New Building - See BP-2016-00953 for details - \r\nto construct a new 2 storey infill single family dwelling with a detached accessory building (garage) providing 3 parking spaces and a carport providing 2 parking spaces at the rear of the site.\r\n\r\nBuilding 1 - existing multiple conversion dwelling - BP-2017-00575\r\nBuilding 2 - new infill single family dwelling - BP-2017-00537\r\n\r\nStage 1 - excavation and structural work for the whole project -   issued on Apr.03, 2017\r\n\r\nStage 2 - full construction - issued 2018 Jan. 12",
+    "permitcategory": null,
+    "applicant": "Susana Chui DBA: Camphora Engineering",
+    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Infill Single Detached House"
+    ],
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": null,
+    "geom": null,
+    "yearmonth": "2017-04",
+    "geo_point_2d": null
+  },
+  {
     "permitnumber": "BP-2017-00539",
     "permitnumbercreateddate": "2017-01-31",
     "issuedate": "2017-02-20",
@@ -56623,6 +56651,45 @@
     "geo_point_2d": {
       "lon": -123.1016601,
       "lat": 49.2610941
+    }
+  },
+  {
+    "permitnumber": "BP-2017-00575",
+    "permitnumbercreateddate": "2017-02-02",
+    "issuedate": "2017-04-05",
+    "permitelapseddays": 62,
+    "projectvalue": 0.0,
+    "typeofwork": "Addition / Alteration",
+    "address": "1112 W 15TH AVENUE, Vancouver, BC V6H 1R6",
+    "projectdescription": "Certified Professional Program - Addition / Alteration - See Building Permit BP-2016-00953 for details\r\nStaged permit - to relocate and convert the 4 storey, existing multiple conversion dwelling \r\n\r\nBuilding 1 - existing multiple conversion dwelling - BP-2017-00575\r\nBuilding 2 - new infill single family dwelling - BP-2017-00537\r\n\r\nStage 1 - excavation and structural work for the whole project -   issued on Apr.03, 2017\r\n\r\nStage 2 - full construction - issued 2018 Jan. 12",
+    "permitcategory": null,
+    "applicant": "Susana Chui DBA: Camphora Engineering",
+    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Fairview",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1298493,
+          49.257828
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-04",
+    "geo_point_2d": {
+      "lon": -123.1298493,
+      "lat": 49.257828
     }
   },
   {
@@ -63590,8 +63657,8 @@
   {
     "permitnumber": "BP-2017-00906",
     "permitnumbercreateddate": "2017-02-16",
-    "issuedate": "2017-12-07",
-    "permitelapseddays": 294,
+    "issuedate": "2017-11-22",
+    "permitelapseddays": 279,
     "projectvalue": 8470000.0,
     "typeofwork": "New Building",
     "address": "209 E 20TH AVENUE, Vancouver, BC V1V 1V1",
@@ -63620,7 +63687,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-12",
+    "yearmonth": "2017-11",
     "geo_point_2d": {
       "lon": -123.1004463,
       "lat": 49.2532268
@@ -68429,8 +68496,8 @@
   {
     "permitnumber": "BP-2017-01122",
     "permitnumbercreateddate": "2017-03-01",
-    "issuedate": "2017-09-01",
-    "permitelapseddays": 184,
+    "issuedate": "2017-06-20",
+    "permitelapseddays": 111,
     "projectvalue": 0.0,
     "typeofwork": "Addition / Alteration",
     "address": "2655 MAPLE STREET, Vancouver, BC V6J 3T7",
@@ -68459,7 +68526,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-09",
+    "yearmonth": "2017-06",
     "geo_point_2d": {
       "lon": -123.1508812,
       "lat": 49.2621546
@@ -68546,8 +68613,8 @@
   {
     "permitnumber": "BP-2017-01126",
     "permitnumbercreateddate": "2017-03-01",
-    "issuedate": "2017-09-01",
-    "permitelapseddays": 184,
+    "issuedate": "2017-06-20",
+    "permitelapseddays": 111,
     "projectvalue": 0.0,
     "typeofwork": "New Building",
     "address": "2687 MAPLE STREET, Vancouver, BC V1V 1V1",
@@ -68576,7 +68643,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-09",
+    "yearmonth": "2017-06",
     "geo_point_2d": {
       "lon": -123.1508664,
       "lat": 49.2621723
@@ -71680,42 +71747,42 @@
     }
   },
   {
-    "permitnumber": "BP-2017-01272",
+    "permitnumber": "BP-2017-01273",
     "permitnumbercreateddate": "2017-03-09",
-    "issuedate": "2017-12-21",
-    "permitelapseddays": 287,
-    "projectvalue": 15953500.0,
-    "typeofwork": "Addition / Alteration",
-    "address": "2423 CORNWALL AVENUE, Vancouver, BC V6K 1B9",
-    "projectdescription": "Certified Professional Program - Addition / Alteration - Major horizontal addition to an existing 4-storey seniors care facility.\r\n\r\nStage I : Excavation/ shoring (east side of the site only).\r\nStage I issued without the issuance of the related DP.\r\nStage I Revision 1: Stage 1  revised to  include vertical piles along the North property line on the West side of the site. (issued November 10, 2017).\r\nStage II: To construct temporary egress stair/ path (issued December 21, 2017). \r\nStage I Revision 2: To include excavation/shoring for the West side of the site.\r\nStage 3 (Full construction) issued March 2, 2018.\r\n\r\nChange of geotechnical engineer of record. Marian Letavay replaced John Carter (on March 16, 2018). \r\nChange of electrical engineer of record for the entire project (pre-construction renovations and the expansion). Erik W. Mak replaced Patric Sum (as of January 31, 2019).\r\nChange of geotechnical engineer of record. Matt Kokan replaced Marian Letavay as of October 8, 2019. \r\nChange of project architect and CRP. Anita Leonoff replaced Ron Eagleston as of December 31, 2019.",
+    "issuedate": "2017-10-24",
+    "permitelapseddays": 229,
+    "projectvalue": 18250000.0,
+    "typeofwork": "New Building",
+    "address": "528 W KING EDWARD AVENUE, Vancouver, BC V1V 1V1",
+    "projectdescription": "Certified Professional Program - New Building - To construct a new 70 unit multi-family strata residential development with two levels of underground parking. The development will consist of one 6-storey tower with a block of 2 storey townhouses. \r\n\r\nAll fees for the entire development on this site applied against this permit.\r\nRelated Building Permits:\r\nBP-2017-04245 - Building 1 ( 66 units, Multiple Dwelling building at front of site); primary building address -  528 W King Edward Av – residential lobby 1st – 6th storey \r\n\r\nBP-2017-04248 - Building 2 (4 units, Multiple Dwelling-townhouse building at rear of site);  primary building address - 530 W King Edward Av.\r\n\r\n24-Oct-2017  - Stage 1(excavation and shoring) issued.\r\n11-Jan-2018  - Stage 2 (foundation to grade- structural only) issued.\r\n16-May-2018 - Stage 3 (full construction) issued.",
     "permitcategory": null,
-    "applicant": "Gordon Richards DBA: Jensen Hughes Consulting",
-    "applicantaddress": "500 - 1901 ROSSER AVENUE\r\nBURNABY, BC  V5C 6R6",
+    "applicant": "Mark Vance DBA: Jensen Hughes Consulting Canada Ltd.",
+    "applicantaddress": "500 - 1901 Rosser Avenue\r\nJensen Hughes Consulting Canada Ltd.\r\nBurnaby, BC  V5C 6R6",
     "propertyuse": [
-      "Institutional Uses"
+      "Dwelling Uses"
     ],
     "specificusecategory": [
-      "Hospital"
+      "Multiple Dwelling"
     ],
-    "buildingcontractor": null,
-    "buildingcontractoraddress": null,
+    "buildingcontractor": "Magil Construction Pacific Inc",
+    "buildingcontractoraddress": "James Laurence\n4405 Canada Way\nBurnaby British Columbia  V5G 1J3\nCanada",
     "issueyear": "2017",
-    "geolocalarea": "Kitsilano",
+    "geolocalarea": "South Cambie",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -123.1603599,
-          49.2729248
+          -123.1169228,
+          49.2486692
         ],
         "type": "Point"
       },
       "properties": {}
     },
-    "yearmonth": "2017-12",
+    "yearmonth": "2017-10",
     "geo_point_2d": {
-      "lon": -123.1603599,
-      "lat": 49.2729248
+      "lon": -123.1169228,
+      "lat": 49.2486692
     }
   },
   {
@@ -74246,6 +74313,45 @@
     "geo_point_2d": {
       "lon": -123.0659849,
       "lat": 49.2306399
+    }
+  },
+  {
+    "permitnumber": "BP-2017-01399",
+    "permitnumbercreateddate": "2017-03-14",
+    "issuedate": "2017-12-01",
+    "permitelapseddays": 262,
+    "projectvalue": 9130000.0,
+    "typeofwork": "New Building",
+    "address": "4882 SLOCAN STREET, Vancouver, BC V5R 2A3",
+    "projectdescription": "Certified Professional Program - New Building - To construct a new  multi-family residential development consisting of:\r\n-  4-storey multiple dwelling building (Building 1 consisting of 37 dwelling units and 9 lock-off units) located at front of the site; and \r\n-  4-storey townhouse building (Building 2 consisting of 16 townhome units with 8 lock-off units) located at rear of the site,\r\n\r\nall over one level of underground parking.\r\n\r\nThe Building 1 and Building 2 were designed and constructed in accordance with the National Energy Code of Canada ( NECB 2011).\r\n\r\nNote: All fees for the entire development on this site applied against this Permit. \r\n\r\nNote: As of July 11, 2018  Mr. Richard Lau, P. Eng., C.P.  will no longer be the Certified Professional on this project. \r\nAs of July 12, 2018  Ms. Susana Chui , P. Eng., C.P , shall assume responsibility as the  Certified Professional for the above noted project.  A new CP-1 form and letters from the owner, outgoing C.P.  and incoming C.P., acknowledging transfer of CP responsibilities and the effective date of transfer on file.  \r\n\r\n22-Aug-2017 - Stage 1 (Excavation and Shoring) issued. \r\n01-Dec-2017  - Stage 2 (Full Structural)  issued.\r\n09- Aug-2018 - Stage 3 (Full Construction) issued.",
+    "permitcategory": null,
+    "applicant": "Richard Lau, P.ENG., CP DBA: Camphora Engineering",
+    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": "Tatla Developments Ltd",
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Renfrew-Collingwood",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.0538111,
+          49.2401885
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-12",
+    "geo_point_2d": {
+      "lon": -123.0538111,
+      "lat": 49.2401885
     }
   },
   {
@@ -78935,45 +79041,6 @@
     }
   },
   {
-    "permitnumber": "BP-2017-01610",
-    "permitnumbercreateddate": "2017-03-28",
-    "issuedate": "2017-11-23",
-    "permitelapseddays": 240,
-    "projectvalue": 15000000.0,
-    "typeofwork": "New Building",
-    "address": "5383 CAMBIE STREET, Vancouver, BC V1V 1V1",
-    "projectdescription": "Certified Professional Program - New Building - To construct one 6-storey Multiple Dwelling building containing 45 dwelling units on the 1st to 6th level, one 2-storey townhouse building containing 1 dwelling unit and one 2-storey townhouse building containing 2 dwelling units for a total of 48 dwelling units all over 2 levels of common underground parking.  \r\nRelated to :\r\nBP-2017-03481 - Building 1 (A) -45 units\r\nBP-2017-03484 - Building 2 (B) - 1 unit\r\nBP-2017-03485 - Building 3 (C) - 2 units\r\n \r\n23-Nov-2017   - Stage 1(excavation and shoring) issued.\r\n11-May-2018   - Stage 2 (full construction) issued.\r\n\r\nREVISION#1 - 30-Oct-2019 tn\r\nRE: Change of Certified Professional to Barry Thorson P. Eng., CP, FEC \r\n\r\nThe role of Certified Professional for this project will be transferred from Tavis McAuley, Architect AIBC, CP  to Barry Thorson, P. Eng., CP, FEC effective October 1, 2019.",
-    "permitcategory": null,
-    "applicant": "Barry Thorson DBA: Certified Professional",
-    "applicantaddress": "769 Roslyn Blvd\r\nNorth Vancouver, BC  V7G 1P4",
-    "propertyuse": [
-      "Dwelling Uses"
-    ],
-    "specificusecategory": [
-      "Multiple Dwelling"
-    ],
-    "buildingcontractor": "Performance Builders Ltd",
-    "buildingcontractoraddress": "1283 HOWE ST  \r\nUnit 101\r\nVancouver, BC  V6Z 1R3",
-    "issueyear": "2017",
-    "geolocalarea": "South Cambie",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.1166709,
-          49.2368083
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-11",
-    "geo_point_2d": {
-      "lon": -123.1166709,
-      "lat": 49.2368083
-    }
-  },
-  {
     "permitnumber": "BP-2017-01614",
     "permitnumbercreateddate": "2017-03-29",
     "issuedate": "2017-04-28",
@@ -82254,8 +82321,8 @@
   {
     "permitnumber": "BP-2017-01765",
     "permitnumbercreateddate": "2017-04-05",
-    "issuedate": "2017-05-03",
-    "permitelapseddays": 28,
+    "issuedate": "2017-07-18",
+    "permitelapseddays": 104,
     "projectvalue": 62000.0,
     "typeofwork": "Addition / Alteration",
     "address": "3652 MEARES AVENUE, Vancouver, BC V5S 3W7",
@@ -82284,7 +82351,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-05",
+    "yearmonth": "2017-07",
     "geo_point_2d": {
       "lon": -123.0253064,
       "lat": 49.2203638
@@ -83790,8 +83857,8 @@
   {
     "permitnumber": "BP-2017-01830",
     "permitnumbercreateddate": "2017-04-07",
-    "issuedate": "2017-11-24",
-    "permitelapseddays": 231,
+    "issuedate": "2017-07-26",
+    "permitelapseddays": 110,
     "projectvalue": 10300000.0,
     "typeofwork": "New Building",
     "address": "288 W KING EDWARD AVENUE, Vancouver, BC V1V 1V1",
@@ -83820,7 +83887,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-11",
+    "yearmonth": "2017-07",
     "geo_point_2d": {
       "lon": -123.1114884,
       "lat": 49.2486049
@@ -89348,6 +89415,45 @@
     }
   },
   {
+    "permitnumber": "BP-2017-02090",
+    "permitnumbercreateddate": "2017-04-20",
+    "issuedate": "2017-05-12",
+    "permitelapseddays": 22,
+    "projectvalue": 1019250.0,
+    "typeofwork": "New Building",
+    "address": "3839 W 51ST AVENUE, Vancouver, BC V6N 3V9",
+    "projectdescription": "Low Density Housing - New Building - To construct a 2 storey single family dwelling with an accessory building (garage + storage) in rear providing 3 parking spaces  + Storage having vehicular access from the lane.  \r\n\r\n\r\nSchedule D Building Consultant P.Eng. Gurpreet Purewal - Voltas Engineering Ltd. 604-593-2293",
+    "permitcategory": "New Build - Low Density Housing",
+    "applicant": "Peter Rose DBA: Peter Rose Architecture & Interiors Inc.",
+    "applicantaddress": "3895 W.11th Avenue\r\nVancouver, BC  V6R 2K8",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Single Detached House"
+    ],
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Dunbar-Southlands",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1893887,
+          49.2258293
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-05",
+    "geo_point_2d": {
+      "lon": -123.1893887,
+      "lat": 49.2258293
+    }
+  },
+  {
     "permitnumber": "BP-2017-02091",
     "permitnumbercreateddate": "2017-04-20",
     "issuedate": "2017-05-12",
@@ -90210,8 +90316,8 @@
   {
     "permitnumber": "BP-2017-02128",
     "permitnumbercreateddate": "2017-04-24",
-    "issuedate": "2017-05-25",
-    "permitelapseddays": 31,
+    "issuedate": "2017-07-20",
+    "permitelapseddays": 87,
     "projectvalue": 1500000.0,
     "typeofwork": "Addition / Alteration",
     "address": "723 BURRARD STREET, Vancouver, BC",
@@ -90240,7 +90346,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-05",
+    "yearmonth": "2017-07",
     "geo_point_2d": {
       "lon": -123.1214855,
       "lat": 49.2842641
@@ -117372,8 +117478,8 @@
   {
     "permitnumber": "BP-2017-03417",
     "permitnumbercreateddate": "2017-06-27",
-    "issuedate": "2017-09-06",
-    "permitelapseddays": 71,
+    "issuedate": "2017-11-10",
+    "permitelapseddays": 136,
     "projectvalue": 612200.0,
     "typeofwork": "Addition / Alteration",
     "address": "168 E PENDER STREET, Vancouver, BC V6A 1T5",
@@ -117404,7 +117510,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-09",
+    "yearmonth": "2017-11",
     "geo_point_2d": {
       "lon": -123.1007556,
       "lat": 49.2801493
@@ -118882,6 +118988,45 @@
     "geo_point_2d": {
       "lon": -123.1162681,
       "lat": 49.2367327
+    }
+  },
+  {
+    "permitnumber": "BP-2017-03485",
+    "permitnumbercreateddate": "2017-06-30",
+    "issuedate": "2017-11-23",
+    "permitelapseddays": 146,
+    "projectvalue": 0.0,
+    "typeofwork": "New Building",
+    "address": "5387 CAMBIE STREET, Vancouver, BC",
+    "projectdescription": "Certified Professional Program - New Building - To construct  one 2-storey townhouse building - Building 3 (C) containing 2 dwelling units  over 2 levels of common underground parking.  \r\n\r\nAll fees were paid under BP-2016-01610 (Site Permit). \r\n\r\n23-Nov-2017 - Stage 1 (excavation and shoring) issued.\r\n11-May-2018  - Stage 2 (full construction)  issued.",
+    "permitcategory": null,
+    "applicant": "Barry Thorson DBA: Certified Professional",
+    "applicantaddress": "769 Roslyn Blvd\r\nNorth Vancouver, BC  V7G 1P4",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": "Performance Builders Ltd",
+    "buildingcontractoraddress": "1283 HOWE ST  \r\nUnit 101\r\nVancouver, BC  V6Z 1R3",
+    "issueyear": "2017",
+    "geolocalarea": "South Cambie",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1162732,
+          49.236677
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-11",
+    "geo_point_2d": {
+      "lon": -123.1162732,
+      "lat": 49.236677
     }
   },
   {
@@ -120643,6 +120788,45 @@
     "geo_point_2d": {
       "lon": -123.1112509,
       "lat": 49.2855107
+    }
+  },
+  {
+    "permitnumber": "BP-2017-03563",
+    "permitnumbercreateddate": "2017-07-07",
+    "issuedate": "2017-07-18",
+    "permitelapseddays": 11,
+    "projectvalue": 0.0,
+    "typeofwork": "New Building",
+    "address": "1152 COMOX STREET, Vancouver, BC V6E 1K5",
+    "projectdescription": "Certified Professional Program - New Building -  To construct an Infill two-family dwelling building (in the rear) for a total of 6 dwelling units on this site, with one surface parking space having vehicular access from the lane.\r\n\r\nRelated to BP-2016-03525\r\n\r\nStage 1 - issued July 18/17 - for excavation and relocation of existing building only.\r\nStage 2 - issued Sept.28/17 - full structural\r\nStage 3 - issued Sept.13/18 - full construction",
+    "permitcategory": null,
+    "applicant": "Susana Chui DBA: Camphora Engineering",
+    "applicantaddress": "2479 Kingsway\r\nVancouver, BC  V5R 5G8",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Infill Multiple Dwelling"
+    ],
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "West End",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1303788,
+          49.2825887
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-07",
+    "geo_point_2d": {
+      "lon": -123.1303788,
+      "lat": 49.2825887
     }
   },
   {
@@ -139537,6 +139721,45 @@
     "geo_point_2d": {
       "lon": -123.1246458,
       "lat": 49.2871563
+    }
+  },
+  {
+    "permitnumber": "BP-2017-04521",
+    "permitnumbercreateddate": "2017-08-30",
+    "issuedate": "2017-12-21",
+    "permitelapseddays": 113,
+    "projectvalue": 36000000.0,
+    "typeofwork": "New Building",
+    "address": "3198 RIVERWALK AVENUE, Vancouver, BC",
+    "projectdescription": "Certified Professional Program - New Building - To construct a new residential building consisting of  two  seven storey residential towers  over 2 levels of underground parking.\r\n-  Building 1 (\"A\") West Tower - BP-2018-04679  - 76 strata units \r\n-  Building 2 (\"B\")  East Tower - BP-2018-04680 - 65 strata units \r\n\r\nNote: All fees for the entire development on this site applied against this permit. \r\n21-Dec-2017 - Stage 1 (Excavation and Shoring) issued.\r\n29-Aug-2018 - Stage 2 (Full Structure) issued. \r\n26-Apr-2019 - Stage 3 (Full construction) issued.\r\n\r\nNote: The following documents must be provided prior to  an application for Occupancy Permit:\r\n1. A comprehensive Flood Safety plan.\r\n2. A post-event plan to inform and  direct the owners of the building about components or areas of the building that require investigation and potential restoration work.\r\nUpdated professional letters regarding Confirmation of Flood Plain Design on file. \r\n\r\nRevision#1  - 23-Oct-2019  tn\r\nAs of September 21, 2019, Mr. Mike Dixon will  no longer be the Registered Professional of Record for Mechanical and Plumbing disciplines for this project.\r\nAs of September 21, 2019 Mr. E. Zander  Eng. will undertake  responsibility as the Registered Professional of Record for Mechanical and Plumbing \r\ndisciplines. \r\nOutgoing EOR Letter, Incoming EOR Letter, and Schedule B by E. Zander on file.  \r\n\r\nRevision#2  - 23-Apr-2021 tn\r\nAs of Oct 8, 2019 Mr. Marian Levatay  P. Eng. was no longer the Registered Professional of Record for Geotechnical  discipline.\r\nAs of Oct 8, 2019 Mr. Patrick Martz  P. Eng.  undertook  responsibility as the Registered Professional of Record for Geotechnical discipline. \r\nIncoming EOR Letter, and Schedule B by P. Martz on file.",
+    "permitcategory": null,
+    "applicant": "Michael Linton DBA: Jensen Hughes",
+    "applicantaddress": "CFT Engineering Inc.\r\n#500-1901 Rosser Avneue\r\nBurnaby , BC  V5C 6R6",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": "Polygon Construction Management Ltd",
+    "buildingcontractoraddress": "1333 W Broadway  \r\nUnit 900\r\nVancouver, BC  V6H 4C2",
+    "issueyear": "2017",
+    "geolocalarea": "Killarney",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.0391356,
+          49.2053941
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-12",
+    "geo_point_2d": {
+      "lon": -123.0391356,
+      "lat": 49.2053941
     }
   },
   {
@@ -163179,42 +163402,42 @@
     }
   },
   {
-    "permitnumber": "BU466607",
-    "permitnumbercreateddate": "2015-10-14",
-    "issuedate": "2017-01-17",
-    "permitelapseddays": 461,
-    "projectvalue": 2015000.0,
+    "permitnumber": "BU466497",
+    "permitnumbercreateddate": "2015-10-05",
+    "issuedate": "2017-04-04",
+    "permitelapseddays": 547,
+    "projectvalue": 9182000.0,
     "typeofwork": "Addition / Alteration",
-    "address": "1426 LAURIER AVENUE, Vancouver, BC V6H 1Z1",
-    "projectdescription": "Low Density Housing - Addition / Alteration - Exterior and interior alterations to add to the rear of the basement, main and second floors, alter the existing landscaping, remove the front driveway and provide a new built-in three car garage in the basement with proposed driveway having vehicular access from the rear lane and to convert the existing Vancouver Heritage 'B' multiple conversion dwelling building to a one family dwelling with built-in three car garage for this existing 2 storey with basement inside with lane one family dwelling on this site. \r\n   \r\nOk for BU permit as per J Greer  October 14th , 2015  \r\n  \r\nRetention drawings and Assurance of Retention of Existing building submitted by P.Eng. Eric Man 604-874-3237 \r\n\r\nElevator compliance letter can be found in application documents\r\n\r\nA/C unit on West Side of Building.\r\n\r\nBuilding to be sprinklered to NFPA 13 D as per VBBL \r\n\r\nSchedule B Structural letter received from P.Eng. Eric Man 604-874-3237\r\nSchedule B Geotechnical letter received from P.Eng. Joseph Oh  604.513.4190\r\nSchedule B Mechanical letter received from P.Eng. Don McAdam 604.987.1671\r\nSchedule B Architectural letter received from P.Eng. Ricardo Sapollnik 604.523.1366\r\nSchedule D1 Commitment For Building Envelope Professional  letter received from P.Eng. Ricardo Sapollnik 604.523.1366   \r\n   \r\nNote:\r\n- Bar sink located in the recreation room \r\n- Energy efficiency upgrade to be in conformance with Table 11.2.1.4. of the Vancouver Building By-Law (Bldg. air sealing or attic insulation upgrade to R-50)\r\n- Wall insulation upgraded to R-22 effective. \r\n   \r\nEnerguide/ Hot2000 report received from City Green Solutions",
+    "address": "312 MAIN STREET, Vancouver, BC V6A 2T2",
+    "projectdescription": "Certified Professional Program - Addition / Alteration - To change the use from Public Authority Use (Vancouver Police Station) to General Office (D) on Floors 1 thru 6 with Ancillary Lounge/Cafeteria on the 1st Floor and to Light Industrial (F3) use in the basement of this existing Vancouver Heritage Class \"B\" building on this site, and exterior alterations to add a 55 sq.ft. stair bridge interconnecting, the North portion of the 4th Floor to the South portion of the 4th Floor of the building.\r\n\r\nThis project to be reviewed under the 2014 VBBL. Total occupant load 1050.\r\nThis is a Certified Professional Project and the CP is Cel Chow, P.Eng, CP.\r\n***Additional Address Information cont'd: 312 & 324 Main St combining into one unit\r\n   to be occupied & operated by Vancity Foundation (VCF) retaining address 312 Main\r\n   St & ADD #10, #15, #20, #25, #30, #35, #40, #45, #50, #55, #60, #65, #70, #75.\r\nBasement suite numbers to be posted by suite entries prior to final inspection.\r\n324 Main St will be cancelled and is to be removed from the building upon issuance.\r\nNOTE: Parking (143 spaces) for this site will be provided on the adjacent site at\r\n236 E Cordova St therefore the sites will be cross referenced. (Approved by\r\nJ. Greer - No Covenant required per DE417803 notes.)\r\nAdditional Note & Contact Info:\r\nThis will be a Staged Implementation Project\r\nCel Chow P.Eng, CP - Gage-Babcock & Associates Ltd.\r\nTel:  604.732.3751\r\n\r\nstage 3 accepted Mar.10/17\r\nstage 4 accepted Apr.4/17\r\nstage 5 accepted July 21/17\r\nstage 6 accepted Jan.7/19 permit amendment to change FP Eng \r\n           accepted Sept.3/19\r\nstage 7 - amendment to stage 6 - see stage 7 construction form for scope of amendment. Accepted Dec.20/19",
     "permitcategory": null,
-    "applicant": "Keith Jakobsen DBA: Jakobsen Associates",
-    "applicantaddress": "1662 W. 75th Avenue\r\nVancouver, BC  V6P 6G2",
+    "applicant": "CEL CHOW, P.ENG., CP",
+    "applicantaddress": "GAGE-BABCOCK & ASSOCIATES LTD\r\n228-1195 WEST BROADWAY\r\nVANCOUVER, BC  V6H3X5",
     "propertyuse": [
-      "Dwelling Uses"
+      "Office Uses"
     ],
     "specificusecategory": [
-      "Single Detached House"
+      "General Office"
     ],
-    "buildingcontractor": "Bela Construction Ltd",
-    "buildingcontractoraddress": "1668 W 75th Av  \r\nVancouver, BC  V6P 6G2",
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
     "issueyear": "2017",
-    "geolocalarea": "Shaughnessy",
+    "geolocalarea": "Strathcona",
     "geom": {
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          -123.137413,
-          49.2504489
+          -123.0991687,
+          49.281791
         ],
         "type": "Point"
       },
       "properties": {}
     },
-    "yearmonth": "2017-01",
+    "yearmonth": "2017-04",
     "geo_point_2d": {
-      "lon": -123.137413,
-      "lat": 49.2504489
+      "lon": -123.0991687,
+      "lat": 49.281791
     }
   },
   {
@@ -163854,8 +164077,8 @@
   {
     "permitnumber": "BU467584",
     "permitnumbercreateddate": "2016-01-25",
-    "issuedate": "2017-10-26",
-    "permitelapseddays": 640,
+    "issuedate": "2017-06-16",
+    "permitelapseddays": 508,
     "projectvalue": 0.0,
     "typeofwork": "New Building",
     "address": "5031 CHAMBERS STREET, Vancouver, BC V5R 3L8",
@@ -163884,7 +164107,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-10",
+    "yearmonth": "2017-06",
     "geo_point_2d": {
       "lon": -123.0533384,
       "lat": 49.2384654
@@ -163893,8 +164116,8 @@
   {
     "permitnumber": "BU467601",
     "permitnumbercreateddate": "2016-01-26",
-    "issuedate": "2017-06-09",
-    "permitelapseddays": 500,
+    "issuedate": "2017-09-11",
+    "permitelapseddays": 594,
     "projectvalue": 1500000.0,
     "typeofwork": "New Building",
     "address": "5069 EARLES STREET, Vancouver, BC V5R 3R8",
@@ -163923,7 +164146,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-06",
+    "yearmonth": "2017-09",
     "geo_point_2d": {
       "lon": -123.0479342,
       "lat": 49.2385696
@@ -164369,8 +164592,8 @@
   {
     "permitnumber": "BU467957",
     "permitnumbercreateddate": "2016-03-07",
-    "issuedate": "2017-05-19",
-    "permitelapseddays": 438,
+    "issuedate": "2017-02-23",
+    "permitelapseddays": 353,
     "projectvalue": 11500000.0,
     "typeofwork": "New Building",
     "address": "1009 LAURIER AVENUE, Vancouver, BC V1V 1V1",
@@ -164401,7 +164624,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-05",
+    "yearmonth": "2017-02",
     "geo_point_2d": {
       "lon": -123.1278275,
       "lat": 49.2511039
@@ -164488,8 +164711,8 @@
   {
     "permitnumber": "BU468027",
     "permitnumbercreateddate": "2016-03-11",
-    "issuedate": "2017-06-07",
-    "permitelapseddays": 453,
+    "issuedate": "2017-01-11",
+    "permitelapseddays": 306,
     "projectvalue": 10500000.0,
     "typeofwork": "New Building",
     "address": "630 E BROADWAY, Vancouver, BC V5T 1X6",
@@ -164520,7 +164743,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-06",
+    "yearmonth": "2017-01",
     "geo_point_2d": {
       "lon": -123.0903666,
       "lat": 49.2621792
@@ -164529,8 +164752,8 @@
   {
     "permitnumber": "BU468070",
     "permitnumbercreateddate": "2016-04-12",
-    "issuedate": "2017-01-27",
-    "permitelapseddays": 290,
+    "issuedate": "2017-10-06",
+    "permitelapseddays": 542,
     "projectvalue": 29572675.0,
     "typeofwork": "New Building",
     "address": "220 VICTORIA DRIVE, Vancouver, BC V1V 1V1",
@@ -164563,7 +164786,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-01",
+    "yearmonth": "2017-10",
     "geo_point_2d": {
       "lon": -123.0645679,
       "lat": 49.2825761
@@ -164609,10 +164832,45 @@
     }
   },
   {
+    "permitnumber": "BU468088",
+    "permitnumbercreateddate": "2016-03-17",
+    "issuedate": "2017-01-16",
+    "permitelapseddays": 305,
+    "projectvalue": 0.0,
+    "typeofwork": "Addition / Alteration",
+    "address": "1505 W 59TH AVENUE, Vancouver, BC V6P 1Z1",
+    "projectdescription": "Certified Professional Program - Addition / Alteration - This permit has been issued for all site work and below grade facilities including 1 level of common underground parking for the proposed development: - To construct a two-storey plus basement and a three-storey plus basement Multiple dwelling building containing a total of 6 dwelling units, all over one level of underground parking providing a total of 8 parking spaces having vehicular access from the lane.\r\nThis is a Certified Professional Project and the CP is Richard Lau, P.Eng CP.\r\nAddress Note:\r\nBuilding 1 (West building) BU468860 - 1507 W 59th Av is the primary building address and also the primary site address for Fire/emergency response.\r\n1505 W 59th Av -basement (P1 Level), 1st & 2nd storey\r\n1507 W 59th Av -basement (P1 Level), 1st & 2nd storey\r\nBuilding 2 (East building) BU468861 - 7499 Granville St is the primary building addresss and 1507 W 59th Av is the primary site address for Fire/emergency response.\r\n7493 Granville St -basement (P1 Level), 1st-3rd storey\r\n7495 Granville St -basement (P1 Level), 1st-3rd storey\r\n7497 Granville St -basement (P1 Level), 1st-3rd storey\r\n7499 Granville St -basement (P1 Level), 1st-3rd storey\r\n\r\nAdditional Contact Information:\r\nRichard Lau, P.Eng CP. /  Camphora Engineering\r\nTel: (604) 800-9822  Email: rlau@camphora.ca\r\nStage 1 (Excavation & Shoring) issued October 17, 2016 - B. Smith\r\nStage 2: Full structural to roof. Dec. 12, 2016 - B. Smith\r\nStage 3: Full Construction. Jan. 16, 2017  - B. Smith\r\n\r\n*** THIS PERMIT HAS BEEN CONVERTED FROM PRISM ***",
+    "permitcategory": null,
+    "applicant": "OTTO LEJEUNE",
+    "applicantaddress": "STUART HOWARD ARCHITECTS INC\r\n405-375 WEST 5TH AV\r\nVANCOUVER, BC  V5Y1J6",
+    "propertyuse": null,
+    "specificusecategory": null,
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Marpole",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1405419,
+          49.2175148
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-01",
+    "geo_point_2d": {
+      "lon": -123.1405419,
+      "lat": 49.2175148
+    }
+  },
+  {
     "permitnumber": "BU468090",
     "permitnumbercreateddate": "2016-03-17",
-    "issuedate": "2017-12-13",
-    "permitelapseddays": 636,
+    "issuedate": "2017-02-01",
+    "permitelapseddays": 321,
     "projectvalue": 0.0,
     "typeofwork": "New Building",
     "address": "1111 RICHARDS STREET, Vancouver, BC V6B 5C7",
@@ -164641,7 +164899,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-12",
+    "yearmonth": "2017-02",
     "geo_point_2d": {
       "lon": -123.1232734,
       "lat": 49.2769327
@@ -164875,45 +165133,6 @@
     "geo_point_2d": {
       "lon": -123.1309823,
       "lat": 49.241838
-    }
-  },
-  {
-    "permitnumber": "BU468243",
-    "permitnumbercreateddate": "2016-04-04",
-    "issuedate": "2017-03-24",
-    "permitelapseddays": 354,
-    "projectvalue": 0.0,
-    "typeofwork": "New Building",
-    "address": "489 W 26TH AVENUE, Vancouver, BC V5Y 2K1",
-    "projectdescription": "Certified Professional Program - New Building - This permit has been issued for all site work and below grade facilities including 2 levels common underground parking for the propose development: -    \r\nTo construct a six storey residential building over two levels of underground parking. the project consists of four townhomes and 54 apartments.    \r\n     \r\nTHIS IS A CERTIFIED PROFESSIONAL PROJECT FOR: Samir Eidnani, P.Eng., C.P.    \r\nCFT Engineering Inc. T:(604) 684-2384 email:seidnani@cftengineering.com    \r\n\r\nStage #1 - excavation, shoring, and structure up to grade - issued on Nov.09, 2016\r\nStage #2 - full construction - issued on Mar.24, 2017\r\n\r\nsee BU468733 for building 1 - apartment - 489 W 26th Av\r\n      BU468734 for building 2 - Townhomes - 481 W 26th Av\r\n\r\nThe permit converted from PRISM",
-    "permitcategory": null,
-    "applicant": "Samir Eidnani DBA: Jensen Hughes",
-    "applicantaddress": "#500 - 1901 Rosser Avenue\r\nBurnaby, BC  V5C6R6",
-    "propertyuse": [
-      "Dwelling Uses"
-    ],
-    "specificusecategory": [
-      "Multiple Dwelling"
-    ],
-    "buildingcontractor": null,
-    "buildingcontractoraddress": null,
-    "issueyear": "2017",
-    "geolocalarea": "Riley Park",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.1147114,
-          49.2482317
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-03",
-    "geo_point_2d": {
-      "lon": -123.1147114,
-      "lat": 49.2482317
     }
   },
   {
@@ -165621,8 +165840,8 @@
   {
     "permitnumber": "BU468606",
     "permitnumbercreateddate": "2016-05-06",
-    "issuedate": "2017-03-23",
-    "permitelapseddays": 321,
+    "issuedate": "2017-06-02",
+    "permitelapseddays": 392,
     "projectvalue": 0.0,
     "typeofwork": "Demolition / Deconstruction",
     "address": "2595 GRAVELEY STREET, Vancouver, BC V5K 3J5",
@@ -165651,7 +165870,7 @@
       },
       "properties": {}
     },
-    "yearmonth": "2017-03",
+    "yearmonth": "2017-06",
     "geo_point_2d": {
       "lon": -123.052294,
       "lat": 49.270694
@@ -165694,45 +165913,6 @@
     "geo_point_2d": {
       "lon": -123.1168668,
       "lat": 49.2617286
-    }
-  },
-  {
-    "permitnumber": "BU468641",
-    "permitnumbercreateddate": "2016-05-10",
-    "issuedate": "2017-02-10",
-    "permitelapseddays": 276,
-    "projectvalue": 0.0,
-    "typeofwork": "New Building",
-    "address": "321 E 16TH AVENUE, Vancouver, BC V5T 2T7",
-    "projectdescription": "Certified Professional Program - New Building - This permit has been issued for all site work and below grade facilities including 1 level of common underground parking for the proposed development: \r\nTo construct two 3-storey courtyard stacked townhouse buildings  consisting of 20 units, all over 1 level of underground parking, having vehicular access from the lane, on this site. Building addressing has not been finalized as part of this building permit clearance. Complete addressing review is finalized at the full construction application stage.\r\nMarketing of suite numbers or addresses at this time is at the owners risk.\r\nTHIS IS A CERTIFIED PROFESSIONAL PROJECT for:\r\nGordon Richards, MAIBC CP\r\nGBA-Jensen Hughes Consulting Tel: 604.732.3751\r\nemail: grichards@jensenhughes.com\r\n**ADDRESS & LEGAL DESCRIPTION TO BE VERIFIED BY THE ADDRESSING COORDINATOR**********\r\nAL-2016-00718 accepted re: manual pull stations in garage only, but not in exits of residential units.\r\nAL-2016-00719 accepted re: egress from dwelling units where exit doors are > 1.5 m above adjacent ground level.\r\n\r\nStage 1: Excavation & Shoring. Nov. 8, 2016\r\nStage 2: Full Construction. Feb. 10, 2017. B. Smith\r\n\r\n***** THIS PERMIT HAS BEEN CONVERTED FROM PRISM *****\r\n\r\n2 new POSSE Permits have been opened:\r\n- BP-2017-00120 for the 10 unit building at the front half of this site above the parking garage, and,\r\n- BP-2017-00122 for the 10 unit building at the rear half of this site above the parking garage.",
-    "permitcategory": null,
-    "applicant": "Gordon Richards DBA: Jensen Hughes Consulting",
-    "applicantaddress": "500 - 1901 ROSSER AVENUE\r\nBURNABY, BC  V5C 6R6",
-    "propertyuse": [
-      "Parking Uses"
-    ],
-    "specificusecategory": [
-      "Parking Garage"
-    ],
-    "buildingcontractor": null,
-    "buildingcontractoraddress": null,
-    "issueyear": "2017",
-    "geolocalarea": "Mount Pleasant",
-    "geom": {
-      "type": "Feature",
-      "geometry": {
-        "coordinates": [
-          -123.0977638,
-          49.2565667
-        ],
-        "type": "Point"
-      },
-      "properties": {}
-    },
-    "yearmonth": "2017-02",
-    "geo_point_2d": {
-      "lon": -123.0977638,
-      "lat": 49.2565667
     }
   },
   {
@@ -166908,6 +167088,45 @@
     }
   },
   {
+    "permitnumber": "BU468860",
+    "permitnumbercreateddate": "2016-10-17",
+    "issuedate": "2017-01-16",
+    "permitelapseddays": 91,
+    "projectvalue": 0.0,
+    "typeofwork": "New Building",
+    "address": "1507 W 59TH AVENUE, Vancouver, BC V6P 1Z1",
+    "projectdescription": "Certified Professional Program - New Building - To construct a two-storey plus basement (P1 level) multiple dwelling building containing 2 dwelling units, all over one level of common underground parking providing a total of 8 parking spaces having vehicular access from the lane.\r\nThis is a Certified Professional Project and the CP is Richard Lau, P.Eng CP.\r\nAddress Note:\r\nBuilding 1 (West building) BU468860 - 1507 W 59th Av is the primary building address and also the primary site address for Fire/emergency response.\r\n1505 W 59th Av -basement (P1 Level), 1st & 2nd storey\r\n1507 W 59th Av -basement (P1 Level), 1st & 2nd storey\r\n\r\nRefer to BU468088 for site work, below grade facilities, common underground parking, & related Permit application documents.\r\nAdditional Contact Information:\r\nRichard Lau, P.Eng CP. /  Camphora Engineering\r\nTel: (604) 800-9822  Email: rlau@camphora.ca\r\n\r\nStage 1 was issued Oct. 17, 2016 via project site BU468088.\r\nStage 2: Full structural up to the roof. Dec. 12, 2016 - B Smith \r\nStage 3: Full Construction. Jan. 16, 2017 - B. Smith\r\n\r\n*** THIS PERMIT HAS BEEN CONVERTED FROM PRISM ***",
+    "permitcategory": null,
+    "applicant": "OTTO LEJEUNE",
+    "applicantaddress": "STUART HOWARD ARCHITECTS INC\r\n405-375 WEST 5TH AV\r\nVANCOUVER, BC  V5Y1J6",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Multiple Dwelling"
+    ],
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Marpole",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1406952,
+          49.2175677
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-01",
+    "geo_point_2d": {
+      "lon": -123.1406952,
+      "lat": 49.2175677
+    }
+  },
+  {
     "permitnumber": "BU468861",
     "permitnumbercreateddate": "2016-10-17",
     "issuedate": "2017-01-16",
@@ -167841,6 +168060,45 @@
     "geo_point_2d": {
       "lon": -123.0487135,
       "lat": 49.2713234
+    }
+  },
+  {
+    "permitnumber": "DB-2016-00182",
+    "permitnumbercreateddate": "2016-06-02",
+    "issuedate": "2017-01-31",
+    "permitelapseddays": 243,
+    "projectvalue": 700000.0,
+    "typeofwork": "New Building",
+    "address": "3328 W 13TH AVENUE, Vancouver, BC V6R 2R9",
+    "projectdescription": "Low Density Housing - New Building - To construct a 2 storey + cellar one-family dwelling with a \r\ndetached accessory building (garage) at the rear \r\nproviding 2 parking spaces, having vehicular access from the lane",
+    "permitcategory": "New Build - Low Density Housing",
+    "applicant": "Franco Tessari DBA: Franco Tessari Architect",
+    "applicantaddress": "2626 Turner St\r\nVancouver, BC  V5K 2G2",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Single Detached House"
+    ],
+    "buildingcontractor": null,
+    "buildingcontractoraddress": null,
+    "issueyear": "2017",
+    "geolocalarea": "Kitsilano",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.1786011,
+          49.26037
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-01",
+    "geo_point_2d": {
+      "lon": -123.1786011,
+      "lat": 49.26037
     }
   },
   {
@@ -192421,6 +192679,45 @@
     "geo_point_2d": {
       "lon": -123.1372852,
       "lat": 49.2192846
+    }
+  },
+  {
+    "permitnumber": "DB-2016-02868",
+    "permitnumbercreateddate": "2016-10-06",
+    "issuedate": "2017-03-23",
+    "permitelapseddays": 168,
+    "projectvalue": 20000.0,
+    "typeofwork": "Addition / Alteration",
+    "address": "2663 E 52ND AVENUE, Vancouver, BC V5S 1S8",
+    "projectdescription": "Enquiry Centre - Addition / Alteration - Interior alterations and change of use of this existing one-family dwelling to a one-family dwelling with a secondary suite and to remove the overhead cabinets from the existing recreation room at the south side of the ground floor.\r\n\r\nUpgrading for suite as per Special Inspection No. IA-2015-00143\r\n\r\nAddress note:\r\n2663 E 52nd Av - remainder 1st storey, 2nd storey (principal dwelling unit)\r\n2661 E 52nd Av - northwest portion of 1st storey (secondary suite)\r\n\r\nAddress has been assigned per the approved plans as the access to the secondary suite is from the south side.  This access must be provided & maintained at all times; the address must be posted to be easily visible from the street; AND posted by the suite entry in accordance with the Building By-law upon final inspection.\r\n\r\nNote:\r\n-  No strata-titling will be permitted.\r\n-  This is a two-storey building pursuant to the Zoning and Development By-law.\r\n-  An annual Vancouver Business License must be obtained prior to the rental of this approved one-family dwelling and/or secondary suite on this site.",
+    "permitcategory": "Renovation - Residential - Lower Complexity",
+    "applicant": "Patrick Chue DBA: P.Y. Chue Construction Ltd.",
+    "applicantaddress": "10973 Garrett Pl\r\nDelta, BC  V4C7N4",
+    "propertyuse": [
+      "Dwelling Uses"
+    ],
+    "specificusecategory": [
+      "Single Detached House w/Sec Suite"
+    ],
+    "buildingcontractor": "Py Chue Construction Ltd",
+    "buildingcontractoraddress": "10973 Garrett Pl  \r\nDelta, BC  V4C 7N4",
+    "issueyear": "2017",
+    "geolocalarea": "Victoria-Fraserview",
+    "geom": {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          -123.0530325,
+          49.2220892
+        ],
+        "type": "Point"
+      },
+      "properties": {}
+    },
+    "yearmonth": "2017-03",
+    "geo_point_2d": {
+      "lon": -123.0530325,
+      "lat": 49.2220892
     }
   },
   {
