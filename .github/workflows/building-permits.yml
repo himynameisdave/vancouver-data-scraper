@@ -36,6 +36,23 @@ jobs:
         jq -e 'type == "array" and length > 0' "$sorted" > /dev/null
         mv "$sorted" ./data/building-permits.json
 
+    # The full export is nondeterministic: on each refresh a few hundred older permits swap between
+    # alternate issuedates (or drop out and come back). Filtering on permitnumbercreateddate, which is
+    # stable, gives a feed whose added records are exactly the newly issued permits. See issue #4.
+    # Bump the cutoff occasionally to keep this file small.
+    - name: Fetch recent permits
+      shell: bash
+      run: |-
+        set -euo pipefail
+        raw=$(mktemp)
+        sorted=$(mktemp)
+        curl -fsS --retry 3 --retry-all-errors -o "$raw" \
+          "https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/issued-building-permits/exports/json?where=permitnumbercreateddate%20%3E%3D%20date'2025-01-01'&lang=en&timezone=America%2FLos_Angeles"
+        jq 'sort_by(.permitnumber)' "$raw" > "$sorted"
+        # Refuse to replace good data with an empty or non-array response
+        jq -e 'type == "array" and length > 0' "$sorted" > /dev/null
+        mv "$sorted" ./data/building-permits-recent.json
+
     - name: Commit and push if it changed
       run: |-
         git config user.name "Automated"
