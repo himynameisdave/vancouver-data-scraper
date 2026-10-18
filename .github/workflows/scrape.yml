@@ -1,0 +1,120 @@
+name: Scrape Vancouver open data
+
+permissions:
+  contents: write
+
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/scrape.yml']
+  schedule:
+    # Run twice a day at 7am and 7pm Pacific Time (an hour earlier during PST)
+    # Offset slightly off the hour to avoid the top-of-the-hour scheduling rush.
+    - cron: '3 15 * * *'
+    - cron: '3 3 * * *'
+
+# Each job pushes to main, so only one run may be in flight at a time
+concurrency:
+  group: scrape-vancouver-data
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    name: ${{ matrix.emoji }} ${{ matrix.label }}
+    runs-on: ubuntu-latest
+    strategy:
+      # Serialise the jobs within a run too, so their pushes don't race each other
+      max-parallel: 1
+      fail-fast: false
+      matrix:
+        include:
+          # Written as data/building-permits/<issueyear>.json, since a single file would exceed
+          # GitHub's 100 MB file size limit
+          - id: issued-building-permits
+            file: building-permits
+            split_by_year: true
+            sort: .permitnumber
+            emoji: 🏗️
+            label: building permits
+          # The full export is nondeterministic: on each refresh a few hundred older permits swap between
+          # alternate issuedates (or drop out and come back). Filtering on permitnumbercreateddate, which is
+          # stable, gives a feed whose added records are exactly the newly issued permits. See issue #4.
+          # Bump the cutoff occasionally to keep this file small.
+          - id: issued-building-permits
+            file: building-permits-recent
+            where: permitnumbercreateddate >= date'2025-01-01'
+            sort: .permitnumber
+            emoji: 🏗️
+            label: recent building permits
+          - id: animal-control-inventory-lost-and-found
+            file: lost-pets
+            sort: '[.date, .breed, .name, .color, .sex, .state]'
+            emoji: 🐶
+            label: lost pets
+          - id: public-art
+            file: public-art
+            sort: .registryid
+            emoji: 🎨
+            label: public art
+          - id: road-ahead-current-road-closures
+            file: road-closures
+            sort: .url_link
+            emoji: 🚘
+            label: road closures
+    steps:
+    - name: Check out this repo
+      uses: actions/checkout@v7
+
+    - name: Fetch latest ${{ matrix.label }} data
+      shell: bash
+      env:
+        DATASET: ${{ matrix.id }}
+        WHERE: ${{ matrix.where }}
+        SORT: ${{ matrix.sort }}
+        FILE: ${{ matrix.file }}
+        SPLIT_BY_YEAR: ${{ matrix.split_by_year || false }}
+      run: |-
+        set -euo pipefail
+        raw=$(mktemp)
+        url="https://opendata.vancouver.ca/api/explore/v2.1/catalog/datasets/${DATASET}/exports/json?lang=en&timezone=America%2FLos_Angeles"
+        if [ -n "$WHERE" ]; then
+          url+="&where=$(jq -rn --arg where "$WHERE" '$where | @uri')"
+        fi
+        curl -fsS --retry 3 --retry-all-errors -o "$raw" "$url"
+        if [ "$SPLIT_BY_YEAR" != true ]; then
+          sorted=$(mktemp)
+          jq "sort_by(${SORT})" "$raw" > "$sorted"
+          # Refuse to replace good data with an empty or non-array response
+          jq -e 'type == "array" and length > 0' "$sorted" > /dev/null
+          mv "$sorted" "./data/${FILE}.json"
+          exit 0
+        fi
+        split=$(mktemp -d)
+        # Refuse to replace good data with an empty or non-array response, or with records that
+        # don't have the four-digit issueyear their file is named after
+        jq -e 'type == "array" and length > 0 and all(.[]; .issueyear | type == "string" and test("\\A[0-9]{4}\\z"))' "$raw" > /dev/null
+        # The whole directory is replaced so that a year which disappears upstream is removed here too.
+        # (A plain assignment, unlike `for y in $(...)`, makes set -e abort if this jq fails.)
+        years=$(jq -r '[.[].issueyear] | unique[]' "$raw")
+        for year in $years; do
+          jq --arg year "$year" "[.[] | select(.issueyear == \$year)] | sort_by(${SORT})" "$raw" > "$split/$year.json"
+        done
+        # Every record must have landed in exactly one file before the existing data is replaced
+        [ "$(cat "$split"/*.json | jq -s 'map(length) | add')" = "$(jq length "$raw")" ]
+        rm -rf "./data/${FILE}"
+        mv "$split" "./data/${FILE}"
+
+    # Only main gets data commits; a manual run on another branch just checks the fetch works
+    - name: Commit and push if it changed
+      if: github.ref == 'refs/heads/main'
+      env:
+        MESSAGE: ${{ matrix.emoji }} Latest ${{ matrix.label }} data
+      run: |-
+        git config user.name "Automated"
+        git config user.email "actions@users.noreply.github.com"
+        git add -A
+        timestamp=$(date -u)
+        git commit -m "${MESSAGE}: ${timestamp}" || exit 0
+        git pull --rebase origin main
+        git push
