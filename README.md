@@ -10,6 +10,6 @@ The full export is split into one file per issue year (e.g. [`data/building-perm
 
 The City's `issued-building-permits` export is nondeterministic: on each refresh a few hundred older permits (mostly 2016 to 2018) swap between alternate `issuedate` values, or drop out of the file and come back. Because of this, the diffs of the older years' files in `data/building-permits/` are noisy and mostly aren't new permits.
 
-`data/building-permits-recent.json` holds only permits whose `permitnumbercreateddate` is on or after the cutoff in [the workflow](.github/workflows/building-permits.yml). Records only enter this file when a permit is newly issued, so any added record is a new permit. Existing records can still have their `issuedate` change in place. Use this file to drive any "what's new" automation, and keep `data/building-permits/` as the full archive.
+`data/building-permits-recent.json` holds only permits whose `permitnumbercreateddate` is on or after the cutoff in [the workflow](.github/workflows/scrape.yml). Records only enter this file when a permit is newly issued, so any added record is a new permit. Existing records can still have their `issuedate` change in place. Use this file to drive any "what's new" automation, and keep `data/building-permits/` as the full archive.
 
 This data is licensed under the [Open Government License - Vancouver](https://opendata.vancouver.ca/pages/licence/).
